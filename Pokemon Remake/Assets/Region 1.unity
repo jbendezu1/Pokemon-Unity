@@ -44479,8 +44479,8 @@ Tilemap:
   - first: {x: -10, y: 0, z: 0}
     second:
       serializedVersion: 2
-      m_TileIndex: 11
-      m_TileSpriteIndex: 11
+      m_TileIndex: 26
+      m_TileSpriteIndex: 21
       m_TileMatrixIndex: 0
       m_TileColorIndex: 0
       m_TileObjectToInstantiateIndex: 65535
@@ -83236,7 +83236,7 @@ Tilemap:
     m_Data: {fileID: 11400000, guid: 073cf3f736391cd4c898fa0aed6294df, type: 2}
   - m_RefCount: 2
     m_Data: {fileID: 11400000, guid: 14ddc96874118d1439273bb40c0cdce1, type: 2}
-  - m_RefCount: 24
+  - m_RefCount: 23
     m_Data: {fileID: 11400000, guid: 24e31a36bea21a844a46fcf6f0cee0e9, type: 2}
   - m_RefCount: 2
     m_Data: {fileID: 11400000, guid: e6ee438ff1322924ca7ae9fd833fb456, type: 2}
@@ -83266,8 +83266,8 @@ Tilemap:
     m_Data: {fileID: 11400000, guid: 74c63308e9210c148907848bb6dc867e, type: 2}
   - m_RefCount: 1
     m_Data: {fileID: 11400000, guid: 6d4a337d2f00e0c48a38ab7fc233b91e, type: 2}
-  - m_RefCount: 0
-    m_Data: {fileID: 0}
+  - m_RefCount: 1
+    m_Data: {fileID: 11400000, guid: 51f56b28be3ffc840a0722103dbcdfa8, type: 2}
   - m_RefCount: 48
     m_Data: {fileID: 11400000, guid: c335da44f692db04081bb8001d7059c6, type: 2}
   - m_RefCount: 1
@@ -83327,7 +83327,7 @@ Tilemap:
   - m_RefCount: 2
     m_Data: {fileID: 6233676814766324713, guid: 386f459b824decd40810715213da6879,
       type: 3}
-  - m_RefCount: 24
+  - m_RefCount: 23
     m_Data: {fileID: -2089779133220785806, guid: 386f459b824decd40810715213da6879,
       type: 3}
   - m_RefCount: 2
@@ -83354,8 +83354,9 @@ Tilemap:
   - m_RefCount: 135
     m_Data: {fileID: 7869592867040936616, guid: 386f459b824decd40810715213da6879,
       type: 3}
-  - m_RefCount: 0
-    m_Data: {fileID: 0}
+  - m_RefCount: 1
+    m_Data: {fileID: -5018451304718266167, guid: 386f459b824decd40810715213da6879,
+      type: 3}
   - m_RefCount: 48
     m_Data: {fileID: 186362623372900891, guid: 386f459b824decd40810715213da6879, type: 3}
   - m_RefCount: 1
@@ -83569,7 +83570,7 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 549476003}
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: -8.887371, y: 0.9433126, z: 0}
+  m_LocalPosition: {x: -6, y: 1, z: 0}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children: []
   m_Father: {fileID: 0}
