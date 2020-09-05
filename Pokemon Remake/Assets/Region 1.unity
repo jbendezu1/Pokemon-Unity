@@ -87313,7 +87313,7 @@ MonoBehaviour:
     m_Bits: 256
   Grass:
     serializedVersion: 2
-    m_Bits: 0
+    m_Bits: 512
 --- !u!1 &726403498
 GameObject:
   m_ObjectHideFlags: 0
