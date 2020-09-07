@@ -1,0 +1,28 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 7bbda3a8e8c7c084d9cf1108b80f9bfa, type: 3}
+  m_Name: Empoleon
+  m_EditorClassIdentifier: 
+  pokename: Empoleon
+  description: 
+  frontSprite: {fileID: -5792256348752231200, guid: c707900f43854314c8d9e6b7bca1d3a8,
+    type: 3}
+  backSprite: {fileID: -5653515654644582026, guid: 9eef06126d7d50f4fad53f98a6a371f8,
+    type: 3}
+  type1: 4
+  type2: 10
+  maxHP: 84
+  attack: 86
+  defense: 88
+  specialAttack: 111
+  specialDefense: 101
+  speed: 60

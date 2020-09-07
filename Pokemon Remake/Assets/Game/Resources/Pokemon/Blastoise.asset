@@ -1,0 +1,28 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 7bbda3a8e8c7c084d9cf1108b80f9bfa, type: 3}
+  m_Name: Blastoise
+  m_EditorClassIdentifier: 
+  pokename: Blastoise
+  description: 
+  frontSprite: {fileID: -143640507430623617, guid: c707900f43854314c8d9e6b7bca1d3a8,
+    type: 3}
+  backSprite: {fileID: 8146415367641992747, guid: 9eef06126d7d50f4fad53f98a6a371f8,
+    type: 3}
+  type1: 4
+  type2: 0
+  maxHP: 79
+  attack: 83
+  defense: 100
+  specialAttack: 85
+  specialDefense: 105
+  speed: 78

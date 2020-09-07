@@ -3,7 +3,6 @@ using System.Collections.Generic;
 using UnityEngine;
 
 [CreateAssetMenu(fileName = "Move", menuName = "Pokemon/Create new move")]
-
 public class MoveBase : ScriptableObject
 {
     [SerializeField] string movename;

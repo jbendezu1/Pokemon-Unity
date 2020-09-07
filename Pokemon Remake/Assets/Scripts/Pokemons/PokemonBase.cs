@@ -19,8 +19,8 @@ public class PokemonBase : ScriptableObject
     //Base Stats for all pokemon
     [SerializeField] int maxHP;
     [SerializeField] int attack;
-    [SerializeField] int specialAttack;
     [SerializeField] int defense;
+    [SerializeField] int specialAttack;
     [SerializeField] int specialDefense;
     [SerializeField] int speed;
 
@@ -98,6 +98,7 @@ public enum PokemonType
     Electric,
     Rock,
     Ground,
+    Steel,
     Ice,
     Poison,
     Psychic,
