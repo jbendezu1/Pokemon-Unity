@@ -19,10 +19,11 @@ MonoBehaviour:
   backSprite: {fileID: -2796314236206107100, guid: 9eef06126d7d50f4fad53f98a6a371f8,
     type: 3}
   type1: 2
-  type2: 11
+  type2: 12
   maxHP: 60
   attack: 62
   defense: 63
   specialAttack: 80
   specialDefense: 80
   speed: 60
+  learnableMoves: []

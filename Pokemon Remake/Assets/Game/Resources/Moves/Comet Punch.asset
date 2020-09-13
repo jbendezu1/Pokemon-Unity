@@ -12,9 +12,9 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: e479809b80cfbea48b3bd91b9b01ccfb, type: 3}
   m_Name: Comet Punch
   m_EditorClassIdentifier: 
-  movename: 
+  movename: Comet Punch
   description: 
-  type: 0
-  power: 0
-  accuracy: 0
-  pp: 0
+  type: 1
+  power: 18
+  accuracy: 85
+  pp: 15
