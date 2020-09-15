@@ -26,3 +26,6 @@ MonoBehaviour:
   specialAttack: 50
   specialDefense: 50
   speed: 90
+  learnableMoves:
+  - moveBase: {fileID: 11400000, guid: 664e0a2ca08c8d646b7dabebb3d03434, type: 2}
+    level: 1
