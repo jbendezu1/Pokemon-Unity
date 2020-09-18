@@ -48,6 +48,46 @@ public class BattleSystem : MonoBehaviour
         dialogBox.EnableMoveSelector(true);
     }
 
+    IEnumerator PerformPlayerMove()
+    {
+        state = BattleState.Busy;
+        var move = playerUnit.pokemon.Moves[currentMove];
+        yield return dialogBox.TypeDialog($"{playerUnit.pokemon.Base.Name} used {move.Base.Name}");
+        yield return new WaitForSeconds(1f);
+
+        bool isFainted = enemyUnit.pokemon.TakeDamage(move, playerUnit.pokemon);
+        enemyHud.UpdateHP();
+
+        if (isFainted)
+        {
+            yield return dialogBox.TypeDialog($"{enemyUnit.pokemon.Base.Name} fainted");
+        }
+        else
+        {
+            StartCoroutine(EnemyMove());
+        }
+    }
+
+    IEnumerator EnemyMove()
+    {
+        state = BattleState.EnemyMove;
+        var move = enemyUnit.pokemon.GetRandomMove();
+        yield return dialogBox.TypeDialog($"{enemyUnit.pokemon.Base.Name} used {move.Base.Name}");
+        yield return new WaitForSeconds(1f);
+
+        bool isFainted = playerUnit.pokemon.TakeDamage(move, enemyUnit.pokemon);
+        playerHud.UpdateHP();
+
+        if (isFainted)
+        {
+            yield return dialogBox.TypeDialog($"{playerUnit.pokemon.Base.Name} fainted");
+        }
+        else
+        {
+            PlayerAction();
+        }
+    }
+
     private void Update()
     {
         if(state == BattleState.PlayerAction)
@@ -96,7 +136,7 @@ public class BattleSystem : MonoBehaviour
         
         dialogBox.UpdateActionSelection(currentAction);
 
-        if (Input.GetKeyDown(KeyCode.A))
+        if (Input.GetKeyDown(KeyCode.Return))
         {
             if(currentAction == 0)
             {
@@ -152,24 +192,12 @@ public class BattleSystem : MonoBehaviour
 
         dialogBox.UpdateMoveSelection(currentMove, playerUnit.pokemon.Moves[currentMove]);
 
-        if (Input.GetKeyDown(KeyCode.A))
+        if (Input.GetKeyDown(KeyCode.Return))
         {
-            if (currentMove == 0)
-            {
-                
-            }
-            if (currentMove == 1)
-            {
-
-            }
-            if (currentMove == 2)
-            {
-
-            }
-            if (currentMove == 3)
-            {
-
-            }
+            dialogBox.EnableMoveSelector(false);
+            dialogBox.EnableDialogText(true);
+            StartCoroutine(PerformPlayerMove());
+            
         }
     }
 }
