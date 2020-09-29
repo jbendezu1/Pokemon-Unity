@@ -29,7 +29,6 @@ public class BattleSystem : MonoBehaviour
         dialogBox.SetMoveNames(playerUnit.pokemon.Moves);
 
         yield return (dialogBox.TypeDialog($"A wild {enemyUnit.pokemon.Base.Name} appeared."));
-        yield return new WaitForSeconds(1f);
         PlayerAction();
     }
 
@@ -53,12 +52,12 @@ public class BattleSystem : MonoBehaviour
         state = BattleState.Busy;
         var move = playerUnit.pokemon.Moves[currentMove];
         yield return dialogBox.TypeDialog($"{playerUnit.pokemon.Base.Name} used {move.Base.Name}");
-        yield return new WaitForSeconds(1f);
 
-        bool isFainted = enemyUnit.pokemon.TakeDamage(move, playerUnit.pokemon);
-        enemyHud.UpdateHP();
+        var damageDetails = enemyUnit.pokemon.TakeDamage(move, playerUnit.pokemon);
+        yield return enemyHud.UpdateHP();
+        yield return ShowDamageDetails(damageDetails);
 
-        if (isFainted)
+        if (damageDetails.Fainted)
         {
             yield return dialogBox.TypeDialog($"{enemyUnit.pokemon.Base.Name} fainted");
         }
@@ -73,12 +72,11 @@ public class BattleSystem : MonoBehaviour
         state = BattleState.EnemyMove;
         var move = enemyUnit.pokemon.GetRandomMove();
         yield return dialogBox.TypeDialog($"{enemyUnit.pokemon.Base.Name} used {move.Base.Name}");
-        yield return new WaitForSeconds(1f);
+        var damageDetails = playerUnit.pokemon.TakeDamage(move, enemyUnit.pokemon);
+        yield return playerHud.UpdateHP();
+        yield return ShowDamageDetails(damageDetails);
 
-        bool isFainted = playerUnit.pokemon.TakeDamage(move, enemyUnit.pokemon);
-        playerHud.UpdateHP();
-
-        if (isFainted)
+        if (damageDetails.Fainted)
         {
             yield return dialogBox.TypeDialog($"{playerUnit.pokemon.Base.Name} fainted");
         }
@@ -88,13 +86,24 @@ public class BattleSystem : MonoBehaviour
         }
     }
 
+    IEnumerator ShowDamageDetails(DamageDetails damageDetails)
+    {
+        if (damageDetails.Critical > 1f)
+            yield return dialogBox.TypeDialog("A critical hit!");
+
+        if (damageDetails.Type > 1f)
+            yield return dialogBox.TypeDialog("It's super effective!");
+        if (damageDetails.Type < 1f)
+            yield return dialogBox.TypeDialog("It's not very effective...");
+    }
+
     private void Update()
     {
         if(state == BattleState.PlayerAction)
         {
             HandleActionSelection();
         }
-        if(state == BattleState.PlayerMove)
+        else if(state == BattleState.PlayerMove)
         {
             HandleMoveSelection();
         }
@@ -158,6 +167,8 @@ public class BattleSystem : MonoBehaviour
     } 
     void HandleMoveSelection()
     {
+        new WaitForSeconds(1f);
+
         if (Input.GetKeyDown(KeyCode.RightArrow))
         {
             if (currentMove < 1 || currentMove == 2)
