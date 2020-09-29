@@ -14,11 +14,11 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   pokename: Pikachu
   description: 
-  frontSprite: {fileID: -6992434535015842197, guid: c707900f43854314c8d9e6b7bca1d3a8,
+  frontSprite: {fileID: 274225891422994440, guid: c707900f43854314c8d9e6b7bca1d3a8,
     type: 3}
   backSprite: {fileID: -5380546448959269858, guid: 9eef06126d7d50f4fad53f98a6a371f8,
     type: 3}
-  type1: 7
+  type1: 4
   type2: 0
   maxHP: 35
   attack: 55
