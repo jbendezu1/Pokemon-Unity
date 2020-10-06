@@ -1,0 +1,2420 @@
+fileFormatVersion: 2
+guid: 2e4f3d87ae5431743beae8f50cb011f5
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 8442560839638021099
+    second: gymNPC-removebg-preview_0
+  - first:
+      213: 6134158417615893222
+    second: gymNPC-removebg-preview_1
+  - first:
+      213: 8750148983724958709
+    second: gymNPC-removebg-preview_2
+  - first:
+      213: -1772971727481592299
+    second: gymNPC-removebg-preview_3
+  - first:
+      213: -1569545037833297102
+    second: gymNPC-removebg-preview_4
+  - first:
+      213: 833207231982871588
+    second: gymNPC-removebg-preview_5
+  - first:
+      213: 7614290979115942420
+    second: gymNPC-removebg-preview_6
+  - first:
+      213: -803212638988665706
+    second: gymNPC-removebg-preview_7
+  - first:
+      213: -6761174902789028458
+    second: gymNPC-removebg-preview_8
+  - first:
+      213: 6357555606589806739
+    second: gymNPC-removebg-preview_9
+  - first:
+      213: -3606767323874517088
+    second: gymNPC-removebg-preview_10
+  - first:
+      213: 7274188867761367762
+    second: gymNPC-removebg-preview_11
+  - first:
+      213: -1094308307718025992
+    second: gymNPC-removebg-preview_12
+  - first:
+      213: -5351301826318032243
+    second: gymNPC-removebg-preview_13
+  - first:
+      213: 1516338870814505525
+    second: gymNPC-removebg-preview_14
+  - first:
+      213: -6999948082078659840
+    second: gymNPC-removebg-preview_15
+  - first:
+      213: -8456371623713106901
+    second: gymNPC-removebg-preview_16
+  - first:
+      213: -5226281294271154945
+    second: gymNPC-removebg-preview_17
+  - first:
+      213: 8609689420913402932
+    second: gymNPC-removebg-preview_18
+  - first:
+      213: -7096997808230164139
+    second: gymNPC-removebg-preview_19
+  - first:
+      213: 3791714396749788739
+    second: gymNPC-removebg-preview_20
+  - first:
+      213: -3902701512949389717
+    second: gymNPC-removebg-preview_21
+  - first:
+      213: 3827160399528898400
+    second: gymNPC-removebg-preview_22
+  - first:
+      213: -7498243867926138855
+    second: gymNPC-removebg-preview_23
+  - first:
+      213: 3468759790324630780
+    second: gymNPC-removebg-preview_24
+  - first:
+      213: 4796255001863000272
+    second: gymNPC-removebg-preview_25
+  - first:
+      213: 5533660638177856682
+    second: gymNPC-removebg-preview_26
+  - first:
+      213: 6307210378020775155
+    second: gymNPC-removebg-preview_27
+  - first:
+      213: -293380736790832794
+    second: gymNPC-removebg-preview_28
+  - first:
+      213: -8396527973838759153
+    second: gymNPC-removebg-preview_29
+  - first:
+      213: -7678513591237734713
+    second: gymNPC-removebg-preview_30
+  - first:
+      213: -5413488338002165808
+    second: gymNPC-removebg-preview_31
+  - first:
+      213: 7107657701105000187
+    second: gymNPC-removebg-preview_32
+  - first:
+      213: -2121025312869291589
+    second: gymNPC-removebg-preview_33
+  - first:
+      213: -5807002842813619404
+    second: gymNPC-removebg-preview_34
+  - first:
+      213: -958851164851738764
+    second: gymNPC-removebg-preview_35
+  - first:
+      213: 557573814857035849
+    second: gymNPC-removebg-preview_36
+  - first:
+      213: 2678781357478697859
+    second: gymNPC-removebg-preview_37
+  - first:
+      213: 446273727046239874
+    second: gymNPC-removebg-preview_38
+  - first:
+      213: 755384370158382605
+    second: gymNPC-removebg-preview_39
+  - first:
+      213: 7413031318986585749
+    second: gymNPC-removebg-preview_40
+  - first:
+      213: 132255766505468236
+    second: gymNPC-removebg-preview_41
+  - first:
+      213: -894452251056037779
+    second: gymNPC-removebg-preview_42
+  - first:
+      213: -4550091545839219006
+    second: gymNPC-removebg-preview_43
+  - first:
+      213: -8659608682584518707
+    second: gymNPC-removebg-preview_44
+  - first:
+      213: 3860720589056653538
+    second: gymNPC-removebg-preview_45
+  - first:
+      213: -1872361639832457351
+    second: gymNPC-removebg-preview_46
+  - first:
+      213: 670700380013560035
+    second: gymNPC-removebg-preview_47
+  - first:
+      213: 6353031251332288585
+    second: gymNPC-removebg-preview_48
+  - first:
+      213: -8419077093366463944
+    second: gymNPC-removebg-preview_49
+  - first:
+      213: -2416477229537949691
+    second: gymNPC-removebg-preview_50
+  - first:
+      213: 4100155299457195894
+    second: gymNPC-removebg-preview_51
+  - first:
+      213: 7963871142364461398
+    second: gymNPC-removebg-preview_52
+  - first:
+      213: -5356508944352736354
+    second: gymNPC-removebg-preview_53
+  - first:
+      213: -6013327134247674958
+    second: gymNPC-removebg-preview_54
+  - first:
+      213: -3185408988775469359
+    second: gymNPC-removebg-preview_55
+  - first:
+      213: 3159592106541300356
+    second: gymNPC-removebg-preview_56
+  - first:
+      213: -8788961300416675518
+    second: gymNPC-removebg-preview_57
+  - first:
+      213: -7565194586765377299
+    second: gymNPC-removebg-preview_58
+  - first:
+      213: 3060286942331397133
+    second: gymNPC-removebg-preview_59
+  - first:
+      213: -6682266973707111093
+    second: gymNPC-removebg-preview_60
+  - first:
+      213: 2676057842903113936
+    second: gymNPC-removebg-preview_61
+  - first:
+      213: -8053468702466767340
+    second: gymNPC-removebg-preview_62
+  - first:
+      213: -560685318510729109
+    second: gymNPC-removebg-preview_63
+  - first:
+      213: 2375399188295653266
+    second: gymNPC-removebg-preview_64
+  - first:
+      213: 8052238869362942726
+    second: gymNPC-removebg-preview_65
+  - first:
+      213: 3428378692404815020
+    second: gymNPC-removebg-preview_66
+  - first:
+      213: 8204925941297930076
+    second: gymNPC-removebg-preview_67
+  - first:
+      213: -7185373478348013307
+    second: gymNPC-removebg-preview_68
+  - first:
+      213: 7627860149799376912
+    second: gymNPC-removebg-preview_69
+  - first:
+      213: -5663446208232125988
+    second: gymNPC-removebg-preview_70
+  - first:
+      213: 8877498271726820436
+    second: gymNPC-removebg-preview_71
+  - first:
+      213: -1324751112021510762
+    second: gymNPC-removebg-preview_72
+  - first:
+      213: 9174186759369693006
+    second: gymNPC-removebg-preview_73
+  - first:
+      213: -9214985240076974590
+    second: gymNPC-removebg-preview_74
+  - first:
+      213: 2953532603642265509
+    second: gymNPC-removebg-preview_75
+  - first:
+      213: 6870097232132103501
+    second: gymNPC-removebg-preview_76
+  - first:
+      213: -1506952295053560558
+    second: gymNPC-removebg-preview_77
+  - first:
+      213: -6845058510941274734
+    second: gymNPC-removebg-preview_78
+  - first:
+      213: 6635340964213632088
+    second: gymNPC-removebg-preview_79
+  - first:
+      213: -8051687778048481945
+    second: gymNPC-removebg-preview_80
+  - first:
+      213: 8881048282351211955
+    second: gymNPC-removebg-preview_81
+  - first:
+      213: 6549628744253260783
+    second: gymNPC-removebg-preview_82
+  - first:
+      213: 6404959807803900765
+    second: gymNPC-removebg-preview_83
+  - first:
+      213: -9188338931759406275
+    second: gymNPC-removebg-preview_84
+  - first:
+      213: 8503888819015307146
+    second: gymNPC-removebg-preview_85
+  - first:
+      213: -5995274589886244193
+    second: gymNPC-removebg-preview_86
+  - first:
+      213: 6691471052804323741
+    second: gymNPC-removebg-preview_87
+  - first:
+      213: -5282685568531809619
+    second: gymNPC-removebg-preview_88
+  - first:
+      213: 1936982473547200154
+    second: gymNPC-removebg-preview_89
+  - first:
+      213: -472723316387717582
+    second: gymNPC-removebg-preview_90
+  - first:
+      213: 1823817974539938027
+    second: gymNPC-removebg-preview_91
+  - first:
+      213: -6318714373076413434
+    second: gymNPC-removebg-preview_92
+  - first:
+      213: -7661584985508439120
+    second: gymNPC-removebg-preview_93
+  - first:
+      213: 642588849654216464
+    second: gymNPC-removebg-preview_94
+  - first:
+      213: -1895595325703676449
+    second: gymNPC-removebg-preview_95
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 16
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: gymNPC-removebg-preview_0
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 409
+        width: 37
+        height: 63
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: be37f316a500a2570800000000000000
+      internalID: 8442560839638021099
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gymNPC-removebg-preview_1
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 410
+        width: 26
+        height: 36
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6e2b7f5a498e02550800000000000000
+      internalID: 6134158417615893222
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gymNPC-removebg-preview_2
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 409
+        width: 27
+        height: 35
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5f3eba2f326ce6970800000000000000
+      internalID: 8750148983724958709
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gymNPC-removebg-preview_3
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 409
+        width: 28
+        height: 34
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 51626a28b932567e0800000000000000
+      internalID: -1772971727481592299
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gymNPC-removebg-preview_4
+      rect:
+        serializedVersion: 2
+        x: 189
+        y: 411
+        width: 28
+        height: 33
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 23328f89a1bd73ae0800000000000000
+      internalID: -1569545037833297102
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gymNPC-removebg-preview_5
+      rect:
+        serializedVersion: 2
+        x: 230
+        y: 409
+        width: 28
+        height: 33
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 42420ae1095209b00800000000000000
+      internalID: 833207231982871588
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gymNPC-removebg-preview_6
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 409
+        width: 27
+        height: 35
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 412caa2ad456ba960800000000000000
+      internalID: 7614290979115942420
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gymNPC-removebg-preview_7
+      rect:
+        serializedVersion: 2
+        x: 313
+        y: 410
+        width: 26
+        height: 36
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 69cf9f54c5a6ad4f0800000000000000
+      internalID: -803212638988665706
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gymNPC-removebg-preview_8
+      rect:
+        serializedVersion: 2
+        x: 353
+        y: 409
+        width: 27
+        height: 35
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 69549f68f3b7b22a0800000000000000
+      internalID: -6761174902789028458
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gymNPC-removebg-preview_9
+      rect:
+        serializedVersion: 2
+        x: 396
+        y: 409
+        width: 23
+        height: 33
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3981492f3239a3850800000000000000
+      internalID: 6357555606589806739
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gymNPC-removebg-preview_10
+      rect:
+        serializedVersion: 2
+        x: 439
+        y: 411
+        width: 21
+        height: 33
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0af19f87a3032fdc0800000000000000
+      internalID: -3606767323874517088
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gymNPC-removebg-preview_11
+      rect:
+        serializedVersion: 2
+        x: 479
+        y: 409
+        width: 24
+        height: 33
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2da64042c3c13f460800000000000000
+      internalID: 7274188867761367762
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gymNPC-removebg-preview_12
+      rect:
+        serializedVersion: 2
+        x: 26
+        y: 356
+        width: 24
+        height: 33
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8fc45bb546c30d0f0800000000000000
+      internalID: -1094308307718025992
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gymNPC-removebg-preview_13
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 356
+        width: 24
+        height: 35
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d822a64675b5cb5b0800000000000000
+      internalID: -5351301826318032243
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gymNPC-removebg-preview_14
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 356
+        width: 24
+        height: 33
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 53af30a4b2e1b0510800000000000000
+      internalID: 1516338870814505525
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gymNPC-removebg-preview_15
+      rect:
+        serializedVersion: 2
+        x: 149
+        y: 356
+        width: 26
+        height: 32
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 00b46818e403bde90800000000000000
+      internalID: -6999948082078659840
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gymNPC-removebg-preview_16
+      rect:
+        serializedVersion: 2
+        x: 190
+        y: 356
+        width: 26
+        height: 33
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b2413efdfcee4aa80800000000000000
+      internalID: -8456371623713106901
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gymNPC-removebg-preview_17
+      rect:
+        serializedVersion: 2
+        x: 230
+        y: 356
+        width: 25
+        height: 32
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ff4f2b65ad48877b0800000000000000
+      internalID: -5226281294271154945
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gymNPC-removebg-preview_18
+      rect:
+        serializedVersion: 2
+        x: 273
+        y: 356
+        width: 23
+        height: 33
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4346bf789e2cb7770800000000000000
+      internalID: 8609689420913402932
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gymNPC-removebg-preview_19
+      rect:
+        serializedVersion: 2
+        x: 315
+        y: 356
+        width: 24
+        height: 35
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 55917bc4816628d90800000000000000
+      internalID: -7096997808230164139
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gymNPC-removebg-preview_20
+      rect:
+        serializedVersion: 2
+        x: 356
+        y: 356
+        width: 24
+        height: 33
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 346710c8720ee9430800000000000000
+      internalID: 3791714396749788739
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gymNPC-removebg-preview_21
+      rect:
+        serializedVersion: 2
+        x: 398
+        y: 356
+        width: 21
+        height: 32
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b66a540c6a1d6d9c0800000000000000
+      internalID: -3902701512949389717
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gymNPC-removebg-preview_22
+      rect:
+        serializedVersion: 2
+        x: 440
+        y: 356
+        width: 22
+        height: 33
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 06fac503b1ecc1530800000000000000
+      internalID: 3827160399528898400
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gymNPC-removebg-preview_23
+      rect:
+        serializedVersion: 2
+        x: 479
+        y: 356
+        width: 22
+        height: 32
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 910f205fde2e0f790800000000000000
+      internalID: -7498243867926138855
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gymNPC-removebg-preview_24
+      rect:
+        serializedVersion: 2
+        x: 28
+        y: 301
+        width: 23
+        height: 34
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cf44579a6a2832030800000000000000
+      internalID: 3468759790324630780
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gymNPC-removebg-preview_25
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 301
+        width: 23
+        height: 35
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0d01c363388bf8240800000000000000
+      internalID: 4796255001863000272
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gymNPC-removebg-preview_26
+      rect:
+        serializedVersion: 2
+        x: 110
+        y: 301
+        width: 23
+        height: 34
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aac072628038bcc40800000000000000
+      internalID: 5533660638177856682
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gymNPC-removebg-preview_27
+      rect:
+        serializedVersion: 2
+        x: 151
+        y: 301
+        width: 25
+        height: 32
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3f4e599fb66b78750800000000000000
+      internalID: 6307210378020775155
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gymNPC-removebg-preview_28
+      rect:
+        serializedVersion: 2
+        x: 190
+        y: 301
+        width: 26
+        height: 34
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 669d3a736c3bdebf0800000000000000
+      internalID: -293380736790832794
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gymNPC-removebg-preview_29
+      rect:
+        serializedVersion: 2
+        x: 231
+        y: 301
+        width: 25
+        height: 32
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f0bd5b46b4a897b80800000000000000
+      internalID: -8396527973838759153
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gymNPC-removebg-preview_30
+      rect:
+        serializedVersion: 2
+        x: 273
+        y: 301
+        width: 23
+        height: 34
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7ce044f3290707590800000000000000
+      internalID: -7678513591237734713
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gymNPC-removebg-preview_31
+      rect:
+        serializedVersion: 2
+        x: 313
+        y: 301
+        width: 24
+        height: 35
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0df39a9d90d6fd4b0800000000000000
+      internalID: -5413488338002165808
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gymNPC-removebg-preview_32
+      rect:
+        serializedVersion: 2
+        x: 356
+        y: 301
+        width: 24
+        height: 34
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bfede6b650973a260800000000000000
+      internalID: 7107657701105000187
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gymNPC-removebg-preview_33
+      rect:
+        serializedVersion: 2
+        x: 398
+        y: 301
+        width: 21
+        height: 32
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bb960d237ba9092e0800000000000000
+      internalID: -2121025312869291589
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gymNPC-removebg-preview_34
+      rect:
+        serializedVersion: 2
+        x: 437
+        y: 301
+        width: 22
+        height: 34
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 43329686ea1696fa0800000000000000
+      internalID: -5807002842813619404
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gymNPC-removebg-preview_35
+      rect:
+        serializedVersion: 2
+        x: 479
+        y: 301
+        width: 22
+        height: 32
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 477ea8e12f971b2f0800000000000000
+      internalID: -958851164851738764
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gymNPC-removebg-preview_36
+      rect:
+        serializedVersion: 2
+        x: 26
+        y: 244
+        width: 25
+        height: 36
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 940fc923e66ecb700800000000000000
+      internalID: 557573814857035849
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gymNPC-removebg-preview_37
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 246
+        width: 26
+        height: 36
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 38bd47ba371fc2520800000000000000
+      internalID: 2678781357478697859
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gymNPC-removebg-preview_38
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 244
+        width: 25
+        height: 36
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2864e2d179b713600800000000000000
+      internalID: 446273727046239874
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gymNPC-removebg-preview_39
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 244
+        width: 28
+        height: 34
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d0e2c2c151aab7a00800000000000000
+      internalID: 755384370158382605
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gymNPC-removebg-preview_40
+      rect:
+        serializedVersion: 2
+        x: 189
+        y: 246
+        width: 28
+        height: 34
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5967a0d65b060e660800000000000000
+      internalID: 7413031318986585749
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gymNPC-removebg-preview_41
+      rect:
+        serializedVersion: 2
+        x: 230
+        y: 244
+        width: 28
+        height: 34
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c413e0e3bedd5d100800000000000000
+      internalID: 132255766505468236
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gymNPC-removebg-preview_42
+      rect:
+        serializedVersion: 2
+        x: 273
+        y: 244
+        width: 25
+        height: 36
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d60a14baa644693f0800000000000000
+      internalID: -894452251056037779
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gymNPC-removebg-preview_43
+      rect:
+        serializedVersion: 2
+        x: 313
+        y: 246
+        width: 26
+        height: 36
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2ceceb2b8d3dad0c0800000000000000
+      internalID: -4550091545839219006
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gymNPC-removebg-preview_44
+      rect:
+        serializedVersion: 2
+        x: 354
+        y: 244
+        width: 26
+        height: 36
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dcf49a4a8c3e2d780800000000000000
+      internalID: -8659608682584518707
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gymNPC-removebg-preview_45
+      rect:
+        serializedVersion: 2
+        x: 397
+        y: 244
+        width: 22
+        height: 34
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2e832c7bbe8049530800000000000000
+      internalID: 3860720589056653538
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gymNPC-removebg-preview_46
+      rect:
+        serializedVersion: 2
+        x: 439
+        y: 246
+        width: 21
+        height: 34
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 97fe7be32090406e0800000000000000
+      internalID: -1872361639832457351
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gymNPC-removebg-preview_47
+      rect:
+        serializedVersion: 2
+        x: 479
+        y: 244
+        width: 22
+        height: 34
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3e08d6d217ece4900800000000000000
+      internalID: 670700380013560035
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gymNPC-removebg-preview_48
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 190
+        width: 27
+        height: 35
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 940dd9663408a2850800000000000000
+      internalID: 6353031251332288585
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gymNPC-removebg-preview_49
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 192
+        width: 26
+        height: 35
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 83283416dfd692b80800000000000000
+      internalID: -8419077093366463944
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gymNPC-removebg-preview_50
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 190
+        width: 27
+        height: 35
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 508029543c2f67ed0800000000000000
+      internalID: -2416477229537949691
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gymNPC-removebg-preview_51
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 190
+        width: 23
+        height: 33
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 67fd414758da6e830800000000000000
+      internalID: 4100155299457195894
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gymNPC-removebg-preview_52
+      rect:
+        serializedVersion: 2
+        x: 190
+        y: 192
+        width: 26
+        height: 33
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6593e9d0c9a558e60800000000000000
+      internalID: 7963871142364461398
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gymNPC-removebg-preview_53
+      rect:
+        serializedVersion: 2
+        x: 233
+        y: 190
+        width: 24
+        height: 33
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e9b07afbe7bd9a5b0800000000000000
+      internalID: -5356508944352736354
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gymNPC-removebg-preview_54
+      rect:
+        serializedVersion: 2
+        x: 271
+        y: 190
+        width: 25
+        height: 35
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2bb13f4d4de5c8ca0800000000000000
+      internalID: -6013327134247674958
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gymNPC-removebg-preview_55
+      rect:
+        serializedVersion: 2
+        x: 314
+        y: 192
+        width: 25
+        height: 35
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1dea3b7d6672bc3d0800000000000000
+      internalID: -3185408988775469359
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gymNPC-removebg-preview_56
+      rect:
+        serializedVersion: 2
+        x: 355
+        y: 190
+        width: 25
+        height: 35
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 48ab589d74029db20800000000000000
+      internalID: 3159592106541300356
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gymNPC-removebg-preview_57
+      rect:
+        serializedVersion: 2
+        x: 396
+        y: 190
+        width: 26
+        height: 35
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 24142006346570680800000000000000
+      internalID: -8788961300416675518
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gymNPC-removebg-preview_58
+      rect:
+        serializedVersion: 2
+        x: 437
+        y: 192
+        width: 25
+        height: 35
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: de0442ffa97030790800000000000000
+      internalID: -7565194586765377299
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gymNPC-removebg-preview_59
+      rect:
+        serializedVersion: 2
+        x: 478
+        y: 190
+        width: 27
+        height: 35
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d04ed6c82c2587a20800000000000000
+      internalID: 3060286942331397133
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gymNPC-removebg-preview_60
+      rect:
+        serializedVersion: 2
+        x: 26
+        y: 137
+        width: 25
+        height: 33
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b45fcd17791d343a0800000000000000
+      internalID: -6682266973707111093
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gymNPC-removebg-preview_61
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 137
+        width: 25
+        height: 35
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0d063a40e64432520800000000000000
+      internalID: 2676057842903113936
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gymNPC-removebg-preview_62
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 137
+        width: 25
+        height: 33
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4160ebb52e45c3090800000000000000
+      internalID: -8053468702466767340
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gymNPC-removebg-preview_63
+      rect:
+        serializedVersion: 2
+        x: 151
+        y: 137
+        width: 22
+        height: 31
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b6824676cab0838f0800000000000000
+      internalID: -560685318510729109
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gymNPC-removebg-preview_64
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 137
+        width: 22
+        height: 33
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2971d12f9fc17f020800000000000000
+      internalID: 2375399188295653266
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gymNPC-removebg-preview_65
+      rect:
+        serializedVersion: 2
+        x: 233
+        y: 137
+        width: 22
+        height: 31
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 603a8fec69c4fbf60800000000000000
+      internalID: 8052238869362942726
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gymNPC-removebg-preview_66
+      rect:
+        serializedVersion: 2
+        x: 274
+        y: 137
+        width: 22
+        height: 33
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ca4ae44a14c049f20800000000000000
+      internalID: 3428378692404815020
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gymNPC-removebg-preview_67
+      rect:
+        serializedVersion: 2
+        x: 315
+        y: 137
+        width: 22
+        height: 35
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c5f537b0ca0cdd170800000000000000
+      internalID: 8204925941297930076
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gymNPC-removebg-preview_68
+      rect:
+        serializedVersion: 2
+        x: 355
+        y: 137
+        width: 21
+        height: 33
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 501cd8424ec684c90800000000000000
+      internalID: -7185373478348013307
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gymNPC-removebg-preview_69
+      rect:
+        serializedVersion: 2
+        x: 398
+        y: 137
+        width: 21
+        height: 33
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0185621646a9bd960800000000000000
+      internalID: 7627860149799376912
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gymNPC-removebg-preview_70
+      rect:
+        serializedVersion: 2
+        x: 439
+        y: 137
+        width: 21
+        height: 35
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cd98ac90ea56761b0800000000000000
+      internalID: -5663446208232125988
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gymNPC-removebg-preview_71
+      rect:
+        serializedVersion: 2
+        x: 481
+        y: 137
+        width: 22
+        height: 33
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 45cdb64a4a5333b70800000000000000
+      internalID: 8877498271726820436
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gymNPC-removebg-preview_72
+      rect:
+        serializedVersion: 2
+        x: 26
+        y: 82
+        width: 25
+        height: 34
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6957728e1e98d9de0800000000000000
+      internalID: -1324751112021510762
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gymNPC-removebg-preview_73
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 82
+        width: 25
+        height: 35
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e47925f2042415f70800000000000000
+      internalID: 9174186759369693006
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gymNPC-removebg-preview_74
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 82
+        width: 25
+        height: 34
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2068eba4fbbcd1080800000000000000
+      internalID: -9214985240076974590
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gymNPC-removebg-preview_75
+      rect:
+        serializedVersion: 2
+        x: 151
+        y: 82
+        width: 22
+        height: 32
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5afb1a8214e0df820800000000000000
+      internalID: 2953532603642265509
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gymNPC-removebg-preview_76
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 82
+        width: 22
+        height: 34
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d4dd0a5880d775f50800000000000000
+      internalID: 6870097232132103501
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gymNPC-removebg-preview_77
+      rect:
+        serializedVersion: 2
+        x: 233
+        y: 82
+        width: 22
+        height: 32
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2157fdf2fda361be0800000000000000
+      internalID: -1506952295053560558
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gymNPC-removebg-preview_78
+      rect:
+        serializedVersion: 2
+        x: 276
+        y: 82
+        width: 22
+        height: 34
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 29db49c0d877101a0800000000000000
+      internalID: -6845058510941274734
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gymNPC-removebg-preview_79
+      rect:
+        serializedVersion: 2
+        x: 315
+        y: 82
+        width: 22
+        height: 35
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 85c2d8f8377751c50800000000000000
+      internalID: 6635340964213632088
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gymNPC-removebg-preview_80
+      rect:
+        serializedVersion: 2
+        x: 356
+        y: 82
+        width: 23
+        height: 34
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 765e01320a8a24090800000000000000
+      internalID: -8051687778048481945
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gymNPC-removebg-preview_81
+      rect:
+        serializedVersion: 2
+        x: 396
+        y: 82
+        width: 21
+        height: 34
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3b513a6eb52df3b70800000000000000
+      internalID: 8881048282351211955
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gymNPC-removebg-preview_82
+      rect:
+        serializedVersion: 2
+        x: 438
+        y: 82
+        width: 22
+        height: 35
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fe347e734a4f4ea50800000000000000
+      internalID: 6549628744253260783
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gymNPC-removebg-preview_83
+      rect:
+        serializedVersion: 2
+        x: 479
+        y: 82
+        width: 22
+        height: 34
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d534ec0a20df2e850800000000000000
+      internalID: 6404959807803900765
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gymNPC-removebg-preview_84
+      rect:
+        serializedVersion: 2
+        x: 26
+        y: 25
+        width: 26
+        height: 36
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d33a6986c667c7080800000000000000
+      internalID: -9188338931759406275
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gymNPC-removebg-preview_85
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 27
+        width: 26
+        height: 36
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a8fc2da43d1e30670800000000000000
+      internalID: 8503888819015307146
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gymNPC-removebg-preview_86
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 25
+        width: 25
+        height: 36
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f9a97ea56818ccca0800000000000000
+      internalID: -5995274589886244193
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gymNPC-removebg-preview_87
+      rect:
+        serializedVersion: 2
+        x: 151
+        y: 25
+        width: 24
+        height: 34
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d99f5373871ecdc50800000000000000
+      internalID: 6691471052804323741
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gymNPC-removebg-preview_88
+      rect:
+        serializedVersion: 2
+        x: 190
+        y: 27
+        width: 26
+        height: 34
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: daa349bd67120b6b0800000000000000
+      internalID: -5282685568531809619
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gymNPC-removebg-preview_89
+      rect:
+        serializedVersion: 2
+        x: 233
+        y: 25
+        width: 23
+        height: 34
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a9630ff0c4b81ea10800000000000000
+      internalID: 1936982473547200154
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gymNPC-removebg-preview_90
+      rect:
+        serializedVersion: 2
+        x: 274
+        y: 25
+        width: 25
+        height: 36
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 23e5aa9f5ac8079f0800000000000000
+      internalID: -472723316387717582
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gymNPC-removebg-preview_91
+      rect:
+        serializedVersion: 2
+        x: 314
+        y: 27
+        width: 25
+        height: 36
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: be8ec6be8c08f4910800000000000000
+      internalID: 1823817974539938027
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gymNPC-removebg-preview_92
+      rect:
+        serializedVersion: 2
+        x: 353
+        y: 25
+        width: 25
+        height: 36
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 60410a371ca6f48a0800000000000000
+      internalID: -6318714373076413434
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gymNPC-removebg-preview_93
+      rect:
+        serializedVersion: 2
+        x: 395
+        y: 25
+        width: 26
+        height: 36
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0bb9d4a6c059ca590800000000000000
+      internalID: -7661584985508439120
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gymNPC-removebg-preview_94
+      rect:
+        serializedVersion: 2
+        x: 437
+        y: 27
+        width: 25
+        height: 36
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0173448772feae800800000000000000
+      internalID: 642588849654216464
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gymNPC-removebg-preview_95
+      rect:
+        serializedVersion: 2
+        x: 478
+        y: 25
+        width: 25
+        height: 36
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fdd9a85381e71b5e0800000000000000
+      internalID: -1895595325703676449
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
