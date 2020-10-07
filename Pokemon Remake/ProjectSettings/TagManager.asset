@@ -15,7 +15,7 @@ TagManager:
   - 
   - Foreground
   - Grass
-  - 
+  - Ocean
   - 
   - 
   - 
@@ -43,6 +43,9 @@ TagManager:
     locked: 0
   - name: Background
     uniqueID: 693317635
+    locked: 0
+  - name: Ocean
+    uniqueID: 800589431
     locked: 0
   - name: Foreground
     uniqueID: 1934837835
