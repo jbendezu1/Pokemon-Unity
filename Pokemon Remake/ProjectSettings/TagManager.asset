@@ -56,9 +56,20 @@ TagManager:
   - name: Overworld Items
     uniqueID: 3877118023
     locked: 0
+<<<<<<< Updated upstream
   - name: NPC
     uniqueID: 3739549585
     locked: 0
   - name: Player
     uniqueID: 1029498863
+=======
+  - name: Player
+    uniqueID: 1243702743
+    locked: 0
+  - name: NPCs
+    uniqueID: 662252947
+    locked: 0
+  - name: Dialogue
+    uniqueID: 1735193297
+>>>>>>> Stashed changes
     locked: 0
