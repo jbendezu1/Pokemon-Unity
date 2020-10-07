@@ -7,12 +7,17 @@ using Vector2 = UnityEngine.Vector2;
 
 public class Player : MonoBehaviour
 {
+    private string spriteName;
 	public float moveSpeed;
 
+    public LayerMask Ocean;
+    public LayerMask Entrance;
+    public LayerMask Shore;
 	public LayerMask Foreground;
 	public LayerMask Grass;
 
 	private bool isMoving;
+    private bool onMilotic;
 	private Vector2 input;
 
 	private Animator animator;
@@ -20,16 +25,20 @@ public class Player : MonoBehaviour
 	private void Awake()
 	{
 		animator = GetComponent<Animator>();
+        spriteName = GetComponent<SpriteRenderer>().sprite.name;
 	}
 
 	private void Update()
 	{
-
 		if (!isMoving)
 		{
 			input.x = Input.GetAxisRaw("Horizontal");
 			input.y = Input.GetAxisRaw("Vertical");
+
+            // If player is going left/right lock up/down movement
 			if (input.x != 0) input.y = 0;
+
+            // Create player movement
 			if (input != Vector2.zero)
 			{
 				animator.SetFloat("MoveX", input.x);
@@ -38,17 +47,15 @@ public class Player : MonoBehaviour
 				var targetPosition = transform.position;
 				targetPosition.x += input.x;
 				targetPosition.y += input.y;
-				if(isWalkable(targetPosition))
+				if (isWalkable(targetPosition))
 					StartCoroutine(Move(targetPosition));
 			}
 		}
 		animator.SetBool("isMoving", isMoving);
-
 	}
 
 	IEnumerator Move(Vector3 targetPosition)
 	{
-
 		isMoving = true;
 
 		while ((targetPosition - transform.position).sqrMagnitude > Mathf.Epsilon)
@@ -62,18 +69,31 @@ public class Player : MonoBehaviour
 		checkForEncounter();
 	}
 
+    // Prevent player from moving over foreground tiles
 	private bool isWalkable(Vector3 targetposition){
-		if(Physics2D.OverlapCircle(targetposition, 0.1f, Foreground) != null){
+
+		if (Physics2D.OverlapCircle(targetposition, 0.1f, Foreground) != null){
 			return false;
 		}
-		return true;
+
+        if (Physics2D.OverlapCircle(targetposition,0.1f, Ocean) != null && spriteName.Contains("Trainer"))
+        {
+            Debug.Log(spriteName);
+            return false;
+
+        }
+
+        return true;
 	}
 
-	private void checkForEncounter(){
-		if(Physics2D.OverlapCircle(transform.position, 0.2f, Grass) != null){
-			if(Random.Range(1,101)%5 == 0){
-				Debug.Log("Encountered a wild Pokemon");
-			}
-		}
-	}
+    private void checkForEncounter()
+    {
+        if (Physics2D.OverlapCircle(transform.position, 0.2f, Grass) != null)
+        {
+            if (Random.Range(1, 101) % 5 == 0)
+            {
+                Debug.Log("Encountered a wild Pokemon");
+            }
+        }
+    }
 }
