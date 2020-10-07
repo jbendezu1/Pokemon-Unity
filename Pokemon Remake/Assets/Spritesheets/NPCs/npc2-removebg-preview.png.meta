@@ -1,0 +1,2420 @@
+fileFormatVersion: 2
+guid: 4c7793612e539cd4bb97d1a0a0ece803
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -8345116706836546541
+    second: npc2-removebg-preview_0
+  - first:
+      213: -1793248160009289943
+    second: npc2-removebg-preview_1
+  - first:
+      213: -6333311215430447735
+    second: npc2-removebg-preview_2
+  - first:
+      213: -6475613666449509277
+    second: npc2-removebg-preview_3
+  - first:
+      213: -6397423356872730441
+    second: npc2-removebg-preview_4
+  - first:
+      213: -573319334131094955
+    second: npc2-removebg-preview_5
+  - first:
+      213: 3945473038391899793
+    second: npc2-removebg-preview_6
+  - first:
+      213: 666638177361191975
+    second: npc2-removebg-preview_7
+  - first:
+      213: 4944629664598655979
+    second: npc2-removebg-preview_8
+  - first:
+      213: 1628783222818725498
+    second: npc2-removebg-preview_9
+  - first:
+      213: -703092017528979117
+    second: npc2-removebg-preview_10
+  - first:
+      213: -4708925104719629469
+    second: npc2-removebg-preview_11
+  - first:
+      213: 849531457545872723
+    second: npc2-removebg-preview_12
+  - first:
+      213: -1114048583601444020
+    second: npc2-removebg-preview_13
+  - first:
+      213: 2006711590230802192
+    second: npc2-removebg-preview_14
+  - first:
+      213: -6340339013847116968
+    second: npc2-removebg-preview_15
+  - first:
+      213: -4925416463254416154
+    second: npc2-removebg-preview_16
+  - first:
+      213: -5387068225548079313
+    second: npc2-removebg-preview_17
+  - first:
+      213: 7533959253482809097
+    second: npc2-removebg-preview_18
+  - first:
+      213: 4712724728192064638
+    second: npc2-removebg-preview_19
+  - first:
+      213: -4324384733214724260
+    second: npc2-removebg-preview_20
+  - first:
+      213: 7451387231705010309
+    second: npc2-removebg-preview_21
+  - first:
+      213: 5887703044756379880
+    second: npc2-removebg-preview_22
+  - first:
+      213: -6203606810335645324
+    second: npc2-removebg-preview_23
+  - first:
+      213: -9188443501111238093
+    second: npc2-removebg-preview_24
+  - first:
+      213: 1351351266331911025
+    second: npc2-removebg-preview_25
+  - first:
+      213: 3374190124184843050
+    second: npc2-removebg-preview_26
+  - first:
+      213: 4236833765209456615
+    second: npc2-removebg-preview_27
+  - first:
+      213: -2962873861753591694
+    second: npc2-removebg-preview_28
+  - first:
+      213: -8875797624585231090
+    second: npc2-removebg-preview_29
+  - first:
+      213: 207660103856413693
+    second: npc2-removebg-preview_30
+  - first:
+      213: -1100435134837604549
+    second: npc2-removebg-preview_31
+  - first:
+      213: -289948781910449829
+    second: npc2-removebg-preview_32
+  - first:
+      213: 7745978567648538743
+    second: npc2-removebg-preview_33
+  - first:
+      213: 7606900666638987821
+    second: npc2-removebg-preview_34
+  - first:
+      213: 5256727805340770726
+    second: npc2-removebg-preview_35
+  - first:
+      213: -1572507295987907968
+    second: npc2-removebg-preview_36
+  - first:
+      213: 7385705415458689121
+    second: npc2-removebg-preview_37
+  - first:
+      213: 3797394290238927322
+    second: npc2-removebg-preview_38
+  - first:
+      213: 6653583826717295761
+    second: npc2-removebg-preview_39
+  - first:
+      213: -5298031301302870932
+    second: npc2-removebg-preview_40
+  - first:
+      213: -8108344334016416479
+    second: npc2-removebg-preview_41
+  - first:
+      213: -3902370759888545383
+    second: npc2-removebg-preview_42
+  - first:
+      213: 1136958451015314161
+    second: npc2-removebg-preview_43
+  - first:
+      213: 6752496368212240812
+    second: npc2-removebg-preview_44
+  - first:
+      213: 7434011274974585973
+    second: npc2-removebg-preview_45
+  - first:
+      213: -2555902018742731802
+    second: npc2-removebg-preview_46
+  - first:
+      213: 5179694638325854419
+    second: npc2-removebg-preview_47
+  - first:
+      213: -4004903533180726542
+    second: npc2-removebg-preview_48
+  - first:
+      213: 8655320341985839687
+    second: npc2-removebg-preview_49
+  - first:
+      213: -7924006995142771364
+    second: npc2-removebg-preview_50
+  - first:
+      213: 3693307539841012725
+    second: npc2-removebg-preview_51
+  - first:
+      213: -1776315156062838560
+    second: npc2-removebg-preview_52
+  - first:
+      213: 6882972891163056774
+    second: npc2-removebg-preview_53
+  - first:
+      213: 4211068402176140424
+    second: npc2-removebg-preview_54
+  - first:
+      213: -2044343628474298252
+    second: npc2-removebg-preview_55
+  - first:
+      213: -8218794694643210118
+    second: npc2-removebg-preview_56
+  - first:
+      213: -8732333924896383487
+    second: npc2-removebg-preview_57
+  - first:
+      213: 4580908847913062315
+    second: npc2-removebg-preview_58
+  - first:
+      213: -18131108135326467
+    second: npc2-removebg-preview_59
+  - first:
+      213: -6776743461180235504
+    second: npc2-removebg-preview_60
+  - first:
+      213: 5592205869433227915
+    second: npc2-removebg-preview_61
+  - first:
+      213: -1864856981198108321
+    second: npc2-removebg-preview_62
+  - first:
+      213: 3437957216895770103
+    second: npc2-removebg-preview_63
+  - first:
+      213: -7440130806186667987
+    second: npc2-removebg-preview_64
+  - first:
+      213: -5543833682229623932
+    second: npc2-removebg-preview_65
+  - first:
+      213: -5369541274439492712
+    second: npc2-removebg-preview_66
+  - first:
+      213: 7117995132425020407
+    second: npc2-removebg-preview_67
+  - first:
+      213: 3740659954405827577
+    second: npc2-removebg-preview_68
+  - first:
+      213: 4452741411080926615
+    second: npc2-removebg-preview_69
+  - first:
+      213: -4248647197523579823
+    second: npc2-removebg-preview_70
+  - first:
+      213: -4849233557080721745
+    second: npc2-removebg-preview_71
+  - first:
+      213: 7643532788883553987
+    second: npc2-removebg-preview_72
+  - first:
+      213: 4478419443729432930
+    second: npc2-removebg-preview_73
+  - first:
+      213: -7075166127321729569
+    second: npc2-removebg-preview_74
+  - first:
+      213: 14823552973236049
+    second: npc2-removebg-preview_75
+  - first:
+      213: 2865318787665599945
+    second: npc2-removebg-preview_76
+  - first:
+      213: 7674225624638384181
+    second: npc2-removebg-preview_77
+  - first:
+      213: -3171886117171148147
+    second: npc2-removebg-preview_78
+  - first:
+      213: 5413806534064485447
+    second: npc2-removebg-preview_79
+  - first:
+      213: 7935672986673837520
+    second: npc2-removebg-preview_80
+  - first:
+      213: 2686960520730975247
+    second: npc2-removebg-preview_81
+  - first:
+      213: -3455878901427410901
+    second: npc2-removebg-preview_82
+  - first:
+      213: 7222389851991600066
+    second: npc2-removebg-preview_83
+  - first:
+      213: 3838547880589004315
+    second: npc2-removebg-preview_84
+  - first:
+      213: -324803984216185823
+    second: npc2-removebg-preview_85
+  - first:
+      213: -3208466594533526096
+    second: npc2-removebg-preview_86
+  - first:
+      213: -6855258910829660240
+    second: npc2-removebg-preview_87
+  - first:
+      213: 1548978167145053847
+    second: npc2-removebg-preview_88
+  - first:
+      213: 8785750122483231112
+    second: npc2-removebg-preview_89
+  - first:
+      213: 1247768270547520231
+    second: npc2-removebg-preview_90
+  - first:
+      213: -1367407619272379715
+    second: npc2-removebg-preview_91
+  - first:
+      213: 3681196407413068683
+    second: npc2-removebg-preview_92
+  - first:
+      213: 8271399869307974457
+    second: npc2-removebg-preview_93
+  - first:
+      213: 7506552517478035150
+    second: npc2-removebg-preview_94
+  - first:
+      213: -315371756862858798
+    second: npc2-removebg-preview_95
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 16
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: npc2-removebg-preview_0
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 425
+        width: 31
+        height: 38
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 31c74d7c190303c80800000000000000
+      internalID: -8345116706836546541
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc2-removebg-preview_1
+      rect:
+        serializedVersion: 2
+        x: 58
+        y: 426
+        width: 29
+        height: 36
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 92ff58cac4a1d17e0800000000000000
+      internalID: -1793248160009289943
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc2-removebg-preview_2
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 425
+        width: 29
+        height: 35
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 98d4540410f8b18a0800000000000000
+      internalID: -6333311215430447735
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc2-removebg-preview_3
+      rect:
+        serializedVersion: 2
+        x: 142
+        y: 425
+        width: 27
+        height: 37
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 364bc9cfdaff126a0800000000000000
+      internalID: -6475613666449509277
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc2-removebg-preview_4
+      rect:
+        serializedVersion: 2
+        x: 182
+        y: 426
+        width: 26
+        height: 37
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7b850d71a59c737a0800000000000000
+      internalID: -6397423356872730441
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc2-removebg-preview_5
+      rect:
+        serializedVersion: 2
+        x: 222
+        y: 425
+        width: 27
+        height: 37
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 55aa04a6a192b08f0800000000000000
+      internalID: -573319334131094955
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc2-removebg-preview_6
+      rect:
+        serializedVersion: 2
+        x: 262
+        y: 425
+        width: 27
+        height: 33
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 196fa3c03d221c630800000000000000
+      internalID: 3945473038391899793
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc2-removebg-preview_7
+      rect:
+        serializedVersion: 2
+        x: 305
+        y: 426
+        width: 25
+        height: 34
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 724e35be3ef504900800000000000000
+      internalID: 666638177361191975
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc2-removebg-preview_8
+      rect:
+        serializedVersion: 2
+        x: 345
+        y: 425
+        width: 28
+        height: 33
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: be303407b7ade9440800000000000000
+      internalID: 4944629664598655979
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc2-removebg-preview_9
+      rect:
+        serializedVersion: 2
+        x: 386
+        y: 425
+        width: 26
+        height: 33
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a7ed93426b99a9610800000000000000
+      internalID: 1628783222818725498
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc2-removebg-preview_10
+      rect:
+        serializedVersion: 2
+        x: 427
+        y: 426
+        width: 25
+        height: 34
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 351c5c2098d1e36f0800000000000000
+      internalID: -703092017528979117
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc2-removebg-preview_11
+      rect:
+        serializedVersion: 2
+        x: 468
+        y: 425
+        width: 26
+        height: 36
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3637443f09986aeb0800000000000000
+      internalID: -4708925104719629469
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc2-removebg-preview_12
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 372
+        width: 29
+        height: 34
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 355aa801c542acb00800000000000000
+      internalID: 849531457545872723
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc2-removebg-preview_13
+      rect:
+        serializedVersion: 2
+        x: 58
+        y: 372
+        width: 29
+        height: 35
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c4ba8e737ba1a80f0800000000000000
+      internalID: -1114048583601444020
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc2-removebg-preview_14
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 372
+        width: 29
+        height: 34
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 01fbd5e2f8549db10800000000000000
+      internalID: 2006711590230802192
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc2-removebg-preview_15
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 372
+        width: 25
+        height: 34
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 853971c62479208a0800000000000000
+      internalID: -6340339013847116968
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc2-removebg-preview_16
+      rect:
+        serializedVersion: 2
+        x: 182
+        y: 372
+        width: 26
+        height: 35
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6e41cd892d765abb0800000000000000
+      internalID: -4925416463254416154
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc2-removebg-preview_17
+      rect:
+        serializedVersion: 2
+        x: 223
+        y: 372
+        width: 26
+        height: 34
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f2fa963adf94d35b0800000000000000
+      internalID: -5387068225548079313
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc2-removebg-preview_18
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 372
+        width: 23
+        height: 32
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9072c1046000e8860800000000000000
+      internalID: 7533959253482809097
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc2-removebg-preview_19
+      rect:
+        serializedVersion: 2
+        x: 307
+        y: 372
+        width: 23
+        height: 34
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e7c5614db26f66140800000000000000
+      internalID: 4712724728192064638
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc2-removebg-preview_20
+      rect:
+        serializedVersion: 2
+        x: 347
+        y: 372
+        width: 24
+        height: 32
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c5f2d982ff2bcf3c0800000000000000
+      internalID: -4324384733214724260
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc2-removebg-preview_21
+      rect:
+        serializedVersion: 2
+        x: 386
+        y: 372
+        width: 26
+        height: 32
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 58098a54535a86760800000000000000
+      internalID: 7451387231705010309
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc2-removebg-preview_22
+      rect:
+        serializedVersion: 2
+        x: 427
+        y: 372
+        width: 25
+        height: 34
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8e890bd89b255b150800000000000000
+      internalID: 5887703044756379880
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc2-removebg-preview_23
+      rect:
+        serializedVersion: 2
+        x: 468
+        y: 372
+        width: 25
+        height: 32
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 471ffbf597c58e9a0800000000000000
+      internalID: -6203606810335645324
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc2-removebg-preview_24
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 318
+        width: 29
+        height: 33
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 332a48571571c7080800000000000000
+      internalID: -9188443501111238093
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc2-removebg-preview_25
+      rect:
+        serializedVersion: 2
+        x: 58
+        y: 318
+        width: 29
+        height: 35
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 173ec7421d6f0c210800000000000000
+      internalID: 1351351266331911025
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc2-removebg-preview_26
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 318
+        width: 29
+        height: 33
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a233bac6a0883de20800000000000000
+      internalID: 3374190124184843050
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc2-removebg-preview_27
+      rect:
+        serializedVersion: 2
+        x: 142
+        y: 318
+        width: 25
+        height: 33
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7efb0bb9cd14cca30800000000000000
+      internalID: 4236833765209456615
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc2-removebg-preview_28
+      rect:
+        serializedVersion: 2
+        x: 182
+        y: 318
+        width: 26
+        height: 36
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 27823e3bbe1c1e6d0800000000000000
+      internalID: -2962873861753591694
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc2-removebg-preview_29
+      rect:
+        serializedVersion: 2
+        x: 222
+        y: 318
+        width: 25
+        height: 33
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e0567502615d2d480800000000000000
+      internalID: -8875797624585231090
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc2-removebg-preview_30
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 318
+        width: 23
+        height: 32
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dfbd164a3c1c1e200800000000000000
+      internalID: 207660103856413693
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc2-removebg-preview_31
+      rect:
+        serializedVersion: 2
+        x: 305
+        y: 318
+        width: 23
+        height: 33
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b3f35a143187ab0f0800000000000000
+      internalID: -1100435134837604549
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc2-removebg-preview_32
+      rect:
+        serializedVersion: 2
+        x: 347
+        y: 318
+        width: 24
+        height: 32
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b51ab2b7e15e9fbf0800000000000000
+      internalID: -289948781910449829
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc2-removebg-preview_33
+      rect:
+        serializedVersion: 2
+        x: 386
+        y: 318
+        width: 26
+        height: 32
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 770fa72a77e3f7b60800000000000000
+      internalID: 7745978567648538743
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc2-removebg-preview_34
+      rect:
+        serializedVersion: 2
+        x: 427
+        y: 318
+        width: 25
+        height: 33
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d22f2bc6ad3219960800000000000000
+      internalID: 7606900666638987821
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc2-removebg-preview_35
+      rect:
+        serializedVersion: 2
+        x: 468
+        y: 318
+        width: 25
+        height: 32
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6a1614e6616a3f840800000000000000
+      internalID: 5256727805340770726
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc2-removebg-preview_36
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 262
+        width: 29
+        height: 35
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0824eef12f45d2ae0800000000000000
+      internalID: -1572507295987907968
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc2-removebg-preview_37
+      rect:
+        serializedVersion: 2
+        x: 58
+        y: 264
+        width: 29
+        height: 35
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1601818b1fb4f7660800000000000000
+      internalID: 7385705415458689121
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc2-removebg-preview_38
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 262
+        width: 29
+        height: 35
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ad1b9cdccfd03b430800000000000000
+      internalID: 3797394290238927322
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc2-removebg-preview_39
+      rect:
+        serializedVersion: 2
+        x: 142
+        y: 262
+        width: 25
+        height: 37
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 194c4cafc37465c50800000000000000
+      internalID: 6653583826717295761
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc2-removebg-preview_40
+      rect:
+        serializedVersion: 2
+        x: 182
+        y: 264
+        width: 26
+        height: 37
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c6c11f40a9c9976b0800000000000000
+      internalID: -5298031301302870932
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc2-removebg-preview_41
+      rect:
+        serializedVersion: 2
+        x: 223
+        y: 262
+        width: 26
+        height: 37
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 125766eb9cf597f80800000000000000
+      internalID: -8108344334016416479
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc2-removebg-preview_42
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 262
+        width: 25
+        height: 33
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 999d8f2387ef7d9c0800000000000000
+      internalID: -3902370759888545383
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc2-removebg-preview_43
+      rect:
+        serializedVersion: 2
+        x: 305
+        y: 264
+        width: 25
+        height: 33
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1fa6525ffa947cf00800000000000000
+      internalID: 1136958451015314161
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc2-removebg-preview_44
+      rect:
+        serializedVersion: 2
+        x: 345
+        y: 262
+        width: 26
+        height: 33
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ca9e76eabafa5bd50800000000000000
+      internalID: 6752496368212240812
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc2-removebg-preview_45
+      rect:
+        serializedVersion: 2
+        x: 386
+        y: 262
+        width: 26
+        height: 33
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 574eb151ed9ea2760800000000000000
+      internalID: 7434011274974585973
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc2-removebg-preview_46
+      rect:
+        serializedVersion: 2
+        x: 427
+        y: 263
+        width: 25
+        height: 34
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6ebb22cd7ac978cd0800000000000000
+      internalID: -2555902018742731802
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc2-removebg-preview_47
+      rect:
+        serializedVersion: 2
+        x: 468
+        y: 262
+        width: 25
+        height: 33
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3d0786294d8f1e740800000000000000
+      internalID: 5179694638325854419
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc2-removebg-preview_48
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 208
+        width: 27
+        height: 35
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2f25e099479bb68c0800000000000000
+      internalID: -4004903533180726542
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc2-removebg-preview_49
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 209
+        width: 26
+        height: 36
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 74a47414effdd1870800000000000000
+      internalID: 8655320341985839687
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc2-removebg-preview_50
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 208
+        width: 27
+        height: 35
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c5dfdc00f95480290800000000000000
+      internalID: -7924006995142771364
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc2-removebg-preview_51
+      rect:
+        serializedVersion: 2
+        x: 141
+        y: 208
+        width: 28
+        height: 33
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5f3de76b3a3414330800000000000000
+      internalID: 3693307539841012725
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc2-removebg-preview_52
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 209
+        width: 28
+        height: 34
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0e06bb1e6c24957e0800000000000000
+      internalID: -1776315156062838560
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc2-removebg-preview_53
+      rect:
+        serializedVersion: 2
+        x: 221
+        y: 208
+        width: 28
+        height: 34
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 68ada60806b358f50800000000000000
+      internalID: 6882972891163056774
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc2-removebg-preview_54
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 208
+        width: 25
+        height: 33
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 884a49c8668b07a30800000000000000
+      internalID: 4211068402176140424
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc2-removebg-preview_55
+      rect:
+        serializedVersion: 2
+        x: 304
+        y: 209
+        width: 26
+        height: 34
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 470d4f12d4801a3e0800000000000000
+      internalID: -2044343628474298252
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc2-removebg-preview_56
+      rect:
+        serializedVersion: 2
+        x: 345
+        y: 208
+        width: 26
+        height: 33
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a782def25c9f0fd80800000000000000
+      internalID: -8218794694643210118
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc2-removebg-preview_57
+      rect:
+        serializedVersion: 2
+        x: 385
+        y: 208
+        width: 28
+        height: 31
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 10e557aaf8480d680800000000000000
+      internalID: -8732333924896383487
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc2-removebg-preview_58
+      rect:
+        serializedVersion: 2
+        x: 425
+        y: 209
+        width: 29
+        height: 32
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: baf4d449358a29f30800000000000000
+      internalID: 4580908847913062315
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc2-removebg-preview_59
+      rect:
+        serializedVersion: 2
+        x: 466
+        y: 208
+        width: 29
+        height: 31
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dfca53c6ad59fbff0800000000000000
+      internalID: -18131108135326467
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc2-removebg-preview_60
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 155
+        width: 27
+        height: 34
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 011a66e0abb24f1a0800000000000000
+      internalID: -6776743461180235504
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc2-removebg-preview_61
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 155
+        width: 27
+        height: 36
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b8a0c660c918b9d40800000000000000
+      internalID: 5592205869433227915
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc2-removebg-preview_62
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 155
+        width: 27
+        height: 34
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f5987ceb472be16e0800000000000000
+      internalID: -1864856981198108321
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc2-removebg-preview_63
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 155
+        width: 26
+        height: 32
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7fd101aafd316bf20800000000000000
+      internalID: 3437957216895770103
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc2-removebg-preview_64
+      rect:
+        serializedVersion: 2
+        x: 182
+        y: 155
+        width: 26
+        height: 34
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d209dc683785fb890800000000000000
+      internalID: -7440130806186667987
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc2-removebg-preview_65
+      rect:
+        serializedVersion: 2
+        x: 223
+        y: 155
+        width: 26
+        height: 32
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4838bd473a85013b0800000000000000
+      internalID: -5543833682229623932
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc2-removebg-preview_66
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 154
+        width: 27
+        height: 31
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 89b5c32f8ae8b75b0800000000000000
+      internalID: -5369541274439492712
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc2-removebg-preview_67
+      rect:
+        serializedVersion: 2
+        x: 303
+        y: 155
+        width: 27
+        height: 32
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7f327253cd238c260800000000000000
+      internalID: 7117995132425020407
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc2-removebg-preview_68
+      rect:
+        serializedVersion: 2
+        x: 345
+        y: 154
+        width: 28
+        height: 31
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9f363efd86e79e330800000000000000
+      internalID: 3740659954405827577
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc2-removebg-preview_69
+      rect:
+        serializedVersion: 2
+        x: 386
+        y: 154
+        width: 28
+        height: 30
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7957624c8b05bcd30800000000000000
+      internalID: 4452741411080926615
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc2-removebg-preview_70
+      rect:
+        serializedVersion: 2
+        x: 425
+        y: 155
+        width: 28
+        height: 30
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 15ce5a752e5c905c0800000000000000
+      internalID: -4248647197523579823
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc2-removebg-preview_71
+      rect:
+        serializedVersion: 2
+        x: 468
+        y: 154
+        width: 27
+        height: 30
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fa6bc4da5cf04bcb0800000000000000
+      internalID: -4849233557080721745
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc2-removebg-preview_72
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 101
+        width: 27
+        height: 34
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3ce74760398431a60800000000000000
+      internalID: 7643532788883553987
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc2-removebg-preview_73
+      rect:
+        serializedVersion: 2
+        x: 58
+        y: 101
+        width: 28
+        height: 35
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 26102b2a1ca862e30800000000000000
+      internalID: 4478419443729432930
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc2-removebg-preview_74
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 101
+        width: 27
+        height: 34
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fd5bc1e94e5ffcd90800000000000000
+      internalID: -7075166127321729569
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc2-removebg-preview_75
+      rect:
+        serializedVersion: 2
+        x: 142
+        y: 101
+        width: 25
+        height: 32
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 157674161f9a43000800000000000000
+      internalID: 14823552973236049
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc2-removebg-preview_76
+      rect:
+        serializedVersion: 2
+        x: 182
+        y: 101
+        width: 26
+        height: 34
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9cd9f0b9148a3c720800000000000000
+      internalID: 2865318787665599945
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc2-removebg-preview_77
+      rect:
+        serializedVersion: 2
+        x: 222
+        y: 101
+        width: 25
+        height: 32
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 53865cabb83508a60800000000000000
+      internalID: 7674225624638384181
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc2-removebg-preview_78
+      rect:
+        serializedVersion: 2
+        x: 262
+        y: 99
+        width: 27
+        height: 33
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d8a450eb1623bf3d0800000000000000
+      internalID: -3171886117171148147
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc2-removebg-preview_79
+      rect:
+        serializedVersion: 2
+        x: 305
+        y: 101
+        width: 27
+        height: 32
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7443a91fb54b12b40800000000000000
+      internalID: 5413806534064485447
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc2-removebg-preview_80
+      rect:
+        serializedVersion: 2
+        x: 344
+        y: 99
+        width: 27
+        height: 32
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0d57b50598c212e60800000000000000
+      internalID: 7935672986673837520
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc2-removebg-preview_81
+      rect:
+        serializedVersion: 2
+        x: 385
+        y: 99
+        width: 27
+        height: 30
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f0c1ba38b500a4520800000000000000
+      internalID: 2686960520730975247
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc2-removebg-preview_82
+      rect:
+        serializedVersion: 2
+        x: 426
+        y: 101
+        width: 29
+        height: 31
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b28e6adf2704a00d0800000000000000
+      internalID: -3455878901427410901
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc2-removebg-preview_83
+      rect:
+        serializedVersion: 2
+        x: 466
+        y: 99
+        width: 27
+        height: 31
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2cb6855fd451b3460800000000000000
+      internalID: 7222389851991600066
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc2-removebg-preview_84
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 45
+        width: 26
+        height: 35
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b1e06dbb5f2454530800000000000000
+      internalID: 3838547880589004315
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc2-removebg-preview_85
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 46
+        width: 26
+        height: 36
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 124a92b4f701e7bf0800000000000000
+      internalID: -324803984216185823
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc2-removebg-preview_86
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 45
+        width: 25
+        height: 35
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0b53f17a1ac3973d0800000000000000
+      internalID: -3208466594533526096
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc2-removebg-preview_87
+      rect:
+        serializedVersion: 2
+        x: 141
+        y: 45
+        width: 28
+        height: 34
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0b7baa0675a3dd0a0800000000000000
+      internalID: -6855258910829660240
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc2-removebg-preview_88
+      rect:
+        serializedVersion: 2
+        x: 182
+        y: 46
+        width: 27
+        height: 34
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 79e3489af631f7510800000000000000
+      internalID: 1548978167145053847
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc2-removebg-preview_89
+      rect:
+        serializedVersion: 2
+        x: 221
+        y: 45
+        width: 28
+        height: 34
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 88925ffff214de970800000000000000
+      internalID: 8785750122483231112
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc2-removebg-preview_90
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 45
+        width: 25
+        height: 34
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7ea0dff81a6f05110800000000000000
+      internalID: 1247768270547520231
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc2-removebg-preview_91
+      rect:
+        serializedVersion: 2
+        x: 305
+        y: 46
+        width: 25
+        height: 34
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: db27b1ed30ef50de0800000000000000
+      internalID: -1367407619272379715
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc2-removebg-preview_92
+      rect:
+        serializedVersion: 2
+        x: 345
+        y: 45
+        width: 26
+        height: 34
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b83dc44f0ac361330800000000000000
+      internalID: 3681196407413068683
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc2-removebg-preview_93
+      rect:
+        serializedVersion: 2
+        x: 385
+        y: 45
+        width: 28
+        height: 32
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 933705d7b5ae9c270800000000000000
+      internalID: 8271399869307974457
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc2-removebg-preview_94
+      rect:
+        serializedVersion: 2
+        x: 425
+        y: 46
+        width: 29
+        height: 33
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ecea7144eb1ac2860800000000000000
+      internalID: 7506552517478035150
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc2-removebg-preview_95
+      rect:
+        serializedVersion: 2
+        x: 466
+        y: 45
+        width: 29
+        height: 32
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2d99ffbde039f9bf0800000000000000
+      internalID: -315371756862858798
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
