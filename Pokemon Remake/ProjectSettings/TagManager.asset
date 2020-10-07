@@ -8,54 +8,57 @@ TagManager:
   - Default
   - TransparentFX
   - Ignore Raycast
-  -
+  - 
   - Water
   - UI
-  -
-  -
-  - Foreground
-  - Grass
-  - Ocean
-  -
-  -
-  -
-  -
-  -
-  -
-  -
-  -
-  -
-  -
-  -
-  -
-  -
-  -
-  -
-  -
-  -
-  -
-  -
-  -
-  -
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
   m_SortingLayers:
   - name: Default
     uniqueID: 0
     locked: 0
   - name: Background
-    uniqueID: 693317635
+    uniqueID: 1086040371
     locked: 0
-  - name: Ocean
-    uniqueID: 800589431
+  - name: Grass
+    uniqueID: 235098353
+    locked: 0
+  - name: Doors
+    uniqueID: 3443574261
     locked: 0
   - name: Foreground
-    uniqueID: 1934837835
+    uniqueID: 1563768631
     locked: 0
   - name: Overworld Items
-    uniqueID: 547266121
+    uniqueID: 3877118023
     locked: 0
-  - name: NPCs
-    uniqueID: 662252947
+  - name: NPC
+    uniqueID: 3739549585
     locked: 0
   - name: Player
-    uniqueID: 1243702743
+    uniqueID: 1029498863
     locked: 0
