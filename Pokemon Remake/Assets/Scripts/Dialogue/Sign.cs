@@ -21,7 +21,7 @@ public class Sign : MonoBehaviour
     // Update is called once per frame
     void Update()
     {
-        if (Input.GetKey(KeyCode.Space) && playerInRange)
+        if (Input.GetKey(KeyCode.Space) /*&& playerInRange*/)
         {
             if(dialogBox.activeInHierarchy)
             {
@@ -39,7 +39,7 @@ public class Sign : MonoBehaviour
     {
         if (collision.CompareTag("Player"))
         {
-            playerInRange = true;
+            //playerInRange = true;
         }
     }
 
@@ -47,7 +47,7 @@ public class Sign : MonoBehaviour
     {
         if (collision.CompareTag("Player"))
         {
-            playerInRange = false;
+            //playerInRange = false;
         }
     }
 }

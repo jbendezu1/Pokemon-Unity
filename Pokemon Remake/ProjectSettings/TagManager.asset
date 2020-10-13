@@ -53,12 +53,12 @@ TagManager:
   - name: Foreground
     uniqueID: 798826903
     locked: 0
-  - name: Player
-    uniqueID: 532268735
-    locked: 0
   - name: Doors
     uniqueID: 2703301693
     locked: 0
   - name: Above
     uniqueID: 1806838073
+    locked: 0
+  - name: Player
+    uniqueID: 532268735
     locked: 0
