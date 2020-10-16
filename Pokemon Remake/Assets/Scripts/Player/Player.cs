@@ -21,14 +21,15 @@ public class Player : MonoBehaviour
 	private Vector2 input;
 
 	private Animator animator;
+    private SpriteRenderer spriterenderer;
 
 	private void Awake()
 	{
 		animator = GetComponent<Animator>();
-        spriteName = GetComponent<SpriteRenderer>().sprite.name;
-	}
+        spriterenderer = GetComponent<SpriteRenderer>();
+    }
 
-	private void Update()
+    private void Update()
 	{
 		if (!isMoving)
 		{
@@ -76,19 +77,18 @@ public class Player : MonoBehaviour
 			return false;
 		}
 
-        if (Physics2D.OverlapCircle(targetposition,0.1f, Ocean) != null && spriteName.Contains("Trainer"))
+        if (Physics2D.OverlapCircle(targetposition,0.1f, Ocean) != null && spriterenderer.sprite.name.Contains("Trainer"))
         {
+            string spriteName = spriterenderer.sprite.name;
             Debug.Log(spriteName);
             return false;
-
         }
-
         return true;
 	}
 
     private void checkForEncounter()
     {
-        if (Physics2D.OverlapCircle(transform.position, 0.2f, Grass) != null)
+        if (Physics2D.OverlapCircle(transform.position, 0.1f, Grass) != null)
         {
             if (Random.Range(1, 101) % 5 == 0)
             {

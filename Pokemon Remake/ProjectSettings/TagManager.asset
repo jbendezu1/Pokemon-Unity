@@ -13,9 +13,9 @@ TagManager:
   - UI
   - 
   - 
+  - Ocean
   - Foreground
   - Grass
-  - 
   - 
   - 
   - 
@@ -42,23 +42,23 @@ TagManager:
     uniqueID: 0
     locked: 0
   - name: Background
-    uniqueID: 1086040371
+    uniqueID: 1514886587
+    locked: 0
+  - name: Ocean
+    uniqueID: 1436757599
     locked: 0
   - name: Grass
-    uniqueID: 235098353
-    locked: 0
-  - name: Doors
-    uniqueID: 3443574261
+    uniqueID: 1503851879
     locked: 0
   - name: Foreground
-    uniqueID: 1563768631
+    uniqueID: 798826903
     locked: 0
-  - name: Overworld Items
-    uniqueID: 3877118023
+  - name: Doors
+    uniqueID: 2703301693
     locked: 0
-  - name: NPC
-    uniqueID: 3739549585
+  - name: Above
+    uniqueID: 1806838073
     locked: 0
   - name: Player
-    uniqueID: 1029498863
+    uniqueID: 532268735
     locked: 0

@@ -1,5 +1,9 @@
 fileFormatVersion: 2
-guid: ecea882e528f7ff4aac61be9eecda876
+<<<<<<< Updated upstream:Pokemon Remake/Assets/Plugins.meta
+guid: f8f2784a0c39b9f4f991e6bbaced29b8
+=======
+guid: b8c0b83c822d9b446b0e034dcce25811
+>>>>>>> Stashed changes:Pokemon Remake/Assets/Dialog.meta
 folderAsset: yes
 DefaultImporter:
   externalObjects: {}
