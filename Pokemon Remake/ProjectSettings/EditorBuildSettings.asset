@@ -26,4 +26,7 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/Region 7.unity
     guid: 42872f2b4fe018a429dbddbf4720d4c3
+  - enabled: 1
+    path: Assets/Menu.unity
+    guid: 5f7103dd10ed80443a788274d3784718
   m_configObjects: {}

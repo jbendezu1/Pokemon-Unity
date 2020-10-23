@@ -1,7 +1,52 @@
 fileFormatVersion: 2
 guid: 7960b794f89187a4cbe2956a46049ea4
 TextureImporter:
-  internalIDToNameTable: []
+  internalIDToNameTable:
+  - first:
+      213: 3430207188939829100
+    second: Game Boy Advance - Pokemon FireRed LeafGreen - Interface & Bag Screens_0
+  - first:
+      213: 2419432309346619762
+    second: Game Boy Advance - Pokemon FireRed LeafGreen - Interface & Bag Screens_1
+  - first:
+      213: -1894535344250496865
+    second: Game Boy Advance - Pokemon FireRed LeafGreen - Interface & Bag Screens_2
+  - first:
+      213: 4378915569902830753
+    second: Game Boy Advance - Pokemon FireRed LeafGreen - Interface & Bag Screens_3
+  - first:
+      213: -7686204831370337823
+    second: Game Boy Advance - Pokemon FireRed LeafGreen - Interface & Bag Screens_4
+  - first:
+      213: 2141603303235461037
+    second: Game Boy Advance - Pokemon FireRed LeafGreen - Interface & Bag Screens_5
+  - first:
+      213: 1898165476614346105
+    second: Game Boy Advance - Pokemon FireRed LeafGreen - Interface & Bag Screens_6
+  - first:
+      213: 4026189564155570855
+    second: Game Boy Advance - Pokemon FireRed LeafGreen - Interface & Bag Screens_7
+  - first:
+      213: -7462531204847914632
+    second: Game Boy Advance - Pokemon FireRed LeafGreen - Interface & Bag Screens_8
+  - first:
+      213: -903882971179989951
+    second: Game Boy Advance - Pokemon FireRed LeafGreen - Interface & Bag Screens_9
+  - first:
+      213: -4926025714224978380
+    second: Game Boy Advance - Pokemon FireRed LeafGreen - Interface & Bag Screens_10
+  - first:
+      213: -4435331197490334031
+    second: Game Boy Advance - Pokemon FireRed LeafGreen - Interface & Bag Screens_11
+  - first:
+      213: -5676718254555590690
+    second: Game Boy Advance - Pokemon FireRed LeafGreen - Interface & Bag Screens_12
+  - first:
+      213: -7623125210250977941
+    second: Game Boy Advance - Pokemon FireRed LeafGreen - Interface & Bag Screens_13
+  - first:
+      213: 3735751811556955642
+    second: Game Boy Advance - Pokemon FireRed LeafGreen - Interface & Bag Screens_14
   externalObjects: {}
   serializedVersion: 11
   mipmaps:
@@ -97,7 +142,886 @@ TextureImporter:
     forceMaximumCompressionQuality_BC6H_BC7: 0
   spriteSheet:
     serializedVersion: 2
-    sprites: []
+    sprites:
+    - serializedVersion: 2
+      name: Game Boy Advance - Pokemon FireRed LeafGreen - Interface & Bag Screens_0
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 280
+        width: 240
+        height: 160
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c6fefbaa34b8a9f20800000000000000
+      internalID: 3430207188939829100
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Pokemon FireRed LeafGreen - Interface & Bag Screens_1
+      rect:
+        serializedVersion: 2
+        x: 259
+        y: 425
+        width: 9
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 1.5, y: 7}
+        - {x: 1.5, y: 6}
+        - {x: 0.5, y: 6}
+        - {x: 0.5, y: 5}
+        - {x: -0.5, y: 5}
+        - {x: -0.5, y: 4}
+        - {x: -1.5, y: 4}
+        - {x: -1.5, y: 3}
+        - {x: -2.5, y: 3}
+        - {x: -2.5, y: 2}
+        - {x: -3.5, y: 2}
+        - {x: -3.5, y: 1}
+        - {x: -4.5, y: 1}
+        - {x: -4.5, y: -1}
+        - {x: -3.5, y: -1}
+        - {x: -3.5, y: -2}
+        - {x: -2.5, y: -2}
+        - {x: -2.5, y: -3}
+        - {x: -1.5, y: -3}
+        - {x: -1.5, y: -4}
+        - {x: -0.5, y: -4}
+        - {x: -0.5, y: -5}
+        - {x: 0.5, y: -5}
+        - {x: 0.5, y: -6}
+        - {x: 1.5, y: -6}
+        - {x: 1.5, y: -7}
+        - {x: 3.5, y: -7}
+        - {x: 3.5, y: -6}
+        - {x: 4.5, y: -6}
+        - {x: 4.5, y: -4}
+        - {x: 3.5, y: -4}
+        - {x: 3.5, y: -2}
+        - {x: 2.5, y: -2}
+        - {x: 2.5, y: 2}
+        - {x: 3.5, y: 2}
+        - {x: 3.5, y: 4}
+        - {x: 4.5, y: 4}
+        - {x: 4.5, y: 6}
+        - {x: 3.5, y: 6}
+        - {x: 3.5, y: 7}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 27155bcdddc839120800000000000000
+      internalID: 2419432309346619762
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Pokemon FireRed LeafGreen - Interface & Bag Screens_2
+      rect:
+        serializedVersion: 2
+        x: 284
+        y: 425
+        width: 9
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -3.5, y: 7}
+        - {x: -3.5, y: 6}
+        - {x: -4.5, y: 6}
+        - {x: -4.5, y: 4}
+        - {x: -3.5, y: 4}
+        - {x: -3.5, y: 2}
+        - {x: -2.5, y: 2}
+        - {x: -2.5, y: -2}
+        - {x: -3.5, y: -2}
+        - {x: -3.5, y: -4}
+        - {x: -4.5, y: -4}
+        - {x: -4.5, y: -6}
+        - {x: -3.5, y: -6}
+        - {x: -3.5, y: -7}
+        - {x: -1.5, y: -7}
+        - {x: -1.5, y: -6}
+        - {x: -0.5, y: -6}
+        - {x: -0.5, y: -5}
+        - {x: 0.5, y: -5}
+        - {x: 0.5, y: -4}
+        - {x: 1.5, y: -4}
+        - {x: 1.5, y: -3}
+        - {x: 2.5, y: -3}
+        - {x: 2.5, y: -2}
+        - {x: 3.5, y: -2}
+        - {x: 3.5, y: -1}
+        - {x: 4.5, y: -1}
+        - {x: 4.5, y: 1}
+        - {x: 3.5, y: 1}
+        - {x: 3.5, y: 2}
+        - {x: 2.5, y: 2}
+        - {x: 2.5, y: 3}
+        - {x: 1.5, y: 3}
+        - {x: 1.5, y: 4}
+        - {x: 0.5, y: 4}
+        - {x: 0.5, y: 5}
+        - {x: -0.5, y: 5}
+        - {x: -0.5, y: 6}
+        - {x: -1.5, y: 6}
+        - {x: -1.5, y: 7}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f98d68f542245b5e0800000000000000
+      internalID: -1894535344250496865
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Pokemon FireRed LeafGreen - Interface & Bag Screens_3
+      rect:
+        serializedVersion: 2
+        x: 305
+        y: 427
+        width: 6
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1a44c75a28805cc30800000000000000
+      internalID: 4378915569902830753
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Pokemon FireRed LeafGreen - Interface & Bag Screens_4
+      rect:
+        serializedVersion: 2
+        x: 258
+        y: 394
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 1, y: 10}
+        - {x: 1, y: 2}
+        - {x: -1, y: 2}
+        - {x: -1, y: 5}
+        - {x: -4, y: 5}
+        - {x: -4, y: 4}
+        - {x: -5, y: 4}
+        - {x: -5, y: 3}
+        - {x: -6, y: 3}
+        - {x: -6, y: 2}
+        - {x: -7, y: 2}
+        - {x: -7, y: 1}
+        - {x: -8, y: 1}
+        - {x: -8, y: 0}
+        - {x: -9, y: 0}
+        - {x: -9, y: -1}
+        - {x: -10, y: -1}
+        - {x: -10, y: -4}
+        - {x: -9, y: -4}
+        - {x: -9, y: -5}
+        - {x: -8, y: -5}
+        - {x: -8, y: -6}
+        - {x: -7, y: -6}
+        - {x: -7, y: -7}
+        - {x: -6, y: -7}
+        - {x: -6, y: -8}
+        - {x: -5, y: -8}
+        - {x: -5, y: -9}
+        - {x: -4, y: -9}
+        - {x: -4, y: -10}
+        - {x: -1, y: -10}
+        - {x: -1, y: -7}
+        - {x: 10, y: -7}
+        - {x: 10, y: 10}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e1a74bdd6d155590800000000000000
+      internalID: -7686204831370337823
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Pokemon FireRed LeafGreen - Interface & Bag Screens_5
+      rect:
+        serializedVersion: 2
+        x: 291
+        y: 401
+        width: 10
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -5, y: 3}
+        - {x: -5, y: 1}
+        - {x: -4, y: 1}
+        - {x: -4, y: 0}
+        - {x: -3, y: 0}
+        - {x: -3, y: -1}
+        - {x: -2, y: -1}
+        - {x: -2, y: -2}
+        - {x: -1, y: -2}
+        - {x: -1, y: -3}
+        - {x: 1, y: -3}
+        - {x: 1, y: -2}
+        - {x: 2, y: -2}
+        - {x: 2, y: -1}
+        - {x: 3, y: -1}
+        - {x: 3, y: 0}
+        - {x: 4, y: 0}
+        - {x: 4, y: 1}
+        - {x: 5, y: 1}
+        - {x: 5, y: 3}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: daf172b8bd088bd10800000000000000
+      internalID: 2141603303235461037
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Pokemon FireRed LeafGreen - Interface & Bag Screens_6
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 112
+        width: 240
+        height: 160
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 975128ea173a75a10800000000000000
+      internalID: 1898165476614346105
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Pokemon FireRed LeafGreen - Interface & Bag Screens_7
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 74
+        width: 77
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -36.5, y: 14.5}
+        - {x: -36.5, y: 12.5}
+        - {x: -38.5, y: 12.5}
+        - {x: -38.5, y: -12.5}
+        - {x: -37.5, y: -12.5}
+        - {x: -37.5, y: -14.5}
+        - {x: 38.5, y: -14.5}
+        - {x: 38.5, y: 14.5}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7aaa0e1b316efd730800000000000000
+      internalID: 4026189564155570855
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Pokemon FireRed LeafGreen - Interface & Bag Screens_8
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 42
+        width: 77
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -36.5, y: 14.5}
+        - {x: -36.5, y: 12.5}
+        - {x: -38.5, y: 12.5}
+        - {x: -38.5, y: -12.5}
+        - {x: -37.5, y: -12.5}
+        - {x: -37.5, y: -14.5}
+        - {x: 38.5, y: -14.5}
+        - {x: 38.5, y: 14.5}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 871b5c94863cf6890800000000000000
+      internalID: -7462531204847914632
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Pokemon FireRed LeafGreen - Interface & Bag Screens_9
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 10
+        width: 77
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -36.5, y: 14.5}
+        - {x: -36.5, y: 12.5}
+        - {x: -38.5, y: 12.5}
+        - {x: -38.5, y: -12.5}
+        - {x: -37.5, y: -12.5}
+        - {x: -37.5, y: -14.5}
+        - {x: 38.5, y: -14.5}
+        - {x: 38.5, y: 14.5}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 144ca480a33c473f0800000000000000
+      internalID: -903882971179989951
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Pokemon FireRed LeafGreen - Interface & Bag Screens_10
+      rect:
+        serializedVersion: 2
+        x: 265
+        y: 105
+        width: 238
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 7, y: 6, z: 7, w: 6}
+      outline:
+      - - {x: -115, y: 23}
+        - {x: -115, y: 22}
+        - {x: -116, y: 22}
+        - {x: -116, y: 21}
+        - {x: -117, y: 21}
+        - {x: -117, y: 20}
+        - {x: -118, y: 20}
+        - {x: -118, y: 19}
+        - {x: -119, y: 19}
+        - {x: -119, y: -19}
+        - {x: -118, y: -19}
+        - {x: -118, y: -20}
+        - {x: -117, y: -20}
+        - {x: -117, y: -21}
+        - {x: -116, y: -21}
+        - {x: -116, y: -22}
+        - {x: -115, y: -22}
+        - {x: -115, y: -23}
+        - {x: 115, y: -23}
+        - {x: 115, y: -22}
+        - {x: 116, y: -22}
+        - {x: 116, y: -21}
+        - {x: 117, y: -21}
+        - {x: 117, y: -20}
+        - {x: 118, y: -20}
+        - {x: 118, y: -19}
+        - {x: 119, y: -19}
+        - {x: 119, y: 19}
+        - {x: 118, y: 19}
+        - {x: 118, y: 20}
+        - {x: 117, y: 20}
+        - {x: 117, y: 21}
+        - {x: 116, y: 21}
+        - {x: 116, y: 22}
+        - {x: 115, y: 22}
+        - {x: 115, y: 23}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4362e2d46bd33abb0800000000000000
+      internalID: -4926025714224978380
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Pokemon FireRed LeafGreen - Interface & Bag Screens_11
+      rect:
+        serializedVersion: 2
+        x: 266
+        y: 154
+        width: 236
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 6, y: 5, z: 6, w: 5}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1b6716876c98272c0800000000000000
+      internalID: -4435331197490334031
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Pokemon FireRed LeafGreen - Interface & Bag Screens_12
+      rect:
+        serializedVersion: 2
+        x: 331
+        y: 373
+        width: 58
+        height: 59
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 11, y: 29.5}
+        - {x: 11, y: 28.5}
+        - {x: 10, y: 28.5}
+        - {x: 10, y: 27.5}
+        - {x: 9, y: 27.5}
+        - {x: 9, y: 25.5}
+        - {x: 8, y: 25.5}
+        - {x: 8, y: 23.5}
+        - {x: 7, y: 23.5}
+        - {x: 7, y: 21.5}
+        - {x: 6, y: 21.5}
+        - {x: 6, y: 20.5}
+        - {x: -6, y: 20.5}
+        - {x: -6, y: 21.5}
+        - {x: -7, y: 21.5}
+        - {x: -7, y: 23.5}
+        - {x: -8, y: 23.5}
+        - {x: -8, y: 25.5}
+        - {x: -9, y: 25.5}
+        - {x: -9, y: 27.5}
+        - {x: -10, y: 27.5}
+        - {x: -10, y: 28.5}
+        - {x: -11, y: 28.5}
+        - {x: -11, y: 29.5}
+        - {x: -15, y: 29.5}
+        - {x: -15, y: 28.5}
+        - {x: -17, y: 28.5}
+        - {x: -17, y: 27.5}
+        - {x: -18, y: 27.5}
+        - {x: -18, y: 26.5}
+        - {x: -19, y: 26.5}
+        - {x: -19, y: 25.5}
+        - {x: -20, y: 25.5}
+        - {x: -20, y: 23.5}
+        - {x: -21, y: 23.5}
+        - {x: -21, y: 13.5}
+        - {x: -20, y: 13.5}
+        - {x: -20, y: 7.5}
+        - {x: -19, y: 7.5}
+        - {x: -19, y: 6.5}
+        - {x: -20, y: 6.5}
+        - {x: -20, y: 5.5}
+        - {x: -22, y: 5.5}
+        - {x: -22, y: 4.5}
+        - {x: -23, y: 4.5}
+        - {x: -23, y: 3.5}
+        - {x: -24, y: 3.5}
+        - {x: -24, y: 1.5}
+        - {x: -25, y: 1.5}
+        - {x: -25, y: -1.5}
+        - {x: -24, y: -1.5}
+        - {x: -24, y: -2.5}
+        - {x: -21, y: -2.5}
+        - {x: -21, y: -3.5}
+        - {x: -22, y: -3.5}
+        - {x: -22, y: -4.5}
+        - {x: -24, y: -4.5}
+        - {x: -24, y: -5.5}
+        - {x: -25, y: -5.5}
+        - {x: -25, y: -9.5}
+        - {x: -24, y: -9.5}
+        - {x: -24, y: -12.5}
+        - {x: -23, y: -12.5}
+        - {x: -23, y: -15.5}
+        - {x: -25, y: -15.5}
+        - {x: -25, y: -16.5}
+        - {x: -27, y: -16.5}
+        - {x: -27, y: -17.5}
+        - {x: -28, y: -17.5}
+        - {x: -28, y: -19.5}
+        - {x: -29, y: -19.5}
+        - {x: -29, y: -21.5}
+        - {x: -28, y: -21.5}
+        - {x: -28, y: -23.5}
+        - {x: -27, y: -23.5}
+        - {x: -27, y: -24.5}
+        - {x: -25, y: -24.5}
+        - {x: -25, y: -25.5}
+        - {x: -22, y: -25.5}
+        - {x: -22, y: -26.5}
+        - {x: -20, y: -26.5}
+        - {x: -20, y: -27.5}
+        - {x: -16, y: -27.5}
+        - {x: -16, y: -28.5}
+        - {x: -10, y: -28.5}
+        - {x: -10, y: -29.5}
+        - {x: 10, y: -29.5}
+        - {x: 10, y: -28.5}
+        - {x: 16, y: -28.5}
+        - {x: 16, y: -27.5}
+        - {x: 20, y: -27.5}
+        - {x: 20, y: -26.5}
+        - {x: 22, y: -26.5}
+        - {x: 22, y: -25.5}
+        - {x: 25, y: -25.5}
+        - {x: 25, y: -24.5}
+        - {x: 27, y: -24.5}
+        - {x: 27, y: -23.5}
+        - {x: 28, y: -23.5}
+        - {x: 28, y: -21.5}
+        - {x: 29, y: -21.5}
+        - {x: 29, y: -19.5}
+        - {x: 28, y: -19.5}
+        - {x: 28, y: -17.5}
+        - {x: 27, y: -17.5}
+        - {x: 27, y: -16.5}
+        - {x: 25, y: -16.5}
+        - {x: 25, y: -15.5}
+        - {x: 23, y: -15.5}
+        - {x: 23, y: 2.5}
+        - {x: 22, y: 2.5}
+        - {x: 22, y: 3.5}
+        - {x: 21, y: 3.5}
+        - {x: 21, y: 4.5}
+        - {x: 19, y: 4.5}
+        - {x: 19, y: 7.5}
+        - {x: 20, y: 7.5}
+        - {x: 20, y: 13.5}
+        - {x: 21, y: 13.5}
+        - {x: 21, y: 23.5}
+        - {x: 20, y: 23.5}
+        - {x: 20, y: 25.5}
+        - {x: 19, y: 25.5}
+        - {x: 19, y: 26.5}
+        - {x: 18, y: 26.5}
+        - {x: 18, y: 27.5}
+        - {x: 17, y: 27.5}
+        - {x: 17, y: 28.5}
+        - {x: 15, y: 28.5}
+        - {x: 15, y: 29.5}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: edf0d33f2de3831b0800000000000000
+      internalID: -5676718254555590690
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Pokemon FireRed LeafGreen - Interface & Bag Screens_13
+      rect:
+        serializedVersion: 2
+        x: 403
+        y: 373
+        width: 58
+        height: 63
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 17, y: 25.5}
+        - {x: 17, y: 26.5}
+        - {x: 15, y: 26.5}
+        - {x: 15, y: 27.5}
+        - {x: 14, y: 27.5}
+        - {x: 14, y: 28.5}
+        - {x: 13, y: 28.5}
+        - {x: 13, y: 29.5}
+        - {x: 11, y: 29.5}
+        - {x: 11, y: 30.5}
+        - {x: 7, y: 30.5}
+        - {x: 7, y: 31.5}
+        - {x: -7, y: 31.5}
+        - {x: -7, y: 30.5}
+        - {x: -11, y: 30.5}
+        - {x: -11, y: 29.5}
+        - {x: -13, y: 29.5}
+        - {x: -13, y: 28.5}
+        - {x: -14, y: 28.5}
+        - {x: -14, y: 27.5}
+        - {x: -15, y: 27.5}
+        - {x: -15, y: 26.5}
+        - {x: -17, y: 26.5}
+        - {x: -17, y: 25.5}
+        - {x: -18, y: 25.5}
+        - {x: -18, y: 24.5}
+        - {x: -19, y: 24.5}
+        - {x: -19, y: 23.5}
+        - {x: -20, y: 23.5}
+        - {x: -20, y: 21.5}
+        - {x: -21, y: 21.5}
+        - {x: -21, y: 11.5}
+        - {x: -20, y: 11.5}
+        - {x: -20, y: 5.5}
+        - {x: -19, y: 5.5}
+        - {x: -19, y: 2.5}
+        - {x: -21, y: 2.5}
+        - {x: -21, y: 1.5}
+        - {x: -22, y: 1.5}
+        - {x: -22, y: 0.5}
+        - {x: -23, y: 0.5}
+        - {x: -23, y: -4.5}
+        - {x: -24, y: -4.5}
+        - {x: -24, y: -6.5}
+        - {x: -23, y: -6.5}
+        - {x: -23, y: -17.5}
+        - {x: -25, y: -17.5}
+        - {x: -25, y: -18.5}
+        - {x: -27, y: -18.5}
+        - {x: -27, y: -19.5}
+        - {x: -28, y: -19.5}
+        - {x: -28, y: -21.5}
+        - {x: -29, y: -21.5}
+        - {x: -29, y: -23.5}
+        - {x: -28, y: -23.5}
+        - {x: -28, y: -25.5}
+        - {x: -27, y: -25.5}
+        - {x: -27, y: -26.5}
+        - {x: -25, y: -26.5}
+        - {x: -25, y: -27.5}
+        - {x: -22, y: -27.5}
+        - {x: -22, y: -28.5}
+        - {x: -20, y: -28.5}
+        - {x: -20, y: -29.5}
+        - {x: -16, y: -29.5}
+        - {x: -16, y: -30.5}
+        - {x: -10, y: -30.5}
+        - {x: -10, y: -31.5}
+        - {x: 10, y: -31.5}
+        - {x: 10, y: -30.5}
+        - {x: 16, y: -30.5}
+        - {x: 16, y: -29.5}
+        - {x: 20, y: -29.5}
+        - {x: 20, y: -28.5}
+        - {x: 22, y: -28.5}
+        - {x: 22, y: -27.5}
+        - {x: 25, y: -27.5}
+        - {x: 25, y: -26.5}
+        - {x: 27, y: -26.5}
+        - {x: 27, y: -25.5}
+        - {x: 28, y: -25.5}
+        - {x: 28, y: -23.5}
+        - {x: 29, y: -23.5}
+        - {x: 29, y: -21.5}
+        - {x: 28, y: -21.5}
+        - {x: 28, y: -19.5}
+        - {x: 27, y: -19.5}
+        - {x: 27, y: -18.5}
+        - {x: 25, y: -18.5}
+        - {x: 25, y: -17.5}
+        - {x: 23, y: -17.5}
+        - {x: 23, y: 0.5}
+        - {x: 22, y: 0.5}
+        - {x: 22, y: 1.5}
+        - {x: 21, y: 1.5}
+        - {x: 21, y: 2.5}
+        - {x: 19, y: 2.5}
+        - {x: 19, y: 5.5}
+        - {x: 20, y: 5.5}
+        - {x: 20, y: 11.5}
+        - {x: 21, y: 11.5}
+        - {x: 21, y: 21.5}
+        - {x: 20, y: 21.5}
+        - {x: 20, y: 23.5}
+        - {x: 19, y: 23.5}
+        - {x: 19, y: 24.5}
+        - {x: 18, y: 24.5}
+        - {x: 18, y: 25.5}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b6d5aa4a208353690800000000000000
+      internalID: -7623125210250977941
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Pokemon FireRed LeafGreen - Interface & Bag Screens_14
+      rect:
+        serializedVersion: 2
+        x: 475
+        y: 372
+        width: 58
+        height: 60
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 11, y: 30}
+        - {x: 11, y: 29}
+        - {x: 10, y: 29}
+        - {x: 10, y: 28}
+        - {x: 9, y: 28}
+        - {x: 9, y: 26}
+        - {x: 8, y: 26}
+        - {x: 8, y: 24}
+        - {x: 7, y: 24}
+        - {x: 7, y: 22}
+        - {x: 6, y: 22}
+        - {x: 6, y: 21}
+        - {x: -6, y: 21}
+        - {x: -6, y: 22}
+        - {x: -7, y: 22}
+        - {x: -7, y: 24}
+        - {x: -8, y: 24}
+        - {x: -8, y: 26}
+        - {x: -9, y: 26}
+        - {x: -9, y: 28}
+        - {x: -10, y: 28}
+        - {x: -10, y: 29}
+        - {x: -11, y: 29}
+        - {x: -11, y: 30}
+        - {x: -15, y: 30}
+        - {x: -15, y: 29}
+        - {x: -17, y: 29}
+        - {x: -17, y: 28}
+        - {x: -18, y: 28}
+        - {x: -18, y: 27}
+        - {x: -19, y: 27}
+        - {x: -19, y: 26}
+        - {x: -20, y: 26}
+        - {x: -20, y: 24}
+        - {x: -21, y: 24}
+        - {x: -21, y: 14}
+        - {x: -20, y: 14}
+        - {x: -20, y: 8}
+        - {x: -19, y: 8}
+        - {x: -19, y: 5}
+        - {x: -21, y: 5}
+        - {x: -21, y: 4}
+        - {x: -22, y: 4}
+        - {x: -22, y: 3}
+        - {x: -23, y: 3}
+        - {x: -23, y: -2}
+        - {x: -24, y: -2}
+        - {x: -24, y: -4}
+        - {x: -23, y: -4}
+        - {x: -23, y: -15}
+        - {x: -25, y: -15}
+        - {x: -25, y: -16}
+        - {x: -27, y: -16}
+        - {x: -27, y: -17}
+        - {x: -28, y: -17}
+        - {x: -28, y: -19}
+        - {x: -29, y: -19}
+        - {x: -29, y: -21}
+        - {x: -28, y: -21}
+        - {x: -28, y: -23}
+        - {x: -27, y: -23}
+        - {x: -27, y: -24}
+        - {x: -25, y: -24}
+        - {x: -25, y: -25}
+        - {x: -22, y: -25}
+        - {x: -22, y: -26}
+        - {x: -20, y: -26}
+        - {x: -20, y: -27}
+        - {x: -16, y: -27}
+        - {x: -16, y: -28}
+        - {x: -10, y: -28}
+        - {x: -10, y: -29}
+        - {x: 10, y: -29}
+        - {x: 10, y: -28}
+        - {x: 16, y: -28}
+        - {x: 16, y: -27}
+        - {x: 20, y: -27}
+        - {x: 20, y: -26}
+        - {x: 22, y: -26}
+        - {x: 22, y: -25}
+        - {x: 25, y: -25}
+        - {x: 25, y: -24}
+        - {x: 27, y: -24}
+        - {x: 27, y: -23}
+        - {x: 28, y: -23}
+        - {x: 28, y: -21}
+        - {x: 29, y: -21}
+        - {x: 29, y: -19}
+        - {x: 28, y: -19}
+        - {x: 28, y: -17}
+        - {x: 27, y: -17}
+        - {x: 27, y: -16}
+        - {x: 25, y: -16}
+        - {x: 25, y: -15}
+        - {x: 23, y: -15}
+        - {x: 23, y: -12}
+        - {x: 24, y: -12}
+        - {x: 24, y: -9}
+        - {x: 25, y: -9}
+        - {x: 25, y: -5}
+        - {x: 24, y: -5}
+        - {x: 24, y: -4}
+        - {x: 22, y: -4}
+        - {x: 22, y: -3}
+        - {x: 21, y: -3}
+        - {x: 21, y: -2}
+        - {x: 23, y: -2}
+        - {x: 23, y: -1}
+        - {x: 24, y: -1}
+        - {x: 24, y: 4}
+        - {x: 23, y: 4}
+        - {x: 23, y: 5}
+        - {x: 22, y: 5}
+        - {x: 22, y: 6}
+        - {x: 20, y: 6}
+        - {x: 20, y: 7}
+        - {x: 19, y: 7}
+        - {x: 19, y: 8}
+        - {x: 20, y: 8}
+        - {x: 20, y: 14}
+        - {x: 21, y: 14}
+        - {x: 21, y: 24}
+        - {x: 20, y: 24}
+        - {x: 20, y: 26}
+        - {x: 19, y: 26}
+        - {x: 19, y: 27}
+        - {x: 18, y: 27}
+        - {x: 18, y: 28}
+        - {x: 17, y: 28}
+        - {x: 17, y: 29}
+        - {x: 15, y: 29}
+        - {x: 15, y: 30}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: af5dfd0da7e08d330800000000000000
+      internalID: 3735751811556955642
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     outline: []
     physicsShape: []
     bones: []
