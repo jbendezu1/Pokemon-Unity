@@ -1189,10 +1189,10 @@ TextureImporter:
     second: General_394
   - first:
       213: 3478482728137419627
-    second: General_395
+    second: Palm_0
   - first:
       213: -5054489529767298831
-    second: General_396
+    second: Palm_1
   - first:
       213: -407778460429648471
     second: General_397
@@ -1318,10 +1318,10 @@ TextureImporter:
     second: General_437
   - first:
       213: -3296817690733472541
-    second: General_438
+    second: Palm_2
   - first:
       213: 6285113209986568166
-    second: General_439
+    second: Palm_3
   - first:
       213: 8376957484642168850
     second: General_440
@@ -1444,10 +1444,10 @@ TextureImporter:
     second: General_479
   - first:
       213: 9172199068604978088
-    second: General_480
+    second: Palm_4
   - first:
       213: 8907941384080138859
-    second: General_481
+    second: Palm_5
   - first:
       213: 2912115310423090486
     second: General_482
@@ -1774,7 +1774,7 @@ TextureImporter:
     second: General_589
   - first:
       213: -5824614436358070814
-    second: General_590
+    second: Pokeball
   - first:
       213: 8230331614878993193
     second: General_591
@@ -6367,10 +6367,10 @@ TextureImporter:
     second: General_394
   - first:
       213: 8288032710834247915
-    second: General_395
+    second: Palm_0
   - first:
       213: -2532464461530057532
-    second: General_396
+    second: Palm_1
   - first:
       213: -9077041571047448457
     second: General_397
@@ -6496,10 +6496,10 @@ TextureImporter:
     second: General_437
   - first:
       213: 7448567524488202875
-    second: General_438
+    second: Palm_2
   - first:
       213: 4169878367544655000
-    second: General_439
+    second: Palm_3
   - first:
       213: -5966022579887871051
     second: General_440
@@ -6622,10 +6622,10 @@ TextureImporter:
     second: General_479
   - first:
       213: 1400019410856405728
-    second: General_480
+    second: Palm_4
   - first:
       213: -4792409711166780436
-    second: General_481
+    second: Palm_5
   - first:
       213: 1815692077649260216
     second: General_482
@@ -6952,7 +6952,7 @@ TextureImporter:
     second: General_589
   - first:
       213: 2288418670384868237
-    second: General_590
+    second: Pokeball
   - first:
       213: 2919202336097971095
     second: General_591
@@ -19143,7 +19143,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: General_395
+      name: Palm_0
       rect:
         serializedVersion: 2
         x: 80
@@ -19184,7 +19184,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: General_396
+      name: Palm_1
       rect:
         serializedVersion: 2
         x: 96
@@ -20219,7 +20219,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: General_438
+      name: Palm_2
       rect:
         serializedVersion: 2
         x: 80
@@ -20266,7 +20266,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: General_439
+      name: Palm_3
       rect:
         serializedVersion: 2
         x: 96
@@ -21210,7 +21210,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: General_480
+      name: Palm_4
       rect:
         serializedVersion: 2
         x: 80
@@ -21231,7 +21231,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: General_481
+      name: Palm_5
       rect:
         serializedVersion: 2
         x: 96
@@ -23671,7 +23671,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: General_590
+      name: Pokeball
       rect:
         serializedVersion: 2
         x: 240
