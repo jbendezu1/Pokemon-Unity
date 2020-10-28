@@ -14,9 +14,9 @@ public class Player : MonoBehaviour
 
     public LayerMask Ocean;
     public LayerMask Entrance;
-    public LayerMask Shore;
     public LayerMask Foreground;
     public LayerMask Grass;
+    public LayerMask Door;
 
     private bool isMoving;
     private bool onMilotic;
@@ -72,6 +72,7 @@ public class Player : MonoBehaviour
         isMoving = false;
 
         checkForEncounter();
+        checkforDoor();
     }
 
     // Prevent player from moving over foreground tiles
@@ -83,11 +84,20 @@ public class Player : MonoBehaviour
 
         if (Physics2D.OverlapCircle(targetposition, 0.1f, Ocean) != null && spriterenderer.sprite.name.Contains("Trainer"))
         {
+            // Prompt decide to use surf if containing surfable pokemon, otherwise notify player they can't surf
             string spriteName = spriterenderer.sprite.name;
             Debug.Log(spriteName);
             return false;
         }
         return true;
+    }
+
+    private void checkforDoor()
+    {
+        if (Physics2D.OverlapCircle(transform.position, 0.1f, Door) != null)
+        {
+            this.transform.position = new Vector3(transform.position.x, transform.position.y+100,transform.position.z);
+        }
     }
 
     private void checkForEncounter()
