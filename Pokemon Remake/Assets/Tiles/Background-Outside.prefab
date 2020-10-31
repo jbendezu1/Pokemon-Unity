@@ -15353,8 +15353,13 @@ Tilemap:
   - first: {x: 12, y: 2, z: 0}
     second:
       serializedVersion: 2
+<<<<<<< Updated upstream
       m_TileIndex: 113
       m_TileSpriteIndex: 113
+=======
+      m_TileIndex: 0
+      m_TileSpriteIndex: 4294967295
+>>>>>>> Stashed changes
       m_TileMatrixIndex: 0
       m_TileColorIndex: 0
       m_TileObjectToInstantiateIndex: 65535
@@ -19016,6 +19021,7 @@ Tilemap:
     m_Data: {fileID: 11400000, guid: 56eaf83bfeea0594181d481221d83ceb, type: 2}
   - m_RefCount: 1
     m_Data: {fileID: 11400000, guid: 89306a8fddf4bcc4d80373d353832053, type: 2}
+<<<<<<< Updated upstream
   - m_RefCount: 1
     m_Data: {fileID: 11400000, guid: f3e4cee92c73888408e4199f843216cf, type: 2}
   m_TileSpriteArray:
@@ -20205,6 +20211,11 @@ Tilemap:
   - m_RefCount: 1
     m_Data: {fileID: -5054489529767298831, guid: 386f459b824decd40810715213da6879,
       type: 3}
+=======
+  m_TileSpriteArray:
+  - m_RefCount: 0
+    m_Data: {fileID: 0}
+>>>>>>> Stashed changes
   - m_RefCount: 1
     m_Data: {fileID: 3433769500875684059, guid: 386f459b824decd40810715213da6879,
       type: 3}
