@@ -34,6 +34,8 @@ public class Player : MonoBehaviour
 
     private void Update()
     {
+        menu = GameObject.Find("Menu");
+
         if (!isMoving)
         {
             input.x = Input.GetAxisRaw("Horizontal");
