@@ -21,7 +21,7 @@ public class Player : MonoBehaviour
     private bool isMoving;
     private bool onMilotic;
     private Vector2 input;
-
+    public bool teleporting;
     private Animator animator;
     private SpriteRenderer spriterenderer;
 
@@ -30,6 +30,7 @@ public class Player : MonoBehaviour
         animator = GetComponent<Animator>();
         spriterenderer = GetComponent<SpriteRenderer>();
         menu = GameObject.Find("Menu");
+        teleporting = false;
     }
 
     private void Update()
@@ -45,7 +46,7 @@ public class Player : MonoBehaviour
             if (input.x != 0) input.y = 0;
 
             // Create player movement
-            if (input != Vector2.zero && !menu.activeSelf)
+            if (input != Vector2.zero && !menu.activeSelf && !teleporting)
             {
                 animator.SetFloat("MoveX", input.x);
                 animator.SetFloat("MoveY", input.y);
