@@ -13,12 +13,12 @@ TagManager:
   - UI
   - 
   - 
+  - Door
   - Ocean
-  - Foreground
   - Grass
-  - 
-  - 
-  - 
+  - Foreground
+  - Player
+  - Above
   - 
   - 
   - 
@@ -42,23 +42,20 @@ TagManager:
     uniqueID: 0
     locked: 0
   - name: Ocean
-    uniqueID: 1436757599
+    uniqueID: 872861857
     locked: 0
   - name: Background
-    uniqueID: 1514886587
-    locked: 0
-  - name: Grass
-    uniqueID: 1503851879
+    uniqueID: 3627571497
     locked: 0
   - name: Foreground
-    uniqueID: 798826903
+    uniqueID: 3346473939
     locked: 0
-  - name: Doors
-    uniqueID: 2703301693
+  - name: Grass
+    uniqueID: 3828979647
     locked: 0
   - name: Player
-    uniqueID: 532268735
+    uniqueID: 2949566767
     locked: 0
   - name: Above
-    uniqueID: 1806838073
+    uniqueID: 2197084143
     locked: 0

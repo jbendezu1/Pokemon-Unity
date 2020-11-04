@@ -26,3 +26,4 @@ MonoBehaviour:
   specialAttack: 63
   specialDefense: 80
   speed: 60
+  learnableMoves: []
