@@ -7,13 +7,16 @@ using Vector2 = UnityEngine.Vector2;
 
 public class Player : MonoBehaviour
 {
+    public bool hasTeleported;
     private string spriteName;
     public float moveSpeed;
+    private Rigidbody2D myRigidBody;
     private GameObject menu;
+    private int i = 0;
+    public VectorValue startingPosition;
 
 
     public LayerMask Ocean;
-    public LayerMask Entrance;
     public LayerMask Foreground;
     public LayerMask Grass;
     public LayerMask Door;
@@ -24,13 +27,20 @@ public class Player : MonoBehaviour
     public bool teleporting;
     private Animator animator;
     private SpriteRenderer spriterenderer;
+    public Coroutine co;
 
     private void Awake()
     {
         animator = GetComponent<Animator>();
         spriterenderer = GetComponent<SpriteRenderer>();
+        myRigidBody = GetComponent<Rigidbody2D>();
         menu = GameObject.Find("Menu");
         teleporting = false;
+    }
+
+    private void Start()
+    {
+        transform.position = startingPosition.initialValue;
     }
 
     private void Update()
@@ -46,6 +56,7 @@ public class Player : MonoBehaviour
             if (input.x != 0) input.y = 0;
 
             // Create player movement
+
             if (input != Vector2.zero && !menu.activeSelf && !teleporting)
             {
                 animator.SetFloat("MoveX", input.x);
@@ -54,28 +65,39 @@ public class Player : MonoBehaviour
                 var targetPosition = transform.position;
                 targetPosition.x += input.x;
                 targetPosition.y += input.y;
+
                 if (isWalkable(targetPosition))
-                    StartCoroutine(Move(targetPosition));
+                {
+                    co = StartCoroutine(MovePlayer(targetPosition));                    
+                }
             }
         }
         animator.SetBool("isMoving", isMoving);
-
     }
 
-    IEnumerator Move(Vector3 targetPosition)
-    {
+    public IEnumerator MovePlayer(Vector3 targetPosition)
+    { 
         isMoving = true;
 
         while ((targetPosition - transform.position).sqrMagnitude > Mathf.Epsilon)
         {
+            if (hasTeleported)
+                break;
             transform.position = Vector3.MoveTowards(transform.position, targetPosition, moveSpeed * Time.deltaTime);
+  //          Debug.Log("In loop " + i);
             yield return null;
         }
-        transform.position = targetPosition;
-        isMoving = false;
+//        i++;
+//        Debug.Log("Outside loop");
 
-        checkForEncounter();
-        checkforDoor();
+        if (!hasTeleported)
+        {
+            transform.position = targetPosition;
+        }
+        hasTeleported = false;
+        isMoving = false;
+        checkForEncounter();            
+        
     }
 
     // Prevent player from moving over foreground tiles
@@ -93,14 +115,6 @@ public class Player : MonoBehaviour
             return false;
         }
         return true;
-    }
-
-    private void checkforDoor()
-    {
-        if (Physics2D.OverlapCircle(transform.position, 0.1f, Door) != null)
-        {
-            this.transform.position = new Vector3(transform.position.x, transform.position.y+100,transform.position.z);
-        }
     }
 
     private void checkForEncounter()

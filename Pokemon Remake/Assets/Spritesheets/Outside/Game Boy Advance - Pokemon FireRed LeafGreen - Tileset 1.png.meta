@@ -7841,7 +7841,11 @@ TextureImporter:
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
+      outline:
+      - - {x: -8, y: 8}
+        - {x: -8, y: -8}
+        - {x: 8, y: -8}
+        - {x: 8, y: 8}
       physicsShape: []
       tessellationDetail: 0
       bones: []
@@ -7883,7 +7887,11 @@ TextureImporter:
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
+      outline:
+      - - {x: -8, y: 8}
+        - {x: -8, y: -8}
+        - {x: 8, y: -8}
+        - {x: 8, y: 8}
       physicsShape: []
       tessellationDetail: 0
       bones: []
@@ -7904,7 +7912,11 @@ TextureImporter:
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
+      outline:
+      - - {x: -8, y: 8}
+        - {x: -8, y: -8}
+        - {x: 8, y: -8}
+        - {x: 8, y: 8}
       physicsShape: []
       tessellationDetail: 0
       bones: []
@@ -7925,7 +7937,11 @@ TextureImporter:
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
+      outline:
+      - - {x: -8, y: 8}
+        - {x: -8, y: -8}
+        - {x: 8, y: -8}
+        - {x: 8, y: 8}
       physicsShape: []
       tessellationDetail: 0
       bones: []
@@ -8175,7 +8191,7 @@ TextureImporter:
         height: 16
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
+      border: {x: 0, y: 8, z: 0, w: 0}
       outline:
       - - {x: -8, y: 8}
         - {x: -8, y: 0}
@@ -8200,7 +8216,8 @@ TextureImporter:
         height: 16
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
+      border: {x: 8, y: 8, z: 0, w: 0}
+
       outline:
       - - {x: 0, y: 8}
         - {x: 0, y: 0}
@@ -8225,7 +8242,8 @@ TextureImporter:
         height: 16
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
+      border: {x: 0, y: 8, z: 8, w: 0}
+
       outline:
       - - {x: -8, y: 8}
         - {x: -8, y: 0}
@@ -8307,14 +8325,18 @@ TextureImporter:
       name: Game Boy Advance - Pokemon FireRed LeafGreen - Tileset 1_34
       rect:
         serializedVersion: 2
-        x: 442
-        y: 1016
+        x: 561
+        y: 1067
         width: 16
         height: 16
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
+      outline:
+      - - {x: -2, y: -8}
+        - {x: 8, y: -8}
+        - {x: 8, y: -4}
+        - {x: -2, y: -4}
       physicsShape: []
       tessellationDetail: 0
       bones: []
@@ -8328,14 +8350,18 @@ TextureImporter:
       name: Game Boy Advance - Pokemon FireRed LeafGreen - Tileset 1_35
       rect:
         serializedVersion: 2
-        x: 459
-        y: 1050
+        x: 578
+        y: 1067
         width: 16
         height: 16
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
+      outline:
+      - - {x: -8, y: -8}
+        - {x: 8, y: -8}
+        - {x: 8, y: -4}
+        - {x: -8, y: -4}
       physicsShape: []
       tessellationDetail: 0
       bones: []
@@ -8349,14 +8375,19 @@ TextureImporter:
       name: Game Boy Advance - Pokemon FireRed LeafGreen - Tileset 1_36
       rect:
         serializedVersion: 2
-        x: 459
-        y: 1033
+        x: 595
+        y: 1067
         width: 16
         height: 16
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
+      outline:
+      - - {x: -8, y: -8}
+        - {x: 8, y: -8}
+        - {x: 8, y: -4}
+        - {x: -8, y: -4}
+
       physicsShape: []
       tessellationDetail: 0
       bones: []
@@ -8370,14 +8401,18 @@ TextureImporter:
       name: Game Boy Advance - Pokemon FireRed LeafGreen - Tileset 1_37
       rect:
         serializedVersion: 2
-        x: 459
-        y: 1016
+        x: 612
+        y: 1067
         width: 16
         height: 16
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
+      outline:
+      - - {x: -8, y: -8}
+        - {x: 2, y: -8}
+        - {x: 2, y: -4}
+        - {x: -8, y: -4}
       physicsShape: []
       tessellationDetail: 0
       bones: []
@@ -8391,8 +8426,8 @@ TextureImporter:
       name: Game Boy Advance - Pokemon FireRed LeafGreen - Tileset 1_38
       rect:
         serializedVersion: 2
-        x: 476
-        y: 1016
+        x: 544
+        y: 1050
         width: 16
         height: 16
       alignment: 0
@@ -8412,8 +8447,8 @@ TextureImporter:
       name: Game Boy Advance - Pokemon FireRed LeafGreen - Tileset 1_39
       rect:
         serializedVersion: 2
-        x: 476
-        y: 1033
+        x: 561
+        y: 1050
         width: 16
         height: 16
       alignment: 0
@@ -8433,7 +8468,7 @@ TextureImporter:
       name: Game Boy Advance - Pokemon FireRed LeafGreen - Tileset 1_40
       rect:
         serializedVersion: 2
-        x: 476
+        x: 578
         y: 1050
         width: 16
         height: 16
@@ -8454,7 +8489,7 @@ TextureImporter:
       name: Game Boy Advance - Pokemon FireRed LeafGreen - Tileset 1_41
       rect:
         serializedVersion: 2
-        x: 493
+        x: 595
         y: 1050
         width: 16
         height: 16
@@ -8475,7 +8510,7 @@ TextureImporter:
       name: Game Boy Advance - Pokemon FireRed LeafGreen - Tileset 1_42
       rect:
         serializedVersion: 2
-        x: 510
+        x: 612
         y: 1050
         width: 16
         height: 16
@@ -8496,8 +8531,8 @@ TextureImporter:
       name: Game Boy Advance - Pokemon FireRed LeafGreen - Tileset 1_43
       rect:
         serializedVersion: 2
-        x: 493
-        y: 1033
+        x: 629
+        y: 1050
         width: 16
         height: 16
       alignment: 0
@@ -8517,8 +8552,8 @@ TextureImporter:
       name: Game Boy Advance - Pokemon FireRed LeafGreen - Tileset 1_44
       rect:
         serializedVersion: 2
-        x: 493
-        y: 1016
+        x: 629
+        y: 1033
         width: 16
         height: 16
       alignment: 0
@@ -8538,8 +8573,8 @@ TextureImporter:
       name: Game Boy Advance - Pokemon FireRed LeafGreen - Tileset 1_45
       rect:
         serializedVersion: 2
-        x: 510
-        y: 1016
+        x: 612
+        y: 1033
         width: 16
         height: 16
       alignment: 0
@@ -8559,8 +8594,8 @@ TextureImporter:
       name: Game Boy Advance - Pokemon FireRed LeafGreen - Tileset 1_46
       rect:
         serializedVersion: 2
-        x: 459
-        y: 999
+        x: 629
+        y: 1016
         width: 16
         height: 16
       alignment: 0
@@ -8580,8 +8615,8 @@ TextureImporter:
       name: Game Boy Advance - Pokemon FireRed LeafGreen - Tileset 1_47
       rect:
         serializedVersion: 2
-        x: 459
-        y: 982
+        x: 612
+        y: 1016
         width: 16
         height: 16
       alignment: 0
@@ -8601,8 +8636,8 @@ TextureImporter:
       name: Game Boy Advance - Pokemon FireRed LeafGreen - Tileset 1_48
       rect:
         serializedVersion: 2
-        x: 476
-        y: 982
+        x: 595
+        y: 1016
         width: 16
         height: 16
       alignment: 0
@@ -8622,8 +8657,8 @@ TextureImporter:
       name: Game Boy Advance - Pokemon FireRed LeafGreen - Tileset 1_49
       rect:
         serializedVersion: 2
-        x: 476
-        y: 999
+        x: 578
+        y: 1016
         width: 16
         height: 16
       alignment: 0
@@ -8643,8 +8678,8 @@ TextureImporter:
       name: Game Boy Advance - Pokemon FireRed LeafGreen - Tileset 1_50
       rect:
         serializedVersion: 2
-        x: 493
-        y: 999
+        x: 561
+        y: 1016
         width: 16
         height: 16
       alignment: 0
@@ -8664,8 +8699,8 @@ TextureImporter:
       name: Game Boy Advance - Pokemon FireRed LeafGreen - Tileset 1_51
       rect:
         serializedVersion: 2
-        x: 493
-        y: 982
+        x: 544
+        y: 1016
         width: 16
         height: 16
       alignment: 0
@@ -8685,8 +8720,8 @@ TextureImporter:
       name: Game Boy Advance - Pokemon FireRed LeafGreen - Tileset 1_52
       rect:
         serializedVersion: 2
-        x: 595
-        y: 999
+        x: 544
+        y: 1033
         width: 16
         height: 16
       alignment: 0
@@ -8706,8 +8741,8 @@ TextureImporter:
       name: Game Boy Advance - Pokemon FireRed LeafGreen - Tileset 1_53
       rect:
         serializedVersion: 2
-        x: 595
-        y: 982
+        x: 561
+        y: 1033
         width: 16
         height: 16
       alignment: 0
@@ -8727,18 +8762,14 @@ TextureImporter:
       name: Game Boy Advance - Pokemon FireRed LeafGreen - Tileset 1_54
       rect:
         serializedVersion: 2
-        x: 595
-        y: 965
+        x: 578
+        y: 1033
         width: 16
         height: 16
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
-      outline:
-      - - {x: -8, y: 8}
-        - {x: -8, y: 0}
-        - {x: 8, y: 0}
-        - {x: 8, y: 8}
+      outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
@@ -8752,8 +8783,8 @@ TextureImporter:
       name: Game Boy Advance - Pokemon FireRed LeafGreen - Tileset 1_55
       rect:
         serializedVersion: 2
-        x: 629
-        y: 1016
+        x: 595
+        y: 1033
         width: 16
         height: 16
       alignment: 0
@@ -8774,7 +8805,7 @@ TextureImporter:
       rect:
         serializedVersion: 2
         x: 612
-        y: 1016
+        y: 1033
         width: 16
         height: 16
       alignment: 0
@@ -8795,7 +8826,7 @@ TextureImporter:
       rect:
         serializedVersion: 2
         x: 595
-        y: 1016
+        y: 999
         width: 16
         height: 16
       alignment: 0
@@ -8815,8 +8846,8 @@ TextureImporter:
       name: Game Boy Advance - Pokemon FireRed LeafGreen - Tileset 1_58
       rect:
         serializedVersion: 2
-        x: 578
-        y: 1016
+        x: 595
+        y: 982
         width: 16
         height: 16
       alignment: 0
@@ -8836,14 +8867,18 @@ TextureImporter:
       name: Game Boy Advance - Pokemon FireRed LeafGreen - Tileset 1_59
       rect:
         serializedVersion: 2
-        x: 561
-        y: 1016
+        x: 595
+        y: 965
         width: 16
         height: 16
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
+      outline:
+      - - {x: -8, y: 8}
+        - {x: -8, y: 0}
+        - {x: 8, y: 0}
+        - {x: 8, y: 8}
       physicsShape: []
       tessellationDetail: 0
       bones: []
@@ -8857,8 +8892,8 @@ TextureImporter:
       name: Game Boy Advance - Pokemon FireRed LeafGreen - Tileset 1_60
       rect:
         serializedVersion: 2
-        x: 544
-        y: 1016
+        x: 629
+        y: 982
         width: 16
         height: 16
       alignment: 0
@@ -8878,8 +8913,8 @@ TextureImporter:
       name: Game Boy Advance - Pokemon FireRed LeafGreen - Tileset 1_61
       rect:
         serializedVersion: 2
-        x: 544
-        y: 1033
+        x: 357
+        y: 98
         width: 16
         height: 16
       alignment: 0
@@ -8899,8 +8934,8 @@ TextureImporter:
       name: Game Boy Advance - Pokemon FireRed LeafGreen - Tileset 1_62
       rect:
         serializedVersion: 2
-        x: 544
-        y: 1050
+        x: 357
+        y: 115
         width: 16
         height: 16
       alignment: 0
@@ -8920,8 +8955,8 @@ TextureImporter:
       name: Game Boy Advance - Pokemon FireRed LeafGreen - Tileset 1_63
       rect:
         serializedVersion: 2
-        x: 561
-        y: 1050
+        x: 357
+        y: 132
         width: 16
         height: 16
       alignment: 0
@@ -8941,8 +8976,8 @@ TextureImporter:
       name: Game Boy Advance - Pokemon FireRed LeafGreen - Tileset 1_64
       rect:
         serializedVersion: 2
-        x: 561
-        y: 1033
+        x: 374
+        y: 98
         width: 16
         height: 16
       alignment: 0
@@ -8962,8 +8997,8 @@ TextureImporter:
       name: Game Boy Advance - Pokemon FireRed LeafGreen - Tileset 1_65
       rect:
         serializedVersion: 2
-        x: 578
-        y: 1033
+        x: 391
+        y: 98
         width: 16
         height: 16
       alignment: 0
@@ -8983,8 +9018,8 @@ TextureImporter:
       name: Game Boy Advance - Pokemon FireRed LeafGreen - Tileset 1_66
       rect:
         serializedVersion: 2
-        x: 578
-        y: 1050
+        x: 408
+        y: 98
         width: 16
         height: 16
       alignment: 0
@@ -9004,8 +9039,8 @@ TextureImporter:
       name: Game Boy Advance - Pokemon FireRed LeafGreen - Tileset 1_67
       rect:
         serializedVersion: 2
-        x: 595
-        y: 1050
+        x: 391
+        y: 115
         width: 16
         height: 16
       alignment: 0
@@ -9025,8 +9060,8 @@ TextureImporter:
       name: Game Boy Advance - Pokemon FireRed LeafGreen - Tileset 1_68
       rect:
         serializedVersion: 2
-        x: 595
-        y: 1033
+        x: 374
+        y: 115
         width: 16
         height: 16
       alignment: 0
@@ -9046,8 +9081,8 @@ TextureImporter:
       name: Game Boy Advance - Pokemon FireRed LeafGreen - Tileset 1_69
       rect:
         serializedVersion: 2
-        x: 595
-        y: 1016
+        x: 357
+        y: 115
         width: 16
         height: 16
       alignment: 0
@@ -9067,8 +9102,8 @@ TextureImporter:
       name: Game Boy Advance - Pokemon FireRed LeafGreen - Tileset 1_70
       rect:
         serializedVersion: 2
-        x: 612
-        y: 1050
+        x: 408
+        y: 115
         width: 16
         height: 16
       alignment: 0
@@ -9088,8 +9123,8 @@ TextureImporter:
       name: Game Boy Advance - Pokemon FireRed LeafGreen - Tileset 1_71
       rect:
         serializedVersion: 2
-        x: 612
-        y: 1033
+        x: 408
+        y: 132
         width: 16
         height: 16
       alignment: 0
@@ -9109,8 +9144,8 @@ TextureImporter:
       name: Game Boy Advance - Pokemon FireRed LeafGreen - Tileset 1_72
       rect:
         serializedVersion: 2
-        x: 629
-        y: 1033
+        x: 391
+        y: 132
         width: 16
         height: 16
       alignment: 0
@@ -9130,8 +9165,8 @@ TextureImporter:
       name: Game Boy Advance - Pokemon FireRed LeafGreen - Tileset 1_73
       rect:
         serializedVersion: 2
-        x: 629
-        y: 1050
+        x: 374
+        y: 132
         width: 16
         height: 16
       alignment: 0
@@ -9151,18 +9186,14 @@ TextureImporter:
       name: Game Boy Advance - Pokemon FireRed LeafGreen - Tileset 1_74
       rect:
         serializedVersion: 2
-        x: 612
-        y: 1067
+        x: 357
+        y: 149
         width: 16
         height: 16
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
-      outline:
-      - - {x: -8, y: -8}
-        - {x: 2, y: -8}
-        - {x: 2, y: -4}
-        - {x: -8, y: -4}
+      outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
@@ -9176,18 +9207,14 @@ TextureImporter:
       name: Game Boy Advance - Pokemon FireRed LeafGreen - Tileset 1_75
       rect:
         serializedVersion: 2
-        x: 595
-        y: 1067
+        x: 374
+        y: 149
         width: 16
         height: 16
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
-      outline:
-      - - {x: -8, y: -8}
-        - {x: 8, y: -8}
-        - {x: 8, y: -4}
-        - {x: -8, y: -4}
+      outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
@@ -9201,18 +9228,14 @@ TextureImporter:
       name: Game Boy Advance - Pokemon FireRed LeafGreen - Tileset 1_76
       rect:
         serializedVersion: 2
-        x: 578
-        y: 1067
+        x: 391
+        y: 149
         width: 16
         height: 16
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
-      outline:
-      - - {x: -8, y: -8}
-        - {x: 8, y: -8}
-        - {x: 8, y: -4}
-        - {x: -8, y: -4}
+      outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
@@ -9226,18 +9249,14 @@ TextureImporter:
       name: Game Boy Advance - Pokemon FireRed LeafGreen - Tileset 1_77
       rect:
         serializedVersion: 2
-        x: 561
-        y: 1067
+        x: 408
+        y: 149
         width: 16
         height: 16
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
-      outline:
-      - - {x: -2, y: -8}
-        - {x: 8, y: -8}
-        - {x: 8, y: -4}
-        - {x: -2, y: -4}
+      outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
@@ -9251,14 +9270,30 @@ TextureImporter:
       name: Game Boy Advance - Pokemon FireRed LeafGreen - Tileset 1_78
       rect:
         serializedVersion: 2
-        x: 629
-        y: 982
+        x: 408
+        y: 166
         width: 16
         height: 16
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
+      outline:
+      - - {x: 7, y: -6}
+        - {x: 7, y: -5}
+        - {x: 5, y: -5}
+        - {x: 5, y: -4}
+        - {x: 3, y: -4}
+        - {x: 3, y: -3}
+        - {x: 1, y: -3}
+        - {x: 1, y: -2}
+        - {x: -1, y: -2}
+        - {x: -1, y: -1}
+        - {x: -3, y: -1}
+        - {x: -3, y: 0}
+        - {x: -8, y: 0}
+        - {x: -8, y: -8}
+        - {x: 8, y: -8}
+        - {x: 8, y: -6}
       physicsShape: []
       tessellationDetail: 0
       bones: []
@@ -9272,19 +9307,106 @@ TextureImporter:
       name: Game Boy Advance - Pokemon FireRed LeafGreen - Tileset 1_79
       rect:
         serializedVersion: 2
-        x: 544
-        y: 982
+        x: 391
+        y: 166
         width: 16
         height: 16
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
+      outline:
+      - - {x: -8, y: -8}
+        - {x: 8, y: -8}
+        - {x: 8, y: 0}
+        - {x: -8, y: 0}
       physicsShape: []
       tessellationDetail: 0
       bones: []
       spriteID: 4fd0d6f57ba6f7920800000000000000
       internalID: 2990226013409840628
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Pokemon FireRed LeafGreen - Tileset 1_80
+      rect:
+        serializedVersion: 2
+        x: 374
+        y: 166
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -8, y: -8}
+        - {x: 8, y: -8}
+        - {x: 8, y: 0}
+        - {x: -8, y: 0}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f9962fdc0d07b6f0800000000000000
+      internalID: -669051670706611722
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Pokemon FireRed LeafGreen - Tileset 1_81
+      rect:
+        serializedVersion: 2
+        x: 357
+        y: 166
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 3, y: -1}
+        - {x: 1, y: -1}
+        - {x: 1, y: -2}
+        - {x: -1, y: -2}
+        - {x: -1, y: -3}
+        - {x: -3, y: -3}
+        - {x: -3, y: -4}
+        - {x: -5, y: -4}
+        - {x: -5, y: -5}
+        - {x: -7, y: -5}
+        - {x: -7, y: -7}
+        - {x: -8, y: -7}
+        - {x: -8, y: -8}
+        - {x: 8, y: -8}
+        - {x: 8, y: 0}
+        - {x: 3, y: 0}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e25b252b2ac897740800000000000000
+      internalID: 5150302279279228206
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Pokemon FireRed LeafGreen - Tileset 1_82
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 846
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8010a138854332880800000000000000
+      internalID: -8637002105605193464
       vertices: []
       indices: 
       edges: []
