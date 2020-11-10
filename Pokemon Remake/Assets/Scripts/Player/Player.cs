@@ -2,6 +2,7 @@
 using System.Collections.Generic;
 using System.Numerics;
 using UnityEngine;
+using UnityEngine.UI;
 using Vector3 = UnityEngine.Vector3;
 using Vector2 = UnityEngine.Vector2;
 
@@ -11,6 +12,7 @@ public class Player : MonoBehaviour
     private string spriteName;
     public float moveSpeed;
     private Rigidbody2D myRigidBody;
+    private Image fade;
     private GameObject menu;
     private int i = 0;
     public VectorValue startingPosition;
@@ -34,6 +36,7 @@ public class Player : MonoBehaviour
         animator = GetComponent<Animator>();
         spriterenderer = GetComponent<SpriteRenderer>();
         myRigidBody = GetComponent<Rigidbody2D>();
+        fade = GameObject.Find("Fade").GetComponent<Image>();
         menu = GameObject.Find("Menu");
     }
 
@@ -53,7 +56,7 @@ public class Player : MonoBehaviour
             if (input.x != 0) input.y = 0;
 
             // Create player movement
-            if (input != Vector3.zero && !menu.activeSelf)
+            if (input != Vector3.zero && !menu.activeSelf && !fade.IsActive())
             {
                 animator.SetFloat("MoveX", input.x);
                 animator.SetFloat("MoveY", input.y);
@@ -80,16 +83,14 @@ public class Player : MonoBehaviour
             if (hasTeleported)
                 break;
             transform.position = Vector3.MoveTowards(transform.position, targetPosition, moveSpeed * Time.deltaTime);
-  //          Debug.Log("In loop " + i);
             yield return null;
         }
-//        i++;
-//        Debug.Log("Outside loop");
 
         if (!hasTeleported)
         {
             transform.position = targetPosition;
         }
+
         hasTeleported = false;
         isMoving = false;
         checkForEncounter();            
@@ -107,7 +108,6 @@ public class Player : MonoBehaviour
         {
             // Prompt decide to use surf if containing surfable pokemon, otherwise notify player they can't surf
             string spriteName = spriterenderer.sprite.name;
-            Debug.Log(spriteName);
             return false;
         }
         return true;
@@ -123,5 +123,4 @@ public class Player : MonoBehaviour
             }
         }
     }
-
 }

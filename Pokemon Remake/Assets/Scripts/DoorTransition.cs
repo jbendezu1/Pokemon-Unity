@@ -5,24 +5,26 @@ using UnityEngine;
 public class DoorTransition : MonoBehaviour
 {
     public Vector2 destination;
-    public string movement;
     private Animator animator;
+    private Animator fade;
     Player myPlayer;
 
     private void Awake()
     {
         animator = GameObject.Find("Player").GetComponent<Animator>();
         myPlayer = GameObject.FindGameObjectWithTag("Player").GetComponent<Player>();
+        fade = GameObject.Find("Fade").GetComponent<Animator>();
     }
     public void OnTriggerEnter2D(Collider2D other)
     {
         if (other.CompareTag("Player"))
         {
-            Debug.Log("Destination: " + destination + "Position: " + other.transform.position);
+            fade.SetTrigger("FadeOut");
             myPlayer.hasTeleported = true;
             //if (movement == "right" && (Input.GetKeyDown(KeyCode.RightArrow) || ))
             // Move player to destination
             other.transform.position = destination;
+            fade.SetTrigger("FadeIn");
         }
     }
 }
