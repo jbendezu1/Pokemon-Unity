@@ -23,8 +23,8 @@ public class Player : MonoBehaviour
 
     private bool isMoving;
     private bool onMilotic;
-    private Vector3 input;
-
+    private Vector2 input;
+    public bool teleporting;
     private Animator animator;
     private SpriteRenderer spriterenderer;
     public Coroutine co;
@@ -35,6 +35,7 @@ public class Player : MonoBehaviour
         spriterenderer = GetComponent<SpriteRenderer>();
         myRigidBody = GetComponent<Rigidbody2D>();
         menu = GameObject.Find("Menu");
+        teleporting = false;
     }
 
     private void Start()
@@ -44,6 +45,8 @@ public class Player : MonoBehaviour
 
     private void Update()
     {
+        menu = GameObject.Find("Menu");
+
         if (!isMoving)
         {
             input.x = Input.GetAxisRaw("Horizontal");
@@ -53,7 +56,8 @@ public class Player : MonoBehaviour
             if (input.x != 0) input.y = 0;
 
             // Create player movement
-            if (input != Vector3.zero && !menu.activeSelf)
+
+            if (input != Vector2.zero && !menu.activeSelf && !teleporting)
             {
                 animator.SetFloat("MoveX", input.x);
                 animator.SetFloat("MoveY", input.y);
