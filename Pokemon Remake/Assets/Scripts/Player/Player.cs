@@ -1,7 +1,5 @@
 ﻿using System;
 using System.Collections;
-using System.Collections.Generic;
-using System.Numerics;
 using UnityEngine;
 using UnityEngine.UI;
 using Vector3 = UnityEngine.Vector3;
@@ -17,7 +15,6 @@ public class Player : MonoBehaviour
     private GameObject menu;
     private int i = 0;
     public VectorValue startingPosition;
-
 
     public int badges = 0;
 
@@ -50,7 +47,7 @@ public class Player : MonoBehaviour
         transform.position = startingPosition.initialValue;
     }
 
-    private void Update()
+    public void HandleUpdate()
     {
         if (!isMoving)
         {

@@ -11,6 +11,7 @@ public class MoveBase : ScriptableObject
     [SerializeField] string description;
 
     [SerializeField] PokemonType type;
+    [SerializeField] string damageType;
 
     [SerializeField] int power;
     [SerializeField] int accuracy;
@@ -39,6 +40,21 @@ public class MoveBase : ScriptableObject
     public int PP
     {
         get { return pp; }
+    }
+
+    public bool IsSpecial
+    {
+        get
+        {
+            if (damageType == "Special")
+            {
+                return true;
+            }
+            else
+            {
+                return false;
+            }
+        }
     }
 
 }
