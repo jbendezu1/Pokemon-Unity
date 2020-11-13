@@ -1,4 +1,5 @@
-﻿using System.Collections;
+﻿using System;
+using System.Collections;
 using System.Collections.Generic;
 using System.Numerics;
 using UnityEngine;
@@ -17,6 +18,10 @@ public class Player : MonoBehaviour
     private int i = 0;
     public VectorValue startingPosition;
 
+
+    public int badges = 0;
+
+    public event Action onEncountered;
 
     public LayerMask Ocean;
     public LayerMask Foreground;
@@ -117,9 +122,10 @@ public class Player : MonoBehaviour
     {
         if (Physics2D.OverlapCircle(transform.position, 0.1f, Grass) != null)
         {
-            if (Random.Range(1, 101) % 5 == 0)
+            if (UnityEngine.Random.Range(1, 101) % 5 == 0)
             {
-                Debug.Log("Encountered a wild Pokemon");
+                animator.SetBool("isMoving", false);
+                onEncountered();
             }
         }
     }
