@@ -45,8 +45,8 @@ public class Player : MonoBehaviour
         fade = GameObject.Find("Fade").GetComponent<Image>();
         fadeAnimator = GameObject.Find("Fade").GetComponent<Animator>();
         menu = GameObject.Find("Menu");
-        inventory = new Inventory();
-        uiInventory.SetInventory(inventory);
+ //       inventory = new Inventory();
+ //       uiInventory.SetInventory(inventory);
     }
 
     private void Start()
@@ -56,6 +56,7 @@ public class Player : MonoBehaviour
 
     public void HandleUpdate()
     {
+        Debug.Log("ghg");
         if (!isMoving)
         {
             input.x = Input.GetAxisRaw("Horizontal");
