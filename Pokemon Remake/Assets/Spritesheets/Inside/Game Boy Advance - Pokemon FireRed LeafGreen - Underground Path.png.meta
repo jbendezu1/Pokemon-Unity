@@ -1,0 +1,825 @@
+fileFormatVersion: 2
+guid: 9adfad2329943bb428c233b53c4ee6d4
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -4739451237067406418
+    second: Game Boy Advance - Pokemon FireRed LeafGreen - Underground Path_0
+  - first:
+      213: 4444168914510125638
+    second: Game Boy Advance - Pokemon FireRed LeafGreen - Underground Path_1
+  - first:
+      213: -8303157305417023783
+    second: Game Boy Advance - Pokemon FireRed LeafGreen - Underground Path_2
+  - first:
+      213: 6541731934125489278
+    second: Game Boy Advance - Pokemon FireRed LeafGreen - Underground Path_3
+  - first:
+      213: 1046319534978167519
+    second: Game Boy Advance - Pokemon FireRed LeafGreen - Underground Path_4
+  - first:
+      213: 7066753540657092949
+    second: Game Boy Advance - Pokemon FireRed LeafGreen - Underground Path_5
+  - first:
+      213: 6988678887731965948
+    second: Game Boy Advance - Pokemon FireRed LeafGreen - Underground Path_6
+  - first:
+      213: -6948293662510909428
+    second: Game Boy Advance - Pokemon FireRed LeafGreen - Underground Path_7
+  - first:
+      213: 5509617541062902350
+    second: Game Boy Advance - Pokemon FireRed LeafGreen - Underground Path_8
+  - first:
+      213: -6296181897881121536
+    second: Game Boy Advance - Pokemon FireRed LeafGreen - Underground Path_9
+  - first:
+      213: -224390983890403851
+    second: Game Boy Advance - Pokemon FireRed LeafGreen - Underground Path_10
+  - first:
+      213: 3745307782873488664
+    second: Game Boy Advance - Pokemon FireRed LeafGreen - Underground Path_11
+  - first:
+      213: 6781111086822147580
+    second: Game Boy Advance - Pokemon FireRed LeafGreen - Underground Path_0
+  - first:
+      213: 8488304918648454752
+    second: Game Boy Advance - Pokemon FireRed LeafGreen - Underground Path_1
+  - first:
+      213: -2534449902114366273
+    second: Game Boy Advance - Pokemon FireRed LeafGreen - Underground Path_2
+  - first:
+      213: 4088732797818900951
+    second: Game Boy Advance - Pokemon FireRed LeafGreen - Underground Path_12
+  - first:
+      213: 5140906652382887566
+    second: Game Boy Advance - Pokemon FireRed LeafGreen - Underground Path_13
+  - first:
+      213: 2655043643354439878
+    second: Game Boy Advance - Pokemon FireRed LeafGreen - Underground Path_14
+  - first:
+      213: 4352576791416260997
+    second: Game Boy Advance - Pokemon FireRed LeafGreen - Underground Path_15
+  - first:
+      213: -6598886208219107749
+    second: Game Boy Advance - Pokemon FireRed LeafGreen - Underground Path_16
+  - first:
+      213: 8727897733014105466
+    second: Game Boy Advance - Pokemon FireRed LeafGreen - Underground Path_17
+  - first:
+      213: -8565138220732900414
+    second: Game Boy Advance - Pokemon FireRed LeafGreen - Underground Path_18
+  - first:
+      213: -844995888792341893
+    second: Game Boy Advance - Pokemon FireRed LeafGreen - Underground Path_19
+  - first:
+      213: -9168696231324922461
+    second: Game Boy Advance - Pokemon FireRed LeafGreen - Underground Path_20
+  - first:
+      213: -6044180417121374148
+    second: Game Boy Advance - Pokemon FireRed LeafGreen - Underground Path_21
+  - first:
+      213: 2312727964546627110
+    second: Game Boy Advance - Pokemon FireRed LeafGreen - Underground Path_22
+  - first:
+      213: 7523387365534819284
+    second: Game Boy Advance - Pokemon FireRed LeafGreen - Underground Path_23
+  - first:
+      213: 542890305304358362
+    second: Game Boy Advance - Pokemon FireRed LeafGreen - Underground Path_24
+  - first:
+      213: 5274940277220264700
+    second: Game Boy Advance - Pokemon FireRed LeafGreen - Underground Path_25
+  - first:
+      213: 8283404647101643966
+    second: Game Boy Advance - Pokemon FireRed LeafGreen - Underground Path_26
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 16
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Game Boy Advance - Pokemon FireRed LeafGreen - Underground Path_3
+      rect:
+        serializedVersion: 2
+        x: 229
+        y: 78
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e7cf065d886e8ca50800000000000000
+      internalID: 6541731934125489278
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Pokemon FireRed LeafGreen - Underground Path_4
+      rect:
+        serializedVersion: 2
+        x: 229
+        y: 94
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fd2fcebc216458e00800000000000000
+      internalID: 1046319534978167519
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Pokemon FireRed LeafGreen - Underground Path_5
+      rect:
+        serializedVersion: 2
+        x: 213
+        y: 78
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 559991a67e6221260800000000000000
+      internalID: 7066753540657092949
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Pokemon FireRed LeafGreen - Underground Path_6
+      rect:
+        serializedVersion: 2
+        x: 213
+        y: 94
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cff2988bb66ccf060800000000000000
+      internalID: 6988678887731965948
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Pokemon FireRed LeafGreen - Underground Path_7
+      rect:
+        serializedVersion: 2
+        x: 213
+        y: 110
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -7, y: 0}
+        - {x: -7, y: -1}
+        - {x: -8, y: -1}
+        - {x: -8, y: -8}
+        - {x: 8, y: -8}
+        - {x: 8, y: 0}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c0870f24ab3b29f90800000000000000
+      internalID: -6948293662510909428
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Pokemon FireRed LeafGreen - Underground Path_8
+      rect:
+        serializedVersion: 2
+        x: 229
+        y: 110
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -8, y: 0}
+        - {x: -8, y: -8}
+        - {x: 8, y: -8}
+        - {x: 8, y: 0}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e42c05f56f7167c40800000000000000
+      internalID: 5509617541062902350
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Pokemon FireRed LeafGreen - Underground Path_9
+      rect:
+        serializedVersion: 2
+        x: 245
+        y: 110
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -7, y: -1}
+        - {x: -7, y: 0}
+        - {x: -8, y: 0}
+        - {x: -8, y: -8}
+        - {x: -6, y: -8}
+        - {x: -6, y: -1}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 00d0d872ce77f98a0800000000000000
+      internalID: -6296181897881121536
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Pokemon FireRed LeafGreen - Underground Path_10
+      rect:
+        serializedVersion: 2
+        x: 245
+        y: 94
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -8, y: 8}
+        - {x: -8, y: -8}
+        - {x: -7, y: -8}
+        - {x: -7, y: 6}
+        - {x: -6, y: 6}
+        - {x: -6, y: 8}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5fd796ac69dc2ecf0800000000000000
+      internalID: -224390983890403851
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Pokemon FireRed LeafGreen - Underground Path_11
+      rect:
+        serializedVersion: 2
+        x: 245
+        y: 78
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -8, y: 8}
+        - {x: -8, y: -8}
+        - {x: -6, y: -8}
+        - {x: -6, y: 1}
+        - {x: -7, y: 1}
+        - {x: -7, y: 8}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 81d1ea4c5910af330800000000000000
+      internalID: 3745307782873488664
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Pokemon FireRed LeafGreen - Underground Path_0
+      rect:
+        serializedVersion: 2
+        x: 277
+        y: 110
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cf54f780b985b1e50800000000000000
+      internalID: 6781111086822147580
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Pokemon FireRed LeafGreen - Underground Path_1
+      rect:
+        serializedVersion: 2
+        x: 277
+        y: 126
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -7, y: -4}
+        - {x: -7, y: -5}
+        - {x: -8, y: -5}
+        - {x: -8, y: -8}
+        - {x: 8, y: -8}
+        - {x: 8, y: -4}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 06efd3db9548cc570800000000000000
+      internalID: 8488304918648454752
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Pokemon FireRed LeafGreen - Underground Path_2
+      rect:
+        serializedVersion: 2
+        x: 293
+        y: 126
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -8, y: -4}
+        - {x: -8, y: -8}
+        - {x: 8, y: -8}
+        - {x: 8, y: -5}
+        - {x: 7, y: -5}
+        - {x: 7, y: -4}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fbc137bfd33d3dcd0800000000000000
+      internalID: -2534449902114366273
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Pokemon FireRed LeafGreen - Underground Path_12
+      rect:
+        serializedVersion: 2
+        x: 293
+        y: 110
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7d11c7b01d81eb830800000000000000
+      internalID: 4088732797818900951
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Pokemon FireRed LeafGreen - Underground Path_13
+      rect:
+        serializedVersion: 2
+        x: 293
+        y: 62
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e8e79b6dc5b285740800000000000000
+      internalID: 5140906652382887566
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Pokemon FireRed LeafGreen - Underground Path_14
+      rect:
+        serializedVersion: 2
+        x: 293
+        y: 78
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6c0ec49602c98d420800000000000000
+      internalID: 2655043643354439878
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Pokemon FireRed LeafGreen - Underground Path_15
+      rect:
+        serializedVersion: 2
+        x: 293
+        y: 94
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 589c9f5e785776c30800000000000000
+      internalID: 4352576791416260997
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Pokemon FireRed LeafGreen - Underground Path_16
+      rect:
+        serializedVersion: 2
+        x: 181
+        y: 62
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b5e20edb4fb0c64a0800000000000000
+      internalID: -6598886208219107749
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Pokemon FireRed LeafGreen - Underground Path_17
+      rect:
+        serializedVersion: 2
+        x: 181
+        y: 78
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -8, y: -4}
+        - {x: -8, y: -8}
+        - {x: 8, y: -8}
+        - {x: 8, y: -5}
+        - {x: 7, y: -5}
+        - {x: 7, y: -4}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a7d2e3ceeb8bf1970800000000000000
+      internalID: 8727897733014105466
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Pokemon FireRed LeafGreen - Underground Path_18
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 62
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2cb18151b24822980800000000000000
+      internalID: -8565138220732900414
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Pokemon FireRed LeafGreen - Underground Path_19
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 78
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b72fdd357b8f544f0800000000000000
+      internalID: -844995888792341893
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Pokemon FireRed LeafGreen - Underground Path_20
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 110
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3ad4a6efa5f32c080800000000000000
+      internalID: -9168696231324922461
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Pokemon FireRed LeafGreen - Underground Path_21
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 94
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c30bb1f1fe1ce1ca0800000000000000
+      internalID: -6044180417121374148
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Pokemon FireRed LeafGreen - Underground Path_22
+      rect:
+        serializedVersion: 2
+        x: 181
+        y: 126
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 7, y: -5}
+        - {x: 7, y: -4}
+        - {x: -8, y: -4}
+        - {x: -8, y: -8}
+        - {x: 8, y: -8}
+        - {x: 8, y: -5}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 626f9e494d5781020800000000000000
+      internalID: 2312727964546627110
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Pokemon FireRed LeafGreen - Underground Path_23
+      rect:
+        serializedVersion: 2
+        x: 181
+        y: 110
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4d36d56c2f0786860800000000000000
+      internalID: 7523387365534819284
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Pokemon FireRed LeafGreen - Underground Path_24
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 126
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -7, y: -4}
+        - {x: -7, y: -5}
+        - {x: -8, y: -5}
+        - {x: -8, y: -8}
+        - {x: 8, y: -8}
+        - {x: 8, y: -4}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: add6ba73bdbb88700800000000000000
+      internalID: 542890305304358362
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Pokemon FireRed LeafGreen - Underground Path_25
+      rect:
+        serializedVersion: 2
+        x: 277
+        y: 62
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cfa4d1bfb3a543940800000000000000
+      internalID: 5274940277220264700
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Pokemon FireRed LeafGreen - Underground Path_26
+      rect:
+        serializedVersion: 2
+        x: 277
+        y: 78
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -7, y: -4}
+        - {x: -7, y: -5}
+        - {x: -8, y: -5}
+        - {x: -8, y: -8}
+        - {x: 8, y: -8}
+        - {x: 8, y: -4}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ebc3051a3a094f270800000000000000
+      internalID: 8283404647101643966
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

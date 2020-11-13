@@ -41,6 +41,7 @@ public class Player : MonoBehaviour
 
     private void Awake()
     {
+        Debug.Log("Awake");
         animator = GetComponent<Animator>();
         spriterenderer = GetComponent<SpriteRenderer>();
         myRigidBody = GetComponent<Rigidbody2D>();
@@ -58,7 +59,6 @@ public class Player : MonoBehaviour
 
     public void HandleUpdate()
     {
-        Debug.Log("ghg");
         if (!isMoving)
         {
             input.x = Input.GetAxisRaw("Horizontal");
