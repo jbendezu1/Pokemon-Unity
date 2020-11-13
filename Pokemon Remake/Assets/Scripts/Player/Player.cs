@@ -4,6 +4,7 @@ using UnityEngine;
 using UnityEngine.UI;
 using Vector3 = UnityEngine.Vector3;
 using Vector2 = UnityEngine.Vector2;
+using Debug = UnityEngine.Debug;
 
 public class Player : MonoBehaviour
 {
@@ -25,6 +26,7 @@ public class Player : MonoBehaviour
     public LayerMask Foreground;
     public LayerMask Grass;
     public LayerMask Door;
+    public LayerMask interactableLayer;
 
     private bool isMoving;
     private bool onMilotic;
@@ -83,8 +85,25 @@ public class Player : MonoBehaviour
         }
         animator.SetBool("isMoving", isMoving);
 
+        if (Input.GetKeyDown(KeyCode.Z))
+            Interact();
+
         if (fadeAnimator.GetCurrentAnimatorStateInfo(0).IsName("Fade Out"))
             fadeAnimator.SetTrigger("FadeIn");
+    }
+
+    void Interact()
+    {
+        var facingDir = new Vector3(animator.GetFloat("MoveX"), animator.GetFloat("MoveY"));
+        var interactPos = transform.position + facingDir;
+
+        //Debug.DrawLine(transform.position, interactPos, Color.green, 0.5f);
+
+        var collider = Physics2D.OverlapCircle(interactPos, 0.3f, interactableLayer);
+        if (collider != null)
+        {
+            collider.GetComponent<Interactable>()?.Interact();
+        }
     }
 
     public IEnumerator MovePlayer(Vector3 targetPosition)
@@ -113,7 +132,7 @@ public class Player : MonoBehaviour
     // Prevent player from moving over foreground tiles
     private bool isWalkable(Vector3 targetposition) {
 
-        if (Physics2D.OverlapCircle(targetposition, 0.1f, Foreground) != null) {
+        if (Physics2D.OverlapCircle(targetposition, 0.1f, Foreground | interactableLayer) != null) {
             return false;
         }
 
