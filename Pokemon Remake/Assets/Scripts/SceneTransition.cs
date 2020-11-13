@@ -14,7 +14,6 @@ public class SceneTransition : MonoBehaviour
     private void Awake()
     {
         fade = GameObject.Find("Fade").GetComponent<Animator>();
-
     }
 
     public void OnTriggerEnter2D(Collider2D other)
@@ -24,8 +23,8 @@ public class SceneTransition : MonoBehaviour
             fade.SetTrigger("FadeOut");
             // Store player's last position to get back to it
             playerStorage.initialValue = playerPosition;
-            SceneManager.LoadScene(sceneToLoad);
 
+            SceneManager.LoadScene(sceneToLoad);
         }
     }
 }

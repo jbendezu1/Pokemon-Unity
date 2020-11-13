@@ -15,16 +15,14 @@ public class DoorTransition : MonoBehaviour
         myPlayer = GameObject.FindGameObjectWithTag("Player").GetComponent<Player>();
         fade = GameObject.Find("Fade").GetComponent<Animator>();
     }
+
     public void OnTriggerEnter2D(Collider2D other)
     {
         if (other.CompareTag("Player"))
         {
             fade.SetTrigger("FadeOut");
             myPlayer.hasTeleported = true;
-            //if (movement == "right" && (Input.GetKeyDown(KeyCode.RightArrow) || ))
-            // Move player to destination
             other.transform.position = destination;
-            fade.SetTrigger("FadeIn");
         }
     }
 }

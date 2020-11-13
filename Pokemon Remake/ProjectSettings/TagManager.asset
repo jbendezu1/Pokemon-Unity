@@ -47,11 +47,11 @@ TagManager:
   - name: Background
     uniqueID: 3627571497
     locked: 0
-  - name: Foreground
-    uniqueID: 3346473939
-    locked: 0
   - name: Grass
     uniqueID: 3828979647
+    locked: 0
+  - name: Foreground
+    uniqueID: 3346473939
     locked: 0
   - name: Player
     uniqueID: 2949566767

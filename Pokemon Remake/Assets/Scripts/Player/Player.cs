@@ -11,9 +11,10 @@ public class Player : MonoBehaviour
     private string spriteName;
     public float moveSpeed;
     private Rigidbody2D myRigidBody;
+
     private Image fade;
+    private Animator fadeAnimator;
     private GameObject menu;
-    private int i = 0;
     public VectorValue startingPosition;
 
     public int badges = 0;
@@ -33,13 +34,19 @@ public class Player : MonoBehaviour
     private SpriteRenderer spriterenderer;
     public Coroutine co;
 
+    private Inventory inventory;
+    [SerializeField] private UI_Inventory uiInventory;
+
     private void Awake()
     {
         animator = GetComponent<Animator>();
         spriterenderer = GetComponent<SpriteRenderer>();
         myRigidBody = GetComponent<Rigidbody2D>();
         fade = GameObject.Find("Fade").GetComponent<Image>();
+        fadeAnimator = GameObject.Find("Fade").GetComponent<Animator>();
         menu = GameObject.Find("Menu");
+        inventory = new Inventory();
+        uiInventory.SetInventory(inventory);
     }
 
     private void Start()
@@ -74,6 +81,9 @@ public class Player : MonoBehaviour
             }
         }
         animator.SetBool("isMoving", isMoving);
+
+        if (fadeAnimator.GetCurrentAnimatorStateInfo(0).IsName("Fade Out"))
+            fadeAnimator.SetTrigger("FadeIn");
     }
 
     public IEnumerator MovePlayer(Vector3 targetPosition)

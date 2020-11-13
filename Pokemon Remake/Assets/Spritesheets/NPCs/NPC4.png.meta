@@ -1,0 +1,2424 @@
+fileFormatVersion: 2
+guid: b8832093b60a7db42a99a7e0f34b66b5
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -2892598582531523131
+    second: Game Boy Advance - Pokemon FireRed LeafGreen - Overworld NPCs_0
+  - first:
+      213: -5523838057490101566
+    second: Game Boy Advance - Pokemon FireRed LeafGreen - Overworld NPCs_1
+  - first:
+      213: 3953683661994978161
+    second: Game Boy Advance - Pokemon FireRed LeafGreen - Overworld NPCs_2
+  - first:
+      213: 246257882794386860
+    second: Game Boy Advance - Pokemon FireRed LeafGreen - Overworld NPCs_3
+  - first:
+      213: 5594109315698874943
+    second: Game Boy Advance - Pokemon FireRed LeafGreen - Overworld NPCs_4
+  - first:
+      213: -3003086756975341555
+    second: Game Boy Advance - Pokemon FireRed LeafGreen - Overworld NPCs_5
+  - first:
+      213: 8944991486198543373
+    second: Game Boy Advance - Pokemon FireRed LeafGreen - Overworld NPCs_6
+  - first:
+      213: -4770617022936847625
+    second: Game Boy Advance - Pokemon FireRed LeafGreen - Overworld NPCs_7
+  - first:
+      213: -5880489713640378599
+    second: Game Boy Advance - Pokemon FireRed LeafGreen - Overworld NPCs_8
+  - first:
+      213: 8551872190534382983
+    second: Game Boy Advance - Pokemon FireRed LeafGreen - Overworld NPCs_9
+  - first:
+      213: -1887905497659252927
+    second: Game Boy Advance - Pokemon FireRed LeafGreen - Overworld NPCs_10
+  - first:
+      213: -3117814659742826673
+    second: Game Boy Advance - Pokemon FireRed LeafGreen - Overworld NPCs_11
+  - first:
+      213: 4256359709494515563
+    second: Game Boy Advance - Pokemon FireRed LeafGreen - Overworld NPCs_12
+  - first:
+      213: 5462372351559763280
+    second: Game Boy Advance - Pokemon FireRed LeafGreen - Overworld NPCs_13
+  - first:
+      213: -8024383250482264020
+    second: Game Boy Advance - Pokemon FireRed LeafGreen - Overworld NPCs_14
+  - first:
+      213: -6105937862659153316
+    second: Game Boy Advance - Pokemon FireRed LeafGreen - Overworld NPCs_15
+  - first:
+      213: 5774213753172240772
+    second: Game Boy Advance - Pokemon FireRed LeafGreen - Overworld NPCs_16
+  - first:
+      213: 1082253996594843843
+    second: Game Boy Advance - Pokemon FireRed LeafGreen - Overworld NPCs_17
+  - first:
+      213: 8783772131413977208
+    second: Game Boy Advance - Pokemon FireRed LeafGreen - Overworld NPCs_18
+  - first:
+      213: -3764514140259577639
+    second: Game Boy Advance - Pokemon FireRed LeafGreen - Overworld NPCs_19
+  - first:
+      213: -4224075118017607756
+    second: Game Boy Advance - Pokemon FireRed LeafGreen - Overworld NPCs_20
+  - first:
+      213: -2427668322465211942
+    second: Game Boy Advance - Pokemon FireRed LeafGreen - Overworld NPCs_21
+  - first:
+      213: -2070372971209206447
+    second: Game Boy Advance - Pokemon FireRed LeafGreen - Overworld NPCs_22
+  - first:
+      213: 6600064799623782436
+    second: Game Boy Advance - Pokemon FireRed LeafGreen - Overworld NPCs_23
+  - first:
+      213: 4916735532140151784
+    second: Game Boy Advance - Pokemon FireRed LeafGreen - Overworld NPCs_24
+  - first:
+      213: 3567781150315716200
+    second: Game Boy Advance - Pokemon FireRed LeafGreen - Overworld NPCs_25
+  - first:
+      213: 1546708313136492880
+    second: Game Boy Advance - Pokemon FireRed LeafGreen - Overworld NPCs_26
+  - first:
+      213: 2165179675654255963
+    second: Game Boy Advance - Pokemon FireRed LeafGreen - Overworld NPCs_27
+  - first:
+      213: -4850619016474064461
+    second: Game Boy Advance - Pokemon FireRed LeafGreen - Overworld NPCs_28
+  - first:
+      213: 4178005100698469871
+    second: Game Boy Advance - Pokemon FireRed LeafGreen - Overworld NPCs_29
+  - first:
+      213: 4306819727425152248
+    second: Game Boy Advance - Pokemon FireRed LeafGreen - Overworld NPCs_30
+  - first:
+      213: -7110365706097392040
+    second: Game Boy Advance - Pokemon FireRed LeafGreen - Overworld NPCs_31
+  - first:
+      213: 973649575093882247
+    second: Game Boy Advance - Pokemon FireRed LeafGreen - Overworld NPCs_32
+  - first:
+      213: 2041297552730255939
+    second: Game Boy Advance - Pokemon FireRed LeafGreen - Overworld NPCs_33
+  - first:
+      213: -7367456637826555645
+    second: Game Boy Advance - Pokemon FireRed LeafGreen - Overworld NPCs_34
+  - first:
+      213: -5909084911384089658
+    second: Game Boy Advance - Pokemon FireRed LeafGreen - Overworld NPCs_35
+  - first:
+      213: 6168203625065986059
+    second: Game Boy Advance - Pokemon FireRed LeafGreen - Overworld NPCs_36
+  - first:
+      213: 7585852749553113235
+    second: Game Boy Advance - Pokemon FireRed LeafGreen - Overworld NPCs_37
+  - first:
+      213: -3615597065582971017
+    second: Game Boy Advance - Pokemon FireRed LeafGreen - Overworld NPCs_38
+  - first:
+      213: 3887770112356349739
+    second: Game Boy Advance - Pokemon FireRed LeafGreen - Overworld NPCs_39
+  - first:
+      213: -7875429748745960161
+    second: Game Boy Advance - Pokemon FireRed LeafGreen - Overworld NPCs_40
+  - first:
+      213: -604315263285186571
+    second: Game Boy Advance - Pokemon FireRed LeafGreen - Overworld NPCs_41
+  - first:
+      213: -3294700105959915992
+    second: Game Boy Advance - Pokemon FireRed LeafGreen - Overworld NPCs_42
+  - first:
+      213: -7959078236031811808
+    second: Game Boy Advance - Pokemon FireRed LeafGreen - Overworld NPCs_43
+  - first:
+      213: -5946457632861054076
+    second: Game Boy Advance - Pokemon FireRed LeafGreen - Overworld NPCs_44
+  - first:
+      213: -8474870143423699281
+    second: Game Boy Advance - Pokemon FireRed LeafGreen - Overworld NPCs_45
+  - first:
+      213: -1608985093277620424
+    second: Game Boy Advance - Pokemon FireRed LeafGreen - Overworld NPCs_46
+  - first:
+      213: -1922607913602122583
+    second: Game Boy Advance - Pokemon FireRed LeafGreen - Overworld NPCs_47
+  - first:
+      213: -1197091837607588347
+    second: Game Boy Advance - Pokemon FireRed LeafGreen - Overworld NPCs_48
+  - first:
+      213: 3808109748790712606
+    second: Game Boy Advance - Pokemon FireRed LeafGreen - Overworld NPCs_49
+  - first:
+      213: -6829821665595790618
+    second: Game Boy Advance - Pokemon FireRed LeafGreen - Overworld NPCs_50
+  - first:
+      213: 433095659477337713
+    second: Game Boy Advance - Pokemon FireRed LeafGreen - Overworld NPCs_51
+  - first:
+      213: 4853206634641043677
+    second: Game Boy Advance - Pokemon FireRed LeafGreen - Overworld NPCs_52
+  - first:
+      213: -1550452036909453925
+    second: Game Boy Advance - Pokemon FireRed LeafGreen - Overworld NPCs_53
+  - first:
+      213: 9021445903797572735
+    second: Game Boy Advance - Pokemon FireRed LeafGreen - Overworld NPCs_54
+  - first:
+      213: 6501219279937383755
+    second: Game Boy Advance - Pokemon FireRed LeafGreen - Overworld NPCs_55
+  - first:
+      213: -7335258310895538782
+    second: Game Boy Advance - Pokemon FireRed LeafGreen - Overworld NPCs_56
+  - first:
+      213: 2551599309333549901
+    second: Game Boy Advance - Pokemon FireRed LeafGreen - Overworld NPCs_57
+  - first:
+      213: -6319590268717148984
+    second: Game Boy Advance - Pokemon FireRed LeafGreen - Overworld NPCs_58
+  - first:
+      213: -1848156859173766428
+    second: Game Boy Advance - Pokemon FireRed LeafGreen - Overworld NPCs_59
+  - first:
+      213: 1417919588380177859
+    second: Game Boy Advance - Pokemon FireRed LeafGreen - Overworld NPCs_60
+  - first:
+      213: -3525959433946686126
+    second: Game Boy Advance - Pokemon FireRed LeafGreen - Overworld NPCs_61
+  - first:
+      213: 1232903350407297861
+    second: Game Boy Advance - Pokemon FireRed LeafGreen - Overworld NPCs_62
+  - first:
+      213: -7862388283147933054
+    second: Game Boy Advance - Pokemon FireRed LeafGreen - Overworld NPCs_63
+  - first:
+      213: -6871440384929839911
+    second: Game Boy Advance - Pokemon FireRed LeafGreen - Overworld NPCs_64
+  - first:
+      213: 7263725695241102238
+    second: Game Boy Advance - Pokemon FireRed LeafGreen - Overworld NPCs_65
+  - first:
+      213: -7211055260061069992
+    second: Game Boy Advance - Pokemon FireRed LeafGreen - Overworld NPCs_66
+  - first:
+      213: -3359924229403481903
+    second: Game Boy Advance - Pokemon FireRed LeafGreen - Overworld NPCs_67
+  - first:
+      213: -5407220476264461786
+    second: Game Boy Advance - Pokemon FireRed LeafGreen - Overworld NPCs_68
+  - first:
+      213: -3875447978190105520
+    second: Game Boy Advance - Pokemon FireRed LeafGreen - Overworld NPCs_69
+  - first:
+      213: -4174258906689939504
+    second: Game Boy Advance - Pokemon FireRed LeafGreen - Overworld NPCs_70
+  - first:
+      213: 744348726258157016
+    second: Game Boy Advance - Pokemon FireRed LeafGreen - Overworld NPCs_71
+  - first:
+      213: -1735186700150194558
+    second: Game Boy Advance - Pokemon FireRed LeafGreen - Overworld NPCs_72
+  - first:
+      213: -4405359311085226515
+    second: Game Boy Advance - Pokemon FireRed LeafGreen - Overworld NPCs_73
+  - first:
+      213: -194754493770213024
+    second: Game Boy Advance - Pokemon FireRed LeafGreen - Overworld NPCs_74
+  - first:
+      213: 8217715257099809852
+    second: Game Boy Advance - Pokemon FireRed LeafGreen - Overworld NPCs_75
+  - first:
+      213: 3870886690739967136
+    second: Game Boy Advance - Pokemon FireRed LeafGreen - Overworld NPCs_76
+  - first:
+      213: 3155057288993754473
+    second: Game Boy Advance - Pokemon FireRed LeafGreen - Overworld NPCs_77
+  - first:
+      213: 1433894647770823410
+    second: Game Boy Advance - Pokemon FireRed LeafGreen - Overworld NPCs_78
+  - first:
+      213: 525110201091681556
+    second: Game Boy Advance - Pokemon FireRed LeafGreen - Overworld NPCs_79
+  - first:
+      213: 801395592435937075
+    second: Game Boy Advance - Pokemon FireRed LeafGreen - Overworld NPCs_80
+  - first:
+      213: 8856250756937372723
+    second: Game Boy Advance - Pokemon FireRed LeafGreen - Overworld NPCs_81
+  - first:
+      213: -280159088677258956
+    second: Game Boy Advance - Pokemon FireRed LeafGreen - Overworld NPCs_82
+  - first:
+      213: 2320155031429649921
+    second: Game Boy Advance - Pokemon FireRed LeafGreen - Overworld NPCs_83
+  - first:
+      213: -1592236096387787474
+    second: Game Boy Advance - Pokemon FireRed LeafGreen - Overworld NPCs_84
+  - first:
+      213: -8293345434845106402
+    second: Game Boy Advance - Pokemon FireRed LeafGreen - Overworld NPCs_85
+  - first:
+      213: 4618368512550548971
+    second: Game Boy Advance - Pokemon FireRed LeafGreen - Overworld NPCs_86
+  - first:
+      213: -5924513430267726249
+    second: Game Boy Advance - Pokemon FireRed LeafGreen - Overworld NPCs_87
+  - first:
+      213: -4047167652154908733
+    second: Game Boy Advance - Pokemon FireRed LeafGreen - Overworld NPCs_88
+  - first:
+      213: 2471206781875783446
+    second: Game Boy Advance - Pokemon FireRed LeafGreen - Overworld NPCs_89
+  - first:
+      213: 5881001010883127482
+    second: Game Boy Advance - Pokemon FireRed LeafGreen - Overworld NPCs_90
+  - first:
+      213: -1667967769149101290
+    second: Game Boy Advance - Pokemon FireRed LeafGreen - Overworld NPCs_91
+  - first:
+      213: -1086261893618566390
+    second: Game Boy Advance - Pokemon FireRed LeafGreen - Overworld NPCs_92
+  - first:
+      213: 2026414539822483617
+    second: Game Boy Advance - Pokemon FireRed LeafGreen - Overworld NPCs_93
+  - first:
+      213: 8311066128828431407
+    second: Game Boy Advance - Pokemon FireRed LeafGreen - Overworld NPCs_94
+  - first:
+      213: 2051196949357512488
+    second: Game Boy Advance - Pokemon FireRed LeafGreen - Overworld NPCs_95
+  - first:
+      213: -2603761797782618309
+    second: Game Boy Advance - Pokemon FireRed LeafGreen - Overworld NPCs_96
+  - first:
+      213: -4732986273757605300
+    second: Game Boy Advance - Pokemon FireRed LeafGreen - Overworld NPCs_97
+  - first:
+      213: -8298570130852443448
+    second: Game Boy Advance - Pokemon FireRed LeafGreen - Overworld NPCs_98
+  - first:
+      213: -8344854047740637172
+    second: Game Boy Advance - Pokemon FireRed LeafGreen - Overworld NPCs_99
+  - first:
+      213: 3370761560699900532
+    second: Game Boy Advance - Pokemon FireRed LeafGreen - Overworld NPCs_100
+  - first:
+      213: 3291395466605669070
+    second: Game Boy Advance - Pokemon FireRed LeafGreen - Overworld NPCs_101
+  - first:
+      213: -7737045462792350856
+    second: Game Boy Advance - Pokemon FireRed LeafGreen - Overworld NPCs_102
+  - first:
+      213: -3796886230504285820
+    second: Game Boy Advance - Pokemon FireRed LeafGreen - Overworld NPCs_103
+  - first:
+      213: 1915792216480485020
+    second: Game Boy Advance - Pokemon FireRed LeafGreen - Overworld NPCs_104
+  - first:
+      213: 5392493691052823196
+    second: Game Boy Advance - Pokemon FireRed LeafGreen - Overworld NPCs_105
+  - first:
+      213: 8782451084969222552
+    second: Game Boy Advance - Pokemon FireRed LeafGreen - Overworld NPCs_106
+  - first:
+      213: -156098718550562491
+    second: Game Boy Advance - Pokemon FireRed LeafGreen - Overworld NPCs_107
+  - first:
+      213: 3835540032861673606
+    second: Game Boy Advance - Pokemon FireRed LeafGreen - Overworld NPCs_108
+  - first:
+      213: 936577153038678240
+    second: Game Boy Advance - Pokemon FireRed LeafGreen - Overworld NPCs_109
+  - first:
+      213: 7225339075088126161
+    second: Game Boy Advance - Pokemon FireRed LeafGreen - Overworld NPCs_110
+  - first:
+      213: 8623751326391237506
+    second: Game Boy Advance - Pokemon FireRed LeafGreen - Overworld NPCs_111
+  - first:
+      213: 505290201809599449
+    second: Game Boy Advance - Pokemon FireRed LeafGreen - Overworld NPCs_112
+  - first:
+      213: 7038355441703991097
+    second: Game Boy Advance - Pokemon FireRed LeafGreen - Overworld NPCs_113
+  - first:
+      213: -807035549065223204
+    second: Game Boy Advance - Pokemon FireRed LeafGreen - Overworld NPCs_114
+  - first:
+      213: 3634938252614641541
+    second: Game Boy Advance - Pokemon FireRed LeafGreen - Overworld NPCs_115
+  - first:
+      213: 1163271051886607384
+    second: Game Boy Advance - Pokemon FireRed LeafGreen - Overworld NPCs_116
+  - first:
+      213: 3205419543190178018
+    second: Game Boy Advance - Pokemon FireRed LeafGreen - Overworld NPCs_117
+  - first:
+      213: -7938089343106323417
+    second: Game Boy Advance - Pokemon FireRed LeafGreen - Overworld NPCs_118
+  - first:
+      213: -9050805605837325344
+    second: Game Boy Advance - Pokemon FireRed LeafGreen - Overworld NPCs_119
+  - first:
+      213: -6319669962202211327
+    second: Game Boy Advance - Pokemon FireRed LeafGreen - Overworld NPCs_120
+  - first:
+      213: -4371619958981280603
+    second: Game Boy Advance - Pokemon FireRed LeafGreen - Overworld NPCs_121
+  - first:
+      213: 8838780020104703538
+    second: Game Boy Advance - Pokemon FireRed LeafGreen - Overworld NPCs_122
+  - first:
+      213: 7363985176494792703
+    second: Game Boy Advance - Pokemon FireRed LeafGreen - Overworld NPCs_123
+  - first:
+      213: -4600304811483178820
+    second: Game Boy Advance - Pokemon FireRed LeafGreen - Overworld NPCs_124
+  - first:
+      213: -1917920864916521262
+    second: Game Boy Advance - Pokemon FireRed LeafGreen - Overworld NPCs_125
+  - first:
+      213: 7287502968006333018
+    second: Game Boy Advance - Pokemon FireRed LeafGreen - Overworld NPCs_126
+  - first:
+      213: -8954963593231315999
+    second: Game Boy Advance - Pokemon FireRed LeafGreen - Overworld NPCs_127
+  - first:
+      213: 6106766149193352210
+    second: Game Boy Advance - Pokemon FireRed LeafGreen - Overworld NPCs_128
+  - first:
+      213: 7823107030164132612
+    second: Game Boy Advance - Pokemon FireRed LeafGreen - Overworld NPCs_129
+  - first:
+      213: -5027771179088174826
+    second: Game Boy Advance - Pokemon FireRed LeafGreen - Overworld NPCs_130
+  - first:
+      213: -9069081855383847117
+    second: Game Boy Advance - Pokemon FireRed LeafGreen - Overworld NPCs_131
+  - first:
+      213: 1565326376783816973
+    second: Game Boy Advance - Pokemon FireRed LeafGreen - Overworld NPCs_132
+  - first:
+      213: -3811977955811091644
+    second: Game Boy Advance - Pokemon FireRed LeafGreen - Overworld NPCs_133
+  - first:
+      213: -681315481174560117
+    second: Game Boy Advance - Pokemon FireRed LeafGreen - Overworld NPCs_134
+  - first:
+      213: -4679629905524086234
+    second: Game Boy Advance - Pokemon FireRed LeafGreen - Overworld NPCs_135
+  - first:
+      213: 7109480718500278418
+    second: Game Boy Advance - Pokemon FireRed LeafGreen - Overworld NPCs_136
+  - first:
+      213: 1070596906484961653
+    second: Game Boy Advance - Pokemon FireRed LeafGreen - Overworld NPCs_137
+  - first:
+      213: -4601040875782094602
+    second: Game Boy Advance - Pokemon FireRed LeafGreen - Overworld NPCs_138
+  - first:
+      213: -2825520679096319335
+    second: Game Boy Advance - Pokemon FireRed LeafGreen - Overworld NPCs_139
+  - first:
+      213: 2558988970517343846
+    second: Game Boy Advance - Pokemon FireRed LeafGreen - Overworld NPCs_140
+  - first:
+      213: 3996764379314434898
+    second: Game Boy Advance - Pokemon FireRed LeafGreen - Overworld NPCs_141
+  - first:
+      213: 4005851501839235213
+    second: Game Boy Advance - Pokemon FireRed LeafGreen - Overworld NPCs_142
+  - first:
+      213: -5249866566178124599
+    second: Game Boy Advance - Pokemon FireRed LeafGreen - Overworld NPCs_143
+  - first:
+      213: -4396736284715444587
+    second: Game Boy Advance - Pokemon FireRed LeafGreen - Overworld NPCs_144
+  - first:
+      213: -7894700725283191833
+    second: Game Boy Advance - Pokemon FireRed LeafGreen - Overworld NPCs_145
+  - first:
+      213: 8656702369602798515
+    second: Game Boy Advance - Pokemon FireRed LeafGreen - Overworld NPCs_146
+  - first:
+      213: 8884415438414157395
+    second: Game Boy Advance - Pokemon FireRed LeafGreen - Overworld NPCs_147
+  - first:
+      213: 3726571703503595850
+    second: Game Boy Advance - Pokemon FireRed LeafGreen - Overworld NPCs_148
+  - first:
+      213: -5760411759299764437
+    second: Game Boy Advance - Pokemon FireRed LeafGreen - Overworld NPCs_149
+  - first:
+      213: 4276401492319373854
+    second: Game Boy Advance - Pokemon FireRed LeafGreen - Overworld NPCs_150
+  - first:
+      213: 666534039643886763
+    second: Game Boy Advance - Pokemon FireRed LeafGreen - Overworld NPCs_151
+  - first:
+      213: 4930186675579066818
+    second: Game Boy Advance - Pokemon FireRed LeafGreen - Overworld NPCs_152
+  - first:
+      213: -5805568207002879560
+    second: Game Boy Advance - Pokemon FireRed LeafGreen - Overworld NPCs_153
+  - first:
+      213: -4527927706903528012
+    second: Game Boy Advance - Pokemon FireRed LeafGreen - Overworld NPCs_154
+  - first:
+      213: -4396364107064133541
+    second: Game Boy Advance - Pokemon FireRed LeafGreen - Overworld NPCs_155
+  - first:
+      213: 1344038134164084268
+    second: Game Boy Advance - Pokemon FireRed LeafGreen - Overworld NPCs_156
+  - first:
+      213: -5252943623759086718
+    second: Game Boy Advance - Pokemon FireRed LeafGreen - Overworld NPCs_157
+  - first:
+      213: -5432930323841313533
+    second: Game Boy Advance - Pokemon FireRed LeafGreen - Overworld NPCs_158
+  - first:
+      213: 407591814097959616
+    second: Game Boy Advance - Pokemon FireRed LeafGreen - Overworld NPCs_159
+  - first:
+      213: -5846799046339883363
+    second: Game Boy Advance - Pokemon FireRed LeafGreen - Overworld NPCs_160
+  - first:
+      213: 6786395966511404095
+    second: Game Boy Advance - Pokemon FireRed LeafGreen - Overworld NPCs_161
+  - first:
+      213: 6452700019085621935
+    second: Game Boy Advance - Pokemon FireRed LeafGreen - Overworld NPCs_162
+  - first:
+      213: 1659932254045421187
+    second: Game Boy Advance - Pokemon FireRed LeafGreen - Overworld NPCs_163
+  - first:
+      213: 7813924101649354206
+    second: Game Boy Advance - Pokemon FireRed LeafGreen - Overworld NPCs_164
+  - first:
+      213: 8383087068776372214
+    second: Game Boy Advance - Pokemon FireRed LeafGreen - Overworld NPCs_165
+  - first:
+      213: -8868172408520651840
+    second: Game Boy Advance - Pokemon FireRed LeafGreen - Overworld NPCs_166
+  - first:
+      213: 6747593887800231686
+    second: Game Boy Advance - Pokemon FireRed LeafGreen - Overworld NPCs_167
+  - first:
+      213: -6603084624055787915
+    second: Game Boy Advance - Pokemon FireRed LeafGreen - Overworld NPCs_168
+  - first:
+      213: 6586390253955250093
+    second: Game Boy Advance - Pokemon FireRed LeafGreen - Overworld NPCs_169
+  - first:
+      213: -2598968360152222108
+    second: Game Boy Advance - Pokemon FireRed LeafGreen - Overworld NPCs_170
+  - first:
+      213: -7918504473741588401
+    second: Game Boy Advance - Pokemon FireRed LeafGreen - Overworld NPCs_171
+  - first:
+      213: 6438734499460361737
+    second: Game Boy Advance - Pokemon FireRed LeafGreen - Overworld NPCs_172
+  - first:
+      213: -4424305916190551163
+    second: Game Boy Advance - Pokemon FireRed LeafGreen - Overworld NPCs_173
+  - first:
+      213: -2567285341128729568
+    second: Game Boy Advance - Pokemon FireRed LeafGreen - Overworld NPCs_174
+  - first:
+      213: -7784999615781695902
+    second: Game Boy Advance - Pokemon FireRed LeafGreen - Overworld NPCs_175
+  - first:
+      213: -6253800029631001640
+    second: Game Boy Advance - Pokemon FireRed LeafGreen - Overworld NPCs_176
+  - first:
+      213: 2992797320484256628
+    second: Game Boy Advance - Pokemon FireRed LeafGreen - Overworld NPCs_177
+  - first:
+      213: 46799874223802689
+    second: Game Boy Advance - Pokemon FireRed LeafGreen - Overworld NPCs_178
+  - first:
+      213: 4936572875593506077
+    second: Game Boy Advance - Pokemon FireRed LeafGreen - Overworld NPCs_179
+  - first:
+      213: 5709194802159560386
+    second: Game Boy Advance - Pokemon FireRed LeafGreen - Overworld NPCs_180
+  - first:
+      213: 2084666518531345975
+    second: Game Boy Advance - Pokemon FireRed LeafGreen - Overworld NPCs_181
+  - first:
+      213: 3805369738390550390
+    second: Game Boy Advance - Pokemon FireRed LeafGreen - Overworld NPCs_182
+  - first:
+      213: 6279517540684449225
+    second: Game Boy Advance - Pokemon FireRed LeafGreen - Overworld NPCs_183
+  - first:
+      213: 8656321821507691837
+    second: Game Boy Advance - Pokemon FireRed LeafGreen - Overworld NPCs_184
+  - first:
+      213: -8012727063059011897
+    second: Game Boy Advance - Pokemon FireRed LeafGreen - Overworld NPCs_185
+  - first:
+      213: -1829131560632273306
+    second: Game Boy Advance - Pokemon FireRed LeafGreen - Overworld NPCs_186
+  - first:
+      213: -369143089628085276
+    second: Game Boy Advance - Pokemon FireRed LeafGreen - Overworld NPCs_187
+  - first:
+      213: -3339065366802564660
+    second: Game Boy Advance - Pokemon FireRed LeafGreen - Overworld NPCs_188
+  - first:
+      213: 6565769185352779457
+    second: Game Boy Advance - Pokemon FireRed LeafGreen - Overworld NPCs_189
+  - first:
+      213: -654606200538400729
+    second: Game Boy Advance - Pokemon FireRed LeafGreen - Overworld NPCs_190
+  - first:
+      213: 4382830686778561186
+    second: Game Boy Advance - Pokemon FireRed LeafGreen - Overworld NPCs_191
+  - first:
+      213: -7332679964083013473
+    second: Game Boy Advance - Pokemon FireRed LeafGreen - Overworld NPCs_192
+  - first:
+      213: 3112895567813669746
+    second: Game Boy Advance - Pokemon FireRed LeafGreen - Overworld NPCs_193
+  - first:
+      213: -5470463545685899746
+    second: Game Boy Advance - Pokemon FireRed LeafGreen - Overworld NPCs_194
+  - first:
+      213: -1967235111444785925
+    second: Game Boy Advance - Pokemon FireRed LeafGreen - Overworld NPCs_195
+  - first:
+      213: 3031433410072856917
+    second: Game Boy Advance - Pokemon FireRed LeafGreen - Overworld NPCs_196
+  - first:
+      213: -1689793207073786899
+    second: Game Boy Advance - Pokemon FireRed LeafGreen - Overworld NPCs_197
+  - first:
+      213: 2927078257741261029
+    second: Game Boy Advance - Pokemon FireRed LeafGreen - Overworld NPCs_198
+  - first:
+      213: -1876634763409231761
+    second: Game Boy Advance - Pokemon FireRed LeafGreen - Overworld NPCs_199
+  - first:
+      213: 312667856379683537
+    second: Game Boy Advance - Pokemon FireRed LeafGreen - Overworld NPCs_200
+  - first:
+      213: -2119126718976204501
+    second: Game Boy Advance - Pokemon FireRed LeafGreen - Overworld NPCs_201
+  - first:
+      213: -1431035013518181476
+    second: Game Boy Advance - Pokemon FireRed LeafGreen - Overworld NPCs_202
+  - first:
+      213: 7268996776968883376
+    second: Game Boy Advance - Pokemon FireRed LeafGreen - Overworld NPCs_203
+  - first:
+      213: 1210193943941728727
+    second: Game Boy Advance - Pokemon FireRed LeafGreen - Overworld NPCs_204
+  - first:
+      213: 6221256319337569141
+    second: Game Boy Advance - Pokemon FireRed LeafGreen - Overworld NPCs_205
+  - first:
+      213: -3676731929140745896
+    second: Game Boy Advance - Pokemon FireRed LeafGreen - Overworld NPCs_206
+  - first:
+      213: 6487757037413596505
+    second: Game Boy Advance - Pokemon FireRed LeafGreen - Overworld NPCs_207
+  - first:
+      213: 1371392049438483180
+    second: Game Boy Advance - Pokemon FireRed LeafGreen - Overworld NPCs_208
+  - first:
+      213: -1043779557311151739
+    second: Game Boy Advance - Pokemon FireRed LeafGreen - Overworld NPCs_209
+  - first:
+      213: -7912096379437960398
+    second: Game Boy Advance - Pokemon FireRed LeafGreen - Overworld NPCs_210
+  - first:
+      213: -8079542314682430943
+    second: Game Boy Advance - Pokemon FireRed LeafGreen - Overworld NPCs_211
+  - first:
+      213: 7679717401915440076
+    second: Game Boy Advance - Pokemon FireRed LeafGreen - Overworld NPCs_212
+  - first:
+      213: -5448164387105513459
+    second: Game Boy Advance - Pokemon FireRed LeafGreen - Overworld NPCs_213
+  - first:
+      213: -8416976540855416194
+    second: Game Boy Advance - Pokemon FireRed LeafGreen - Overworld NPCs_214
+  - first:
+      213: -1021299386838762425
+    second: Game Boy Advance - Pokemon FireRed LeafGreen - Overworld NPCs_215
+  - first:
+      213: -7131094637069671886
+    second: Game Boy Advance - Pokemon FireRed LeafGreen - Overworld NPCs_216
+  - first:
+      213: -523124475210333812
+    second: Game Boy Advance - Pokemon FireRed LeafGreen - Overworld NPCs_217
+  - first:
+      213: 9126916715003347554
+    second: Game Boy Advance - Pokemon FireRed LeafGreen - Overworld NPCs_218
+  - first:
+      213: -5998437261599927532
+    second: Game Boy Advance - Pokemon FireRed LeafGreen - Overworld NPCs_219
+  - first:
+      213: 3237218358500490791
+    second: Game Boy Advance - Pokemon FireRed LeafGreen - Overworld NPCs_220
+  - first:
+      213: 7030502842333700848
+    second: Game Boy Advance - Pokemon FireRed LeafGreen - Overworld NPCs_221
+  - first:
+      213: -652877448559012558
+    second: Game Boy Advance - Pokemon FireRed LeafGreen - Overworld NPCs_222
+  - first:
+      213: -3489350166590754016
+    second: Game Boy Advance - Pokemon FireRed LeafGreen - Overworld NPCs_223
+  - first:
+      213: 5639088976854174839
+    second: Game Boy Advance - Pokemon FireRed LeafGreen - Overworld NPCs_224
+  - first:
+      213: 1184167575384703918
+    second: Game Boy Advance - Pokemon FireRed LeafGreen - Overworld NPCs_225
+  - first:
+      213: -37970750132109053
+    second: Game Boy Advance - Pokemon FireRed LeafGreen - Overworld NPCs_226
+  - first:
+      213: 3971914774239441970
+    second: Game Boy Advance - Pokemon FireRed LeafGreen - Overworld NPCs_227
+  - first:
+      213: -4602016860524885230
+    second: Game Boy Advance - Pokemon FireRed LeafGreen - Overworld NPCs_228
+  - first:
+      213: 5583706906116194471
+    second: Game Boy Advance - Pokemon FireRed LeafGreen - Overworld NPCs_229
+  - first:
+      213: 4820203625695537913
+    second: Game Boy Advance - Pokemon FireRed LeafGreen - Overworld NPCs_230
+  - first:
+      213: -5699521971784349783
+    second: Game Boy Advance - Pokemon FireRed LeafGreen - Overworld NPCs_231
+  - first:
+      213: -5049106041519738446
+    second: Game Boy Advance - Pokemon FireRed LeafGreen - Overworld NPCs_232
+  - first:
+      213: -4824823023868628942
+    second: Game Boy Advance - Pokemon FireRed LeafGreen - Overworld NPCs_233
+  - first:
+      213: 174993040225605528
+    second: Game Boy Advance - Pokemon FireRed LeafGreen - Overworld NPCs_234
+  - first:
+      213: 7018799692807448585
+    second: Game Boy Advance - Pokemon FireRed LeafGreen - Overworld NPCs_235
+  - first:
+      213: -8812318827182859681
+    second: Game Boy Advance - Pokemon FireRed LeafGreen - Overworld NPCs_236
+  - first:
+      213: -2441274800886757497
+    second: Game Boy Advance - Pokemon FireRed LeafGreen - Overworld NPCs_237
+  - first:
+      213: 1228302065882720399
+    second: Game Boy Advance - Pokemon FireRed LeafGreen - Overworld NPCs_238
+  - first:
+      213: -4763487144664440306
+    second: Game Boy Advance - Pokemon FireRed LeafGreen - Overworld NPCs_239
+  - first:
+      213: 3306975035035569032
+    second: Game Boy Advance - Pokemon FireRed LeafGreen - Overworld NPCs_240
+  - first:
+      213: 4769303351208213842
+    second: Game Boy Advance - Pokemon FireRed LeafGreen - Overworld NPCs_241
+  - first:
+      213: 7397173001236224196
+    second: Game Boy Advance - Pokemon FireRed LeafGreen - Overworld NPCs_242
+  - first:
+      213: 6504032056785337981
+    second: Game Boy Advance - Pokemon FireRed LeafGreen - Overworld NPCs_243
+  - first:
+      213: -3375433742621106200
+    second: Game Boy Advance - Pokemon FireRed LeafGreen - Overworld NPCs_244
+  - first:
+      213: -5010861256119885422
+    second: Game Boy Advance - Pokemon FireRed LeafGreen - Overworld NPCs_245
+  - first:
+      213: -7237121238706951875
+    second: Game Boy Advance - Pokemon FireRed LeafGreen - Overworld NPCs_246
+  - first:
+      213: 8893683406495084949
+    second: Game Boy Advance - Pokemon FireRed LeafGreen - Overworld NPCs_247
+  - first:
+      213: 6972364780054265217
+    second: Game Boy Advance - Pokemon FireRed LeafGreen - Overworld NPCs_248
+  - first:
+      213: -8971179561406477744
+    second: Game Boy Advance - Pokemon FireRed LeafGreen - Overworld NPCs_249
+  - first:
+      213: 3326061132720115084
+    second: Game Boy Advance - Pokemon FireRed LeafGreen - Overworld NPCs_250
+  - first:
+      213: -3451620583482790122
+    second: Game Boy Advance - Pokemon FireRed LeafGreen - Overworld NPCs_251
+  - first:
+      213: -1664978193560687077
+    second: Game Boy Advance - Pokemon FireRed LeafGreen - Overworld NPCs_252
+  - first:
+      213: 174259203561649060
+    second: Game Boy Advance - Pokemon FireRed LeafGreen - Overworld NPCs_253
+  - first:
+      213: 4705409154915722958
+    second: Game Boy Advance - Pokemon FireRed LeafGreen - Overworld NPCs_254
+  - first:
+      213: 392490248319888706
+    second: Game Boy Advance - Pokemon FireRed LeafGreen - Overworld NPCs_255
+  - first:
+      213: 6997173177592724045
+    second: Game Boy Advance - Pokemon FireRed LeafGreen - Overworld NPCs_256
+  - first:
+      213: 1920556394892528220
+    second: Game Boy Advance - Pokemon FireRed LeafGreen - Overworld NPCs_257
+  - first:
+      213: -8801947132300100972
+    second: Game Boy Advance - Pokemon FireRed LeafGreen - Overworld NPCs_258
+  - first:
+      213: 2245083690978161916
+    second: Game Boy Advance - Pokemon FireRed LeafGreen - Overworld NPCs_259
+  - first:
+      213: 3320011218119595715
+    second: Game Boy Advance - Pokemon FireRed LeafGreen - Overworld NPCs_260
+  - first:
+      213: -4447826498621319335
+    second: Game Boy Advance - Pokemon FireRed LeafGreen - Overworld NPCs_261
+  - first:
+      213: -745470744067007314
+    second: Game Boy Advance - Pokemon FireRed LeafGreen - Overworld NPCs_262
+  - first:
+      213: -4731988021749726716
+    second: Game Boy Advance - Pokemon FireRed LeafGreen - Overworld NPCs_263
+  - first:
+      213: 4221427371538589642
+    second: Game Boy Advance - Pokemon FireRed LeafGreen - Overworld NPCs_264
+  - first:
+      213: -9038479051997122940
+    second: Game Boy Advance - Pokemon FireRed LeafGreen - Overworld NPCs_265
+  - first:
+      213: -2266274974310289731
+    second: Game Boy Advance - Pokemon FireRed LeafGreen - Overworld NPCs_266
+  - first:
+      213: -3013119210033912486
+    second: Game Boy Advance - Pokemon FireRed LeafGreen - Overworld NPCs_267
+  - first:
+      213: -349362702344096293
+    second: Game Boy Advance - Pokemon FireRed LeafGreen - Overworld NPCs_268
+  - first:
+      213: 9205988662629887850
+    second: Game Boy Advance - Pokemon FireRed LeafGreen - Overworld NPCs_269
+  - first:
+      213: -7975043579604744302
+    second: Game Boy Advance - Pokemon FireRed LeafGreen - Overworld NPCs_270
+  - first:
+      213: 9066138036444242935
+    second: Game Boy Advance - Pokemon FireRed LeafGreen - Overworld NPCs_271
+  - first:
+      213: 2699096239679325891
+    second: Game Boy Advance - Pokemon FireRed LeafGreen - Overworld NPCs_272
+  - first:
+      213: -4137817258781216083
+    second: Game Boy Advance - Pokemon FireRed LeafGreen - Overworld NPCs_273
+  - first:
+      213: -4715717272501888815
+    second: Game Boy Advance - Pokemon FireRed LeafGreen - Overworld NPCs_274
+  - first:
+      213: 7553435280004435032
+    second: Game Boy Advance - Pokemon FireRed LeafGreen - Overworld NPCs_275
+  - first:
+      213: -3295314483660774306
+    second: Game Boy Advance - Pokemon FireRed LeafGreen - Overworld NPCs_276
+  - first:
+      213: 695499133829285770
+    second: Game Boy Advance - Pokemon FireRed LeafGreen - Overworld NPCs_277
+  - first:
+      213: 776471751009603477
+    second: Game Boy Advance - Pokemon FireRed LeafGreen - Overworld NPCs_278
+  - first:
+      213: 6122681057055806054
+    second: Game Boy Advance - Pokemon FireRed LeafGreen - Overworld NPCs_279
+  - first:
+      213: -4362857425335303253
+    second: Game Boy Advance - Pokemon FireRed LeafGreen - Overworld NPCs_280
+  - first:
+      213: 307643856798166765
+    second: Game Boy Advance - Pokemon FireRed LeafGreen - Overworld NPCs_281
+  - first:
+      213: -1404498021660673304
+    second: Game Boy Advance - Pokemon FireRed LeafGreen - Overworld NPCs_282
+  - first:
+      213: -7134622606788781301
+    second: Game Boy Advance - Pokemon FireRed LeafGreen - Overworld NPCs_283
+  - first:
+      213: -2999166850997493795
+    second: Game Boy Advance - Pokemon FireRed LeafGreen - Overworld NPCs_284
+  - first:
+      213: -4451992370705762368
+    second: Game Boy Advance - Pokemon FireRed LeafGreen - Overworld NPCs_285
+  - first:
+      213: -8159769734838320008
+    second: Game Boy Advance - Pokemon FireRed LeafGreen - Overworld NPCs_286
+  - first:
+      213: 9202320288646366787
+    second: Game Boy Advance - Pokemon FireRed LeafGreen - Overworld NPCs_287
+  - first:
+      213: -5275327183254474728
+    second: Game Boy Advance - Pokemon FireRed LeafGreen - Overworld NPCs_288
+  - first:
+      213: -9022567122848206923
+    second: Game Boy Advance - Pokemon FireRed LeafGreen - Overworld NPCs_289
+  - first:
+      213: 7401074060663407147
+    second: Game Boy Advance - Pokemon FireRed LeafGreen - Overworld NPCs_290
+  - first:
+      213: 734232444397476582
+    second: Game Boy Advance - Pokemon FireRed LeafGreen - Overworld NPCs_291
+  - first:
+      213: 4671864721884877380
+    second: Game Boy Advance - Pokemon FireRed LeafGreen - Overworld NPCs_292
+  - first:
+      213: 7903756167966169430
+    second: Game Boy Advance - Pokemon FireRed LeafGreen - Overworld NPCs_293
+  - first:
+      213: -7346064081463001561
+    second: Game Boy Advance - Pokemon FireRed LeafGreen - Overworld NPCs_294
+  - first:
+      213: -6881654809109792778
+    second: Game Boy Advance - Pokemon FireRed LeafGreen - Overworld NPCs_295
+  - first:
+      213: -2083240119970799373
+    second: Game Boy Advance - Pokemon FireRed LeafGreen - Overworld NPCs_296
+  - first:
+      213: -5227596664331040894
+    second: Game Boy Advance - Pokemon FireRed LeafGreen - Overworld NPCs_297
+  - first:
+      213: 6642099171934822224
+    second: Game Boy Advance - Pokemon FireRed LeafGreen - Overworld NPCs_298
+  - first:
+      213: 3815785215593826084
+    second: Game Boy Advance - Pokemon FireRed LeafGreen - Overworld NPCs_299
+  - first:
+      213: 822372994494083654
+    second: Game Boy Advance - Pokemon FireRed LeafGreen - Overworld NPCs_300
+  - first:
+      213: 4898001160863433081
+    second: Game Boy Advance - Pokemon FireRed LeafGreen - Overworld NPCs_301
+  - first:
+      213: 1919405106886553756
+    second: Game Boy Advance - Pokemon FireRed LeafGreen - Overworld NPCs_302
+  - first:
+      213: -2101866537548763317
+    second: Game Boy Advance - Pokemon FireRed LeafGreen - Overworld NPCs_303
+  - first:
+      213: -3686528580594948253
+    second: Game Boy Advance - Pokemon FireRed LeafGreen - Overworld NPCs_304
+  - first:
+      213: 4700021990986631945
+    second: Game Boy Advance - Pokemon FireRed LeafGreen - Overworld NPCs_305
+  - first:
+      213: 6696436200505853308
+    second: Game Boy Advance - Pokemon FireRed LeafGreen - Overworld NPCs_306
+  - first:
+      213: -6382557055478736096
+    second: Game Boy Advance - Pokemon FireRed LeafGreen - Overworld NPCs_307
+  - first:
+      213: -9049323898438607880
+    second: Game Boy Advance - Pokemon FireRed LeafGreen - Overworld NPCs_308
+  - first:
+      213: 6806698142092951492
+    second: Game Boy Advance - Pokemon FireRed LeafGreen - Overworld NPCs_309
+  - first:
+      213: -1136761848263051399
+    second: Game Boy Advance - Pokemon FireRed LeafGreen - Overworld NPCs_310
+  - first:
+      213: 3097121000249946902
+    second: Game Boy Advance - Pokemon FireRed LeafGreen - Overworld NPCs_311
+  - first:
+      213: -7850823362895043402
+    second: Game Boy Advance - Pokemon FireRed LeafGreen - Overworld NPCs_312
+  - first:
+      213: -2006456392144607340
+    second: Game Boy Advance - Pokemon FireRed LeafGreen - Overworld NPCs_313
+  - first:
+      213: 6157214519477073814
+    second: Game Boy Advance - Pokemon FireRed LeafGreen - Overworld NPCs_314
+  - first:
+      213: -96659832808613994
+    second: Game Boy Advance - Pokemon FireRed LeafGreen - Overworld NPCs_315
+  - first:
+      213: -47758607593953943
+    second: Game Boy Advance - Pokemon FireRed LeafGreen - Overworld NPCs_316
+  - first:
+      213: -3707230983601812768
+    second: Game Boy Advance - Pokemon FireRed LeafGreen - Overworld NPCs_317
+  - first:
+      213: -2491475001395529091
+    second: Game Boy Advance - Pokemon FireRed LeafGreen - Overworld NPCs_318
+  - first:
+      213: -2101347980021599661
+    second: Game Boy Advance - Pokemon FireRed LeafGreen - Overworld NPCs_319
+  - first:
+      213: -4165960783468175486
+    second: Game Boy Advance - Pokemon FireRed LeafGreen - Overworld NPCs_320
+  - first:
+      213: 7165931565648564299
+    second: Game Boy Advance - Pokemon FireRed LeafGreen - Overworld NPCs_321
+  - first:
+      213: -4821355955488088293
+    second: Game Boy Advance - Pokemon FireRed LeafGreen - Overworld NPCs_322
+  - first:
+      213: 8612350868618436559
+    second: Game Boy Advance - Pokemon FireRed LeafGreen - Overworld NPCs_323
+  - first:
+      213: -7836148915416264076
+    second: Game Boy Advance - Pokemon FireRed LeafGreen - Overworld NPCs_324
+  - first:
+      213: -412972674062329728
+    second: Game Boy Advance - Pokemon FireRed LeafGreen - Overworld NPCs_325
+  - first:
+      213: 3024792263554160989
+    second: Game Boy Advance - Pokemon FireRed LeafGreen - Overworld NPCs_326
+  - first:
+      213: 4809538366137699323
+    second: Game Boy Advance - Pokemon FireRed LeafGreen - Overworld NPCs_327
+  - first:
+      213: -57233301540636770
+    second: Game Boy Advance - Pokemon FireRed LeafGreen - Overworld NPCs_328
+  - first:
+      213: -4396727391689785668
+    second: Game Boy Advance - Pokemon FireRed LeafGreen - Overworld NPCs_329
+  - first:
+      213: -7530185208092592252
+    second: Game Boy Advance - Pokemon FireRed LeafGreen - Overworld NPCs_330
+  - first:
+      213: 3410848417917245266
+    second: Game Boy Advance - Pokemon FireRed LeafGreen - Overworld NPCs_331
+  - first:
+      213: -2910703710121823843
+    second: Game Boy Advance - Pokemon FireRed LeafGreen - Overworld NPCs_332
+  - first:
+      213: -3942930186398242483
+    second: Game Boy Advance - Pokemon FireRed LeafGreen - Overworld NPCs_333
+  - first:
+      213: 5582000296569827026
+    second: Game Boy Advance - Pokemon FireRed LeafGreen - Overworld NPCs_334
+  - first:
+      213: -6200800837099397868
+    second: Game Boy Advance - Pokemon FireRed LeafGreen - Overworld NPCs_335
+  - first:
+      213: -15815703458276515
+    second: Game Boy Advance - Pokemon FireRed LeafGreen - Overworld NPCs_336
+  - first:
+      213: -946357199259235272
+    second: Game Boy Advance - Pokemon FireRed LeafGreen - Overworld NPCs_337
+  - first:
+      213: 3094197322722304250
+    second: Game Boy Advance - Pokemon FireRed LeafGreen - Overworld NPCs_338
+  - first:
+      213: 5538954637697250023
+    second: Game Boy Advance - Pokemon FireRed LeafGreen - Overworld NPCs_339
+  - first:
+      213: -1994975857680549013
+    second: Game Boy Advance - Pokemon FireRed LeafGreen - Overworld NPCs_340
+  - first:
+      213: -8826148352605006851
+    second: Game Boy Advance - Pokemon FireRed LeafGreen - Overworld NPCs_341
+  - first:
+      213: 3934369991242947149
+    second: Game Boy Advance - Pokemon FireRed LeafGreen - Overworld NPCs_342
+  - first:
+      213: -7055646832949384420
+    second: Game Boy Advance - Pokemon FireRed LeafGreen - Overworld NPCs_343
+  - first:
+      213: -8642700337661744511
+    second: Game Boy Advance - Pokemon FireRed LeafGreen - Overworld NPCs_344
+  - first:
+      213: 1762102223506773324
+    second: Game Boy Advance - Pokemon FireRed LeafGreen - Overworld NPCs_345
+  - first:
+      213: 7671576768947571412
+    second: Game Boy Advance - Pokemon FireRed LeafGreen - Overworld NPCs_346
+  - first:
+      213: -6211214154992132599
+    second: Game Boy Advance - Pokemon FireRed LeafGreen - Overworld NPCs_347
+  - first:
+      213: 5903438685968709641
+    second: Game Boy Advance - Pokemon FireRed LeafGreen - Overworld NPCs_348
+  - first:
+      213: 3463313222741735336
+    second: Game Boy Advance - Pokemon FireRed LeafGreen - Overworld NPCs_349
+  - first:
+      213: -4794823676486048353
+    second: Game Boy Advance - Pokemon FireRed LeafGreen - Overworld NPCs_350
+  - first:
+      213: -5154171883354833805
+    second: Game Boy Advance - Pokemon FireRed LeafGreen - Overworld NPCs_351
+  - first:
+      213: 2734984083232002880
+    second: Game Boy Advance - Pokemon FireRed LeafGreen - Overworld NPCs_352
+  - first:
+      213: -2731938746254011626
+    second: Game Boy Advance - Pokemon FireRed LeafGreen - Overworld NPCs_353
+  - first:
+      213: -3770068608264246850
+    second: Game Boy Advance - Pokemon FireRed LeafGreen - Overworld NPCs_354
+  - first:
+      213: -2388455612495551534
+    second: Game Boy Advance - Pokemon FireRed LeafGreen - Overworld NPCs_355
+  - first:
+      213: 4990524023767784251
+    second: Game Boy Advance - Pokemon FireRed LeafGreen - Overworld NPCs_356
+  - first:
+      213: -1159812800363547756
+    second: Game Boy Advance - Pokemon FireRed LeafGreen - Overworld NPCs_357
+  - first:
+      213: 4031216317192304351
+    second: Game Boy Advance - Pokemon FireRed LeafGreen - Overworld NPCs_358
+  - first:
+      213: 2023088667525311028
+    second: Game Boy Advance - Pokemon FireRed LeafGreen - Overworld NPCs_359
+  - first:
+      213: -2249679819403074124
+    second: Game Boy Advance - Pokemon FireRed LeafGreen - Overworld NPCs_360
+  - first:
+      213: 989234576535921011
+    second: Game Boy Advance - Pokemon FireRed LeafGreen - Overworld NPCs_361
+  - first:
+      213: -3653400743808188417
+    second: Game Boy Advance - Pokemon FireRed LeafGreen - Overworld NPCs_362
+  - first:
+      213: -7034558943087854154
+    second: Game Boy Advance - Pokemon FireRed LeafGreen - Overworld NPCs_363
+  - first:
+      213: -6921975190244585748
+    second: Game Boy Advance - Pokemon FireRed LeafGreen - Overworld NPCs_364
+  - first:
+      213: -4057439562286802402
+    second: Game Boy Advance - Pokemon FireRed LeafGreen - Overworld NPCs_365
+  - first:
+      213: 251494933474021035
+    second: Game Boy Advance - Pokemon FireRed LeafGreen - Overworld NPCs_366
+  - first:
+      213: 6932015758204222292
+    second: Game Boy Advance - Pokemon FireRed LeafGreen - Overworld NPCs_367
+  - first:
+      213: -6610281633819458240
+    second: Game Boy Advance - Pokemon FireRed LeafGreen - Overworld NPCs_368
+  - first:
+      213: -332752108881847481
+    second: Game Boy Advance - Pokemon FireRed LeafGreen - Overworld NPCs_369
+  - first:
+      213: 7003473123424983192
+    second: Game Boy Advance - Pokemon FireRed LeafGreen - Overworld NPCs_370
+  - first:
+      213: 6305082837164246413
+    second: Game Boy Advance - Pokemon FireRed LeafGreen - Overworld NPCs_371
+  - first:
+      213: 8818701335140958901
+    second: Game Boy Advance - Pokemon FireRed LeafGreen - Overworld NPCs_372
+  - first:
+      213: -6705333860041337359
+    second: Game Boy Advance - Pokemon FireRed LeafGreen - Overworld NPCs_373
+  - first:
+      213: -6736724593219612402
+    second: Game Boy Advance - Pokemon FireRed LeafGreen - Overworld NPCs_374
+  - first:
+      213: 7028778033244056519
+    second: Game Boy Advance - Pokemon FireRed LeafGreen - Overworld NPCs_375
+  - first:
+      213: -6730730110028319277
+    second: Game Boy Advance - Pokemon FireRed LeafGreen - Overworld NPCs_376
+  - first:
+      213: -1074846435940639097
+    second: Game Boy Advance - Pokemon FireRed LeafGreen - Overworld NPCs_377
+  - first:
+      213: -3986862650011024923
+    second: Game Boy Advance - Pokemon FireRed LeafGreen - Overworld NPCs_378
+  - first:
+      213: -5347727555744746748
+    second: Game Boy Advance - Pokemon FireRed LeafGreen - Overworld NPCs_379
+  - first:
+      213: 3321595490765936522
+    second: Game Boy Advance - Pokemon FireRed LeafGreen - Overworld NPCs_380
+  - first:
+      213: -7912438826364926531
+    second: Game Boy Advance - Pokemon FireRed LeafGreen - Overworld NPCs_381
+  - first:
+      213: -6534845820206904514
+    second: Game Boy Advance - Pokemon FireRed LeafGreen - Overworld NPCs_382
+  - first:
+      213: -1042834589174622010
+    second: Game Boy Advance - Pokemon FireRed LeafGreen - Overworld NPCs_383
+  - first:
+      213: 5664635733788050363
+    second: Game Boy Advance - Pokemon FireRed LeafGreen - Overworld NPCs_384
+  - first:
+      213: -6969565991958051664
+    second: Game Boy Advance - Pokemon FireRed LeafGreen - Overworld NPCs_385
+  - first:
+      213: -101017339007527956
+    second: Game Boy Advance - Pokemon FireRed LeafGreen - Overworld NPCs_386
+  - first:
+      213: -6069524370830588126
+    second: Game Boy Advance - Pokemon FireRed LeafGreen - Overworld NPCs_387
+  - first:
+      213: 8745639657988995482
+    second: Game Boy Advance - Pokemon FireRed LeafGreen - Overworld NPCs_388
+  - first:
+      213: -8019794801654168420
+    second: Game Boy Advance - Pokemon FireRed LeafGreen - Overworld NPCs_389
+  - first:
+      213: -5927153917115146436
+    second: Game Boy Advance - Pokemon FireRed LeafGreen - Overworld NPCs_390
+  - first:
+      213: 1620529550655190452
+    second: Game Boy Advance - Pokemon FireRed LeafGreen - Overworld NPCs_391
+  - first:
+      213: -8656239766477891683
+    second: Game Boy Advance - Pokemon FireRed LeafGreen - Overworld NPCs_392
+  - first:
+      213: -8488062561194608945
+    second: Game Boy Advance - Pokemon FireRed LeafGreen - Overworld NPCs_393
+  - first:
+      213: 8429696973979325224
+    second: Game Boy Advance - Pokemon FireRed LeafGreen - Overworld NPCs_394
+  - first:
+      213: 8144610467802040437
+    second: Game Boy Advance - Pokemon FireRed LeafGreen - Overworld NPCs_395
+  - first:
+      213: 3227577640806518217
+    second: Game Boy Advance - Pokemon FireRed LeafGreen - Overworld NPCs_396
+  - first:
+      213: 2828866381734904504
+    second: Game Boy Advance - Pokemon FireRed LeafGreen - Overworld NPCs_397
+  - first:
+      213: 4776344105400672138
+    second: Game Boy Advance - Pokemon FireRed LeafGreen - Overworld NPCs_398
+  - first:
+      213: -526661113194152860
+    second: Game Boy Advance - Pokemon FireRed LeafGreen - Overworld NPCs_399
+  - first:
+      213: -3151273952376002378
+    second: Game Boy Advance - Pokemon FireRed LeafGreen - Overworld NPCs_400
+  - first:
+      213: -7262920626883590979
+    second: Game Boy Advance - Pokemon FireRed LeafGreen - Overworld NPCs_401
+  - first:
+      213: 8358843680669352822
+    second: Game Boy Advance - Pokemon FireRed LeafGreen - Overworld NPCs_402
+  - first:
+      213: 1498065614710357143
+    second: Game Boy Advance - Pokemon FireRed LeafGreen - Overworld NPCs_403
+  - first:
+      213: 1510899122919813538
+    second: Game Boy Advance - Pokemon FireRed LeafGreen - Overworld NPCs_404
+  - first:
+      213: 8440391190564081720
+    second: Game Boy Advance - Pokemon FireRed LeafGreen - Overworld NPCs_405
+  - first:
+      213: -5341757909392445864
+    second: Game Boy Advance - Pokemon FireRed LeafGreen - Overworld NPCs_406
+  - first:
+      213: -7191295181604943768
+    second: Game Boy Advance - Pokemon FireRed LeafGreen - Overworld NPCs_407
+  - first:
+      213: -6007855102183549487
+    second: Game Boy Advance - Pokemon FireRed LeafGreen - Overworld NPCs_408
+  - first:
+      213: -238967638055887918
+    second: Game Boy Advance - Pokemon FireRed LeafGreen - Overworld NPCs_409
+  - first:
+      213: -4763534426228582069
+    second: Game Boy Advance - Pokemon FireRed LeafGreen - Overworld NPCs_410
+  - first:
+      213: 8239013707019676227
+    second: Game Boy Advance - Pokemon FireRed LeafGreen - Overworld NPCs_411
+  - first:
+      213: 435473619353938986
+    second: Game Boy Advance - Pokemon FireRed LeafGreen - Overworld NPCs_412
+  - first:
+      213: -1472634530089185826
+    second: Game Boy Advance - Pokemon FireRed LeafGreen - Overworld NPCs_413
+  - first:
+      213: -4097710871635198419
+    second: Game Boy Advance - Pokemon FireRed LeafGreen - Overworld NPCs_414
+  - first:
+      213: 6489472892139679953
+    second: Game Boy Advance - Pokemon FireRed LeafGreen - Overworld NPCs_415
+  - first:
+      213: 7266590810743855025
+    second: Game Boy Advance - Pokemon FireRed LeafGreen - Overworld NPCs_416
+  - first:
+      213: 6288484462515077890
+    second: Game Boy Advance - Pokemon FireRed LeafGreen - Overworld NPCs_417
+  - first:
+      213: 4469876561148414509
+    second: Game Boy Advance - Pokemon FireRed LeafGreen - Overworld NPCs_418
+  - first:
+      213: 8006819213170422001
+    second: Game Boy Advance - Pokemon FireRed LeafGreen - Overworld NPCs_419
+  - first:
+      213: -1059227694693037564
+    second: Game Boy Advance - Pokemon FireRed LeafGreen - Overworld NPCs_420
+  - first:
+      213: 8374408360953820114
+    second: Game Boy Advance - Pokemon FireRed LeafGreen - Overworld NPCs_421
+  - first:
+      213: -3591504993354649319
+    second: Game Boy Advance - Pokemon FireRed LeafGreen - Overworld NPCs_422
+  - first:
+      213: 5134488836179371897
+    second: Game Boy Advance - Pokemon FireRed LeafGreen - Overworld NPCs_423
+  - first:
+      213: -8910768736919952990
+    second: Game Boy Advance - Pokemon FireRed LeafGreen - Overworld NPCs_424
+  - first:
+      213: 5659613262601246952
+    second: Game Boy Advance - Pokemon FireRed LeafGreen - Overworld NPCs_425
+  - first:
+      213: 1995870810065907978
+    second: Game Boy Advance - Pokemon FireRed LeafGreen - Overworld NPCs_426
+  - first:
+      213: 8062404491251762685
+    second: Game Boy Advance - Pokemon FireRed LeafGreen - Overworld NPCs_427
+  - first:
+      213: 4400808551686224496
+    second: Game Boy Advance - Pokemon FireRed LeafGreen - Overworld NPCs_428
+  - first:
+      213: 1060601807034563566
+    second: Game Boy Advance - Pokemon FireRed LeafGreen - Overworld NPCs_429
+  - first:
+      213: 5627182686354906431
+    second: Game Boy Advance - Pokemon FireRed LeafGreen - Overworld NPCs_430
+  - first:
+      213: 2494077827955258415
+    second: Game Boy Advance - Pokemon FireRed LeafGreen - Overworld NPCs_431
+  - first:
+      213: -5219759286377225603
+    second: Game Boy Advance - Pokemon FireRed LeafGreen - Overworld NPCs_432
+  - first:
+      213: -7204383870468721826
+    second: Game Boy Advance - Pokemon FireRed LeafGreen - Overworld NPCs_433
+  - first:
+      213: 9072855244946568920
+    second: Game Boy Advance - Pokemon FireRed LeafGreen - Overworld NPCs_434
+  - first:
+      213: 5471849614586267811
+    second: Game Boy Advance - Pokemon FireRed LeafGreen - Overworld NPCs_435
+  - first:
+      213: -6910453323311972808
+    second: Game Boy Advance - Pokemon FireRed LeafGreen - Overworld NPCs_436
+  - first:
+      213: -6259756320770980971
+    second: Game Boy Advance - Pokemon FireRed LeafGreen - Overworld NPCs_437
+  - first:
+      213: -6282146689639485970
+    second: Game Boy Advance - Pokemon FireRed LeafGreen - Overworld NPCs_438
+  - first:
+      213: -7521915872115903113
+    second: Game Boy Advance - Pokemon FireRed LeafGreen - Overworld NPCs_439
+  - first:
+      213: -8573671573197356654
+    second: Game Boy Advance - Pokemon FireRed LeafGreen - Overworld NPCs_440
+  - first:
+      213: 7356014958315136414
+    second: Game Boy Advance - Pokemon FireRed LeafGreen - Overworld NPCs_441
+  - first:
+      213: 5866873548001837713
+    second: Game Boy Advance - Pokemon FireRed LeafGreen - Overworld NPCs_442
+  - first:
+      213: 9130016110269568922
+    second: Game Boy Advance - Pokemon FireRed LeafGreen - Overworld NPCs_443
+  - first:
+      213: -3599069345223048325
+    second: Game Boy Advance - Pokemon FireRed LeafGreen - Overworld NPCs_444
+  - first:
+      213: 7598715060387067178
+    second: Game Boy Advance - Pokemon FireRed LeafGreen - Overworld NPCs_445
+  - first:
+      213: 6433811697114257450
+    second: Game Boy Advance - Pokemon FireRed LeafGreen - Overworld NPCs_446
+  - first:
+      213: 8429670667004629033
+    second: Game Boy Advance - Pokemon FireRed LeafGreen - Overworld NPCs_447
+  - first:
+      213: 6693521512810932770
+    second: Game Boy Advance - Pokemon FireRed LeafGreen - Overworld NPCs_448
+  - first:
+      213: 3544149459029420828
+    second: Game Boy Advance - Pokemon FireRed LeafGreen - Overworld NPCs_449
+  - first:
+      213: -4859835160810823486
+    second: Game Boy Advance - Pokemon FireRed LeafGreen - Overworld NPCs_450
+  - first:
+      213: -4477453845793999307
+    second: Game Boy Advance - Pokemon FireRed LeafGreen - Overworld NPCs_451
+  - first:
+      213: -3995996463489546842
+    second: Game Boy Advance - Pokemon FireRed LeafGreen - Overworld NPCs_452
+  - first:
+      213: -9008915018851123929
+    second: Game Boy Advance - Pokemon FireRed LeafGreen - Overworld NPCs_453
+  - first:
+      213: -2432479943576473779
+    second: Game Boy Advance - Pokemon FireRed LeafGreen - Overworld NPCs_454
+  - first:
+      213: -5572940446122822018
+    second: Game Boy Advance - Pokemon FireRed LeafGreen - Overworld NPCs_455
+  - first:
+      213: -762827206134367344
+    second: Game Boy Advance - Pokemon FireRed LeafGreen - Overworld NPCs_456
+  - first:
+      213: 5276771670567514001
+    second: Game Boy Advance - Pokemon FireRed LeafGreen - Overworld NPCs_457
+  - first:
+      213: 5558991902650804455
+    second: Game Boy Advance - Pokemon FireRed LeafGreen - Overworld NPCs_458
+  - first:
+      213: -3224049083246117862
+    second: Game Boy Advance - Pokemon FireRed LeafGreen - Overworld NPCs_459
+  - first:
+      213: 6158882146203126636
+    second: Game Boy Advance - Pokemon FireRed LeafGreen - Overworld NPCs_460
+  - first:
+      213: 5863109407530791917
+    second: Game Boy Advance - Pokemon FireRed LeafGreen - Overworld NPCs_461
+  - first:
+      213: -3625564582482415629
+    second: Game Boy Advance - Pokemon FireRed LeafGreen - Overworld NPCs_462
+  - first:
+      213: 1943556958366242113
+    second: Game Boy Advance - Pokemon FireRed LeafGreen - Overworld NPCs_463
+  - first:
+      213: -7371376015363139284
+    second: Game Boy Advance - Pokemon FireRed LeafGreen - Overworld NPCs_464
+  - first:
+      213: 6041983142227908243
+    second: Game Boy Advance - Pokemon FireRed LeafGreen - Overworld NPCs_465
+  - first:
+      213: -119073631648379444
+    second: Game Boy Advance - Pokemon FireRed LeafGreen - Overworld NPCs_466
+  - first:
+      213: -6107381219325427250
+    second: Game Boy Advance - Pokemon FireRed LeafGreen - Overworld NPCs_467
+  - first:
+      213: 7205780626311216989
+    second: Game Boy Advance - Pokemon FireRed LeafGreen - Overworld NPCs_468
+  - first:
+      213: 5242025829400717537
+    second: Game Boy Advance - Pokemon FireRed LeafGreen - Overworld NPCs_469
+  - first:
+      213: -7828451323466453063
+    second: Game Boy Advance - Pokemon FireRed LeafGreen - Overworld NPCs_470
+  - first:
+      213: 5285848795772740430
+    second: Game Boy Advance - Pokemon FireRed LeafGreen - Overworld NPCs_471
+  - first:
+      213: -2370875588000218264
+    second: Game Boy Advance - Pokemon FireRed LeafGreen - Overworld NPCs_472
+  - first:
+      213: 7116265990379285923
+    second: Game Boy Advance - Pokemon FireRed LeafGreen - Overworld NPCs_473
+  - first:
+      213: -3154713716553131836
+    second: Game Boy Advance - Pokemon FireRed LeafGreen - Overworld NPCs_474
+  - first:
+      213: -457416403044144886
+    second: Game Boy Advance - Pokemon FireRed LeafGreen - Overworld NPCs_475
+  - first:
+      213: 859104159130549448
+    second: Game Boy Advance - Pokemon FireRed LeafGreen - Overworld NPCs_476
+  - first:
+      213: 4682512447413425401
+    second: Game Boy Advance - Pokemon FireRed LeafGreen - Overworld NPCs_477
+  - first:
+      213: -7003552464700462199
+    second: Game Boy Advance - Pokemon FireRed LeafGreen - Overworld NPCs_478
+  - first:
+      213: -4048000715143765086
+    second: Game Boy Advance - Pokemon FireRed LeafGreen - Overworld NPCs_479
+  - first:
+      213: 3309829026608619376
+    second: Game Boy Advance - Pokemon FireRed LeafGreen - Overworld NPCs_480
+  - first:
+      213: -7858690512321670335
+    second: Game Boy Advance - Pokemon FireRed LeafGreen - Overworld NPCs_481
+  - first:
+      213: 1753068849263318431
+    second: Game Boy Advance - Pokemon FireRed LeafGreen - Overworld NPCs_482
+  - first:
+      213: -3908433327735206899
+    second: Game Boy Advance - Pokemon FireRed LeafGreen - Overworld NPCs_483
+  - first:
+      213: -584185917769623689
+    second: Game Boy Advance - Pokemon FireRed LeafGreen - Overworld NPCs_484
+  - first:
+      213: 1353140871339546235
+    second: Game Boy Advance - Pokemon FireRed LeafGreen - Overworld NPCs_485
+  - first:
+      213: -8639556195507108538
+    second: Game Boy Advance - Pokemon FireRed LeafGreen - Overworld NPCs_486
+  - first:
+      213: -7771368315081012678
+    second: Game Boy Advance - Pokemon FireRed LeafGreen - Overworld NPCs_487
+  - first:
+      213: -7208295788492815189
+    second: Game Boy Advance - Pokemon FireRed LeafGreen - Overworld NPCs_488
+  - first:
+      213: 5330955158927996865
+    second: Game Boy Advance - Pokemon FireRed LeafGreen - Overworld NPCs_489
+  - first:
+      213: 8973731821593390411
+    second: Game Boy Advance - Pokemon FireRed LeafGreen - Overworld NPCs_490
+  - first:
+      213: -7795862076878662529
+    second: Game Boy Advance - Pokemon FireRed LeafGreen - Overworld NPCs_491
+  - first:
+      213: 6325407489263856219
+    second: Game Boy Advance - Pokemon FireRed LeafGreen - Overworld NPCs_492
+  - first:
+      213: 909303184687157068
+    second: Game Boy Advance - Pokemon FireRed LeafGreen - Overworld NPCs_493
+  - first:
+      213: 216612692531027788
+    second: Game Boy Advance - Pokemon FireRed LeafGreen - Overworld NPCs_494
+  - first:
+      213: -6202363232843134801
+    second: Game Boy Advance - Pokemon FireRed LeafGreen - Overworld NPCs_495
+  - first:
+      213: -6987743672154581131
+    second: Game Boy Advance - Pokemon FireRed LeafGreen - Overworld NPCs_496
+  - first:
+      213: 6127599912904276658
+    second: Game Boy Advance - Pokemon FireRed LeafGreen - Overworld NPCs_497
+  - first:
+      213: -8226511068429734580
+    second: Game Boy Advance - Pokemon FireRed LeafGreen - Overworld NPCs_498
+  - first:
+      213: -7954033187394524487
+    second: Game Boy Advance - Pokemon FireRed LeafGreen - Overworld NPCs_499
+  - first:
+      213: -4924475812790633347
+    second: Game Boy Advance - Pokemon FireRed LeafGreen - Overworld NPCs_500
+  - first:
+      213: 2732341119023028625
+    second: Game Boy Advance - Pokemon FireRed LeafGreen - Overworld NPCs_501
+  - first:
+      213: -7665573854340806809
+    second: Game Boy Advance - Pokemon FireRed LeafGreen - Overworld NPCs_502
+  - first:
+      213: 2883709697732015522
+    second: Game Boy Advance - Pokemon FireRed LeafGreen - Overworld NPCs_503
+  - first:
+      213: -6193682465545499239
+    second: Game Boy Advance - Pokemon FireRed LeafGreen - Overworld NPCs_504
+  - first:
+      213: 8280745976211157223
+    second: Game Boy Advance - Pokemon FireRed LeafGreen - Overworld NPCs_505
+  - first:
+      213: 7431890330827993430
+    second: Game Boy Advance - Pokemon FireRed LeafGreen - Overworld NPCs_506
+  - first:
+      213: -4520993476016767250
+    second: Game Boy Advance - Pokemon FireRed LeafGreen - Overworld NPCs_507
+  - first:
+      213: -7698981834603889316
+    second: Game Boy Advance - Pokemon FireRed LeafGreen - Overworld NPCs_508
+  - first:
+      213: -752827731781193359
+    second: Game Boy Advance - Pokemon FireRed LeafGreen - Overworld NPCs_509
+  - first:
+      213: -7027549564540099773
+    second: Game Boy Advance - Pokemon FireRed LeafGreen - Overworld NPCs_510
+  - first:
+      213: 6829385927848635614
+    second: Game Boy Advance - Pokemon FireRed LeafGreen - Overworld NPCs_511
+  - first:
+      213: 6147594978166407518
+    second: Game Boy Advance - Pokemon FireRed LeafGreen - Overworld NPCs_512
+  - first:
+      213: 8173250773720444372
+    second: Game Boy Advance - Pokemon FireRed LeafGreen - Overworld NPCs_513
+  - first:
+      213: -3569036862808190590
+    second: Game Boy Advance - Pokemon FireRed LeafGreen - Overworld NPCs_514
+  - first:
+      213: -1221112776201569927
+    second: Game Boy Advance - Pokemon FireRed LeafGreen - Overworld NPCs_515
+  - first:
+      213: 6466330661870160398
+    second: Game Boy Advance - Pokemon FireRed LeafGreen - Overworld NPCs_516
+  - first:
+      213: -2553351419846714886
+    second: Game Boy Advance - Pokemon FireRed LeafGreen - Overworld NPCs_517
+  - first:
+      213: 3195127596160176698
+    second: Game Boy Advance - Pokemon FireRed LeafGreen - Overworld NPCs_518
+  - first:
+      213: 9174606841064168008
+    second: Game Boy Advance - Pokemon FireRed LeafGreen - Overworld NPCs_519
+  - first:
+      213: 6255328853367742063
+    second: Game Boy Advance - Pokemon FireRed LeafGreen - Overworld NPCs_520
+  - first:
+      213: 7272597136405927707
+    second: Game Boy Advance - Pokemon FireRed LeafGreen - Overworld NPCs_521
+  - first:
+      213: 1656867600264240759
+    second: Game Boy Advance - Pokemon FireRed LeafGreen - Overworld NPCs_522
+  - first:
+      213: 1226134479471318902
+    second: Game Boy Advance - Pokemon FireRed LeafGreen - Overworld NPCs_523
+  - first:
+      213: -8508390688461159707
+    second: Game Boy Advance - Pokemon FireRed LeafGreen - Overworld NPCs_524
+  - first:
+      213: -8077747548201615998
+    second: Game Boy Advance - Pokemon FireRed LeafGreen - Overworld NPCs_525
+  - first:
+      213: -3167650338691289276
+    second: Game Boy Advance - Pokemon FireRed LeafGreen - Overworld NPCs_526
+  - first:
+      213: -1021912980462236912
+    second: Game Boy Advance - Pokemon FireRed LeafGreen - Overworld NPCs_527
+  - first:
+      213: -8486050032908333115
+    second: Game Boy Advance - Pokemon FireRed LeafGreen - Overworld NPCs_528
+  - first:
+      213: -1399646279848765193
+    second: Game Boy Advance - Pokemon FireRed LeafGreen - Overworld NPCs_529
+  - first:
+      213: -1263066534589902509
+    second: Game Boy Advance - Pokemon FireRed LeafGreen - Overworld NPCs_530
+  - first:
+      213: 6151758502761460739
+    second: Game Boy Advance - Pokemon FireRed LeafGreen - Overworld NPCs_531
+  - first:
+      213: 5483368628578035089
+    second: Game Boy Advance - Pokemon FireRed LeafGreen - Overworld NPCs_532
+  - first:
+      213: -6635499019724284667
+    second: Game Boy Advance - Pokemon FireRed LeafGreen - Overworld NPCs_533
+  - first:
+      213: -7230985408940304964
+    second: Game Boy Advance - Pokemon FireRed LeafGreen - Overworld NPCs_534
+  - first:
+      213: 4759957452935547958
+    second: Game Boy Advance - Pokemon FireRed LeafGreen - Overworld NPCs_535
+  - first:
+      213: -393100228665747811
+    second: Game Boy Advance - Pokemon FireRed LeafGreen - Overworld NPCs_536
+  - first:
+      213: -4739211058593590186
+    second: Game Boy Advance - Pokemon FireRed LeafGreen - Overworld NPCs_537
+  - first:
+      213: -4153979982932375299
+    second: Game Boy Advance - Pokemon FireRed LeafGreen - Overworld NPCs_538
+  - first:
+      213: 7984656555214689151
+    second: Game Boy Advance - Pokemon FireRed LeafGreen - Overworld NPCs_539
+  - first:
+      213: -306008835765305794
+    second: Game Boy Advance - Pokemon FireRed LeafGreen - Overworld NPCs_540
+  - first:
+      213: 5294757935796024944
+    second: Game Boy Advance - Pokemon FireRed LeafGreen - Overworld NPCs_541
+  - first:
+      213: 2944171943821072894
+    second: Game Boy Advance - Pokemon FireRed LeafGreen - Overworld NPCs_542
+  - first:
+      213: 6023714338067132842
+    second: Game Boy Advance - Pokemon FireRed LeafGreen - Overworld NPCs_543
+  - first:
+      213: -9089112183310369405
+    second: Game Boy Advance - Pokemon FireRed LeafGreen - Overworld NPCs_544
+  - first:
+      213: -521309620206129292
+    second: Game Boy Advance - Pokemon FireRed LeafGreen - Overworld NPCs_545
+  - first:
+      213: -827538685696878904
+    second: Game Boy Advance - Pokemon FireRed LeafGreen - Overworld NPCs_546
+  - first:
+      213: 4406981878444312046
+    second: Game Boy Advance - Pokemon FireRed LeafGreen - Overworld NPCs_547
+  - first:
+      213: 5038247394357274149
+    second: Game Boy Advance - Pokemon FireRed LeafGreen - Overworld NPCs_548
+  - first:
+      213: -2366977573374846116
+    second: Game Boy Advance - Pokemon FireRed LeafGreen - Overworld NPCs_549
+  - first:
+      213: 2445905084356624144
+    second: Game Boy Advance - Pokemon FireRed LeafGreen - Overworld NPCs_550
+  - first:
+      213: 1617983636773161634
+    second: Game Boy Advance - Pokemon FireRed LeafGreen - Overworld NPCs_551
+  - first:
+      213: 1422864878989748585
+    second: Game Boy Advance - Pokemon FireRed LeafGreen - Overworld NPCs_552
+  - first:
+      213: -2211841130580152254
+    second: Game Boy Advance - Pokemon FireRed LeafGreen - Overworld NPCs_553
+  - first:
+      213: -5784904133512350355
+    second: Game Boy Advance - Pokemon FireRed LeafGreen - Overworld NPCs_554
+  - first:
+      213: -4939667616373581273
+    second: Game Boy Advance - Pokemon FireRed LeafGreen - Overworld NPCs_555
+  - first:
+      213: 6208620387856746845
+    second: Game Boy Advance - Pokemon FireRed LeafGreen - Overworld NPCs_556
+  - first:
+      213: -9155845883480458114
+    second: Game Boy Advance - Pokemon FireRed LeafGreen - Overworld NPCs_557
+  - first:
+      213: -6256422759491891952
+    second: Game Boy Advance - Pokemon FireRed LeafGreen - Overworld NPCs_558
+  - first:
+      213: 3524177500299050865
+    second: Game Boy Advance - Pokemon FireRed LeafGreen - Overworld NPCs_559
+  - first:
+      213: 3777067111994401482
+    second: Game Boy Advance - Pokemon FireRed LeafGreen - Overworld NPCs_560
+  - first:
+      213: 3417047476207379903
+    second: Game Boy Advance - Pokemon FireRed LeafGreen - Overworld NPCs_561
+  - first:
+      213: 5287881349826673195
+    second: Game Boy Advance - Pokemon FireRed LeafGreen - Overworld NPCs_562
+  - first:
+      213: -158413081810801327
+    second: Game Boy Advance - Pokemon FireRed LeafGreen - Overworld NPCs_563
+  - first:
+      213: -5279602110263917117
+    second: Game Boy Advance - Pokemon FireRed LeafGreen - Overworld NPCs_564
+  - first:
+      213: 4331014882362885256
+    second: Game Boy Advance - Pokemon FireRed LeafGreen - Overworld NPCs_565
+  - first:
+      213: 520960388954840894
+    second: Game Boy Advance - Pokemon FireRed LeafGreen - Overworld NPCs_566
+  - first:
+      213: -7767930430359163811
+    second: Game Boy Advance - Pokemon FireRed LeafGreen - Overworld NPCs_567
+  - first:
+      213: -7237875097212373933
+    second: Game Boy Advance - Pokemon FireRed LeafGreen - Overworld NPCs_568
+  - first:
+      213: 1771737730379836271
+    second: Game Boy Advance - Pokemon FireRed LeafGreen - Overworld NPCs_569
+  - first:
+      213: -5486297228254705541
+    second: Game Boy Advance - Pokemon FireRed LeafGreen - Overworld NPCs_570
+  - first:
+      213: -173236363568032833
+    second: Game Boy Advance - Pokemon FireRed LeafGreen - Overworld NPCs_571
+  - first:
+      213: 6181295115172950301
+    second: Game Boy Advance - Pokemon FireRed LeafGreen - Overworld NPCs_572
+  - first:
+      213: 306706594511651528
+    second: Game Boy Advance - Pokemon FireRed LeafGreen - Overworld NPCs_573
+  - first:
+      213: -7594464357026401051
+    second: Game Boy Advance - Pokemon FireRed LeafGreen - Overworld NPCs_574
+  - first:
+      213: 3340216821103814100
+    second: Game Boy Advance - Pokemon FireRed LeafGreen - Overworld NPCs_575
+  - first:
+      213: 7524157902837352936
+    second: Game Boy Advance - Pokemon FireRed LeafGreen - Overworld NPCs_576
+  - first:
+      213: 4625142637843510937
+    second: Game Boy Advance - Pokemon FireRed LeafGreen - Overworld NPCs_577
+  - first:
+      213: 6215974705390259403
+    second: Game Boy Advance - Pokemon FireRed LeafGreen - Overworld NPCs_578
+  - first:
+      213: 4267326754396315269
+    second: Game Boy Advance - Pokemon FireRed LeafGreen - Overworld NPCs_579
+  - first:
+      213: -4469225129891211668
+    second: Game Boy Advance - Pokemon FireRed LeafGreen - Overworld NPCs_580
+  - first:
+      213: -6602550900969841785
+    second: Game Boy Advance - Pokemon FireRed LeafGreen - Overworld NPCs_581
+  - first:
+      213: -1678147940346935161
+    second: Game Boy Advance - Pokemon FireRed LeafGreen - Overworld NPCs_582
+  - first:
+      213: 372031052275903396
+    second: Game Boy Advance - Pokemon FireRed LeafGreen - Overworld NPCs_583
+  - first:
+      213: 874979430437138839
+    second: Game Boy Advance - Pokemon FireRed LeafGreen - Overworld NPCs_584
+  - first:
+      213: -2985910836044426680
+    second: Game Boy Advance - Pokemon FireRed LeafGreen - Overworld NPCs_585
+  - first:
+      213: -6870964639407603545
+    second: Game Boy Advance - Pokemon FireRed LeafGreen - Overworld NPCs_586
+  - first:
+      213: -3913690337183061313
+    second: Game Boy Advance - Pokemon FireRed LeafGreen - Overworld NPCs_587
+  - first:
+      213: -624764496839527047
+    second: Game Boy Advance - Pokemon FireRed LeafGreen - Overworld NPCs_588
+  - first:
+      213: -452899515727566447
+    second: Game Boy Advance - Pokemon FireRed LeafGreen - Overworld NPCs_589
+  - first:
+      213: 7972183428033193237
+    second: Game Boy Advance - Pokemon FireRed LeafGreen - Overworld NPCs_590
+  - first:
+      213: 2516023134000194984
+    second: Game Boy Advance - Pokemon FireRed LeafGreen - Overworld NPCs_591
+  - first:
+      213: -3848093017955788031
+    second: Game Boy Advance - Pokemon FireRed LeafGreen - Overworld NPCs_592
+  - first:
+      213: -1962708641924114893
+    second: Game Boy Advance - Pokemon FireRed LeafGreen - Overworld NPCs_593
+  - first:
+      213: -3604466016823247169
+    second: Game Boy Advance - Pokemon FireRed LeafGreen - Overworld NPCs_594
+  - first:
+      213: -9213729665900735328
+    second: Game Boy Advance - Pokemon FireRed LeafGreen - Overworld NPCs_595
+  - first:
+      213: -2822348688736759683
+    second: Game Boy Advance - Pokemon FireRed LeafGreen - Overworld NPCs_596
+  - first:
+      213: 8006490708438319311
+    second: Game Boy Advance - Pokemon FireRed LeafGreen - Overworld NPCs_597
+  - first:
+      213: 5758627557179621834
+    second: Game Boy Advance - Pokemon FireRed LeafGreen - Overworld NPCs_598
+  - first:
+      213: -1083212074711631106
+    second: Game Boy Advance - Pokemon FireRed LeafGreen - Overworld NPCs_599
+  - first:
+      213: -3350146499185525417
+    second: Game Boy Advance - Pokemon FireRed LeafGreen - Overworld NPCs_600
+  - first:
+      213: 4934720140935173154
+    second: Game Boy Advance - Pokemon FireRed LeafGreen - Overworld NPCs_601
+  - first:
+      213: 3348748666608207469
+    second: Game Boy Advance - Pokemon FireRed LeafGreen - Overworld NPCs_602
+  - first:
+      213: -7563578883369862349
+    second: Game Boy Advance - Pokemon FireRed LeafGreen - Overworld NPCs_603
+  - first:
+      213: 8827927279110357556
+    second: Game Boy Advance - Pokemon FireRed LeafGreen - Overworld NPCs_604
+  - first:
+      213: -5692855445848851685
+    second: Game Boy Advance - Pokemon FireRed LeafGreen - Overworld NPCs_605
+  - first:
+      213: -2178490294895704136
+    second: Game Boy Advance - Pokemon FireRed LeafGreen - Overworld NPCs_606
+  - first:
+      213: 2703004080646409477
+    second: Game Boy Advance - Pokemon FireRed LeafGreen - Overworld NPCs_607
+  - first:
+      213: -4367672294527862031
+    second: Game Boy Advance - Pokemon FireRed LeafGreen - Overworld NPCs_608
+  - first:
+      213: -1451661976089964218
+    second: Game Boy Advance - Pokemon FireRed LeafGreen - Overworld NPCs_609
+  - first:
+      213: 3452917493586404183
+    second: Game Boy Advance - Pokemon FireRed LeafGreen - Overworld NPCs_610
+  - first:
+      213: -1775373474714891626
+    second: Game Boy Advance - Pokemon FireRed LeafGreen - Overworld NPCs_611
+  - first:
+      213: -2078527317392069241
+    second: Game Boy Advance - Pokemon FireRed LeafGreen - Overworld NPCs_612
+  - first:
+      213: 2809311800629804453
+    second: Game Boy Advance - Pokemon FireRed LeafGreen - Overworld NPCs_613
+  - first:
+      213: -2754762295497283050
+    second: Game Boy Advance - Pokemon FireRed LeafGreen - Overworld NPCs_614
+  - first:
+      213: -1071070528137671817
+    second: Game Boy Advance - Pokemon FireRed LeafGreen - Overworld NPCs_615
+  - first:
+      213: 843151494211366888
+    second: Game Boy Advance - Pokemon FireRed LeafGreen - Overworld NPCs_616
+  - first:
+      213: -6764214341937362286
+    second: Game Boy Advance - Pokemon FireRed LeafGreen - Overworld NPCs_617
+  - first:
+      213: -7831928227079832631
+    second: Game Boy Advance - Pokemon FireRed LeafGreen - Overworld NPCs_618
+  - first:
+      213: 7306783129045814176
+    second: Game Boy Advance - Pokemon FireRed LeafGreen - Overworld NPCs_619
+  - first:
+      213: 6911706792291205016
+    second: Game Boy Advance - Pokemon FireRed LeafGreen - Overworld NPCs_620
+  - first:
+      213: -8620556459289774304
+    second: Game Boy Advance - Pokemon FireRed LeafGreen - Overworld NPCs_621
+  - first:
+      213: -7946329494551930372
+    second: Game Boy Advance - Pokemon FireRed LeafGreen - Overworld NPCs_622
+  - first:
+      213: -7042364879466857011
+    second: Game Boy Advance - Pokemon FireRed LeafGreen - Overworld NPCs_623
+  - first:
+      213: 5664500219941291957
+    second: Game Boy Advance - Pokemon FireRed LeafGreen - Overworld NPCs_0
+  - first:
+      213: -2876583650621038124
+    second: Game Boy Advance - Pokemon FireRed LeafGreen - Overworld NPCs_1
+  - first:
+      213: 7854748614223528815
+    second: Game Boy Advance - Pokemon FireRed LeafGreen - Overworld NPCs_2
+  - first:
+      213: -1761528036667544212
+    second: Game Boy Advance - Pokemon FireRed LeafGreen - Overworld NPCs_3
+  - first:
+      213: -2826239210933924660
+    second: Game Boy Advance - Pokemon FireRed LeafGreen - Overworld NPCs_4
+  - first:
+      213: 2959575020605844175
+    second: Game Boy Advance - Pokemon FireRed LeafGreen - Overworld NPCs_5
+  - first:
+      213: -7604419614221592640
+    second: Game Boy Advance - Pokemon FireRed LeafGreen - Overworld NPCs_6
+  - first:
+      213: 337996158675986161
+    second: Game Boy Advance - Pokemon FireRed LeafGreen - Overworld NPCs_7
+  - first:
+      213: -5414498893569429425
+    second: NPC4_0
+  - first:
+      213: 1802172218722902345
+    second: NPC4_1
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 16
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Game Boy Advance - Pokemon FireRed LeafGreen - Overworld NPCs_0
+      rect:
+        serializedVersion: 2
+        x: 421
+        y: 124
+        width: 14
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 6, y: 0.5}
+        - {x: 6, y: 3.5}
+        - {x: 5, y: 3.5}
+        - {x: 5, y: 5.5}
+        - {x: 4, y: 5.5}
+        - {x: 4, y: 6.5}
+        - {x: 2, y: 6.5}
+        - {x: 2, y: 7.5}
+        - {x: -2, y: 7.5}
+        - {x: -2, y: 6.5}
+        - {x: -4, y: 6.5}
+        - {x: -4, y: 5.5}
+        - {x: -5, y: 5.5}
+        - {x: -5, y: 3.5}
+        - {x: -6, y: 3.5}
+        - {x: -6, y: 0.5}
+        - {x: -7, y: 0.44400024}
+        - {x: -7, y: -1.5}
+        - {x: -6, y: -1.5}
+        - {x: -6, y: -2.5}
+        - {x: -5, y: -2.5}
+        - {x: -5, y: -3.5}
+        - {x: -6, y: -3.5}
+        - {x: -6, y: -4.5}
+        - {x: -7, y: -4.5}
+        - {x: -7, y: -6.5}
+        - {x: -6, y: -6.5}
+        - {x: -6, y: -7.5}
+        - {x: -4, y: -7.5}
+        - {x: -4, y: -6.5}
+        - {x: -3, y: -6.5}
+        - {x: -3, y: -4.5}
+        - {x: 3, y: -4.5}
+        - {x: 3, y: -6.5}
+        - {x: 4, y: -6.5}
+        - {x: 4, y: -7.5}
+        - {x: 6, y: -7.5}
+        - {x: 6, y: -6.5}
+        - {x: 7, y: -6.5}
+        - {x: 7, y: -4.5}
+        - {x: 6, y: -4.5}
+        - {x: 6, y: -3.5}
+        - {x: 5, y: -3.5}
+        - {x: 5, y: -2.5}
+        - {x: 6, y: -2.5}
+        - {x: 6, y: -1.5}
+        - {x: 7, y: -1.5}
+        - {x: 7, y: 0.5}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5b709bf20f85c9e40800000000000000
+      internalID: 5664500219941291957
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Pokemon FireRed LeafGreen - Overworld NPCs_1
+      rect:
+        serializedVersion: 2
+        x: 436
+        y: 124
+        width: 14
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 6, y: 2.5}
+        - {x: 5, y: 2.5}
+        - {x: 5, y: 4.5}
+        - {x: 4, y: 4.5}
+        - {x: 4, y: 5.5}
+        - {x: 2, y: 5.5}
+        - {x: 2, y: 6.5}
+        - {x: -2, y: 6.5}
+        - {x: -2, y: 5.5}
+        - {x: -4, y: 5.5}
+        - {x: -4, y: 4.5}
+        - {x: -5, y: 4.5}
+        - {x: -5, y: 2.5}
+        - {x: -6, y: 2.5}
+        - {x: -6, y: -0.5}
+        - {x: -7, y: -0.5}
+        - {x: -7, y: -2.5}
+        - {x: -6, y: -2.5}
+        - {x: -6, y: -3.5}
+        - {x: -7, y: -3.5}
+        - {x: -7, y: -5.5}
+        - {x: -6, y: -5.5}
+        - {x: -6, y: -6.5}
+        - {x: -4, y: -6.5}
+        - {x: -4, y: -5.5}
+        - {x: 4, y: -5.5}
+        - {x: 4, y: -6.5}
+        - {x: 6, y: -6.5}
+        - {x: 6, y: -5.5}
+        - {x: 7, y: -5.5}
+        - {x: 7, y: -3.5}
+        - {x: 6, y: -3.5}
+        - {x: 6, y: -2.5}
+        - {x: 7, y: -2.5}
+        - {x: 7, y: -0.5}
+        - {x: 6, y: -0.5}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4d1690a19625418d0800000000000000
+      internalID: -2876583650621038124
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Pokemon FireRed LeafGreen - Overworld NPCs_2
+      rect:
+        serializedVersion: 2
+        x: 451
+        y: 124
+        width: 13
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 5.5, y: 2.5}
+        - {x: 5.5, y: 4.5}
+        - {x: 4.5, y: 4.5}
+        - {x: 4.5, y: 5.5}
+        - {x: 3.5, y: 5.5}
+        - {x: 3.5, y: 6.5}
+        - {x: 1.5, y: 6.5}
+        - {x: 1.5, y: 7.5}
+        - {x: -2.5, y: 7.5}
+        - {x: -2.5, y: 6.5}
+        - {x: -4.5, y: 6.5}
+        - {x: -4.5, y: 5.5}
+        - {x: -5.5, y: 5.5}
+        - {x: -5.5, y: 4.5}
+        - {x: -6.5, y: 4.5}
+        - {x: -6.5, y: -2.5}
+        - {x: -5.5, y: -2.5}
+        - {x: -5.5, y: -3.5}
+        - {x: -4.5, y: -3.5}
+        - {x: -4.5, y: -4.5}
+        - {x: -3.5, y: -4.5}
+        - {x: -3.5, y: -6.5}
+        - {x: -2.5, y: -6.5}
+        - {x: -2.5, y: -7.5}
+        - {x: -0.5, y: -7.5}
+        - {x: -0.5, y: -6.5}
+        - {x: 0.5, y: -6.5}
+        - {x: 0.5, y: -4.5}
+        - {x: 3.5, y: -4.5}
+        - {x: 3.5, y: -3.5}
+        - {x: 4.5, y: -3.5}
+        - {x: 4.5, y: -1.5}
+        - {x: 5.5, y: -1.5}
+        - {x: 5.5, y: 0.5}
+        - {x: 6.5, y: 0.5}
+        - {x: 6.5, y: 2.5}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f6309c69f3ca10d60800000000000000
+      internalID: 7854748614223528815
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Pokemon FireRed LeafGreen - Overworld NPCs_3
+      rect:
+        serializedVersion: 2
+        x: 465
+        y: 124
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c6d2a88659bcd87e0800000000000000
+      internalID: -1761528036667544212
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Pokemon FireRed LeafGreen - Overworld NPCs_4
+      rect:
+        serializedVersion: 2
+        x: 481
+        y: 124
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cccc006696e27c8d0800000000000000
+      internalID: -2826239210933924660
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Pokemon FireRed LeafGreen - Overworld NPCs_5
+      rect:
+        serializedVersion: 2
+        x: 497
+        y: 124
+        width: 13
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fcaa45dfcc5821920800000000000000
+      internalID: 2959575020605844175
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Pokemon FireRed LeafGreen - Overworld NPCs_6
+      rect:
+        serializedVersion: 2
+        x: 511
+        y: 124
+        width: 13
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0c71f4b96aca77690800000000000000
+      internalID: -7604419614221592640
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Pokemon FireRed LeafGreen - Overworld NPCs_7
+      rect:
+        serializedVersion: 2
+        x: 525
+        y: 124
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1f6245d27bdc0b400800000000000000
+      internalID: 337996158675986161
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NPC4_0
+      rect:
+        serializedVersion: 2
+        x: 541
+        y: 124
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 4, y: 6}
+        - {x: 3, y: 6}
+        - {x: 3, y: 7}
+        - {x: 2, y: 7}
+        - {x: 2, y: 8}
+        - {x: -2, y: 8}
+        - {x: -2, y: 7}
+        - {x: -3, y: 7}
+        - {x: -3, y: 6}
+        - {x: -4, y: 6}
+        - {x: -4, y: 5}
+        - {x: -5, y: 5}
+        - {x: -5, y: 3}
+        - {x: -6, y: 3}
+        - {x: -6, y: 0}
+        - {x: -7, y: 0}
+        - {x: -7, y: -2}
+        - {x: -6, y: -2}
+        - {x: -6, y: -3}
+        - {x: -5, y: -3}
+        - {x: -5, y: -4}
+        - {x: -6, y: -4}
+        - {x: -6, y: -5}
+        - {x: -7, y: -5}
+        - {x: -7, y: -7}
+        - {x: -6, y: -7}
+        - {x: -6, y: -8}
+        - {x: -4, y: -8}
+        - {x: -4, y: -7}
+        - {x: -3, y: -7}
+        - {x: -3, y: -5}
+        - {x: 3, y: -5}
+        - {x: 3, y: -7}
+        - {x: 4, y: -7}
+        - {x: 4, y: -8}
+        - {x: 6, y: -8}
+        - {x: 6, y: -7}
+        - {x: 7, y: -7}
+        - {x: 7, y: -5}
+        - {x: 6, y: -5}
+        - {x: 6, y: -4}
+        - {x: 5, y: -4}
+        - {x: 5, y: -3}
+        - {x: 6, y: -3}
+        - {x: 6, y: -2}
+        - {x: 7, y: -2}
+        - {x: 7, y: 0}
+        - {x: 6, y: 0}
+        - {x: 6, y: 3}
+        - {x: 5, y: 3}
+        - {x: 5, y: 5}
+        - {x: 4, y: 5}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f407c0c81f5dbd4b0800000000000000
+      internalID: -5414498893569429425
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NPC4_1
+      rect:
+        serializedVersion: 2
+        x: 571
+        y: 124
+        width: 13
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 4.5, y: 7.5}
+        - {x: 2.5, y: 7.5}
+        - {x: 2.5, y: 6.5}
+        - {x: 1.5, y: 6.5}
+        - {x: 1.5, y: 7.5}
+        - {x: -2.5, y: 7.5}
+        - {x: -2.5, y: 6.5}
+        - {x: -4.5, y: 6.5}
+        - {x: -4.5, y: 5.5}
+        - {x: -5.5, y: 5.5}
+        - {x: -5.5, y: 4.5}
+        - {x: -6.5, y: 4.5}
+        - {x: -6.5, y: -2.5}
+        - {x: -5.5, y: -2.5}
+        - {x: -5.5, y: -3.5}
+        - {x: -4.5, y: -3.5}
+        - {x: -4.5, y: -4.5}
+        - {x: -3.5, y: -4.5}
+        - {x: -3.5, y: -6.5}
+        - {x: -2.5, y: -6.5}
+        - {x: -2.5, y: -7.5}
+        - {x: -0.5, y: -7.5}
+        - {x: -0.5, y: -6.5}
+        - {x: 0.5, y: -6.5}
+        - {x: 0.5, y: -4.5}
+        - {x: 2.5, y: -4.5}
+        - {x: 2.5, y: -3.5}
+        - {x: 4.5, y: -3.5}
+        - {x: 4.5, y: -1.5}
+        - {x: 5.5, y: -1.5}
+        - {x: 5.5, y: 1.5}
+        - {x: 6.5, y: 1.5}
+        - {x: 6.5, y: 5.5}
+        - {x: 5.5, y: 5.5}
+        - {x: 5.5, y: 6.5}
+        - {x: 4.5, y: 6.5}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9416e09a51a920910800000000000000
+      internalID: 1802172218722902345
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
