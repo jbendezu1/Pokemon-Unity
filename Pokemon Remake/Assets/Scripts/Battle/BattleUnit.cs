@@ -6,14 +6,12 @@ using DG.Tweening;
 
 public class BattleUnit : MonoBehaviour
 {
-    [SerializeField] PokemonBase _base;
-    //[SerializeField] int level;
     [SerializeField] bool isPlayerUnit;
 
     public Player badges;
 
     public Pokemon pokemon { get; set; }
-
+    public int level;
     Image image;
     Vector3 originalPos;
     Color originalColor;
@@ -23,9 +21,9 @@ public class BattleUnit : MonoBehaviour
         originalPos = image.transform.localPosition;
         originalColor = image.color;
     }
-    public void Setup()
+    public void Setup(Pokemon _pokemon)
     {
-        pokemon = new Pokemon(_base, UnityEngine.Random.Range(3, 8) * (badges.badges+1));
+        pokemon = _pokemon;
         if (isPlayerUnit)
             image.sprite = pokemon.Base.BackSprite;
         else

@@ -14,7 +14,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   pokename: Charizard
   description: 
-  frontSprite: {fileID: -204359854808501785, guid: c707900f43854314c8d9e6b7bca1d3a8,
+  frontSprite: {fileID: -143640507430623617, guid: c707900f43854314c8d9e6b7bca1d3a8,
     type: 3}
   backSprite: {fileID: -7518761654624676281, guid: 9eef06126d7d50f4fad53f98a6a371f8,
     type: 3}
@@ -26,3 +26,4 @@ MonoBehaviour:
   specialAttack: 109
   specialDefense: 85
   speed: 100
+  learnableMoves: []

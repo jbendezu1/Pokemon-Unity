@@ -12,14 +12,14 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 7bbda3a8e8c7c084d9cf1108b80f9bfa, type: 3}
   m_Name: Bulbasaur
   m_EditorClassIdentifier: 
-  pokename: 
+  pokename: Bulbasaur
   description: 
   frontSprite: {fileID: -7180885515050339452, guid: c707900f43854314c8d9e6b7bca1d3a8,
     type: 3}
   backSprite: {fileID: -4571828015118065507, guid: 9eef06126d7d50f4fad53f98a6a371f8,
     type: 3}
-  type1: 2
-  type2: 12
+  type1: 5
+  type2: 8
   maxHP: 45
   attack: 49
   defense: 49

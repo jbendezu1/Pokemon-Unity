@@ -149,7 +149,7 @@ public class Player : MonoBehaviour
     {
         if (Physics2D.OverlapCircle(transform.position, 0.1f, Grass) != null)
         {
-            if (UnityEngine.Random.Range(1, 101) % 5 == 0)
+            if (UnityEngine.Random.Range(1, 101) % 10 == 0)
             {
                 animator.SetBool("isMoving", false);
                 onEncountered();
