@@ -169,7 +169,13 @@ public class BattleSystem : MonoBehaviour
             currentAction += 2;
         if (Input.GetKeyDown(KeyCode.UpArrow))
             currentAction -= 2;
-
+        if (Input.GetKeyDown(KeyCode.RightShift))
+        {
+            dialogBox.EnableDialogText(true);
+            dialogBox.EnableMoveSelector(false);
+            partyScreen.gameObject.SetActive(false);
+            PlayerAction();
+        }
         currentAction = Mathf.Clamp(currentAction, 0, 3);
 
         dialogBox.UpdateActionSelection(currentAction);
