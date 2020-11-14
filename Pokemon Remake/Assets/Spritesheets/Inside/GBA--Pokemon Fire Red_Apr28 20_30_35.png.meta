@@ -1,0 +1,3704 @@
+fileFormatVersion: 2
+guid: 056b167d8eacb0746a6154782993a8b5
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -8315390155694601374
+    second: GBA--Pokemon Fire Red_Apr28 20_30_35_0
+  - first:
+      213: 5583674643819053090
+    second: GBA--Pokemon Fire Red_Apr28 20_30_35_1
+  - first:
+      213: 4131958357791596961
+    second: GBA--Pokemon Fire Red_Apr28 20_30_35_2
+  - first:
+      213: -7048608509304206730
+    second: GBA--Pokemon Fire Red_Apr28 20_30_35_3
+  - first:
+      213: -1621969186139572436
+    second: GBA--Pokemon Fire Red_Apr28 20_30_35_4
+  - first:
+      213: 7843531710708951924
+    second: GBA--Pokemon Fire Red_Apr28 20_30_35_5
+  - first:
+      213: 3815818875842490253
+    second: GBA--Pokemon Fire Red_Apr28 20_30_35_6
+  - first:
+      213: -3025328715107856067
+    second: GBA--Pokemon Fire Red_Apr28 20_30_35_7
+  - first:
+      213: 5865986222719109844
+    second: GBA--Pokemon Fire Red_Apr28 20_30_35_8
+  - first:
+      213: -2561378921896575130
+    second: GBA--Pokemon Fire Red_Apr28 20_30_35_9
+  - first:
+      213: -6198600390548292798
+    second: GBA--Pokemon Fire Red_Apr28 20_30_35_10
+  - first:
+      213: 6995573350026281594
+    second: GBA--Pokemon Fire Red_Apr28 20_30_35_11
+  - first:
+      213: 5650974884066795070
+    second: GBA--Pokemon Fire Red_Apr28 20_30_35_12
+  - first:
+      213: -8138866221807067753
+    second: GBA--Pokemon Fire Red_Apr28 20_30_35_13
+  - first:
+      213: 4450499456732819133
+    second: GBA--Pokemon Fire Red_Apr28 20_30_35_14
+  - first:
+      213: -6144191346957042513
+    second: GBA--Pokemon Fire Red_Apr28 20_30_35_15
+  - first:
+      213: -4457641791272831375
+    second: GBA--Pokemon Fire Red_Apr28 20_30_35_16
+  - first:
+      213: 3327688759021568092
+    second: GBA--Pokemon Fire Red_Apr28 20_30_35_17
+  - first:
+      213: -330531975534273047
+    second: GBA--Pokemon Fire Red_Apr28 20_30_35_18
+  - first:
+      213: 6462500474926629120
+    second: GBA--Pokemon Fire Red_Apr28 20_30_35_19
+  - first:
+      213: 8099279302743432967
+    second: GBA--Pokemon Fire Red_Apr28 20_30_35_20
+  - first:
+      213: -4604666427425393888
+    second: GBA--Pokemon Fire Red_Apr28 20_30_35_21
+  - first:
+      213: -1046749169796047001
+    second: GBA--Pokemon Fire Red_Apr28 20_30_35_22
+  - first:
+      213: -3518900177605307371
+    second: GBA--Pokemon Fire Red_Apr28 20_30_35_23
+  - first:
+      213: -3063724976801872515
+    second: GBA--Pokemon Fire Red_Apr28 20_30_35_24
+  - first:
+      213: 7622710011469043370
+    second: GBA--Pokemon Fire Red_Apr28 20_30_35_25
+  - first:
+      213: 1501044926276847852
+    second: GBA--Pokemon Fire Red_Apr28 20_30_35_26
+  - first:
+      213: 7209522066214543332
+    second: GBA--Pokemon Fire Red_Apr28 20_30_35_27
+  - first:
+      213: -7411807063511601482
+    second: GBA--Pokemon Fire Red_Apr28 20_30_35_28
+  - first:
+      213: -3118417469477949870
+    second: GBA--Pokemon Fire Red_Apr28 20_30_35_29
+  - first:
+      213: -4034881585623757020
+    second: GBA--Pokemon Fire Red_Apr28 20_30_35_30
+  - first:
+      213: 2410471191450369553
+    second: GBA--Pokemon Fire Red_Apr28 20_30_35_31
+  - first:
+      213: -3128334416458804541
+    second: GBA--Pokemon Fire Red_Apr28 20_30_35_32
+  - first:
+      213: 121243542473922911
+    second: GBA--Pokemon Fire Red_Apr28 20_30_35_33
+  - first:
+      213: 1304495167691160119
+    second: GBA--Pokemon Fire Red_Apr28 20_30_35_34
+  - first:
+      213: -1121932226812875810
+    second: GBA--Pokemon Fire Red_Apr28 20_30_35_35
+  - first:
+      213: 8346601011714393393
+    second: GBA--Pokemon Fire Red_Apr28 20_30_35_36
+  - first:
+      213: 5044495865082843425
+    second: GBA--Pokemon Fire Red_Apr28 20_30_35_37
+  - first:
+      213: 4132349789486706135
+    second: GBA--Pokemon Fire Red_Apr28 20_30_35_38
+  - first:
+      213: 4869142117972999080
+    second: GBA--Pokemon Fire Red_Apr28 20_30_35_39
+  - first:
+      213: 2561945625999222744
+    second: GBA--Pokemon Fire Red_Apr28 20_30_35_40
+  - first:
+      213: 948466456640004584
+    second: GBA--Pokemon Fire Red_Apr28 20_30_35_41
+  - first:
+      213: -4401017637895098004
+    second: GBA--Pokemon Fire Red_Apr28 20_30_35_42
+  - first:
+      213: -579944597239522103
+    second: GBA--Pokemon Fire Red_Apr28 20_30_35_43
+  - first:
+      213: -9070479997832759989
+    second: GBA--Pokemon Fire Red_Apr28 20_30_35_44
+  - first:
+      213: 6141089644912870413
+    second: GBA--Pokemon Fire Red_Apr28 20_30_35_45
+  - first:
+      213: 972173515354341585
+    second: GBA--Pokemon Fire Red_Apr28 20_30_35_46
+  - first:
+      213: 2116359374651539991
+    second: GBA--Pokemon Fire Red_Apr28 20_30_35_47
+  - first:
+      213: 3677757894969397158
+    second: GBA--Pokemon Fire Red_Apr28 20_30_35_48
+  - first:
+      213: 6542806286783541891
+    second: GBA--Pokemon Fire Red_Apr28 20_30_35_49
+  - first:
+      213: 2926053555369141695
+    second: GBA--Pokemon Fire Red_Apr28 20_30_35_50
+  - first:
+      213: -5541482500497531505
+    second: GBA--Pokemon Fire Red_Apr28 20_30_35_51
+  - first:
+      213: -6699688979943678830
+    second: GBA--Pokemon Fire Red_Apr28 20_30_35_52
+  - first:
+      213: -8006981850490978167
+    second: GBA--Pokemon Fire Red_Apr28 20_30_35_53
+  - first:
+      213: 8816829397263326096
+    second: GBA--Pokemon Fire Red_Apr28 20_30_35_54
+  - first:
+      213: -6893698564006235697
+    second: GBA--Pokemon Fire Red_Apr28 20_30_35_55
+  - first:
+      213: 1735443865260347870
+    second: GBA--Pokemon Fire Red_Apr28 20_30_35_56
+  - first:
+      213: 7343597375352231060
+    second: GBA--Pokemon Fire Red_Apr28 20_30_35_57
+  - first:
+      213: 6520845681575072347
+    second: GBA--Pokemon Fire Red_Apr28 20_30_35_58
+  - first:
+      213: -3174267690050990599
+    second: GBA--Pokemon Fire Red_Apr28 20_30_35_59
+  - first:
+      213: -24835233641414279
+    second: GBA--Pokemon Fire Red_Apr28 20_30_35_60
+  - first:
+      213: 3715683217349003830
+    second: GBA--Pokemon Fire Red_Apr28 20_30_35_61
+  - first:
+      213: -4572339276221596747
+    second: GBA--Pokemon Fire Red_Apr28 20_30_35_62
+  - first:
+      213: -8149494464533143606
+    second: GBA--Pokemon Fire Red_Apr28 20_30_35_63
+  - first:
+      213: 6819921054112813989
+    second: GBA--Pokemon Fire Red_Apr28 20_30_35_64
+  - first:
+      213: 8459716001332941918
+    second: GBA--Pokemon Fire Red_Apr28 20_30_35_65
+  - first:
+      213: 4137451047969763240
+    second: GBA--Pokemon Fire Red_Apr28 20_30_35_66
+  - first:
+      213: -2692824016186326500
+    second: GBA--Pokemon Fire Red_Apr28 20_30_35_67
+  - first:
+      213: -3387584428786543920
+    second: GBA--Pokemon Fire Red_Apr28 20_30_35_68
+  - first:
+      213: -4595818339161122573
+    second: GBA--Pokemon Fire Red_Apr28 20_30_35_69
+  - first:
+      213: -5159084906450630068
+    second: GBA--Pokemon Fire Red_Apr28 20_30_35_70
+  - first:
+      213: -2205655143259600891
+    second: GBA--Pokemon Fire Red_Apr28 20_30_35_71
+  - first:
+      213: 1197709172620879789
+    second: GBA--Pokemon Fire Red_Apr28 20_30_35_72
+  - first:
+      213: -3541516964341113838
+    second: GBA--Pokemon Fire Red_Apr28 20_30_35_73
+  - first:
+      213: 8376732594266584776
+    second: GBA--Pokemon Fire Red_Apr28 20_30_35_74
+  - first:
+      213: -7701398220896484047
+    second: GBA--Pokemon Fire Red_Apr28 20_30_35_75
+  - first:
+      213: 1528507505400929766
+    second: GBA--Pokemon Fire Red_Apr28 20_30_35_76
+  - first:
+      213: -5907049134327217537
+    second: GBA--Pokemon Fire Red_Apr28 20_30_35_77
+  - first:
+      213: -496061081255185295
+    second: GBA--Pokemon Fire Red_Apr28 20_30_35_78
+  - first:
+      213: -4926049535204424625
+    second: GBA--Pokemon Fire Red_Apr28 20_30_35_79
+  - first:
+      213: 5983063440089707993
+    second: GBA--Pokemon Fire Red_Apr28 20_30_35_80
+  - first:
+      213: -1345298807707888672
+    second: GBA--Pokemon Fire Red_Apr28 20_30_35_81
+  - first:
+      213: -1742426901559263506
+    second: GBA--Pokemon Fire Red_Apr28 20_30_35_82
+  - first:
+      213: -2421579711667800192
+    second: GBA--Pokemon Fire Red_Apr28 20_30_35_83
+  - first:
+      213: 2276414646164177641
+    second: GBA--Pokemon Fire Red_Apr28 20_30_35_84
+  - first:
+      213: -1280365713377206590
+    second: GBA--Pokemon Fire Red_Apr28 20_30_35_85
+  - first:
+      213: -6553412942884678119
+    second: GBA--Pokemon Fire Red_Apr28 20_30_35_86
+  - first:
+      213: 8385864231410422270
+    second: GBA--Pokemon Fire Red_Apr28 20_30_35_87
+  - first:
+      213: -146608647431797164
+    second: GBA--Pokemon Fire Red_Apr28 20_30_35_88
+  - first:
+      213: 150650123313299020
+    second: GBA--Pokemon Fire Red_Apr28 20_30_35_89
+  - first:
+      213: 3245221736704053835
+    second: GBA--Pokemon Fire Red_Apr28 20_30_35_90
+  - first:
+      213: 1588347233844072195
+    second: GBA--Pokemon Fire Red_Apr28 20_30_35_91
+  - first:
+      213: -1979659278290359129
+    second: GBA--Pokemon Fire Red_Apr28 20_30_35_92
+  - first:
+      213: -3505178713980595760
+    second: GBA--Pokemon Fire Red_Apr28 20_30_35_93
+  - first:
+      213: -1818106641592563674
+    second: GBA--Pokemon Fire Red_Apr28 20_30_35_94
+  - first:
+      213: 5912080074528061713
+    second: GBA--Pokemon Fire Red_Apr28 20_30_35_95
+  - first:
+      213: 5610922563679910380
+    second: GBA--Pokemon Fire Red_Apr28 20_30_35_96
+  - first:
+      213: 205466132825361827
+    second: GBA--Pokemon Fire Red_Apr28 20_30_35_97
+  - first:
+      213: -6656902264937517538
+    second: GBA--Pokemon Fire Red_Apr28 20_30_35_98
+  - first:
+      213: 1826038239670813629
+    second: GBA--Pokemon Fire Red_Apr28 20_30_35_99
+  - first:
+      213: 8518922611689997711
+    second: GBA--Pokemon Fire Red_Apr28 20_30_35_100
+  - first:
+      213: -431618470137594972
+    second: GBA--Pokemon Fire Red_Apr28 20_30_35_101
+  - first:
+      213: 8481136087755573715
+    second: GBA--Pokemon Fire Red_Apr28 20_30_35_102
+  - first:
+      213: 8771992385417982878
+    second: GBA--Pokemon Fire Red_Apr28 20_30_35_103
+  - first:
+      213: 1266259533342729516
+    second: GBA--Pokemon Fire Red_Apr28 20_30_35_104
+  - first:
+      213: -38572366701648858
+    second: GBA--Pokemon Fire Red_Apr28 20_30_35_105
+  - first:
+      213: -1303231669756560177
+    second: GBA--Pokemon Fire Red_Apr28 20_30_35_106
+  - first:
+      213: -1402751422388118371
+    second: GBA--Pokemon Fire Red_Apr28 20_30_35_107
+  - first:
+      213: -6293387511725143953
+    second: GBA--Pokemon Fire Red_Apr28 20_30_35_108
+  - first:
+      213: -2724741213711607542
+    second: GBA--Pokemon Fire Red_Apr28 20_30_35_109
+  - first:
+      213: 7509345178950781398
+    second: GBA--Pokemon Fire Red_Apr28 20_30_35_110
+  - first:
+      213: -9141479412159069515
+    second: GBA--Pokemon Fire Red_Apr28 20_30_35_111
+  - first:
+      213: -8843782461745361753
+    second: GBA--Pokemon Fire Red_Apr28 20_30_35_112
+  - first:
+      213: 4340676362009571254
+    second: GBA--Pokemon Fire Red_Apr28 20_30_35_113
+  - first:
+      213: -8483226327361824474
+    second: GBA--Pokemon Fire Red_Apr28 20_30_35_114
+  - first:
+      213: 6479098850972358140
+    second: GBA--Pokemon Fire Red_Apr28 20_30_35_115
+  - first:
+      213: 4898681705321624632
+    second: GBA--Pokemon Fire Red_Apr28 20_30_35_116
+  - first:
+      213: -1724402761203765456
+    second: GBA--Pokemon Fire Red_Apr28 20_30_35_117
+  - first:
+      213: 2792012317398929885
+    second: GBA--Pokemon Fire Red_Apr28 20_30_35_118
+  - first:
+      213: -6339333008218529967
+    second: GBA--Pokemon Fire Red_Apr28 20_30_35_119
+  - first:
+      213: -3460519867308809443
+    second: GBA--Pokemon Fire Red_Apr28 20_30_35_120
+  - first:
+      213: -3989644210749865596
+    second: GBA--Pokemon Fire Red_Apr28 20_30_35_121
+  - first:
+      213: 7438138806690831114
+    second: GBA--Pokemon Fire Red_Apr28 20_30_35_122
+  - first:
+      213: 7409665806319746067
+    second: GBA--Pokemon Fire Red_Apr28 20_30_35_123
+  - first:
+      213: 8863246577175901217
+    second: GBA--Pokemon Fire Red_Apr28 20_30_35_124
+  - first:
+      213: 1516757975848259871
+    second: GBA--Pokemon Fire Red_Apr28 20_30_35_125
+  - first:
+      213: -8248985712730355759
+    second: GBA--Pokemon Fire Red_Apr28 20_30_35_126
+  - first:
+      213: -9102275059250206939
+    second: GBA--Pokemon Fire Red_Apr28 20_30_35_127
+  - first:
+      213: 6391832699316420823
+    second: GBA--Pokemon Fire Red_Apr28 20_30_35_128
+  - first:
+      213: -3711229586822820134
+    second: GBA--Pokemon Fire Red_Apr28 20_30_35_129
+  - first:
+      213: -1762677222874753084
+    second: GBA--Pokemon Fire Red_Apr28 20_30_35_130
+  - first:
+      213: -6399815136375377744
+    second: GBA--Pokemon Fire Red_Apr28 20_30_35_131
+  - first:
+      213: 5187994131603535272
+    second: GBA--Pokemon Fire Red_Apr28 20_30_35_132
+  - first:
+      213: 6094151325017019716
+    second: GBA--Pokemon Fire Red_Apr28 20_30_35_133
+  - first:
+      213: 6124234308493534474
+    second: GBA--Pokemon Fire Red_Apr28 20_30_35_134
+  - first:
+      213: 2029593412820928922
+    second: GBA--Pokemon Fire Red_Apr28 20_30_35_135
+  - first:
+      213: 8637372609696064531
+    second: GBA--Pokemon Fire Red_Apr28 20_30_35_136
+  - first:
+      213: 5825092740594986518
+    second: GBA--Pokemon Fire Red_Apr28 20_30_35_137
+  - first:
+      213: -7804168341319599599
+    second: GBA--Pokemon Fire Red_Apr28 20_30_35_138
+  - first:
+      213: 6378789822881879530
+    second: GBA--Pokemon Fire Red_Apr28 20_30_35_139
+  - first:
+      213: 4381330648999061436
+    second: GBA--Pokemon Fire Red_Apr28 20_30_35_140
+  - first:
+      213: -1669263295809920233
+    second: GBA--Pokemon Fire Red_Apr28 20_30_35_141
+  - first:
+      213: 2915974673156386826
+    second: GBA--Pokemon Fire Red_Apr28 20_30_35_142
+  - first:
+      213: -6848272094155666766
+    second: GBA--Pokemon Fire Red_Apr28 20_30_35_143
+  - first:
+      213: -1388078026189737034
+    second: GBA--Pokemon Fire Red_Apr28 20_30_35_144
+  - first:
+      213: -142265989817645837
+    second: GBA--Pokemon Fire Red_Apr28 20_30_35_145
+  - first:
+      213: 5042061959132754496
+    second: GBA--Pokemon Fire Red_Apr28 20_30_35_146
+  - first:
+      213: 1171773238720176986
+    second: GBA--Pokemon Fire Red_Apr28 20_30_35_147
+  - first:
+      213: 4422578974378479191
+    second: GBA--Pokemon Fire Red_Apr28 20_30_35_148
+  - first:
+      213: -8353583272295105763
+    second: GBA--Pokemon Fire Red_Apr28 20_30_35_149
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 16
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: GBA--Pokemon Fire Red_Apr28 20_30_35_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 144
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 26b0b01d5bcc99c80800000000000000
+      internalID: -8315390155694601374
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GBA--Pokemon Fire Red_Apr28 20_30_35_1
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 144
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 220c03641823d7d40800000000000000
+      internalID: 5583674643819053090
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GBA--Pokemon Fire Red_Apr28 20_30_35_2
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 144
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1a1efdefb3aa75930800000000000000
+      internalID: 4131958357791596961
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GBA--Pokemon Fire Red_Apr28 20_30_35_3
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 144
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 67a802ae7ef4e2e90800000000000000
+      internalID: -7048608509304206730
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GBA--Pokemon Fire Red_Apr28 20_30_35_4
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 144
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c2775876e9b9d79e0800000000000000
+      internalID: -1621969186139572436
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GBA--Pokemon Fire Red_Apr28 20_30_35_5
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 144
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 47ba159b882d9dc60800000000000000
+      internalID: 7843531710708951924
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GBA--Pokemon Fire Red_Apr28 20_30_35_6
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 144
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d8f62ddec0384f430800000000000000
+      internalID: 3815818875842490253
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GBA--Pokemon Fire Red_Apr28 20_30_35_7
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 144
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d31153fff8fd306d0800000000000000
+      internalID: -3025328715107856067
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GBA--Pokemon Fire Red_Apr28 20_30_35_8
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 144
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4da0286e36b286150800000000000000
+      internalID: 5865986222719109844
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GBA--Pokemon Fire Red_Apr28 20_30_35_9
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 144
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 66f7e29f077247cd0800000000000000
+      internalID: -2561378921896575130
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GBA--Pokemon Fire Red_Apr28 20_30_35_10
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 144
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 24b75c059c52af9a0800000000000000
+      internalID: -6198600390548292798
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GBA--Pokemon Fire Red_Apr28 20_30_35_11
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 144
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a728180d5e4451160800000000000000
+      internalID: 6995573350026281594
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GBA--Pokemon Fire Red_Apr28 20_30_35_12
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 144
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e3e947787bb4c6e40800000000000000
+      internalID: 5650974884066795070
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GBA--Pokemon Fire Red_Apr28 20_30_35_13
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 144
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 79d93c6fa40fc0f80800000000000000
+      internalID: -8138866221807067753
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GBA--Pokemon Fire Red_Apr28 20_30_35_14
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 144
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dbee0a71da953cd30800000000000000
+      internalID: 4450499456732819133
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GBA--Pokemon Fire Red_Apr28 20_30_35_15
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 128
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: facb894f5827bbaa0800000000000000
+      internalID: -6144191346957042513
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GBA--Pokemon Fire Red_Apr28 20_30_35_16
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 128
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1763f3f88664322c0800000000000000
+      internalID: -4457641791272831375
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GBA--Pokemon Fire Red_Apr28 20_30_35_17
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 128
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c508a84ab435e2e20800000000000000
+      internalID: 3327688759021568092
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GBA--Pokemon Fire Red_Apr28 20_30_35_18
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 128
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9ed1f536be6b96bf0800000000000000
+      internalID: -330531975534273047
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GBA--Pokemon Fire Red_Apr28 20_30_35_19
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 128
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0018bc031f96fa950800000000000000
+      internalID: 6462500474926629120
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GBA--Pokemon Fire Red_Apr28 20_30_35_20
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 128
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 70f12b03d9b666070800000000000000
+      internalID: 8099279302743432967
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GBA--Pokemon Fire Red_Apr28 20_30_35_21
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 128
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0237424e740f810c0800000000000000
+      internalID: -4604666427425393888
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GBA--Pokemon Fire Red_Apr28 20_30_35_22
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 128
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 76f1f5d0d233971f0800000000000000
+      internalID: -1046749169796047001
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GBA--Pokemon Fire Red_Apr28 20_30_35_23
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 128
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 514d6c1beea5a2fc0800000000000000
+      internalID: -3518900177605307371
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GBA--Pokemon Fire Red_Apr28 20_30_35_24
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 128
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d758b3cad567b75d0800000000000000
+      internalID: -3063724976801872515
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GBA--Pokemon Fire Red_Apr28 20_30_35_25
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 128
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aa61d6b5e5e49c960800000000000000
+      internalID: 7622710011469043370
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GBA--Pokemon Fire Red_Apr28 20_30_35_26
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 128
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ce842a65868c4d410800000000000000
+      internalID: 1501044926276847852
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GBA--Pokemon Fire Red_Apr28 20_30_35_27
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 128
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4efde0d1f1e5d0460800000000000000
+      internalID: 7209522066214543332
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GBA--Pokemon Fire Red_Apr28 20_30_35_28
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 128
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6bee8a3ceb8f32990800000000000000
+      internalID: -7411807063511601482
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GBA--Pokemon Fire Red_Apr28 20_30_35_29
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 128
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 25ee46665d729b4d0800000000000000
+      internalID: -3118417469477949870
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GBA--Pokemon Fire Red_Apr28 20_30_35_30
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 112
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 42f812a53983108c0800000000000000
+      internalID: -4034881585623757020
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GBA--Pokemon Fire Red_Apr28 20_30_35_31
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 112
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 11e36b307c6b37120800000000000000
+      internalID: 2410471191450369553
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GBA--Pokemon Fire Red_Apr28 20_30_35_32
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 112
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3c218504c6ce594d0800000000000000
+      internalID: -3128334416458804541
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GBA--Pokemon Fire Red_Apr28 20_30_35_33
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 112
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f59d7780c5ebea100800000000000000
+      internalID: 121243542473922911
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GBA--Pokemon Fire Red_Apr28 20_30_35_34
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 112
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 73af179817f7a1210800000000000000
+      internalID: 1304495167691160119
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GBA--Pokemon Fire Red_Apr28 20_30_35_35
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 112
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: edb61ce75981e60f0800000000000000
+      internalID: -1121932226812875810
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GBA--Pokemon Fire Red_Apr28 20_30_35_36
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 112
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1350721e56515d370800000000000000
+      internalID: 8346601011714393393
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GBA--Pokemon Fire Red_Apr28 20_30_35_37
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 112
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 121903d2346a10640800000000000000
+      internalID: 5044495865082843425
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GBA--Pokemon Fire Red_Apr28 20_30_35_38
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 112
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7dde30a4d3e095930800000000000000
+      internalID: 4132349789486706135
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GBA--Pokemon Fire Red_Apr28 20_30_35_39
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 112
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8ab7cae55faa29340800000000000000
+      internalID: 4869142117972999080
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GBA--Pokemon Fire Red_Apr28 20_30_35_40
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 112
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8d7ac8b19fbdd8320800000000000000
+      internalID: 2561945625999222744
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GBA--Pokemon Fire Red_Apr28 20_30_35_41
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 112
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8e1a6659731a92d00800000000000000
+      internalID: 948466456640004584
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GBA--Pokemon Fire Red_Apr28 20_30_35_42
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 112
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c61b803a6c17ce2c0800000000000000
+      internalID: -4401017637895098004
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GBA--Pokemon Fire Red_Apr28 20_30_35_43
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 112
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9cc9124267f93f7f0800000000000000
+      internalID: -579944597239522103
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GBA--Pokemon Fire Red_Apr28 20_30_35_44
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 112
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b4574eadf7e2f1280800000000000000
+      internalID: -9070479997832759989
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GBA--Pokemon Fire Red_Apr28 20_30_35_45
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 96
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d048cd2ce78893550800000000000000
+      internalID: 6141089644912870413
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GBA--Pokemon Fire Red_Apr28 20_30_35_46
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 96
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1d00db259aadd7d00800000000000000
+      internalID: 972173515354341585
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GBA--Pokemon Fire Red_Apr28 20_30_35_47
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 96
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7124c2763a1de5d10800000000000000
+      internalID: 2116359374651539991
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GBA--Pokemon Fire Red_Apr28 20_30_35_48
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 96
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6af0a83e1550a0330800000000000000
+      internalID: 3677757894969397158
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GBA--Pokemon Fire Red_Apr28 20_30_35_49
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 96
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 382fced07a7bcca50800000000000000
+      internalID: 6542806286783541891
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GBA--Pokemon Fire Red_Apr28 20_30_35_50
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 96
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fb5eb89a43e6b9820800000000000000
+      internalID: 2926053555369141695
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GBA--Pokemon Fire Red_Apr28 20_30_35_51
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 96
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f8d1dcc9603b813b0800000000000000
+      internalID: -5541482500497531505
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GBA--Pokemon Fire Red_Apr28 20_30_35_52
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 96
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 29c9bd48e5ce503a0800000000000000
+      internalID: -6699688979943678830
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GBA--Pokemon Fire Red_Apr28 20_30_35_53
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 96
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9804c760e6c71e090800000000000000
+      internalID: -8006981850490978167
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GBA--Pokemon Fire Red_Apr28 20_30_35_54
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 96
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 09b1a1d8f9bab5a70800000000000000
+      internalID: 8816829397263326096
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GBA--Pokemon Fire Red_Apr28 20_30_35_55
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 96
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fc1b9cf2ea9a450a0800000000000000
+      internalID: -6893698564006235697
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GBA--Pokemon Fire Red_Apr28 20_30_35_56
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 96
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ed1597c2009851810800000000000000
+      internalID: 1735443865260347870
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GBA--Pokemon Fire Red_Apr28 20_30_35_57
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 96
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4945c53a7e2b9e560800000000000000
+      internalID: 7343597375352231060
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GBA--Pokemon Fire Red_Apr28 20_30_35_58
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 96
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b521c653992be7a50800000000000000
+      internalID: 6520845681575072347
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GBA--Pokemon Fire Red_Apr28 20_30_35_59
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 96
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9fdc2889a5cb2f3d0800000000000000
+      internalID: -3174267690050990599
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GBA--Pokemon Fire Red_Apr28 20_30_35_60
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 80
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 971c3e09c74c7aff0800000000000000
+      internalID: -24835233641414279
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GBA--Pokemon Fire Red_Apr28 20_30_35_61
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 80
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 63ac7fb1332c09330800000000000000
+      internalID: 3715683217349003830
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GBA--Pokemon Fire Red_Apr28 20_30_35_62
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 80
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5bbbe3057a9cb80c0800000000000000
+      internalID: -4572339276221596747
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GBA--Pokemon Fire Red_Apr28 20_30_35_63
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 80
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: acf5d7e56fd27ee80800000000000000
+      internalID: -8149494464533143606
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GBA--Pokemon Fire Red_Apr28 20_30_35_64
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 80
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5a31a92b01a35ae50800000000000000
+      internalID: 6819921054112813989
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GBA--Pokemon Fire Red_Apr28 20_30_35_65
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 80
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e545328b1e2f66570800000000000000
+      internalID: 8459716001332941918
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GBA--Pokemon Fire Red_Apr28 20_30_35_66
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 80
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8af2ec59ecd2b6930800000000000000
+      internalID: 4137451047969763240
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GBA--Pokemon Fire Red_Apr28 20_30_35_67
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 80
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c12c29013da21aad0800000000000000
+      internalID: -2692824016186326500
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GBA--Pokemon Fire Red_Apr28 20_30_35_68
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 80
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0d2988309e1ecf0d0800000000000000
+      internalID: -3387584428786543920
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GBA--Pokemon Fire Red_Apr28 20_30_35_69
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 80
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3f8531af19f5830c0800000000000000
+      internalID: -4595818339161122573
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GBA--Pokemon Fire Red_Apr28 20_30_35_70
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 80
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c4a4ee09c9f3768b0800000000000000
+      internalID: -5159084906450630068
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GBA--Pokemon Fire Red_Apr28 20_30_35_71
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 80
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5088ff05550f361e0800000000000000
+      internalID: -2205655143259600891
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GBA--Pokemon Fire Red_Apr28 20_30_35_72
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 80
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: da76b42952e1f9010800000000000000
+      internalID: 1197709172620879789
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GBA--Pokemon Fire Red_Apr28 20_30_35_73
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 80
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 21c9d6ea5110adec0800000000000000
+      internalID: -3541516964341113838
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GBA--Pokemon Fire Red_Apr28 20_30_35_74
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 80
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c632b3a9e1204470800000000000000
+      internalID: 8376732594266584776
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GBA--Pokemon Fire Red_Apr28 20_30_35_75
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 64
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 135c3a13f132f1590800000000000000
+      internalID: -7701398220896484047
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GBA--Pokemon Fire Red_Apr28 20_30_35_76
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 64
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6edd0ff4a79563510800000000000000
+      internalID: 1528507505400929766
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GBA--Pokemon Fire Red_Apr28 20_30_35_77
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 64
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f72c5a5fb12f50ea0800000000000000
+      internalID: -5907049134327217537
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GBA--Pokemon Fire Red_Apr28 20_30_35_78
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 64
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 17473e82313ad19f0800000000000000
+      internalID: -496061081255185295
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GBA--Pokemon Fire Red_Apr28 20_30_35_79
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 64
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f44892c0c0823abb0800000000000000
+      internalID: -4926049535204424625
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GBA--Pokemon Fire Red_Apr28 20_30_35_80
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 64
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9d57c27cf7c180350800000000000000
+      internalID: 5983063440089707993
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GBA--Pokemon Fire Red_Apr28 20_30_35_81
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 64
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0e390d1bcd9845de0800000000000000
+      internalID: -1345298807707888672
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GBA--Pokemon Fire Red_Apr28 20_30_35_82
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 64
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eeeb97df6f7a1d7e0800000000000000
+      internalID: -1742426901559263506
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GBA--Pokemon Fire Red_Apr28 20_30_35_83
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 64
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0877fb21512d46ed0800000000000000
+      internalID: -2421579711667800192
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GBA--Pokemon Fire Red_Apr28 20_30_35_84
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 64
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9e2cc1a4f03779f10800000000000000
+      internalID: 2276414646164177641
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GBA--Pokemon Fire Red_Apr28 20_30_35_85
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 64
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2cedf87da2a3b3ee0800000000000000
+      internalID: -1280365713377206590
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GBA--Pokemon Fire Red_Apr28 20_30_35_86
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 64
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 91659e066a99d05a0800000000000000
+      internalID: -6553412942884678119
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GBA--Pokemon Fire Red_Apr28 20_30_35_87
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 64
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ef15fd79613906470800000000000000
+      internalID: 8385864231410422270
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GBA--Pokemon Fire Red_Apr28 20_30_35_88
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 64
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 456c3d0463427fdf0800000000000000
+      internalID: -146608647431797164
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GBA--Pokemon Fire Red_Apr28 20_30_35_89
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 64
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c4e357d2d77371200800000000000000
+      internalID: 150650123313299020
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GBA--Pokemon Fire Red_Apr28 20_30_35_90
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 48
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b421f91c9f7590d20800000000000000
+      internalID: 3245221736704053835
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GBA--Pokemon Fire Red_Apr28 20_30_35_91
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 48
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 30f004dc461fa0610800000000000000
+      internalID: 1588347233844072195
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GBA--Pokemon Fire Red_Apr28 20_30_35_92
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 48
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7ac62350066d684e0800000000000000
+      internalID: -1979659278290359129
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GBA--Pokemon Fire Red_Apr28 20_30_35_93
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 48
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0d11de6e78a1b5fc0800000000000000
+      internalID: -3505178713980595760
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GBA--Pokemon Fire Red_Apr28 20_30_35_94
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 48
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 628c81864a9c4c6e0800000000000000
+      internalID: -1818106641592563674
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GBA--Pokemon Fire Red_Apr28 20_30_35_95
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 48
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 119f8e5118deb0250800000000000000
+      internalID: 5912080074528061713
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GBA--Pokemon Fire Red_Apr28 20_30_35_96
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 48
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ce97d5ef7500edd40800000000000000
+      internalID: 5610922563679910380
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GBA--Pokemon Fire Red_Apr28 20_30_35_97
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 48
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3adcd64fb56f9d200800000000000000
+      internalID: 205466132825361827
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GBA--Pokemon Fire Red_Apr28 20_30_35_98
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 48
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e1ee7e9e8aeed93a0800000000000000
+      internalID: -6656902264937517538
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GBA--Pokemon Fire Red_Apr28 20_30_35_99
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 48
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: db3cbddaa14675910800000000000000
+      internalID: 1826038239670813629
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GBA--Pokemon Fire Red_Apr28 20_30_35_100
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 48
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f8543daeafa493670800000000000000
+      internalID: 8518922611689997711
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GBA--Pokemon Fire Red_Apr28 20_30_35_101
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 48
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4ab73f8c945920af0800000000000000
+      internalID: -431618470137594972
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GBA--Pokemon Fire Red_Apr28 20_30_35_102
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 48
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3d9ca6a365c03b570800000000000000
+      internalID: 8481136087755573715
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GBA--Pokemon Fire Red_Apr28 20_30_35_103
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 48
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e93354939906cb970800000000000000
+      internalID: 8771992385417982878
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GBA--Pokemon Fire Red_Apr28 20_30_35_104
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 48
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c25685e2658a29110800000000000000
+      internalID: 1266259533342729516
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GBA--Pokemon Fire Red_Apr28 20_30_35_105
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 32
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6242a9803a6f67ff0800000000000000
+      internalID: -38572366701648858
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GBA--Pokemon Fire Red_Apr28 20_30_35_106
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 32
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fccfe1083bdf9ede0800000000000000
+      internalID: -1303231669756560177
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GBA--Pokemon Fire Red_Apr28 20_30_35_107
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 32
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d9cd160730d688ce0800000000000000
+      internalID: -1402751422388118371
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GBA--Pokemon Fire Red_Apr28 20_30_35_108
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 32
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f684eb1e66569a8a0800000000000000
+      internalID: -6293387511725143953
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GBA--Pokemon Fire Red_Apr28 20_30_35_109
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 32
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a095adb6d46cf2ad0800000000000000
+      internalID: -2724741213711607542
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GBA--Pokemon Fire Red_Apr28 20_30_35_110
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 32
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6d9472f67ad863860800000000000000
+      internalID: 7509345178950781398
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GBA--Pokemon Fire Red_Apr28 20_30_35_111
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 32
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5b246b488e0f22180800000000000000
+      internalID: -9141479412159069515
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GBA--Pokemon Fire Red_Apr28 20_30_35_112
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 32
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7ac86d815b2944580800000000000000
+      internalID: -8843782461745361753
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GBA--Pokemon Fire Red_Apr28 20_30_35_113
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 32
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6bfe382472e2d3c30800000000000000
+      internalID: 4340676362009571254
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GBA--Pokemon Fire Red_Apr28 20_30_35_114
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 32
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6295b50f996854a80800000000000000
+      internalID: -8483226327361824474
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GBA--Pokemon Fire Red_Apr28 20_30_35_115
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 32
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cf559d4c3126ae950800000000000000
+      internalID: 6479098850972358140
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GBA--Pokemon Fire Red_Apr28 20_30_35_116
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 32
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 83476618e0d9bf340800000000000000
+      internalID: 4898681705321624632
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GBA--Pokemon Fire Red_Apr28 20_30_35_117
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 32
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 03f2fb033d0b118e0800000000000000
+      internalID: -1724402761203765456
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GBA--Pokemon Fire Red_Apr28 20_30_35_118
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 32
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dd11413f8683fb620800000000000000
+      internalID: 2792012317398929885
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GBA--Pokemon Fire Red_Apr28 20_30_35_119
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 32
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 15fd93c573a2608a0800000000000000
+      internalID: -6339333008218529967
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GBA--Pokemon Fire Red_Apr28 20_30_35_120
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 16
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d1360eae383c9ffc0800000000000000
+      internalID: -3460519867308809443
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GBA--Pokemon Fire Red_Apr28 20_30_35_121
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 16
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4818f067abfe1a8c0800000000000000
+      internalID: -3989644210749865596
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GBA--Pokemon Fire Red_Apr28 20_30_35_122
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 16
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a0bdad2f5d3993760800000000000000
+      internalID: 7438138806690831114
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GBA--Pokemon Fire Red_Apr28 20_30_35_123
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 16
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 31cfb02facb64d660800000000000000
+      internalID: 7409665806319746067
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GBA--Pokemon Fire Red_Apr28 20_30_35_124
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 16
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 124344d6dc3900b70800000000000000
+      internalID: 8863246577175901217
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GBA--Pokemon Fire Red_Apr28 20_30_35_125
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 16
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f111da8c75b9c0510800000000000000
+      internalID: 1516757975848259871
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GBA--Pokemon Fire Red_Apr28 20_30_35_126
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 16
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1d74f630337b58d80800000000000000
+      internalID: -8248985712730355759
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GBA--Pokemon Fire Red_Apr28 20_30_35_127
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 16
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5276e7d3f093ea180800000000000000
+      internalID: -9102275059250206939
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GBA--Pokemon Fire Red_Apr28 20_30_35_128
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 16
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7d04b7289f954b850800000000000000
+      internalID: 6391832699316420823
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GBA--Pokemon Fire Red_Apr28 20_30_35_129
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 16
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ade818d8a501f7cc0800000000000000
+      internalID: -3711229586822820134
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GBA--Pokemon Fire Red_Apr28 20_30_35_130
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 16
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4c7d0e4a766b987e0800000000000000
+      internalID: -1762677222874753084
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GBA--Pokemon Fire Red_Apr28 20_30_35_131
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 16
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0b07d288a0a4f27a0800000000000000
+      internalID: -6399815136375377744
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GBA--Pokemon Fire Red_Apr28 20_30_35_132
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 16
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8a53a0fec257ff740800000000000000
+      internalID: 5187994131603535272
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GBA--Pokemon Fire Red_Apr28 20_30_35_133
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 16
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4459d178756c29450800000000000000
+      internalID: 6094151325017019716
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GBA--Pokemon Fire Red_Apr28 20_30_35_134
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 16
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a05640fe7a6adf450800000000000000
+      internalID: 6124234308493534474
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GBA--Pokemon Fire Red_Apr28 20_30_35_135
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a990aa9a4709a2c10800000000000000
+      internalID: 2029593412820928922
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GBA--Pokemon Fire Red_Apr28 20_30_35_136
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 0
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3146f9130ac1ed770800000000000000
+      internalID: 8637372609696064531
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GBA--Pokemon Fire Red_Apr28 20_30_35_137
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 0
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 61eeed22cf2e6d050800000000000000
+      internalID: 5825092740594986518
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GBA--Pokemon Fire Red_Apr28 20_30_35_138
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 0
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 11abb48ed3602b390800000000000000
+      internalID: -7804168341319599599
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GBA--Pokemon Fire Red_Apr28 20_30_35_139
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 0
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ae550c13c83068850800000000000000
+      internalID: 6378789822881879530
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GBA--Pokemon Fire Red_Apr28 20_30_35_140
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 0
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cb7ee11130d9dcc30800000000000000
+      internalID: 4381330648999061436
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GBA--Pokemon Fire Red_Apr28 20_30_35_141
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 0
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 713e6a860e595d8e0800000000000000
+      internalID: -1669263295809920233
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GBA--Pokemon Fire Red_Apr28 20_30_35_142
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 0
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a00b587048f977820800000000000000
+      internalID: 2915974673156386826
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GBA--Pokemon Fire Red_Apr28 20_30_35_143
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 0
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2ba81a660dc06f0a0800000000000000
+      internalID: -6848272094155666766
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GBA--Pokemon Fire Red_Apr28 20_30_35_144
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 0
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6b37f68b36e8cbce0800000000000000
+      internalID: -1388078026189737034
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GBA--Pokemon Fire Red_Apr28 20_30_35_145
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 0
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3f4cc4506d1960ef0800000000000000
+      internalID: -142265989817645837
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GBA--Pokemon Fire Red_Apr28 20_30_35_146
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 0
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0423e9943a009f540800000000000000
+      internalID: 5042061959132754496
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GBA--Pokemon Fire Red_Apr28 20_30_35_147
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 0
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a53a9336d89f24010800000000000000
+      internalID: 1171773238720176986
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GBA--Pokemon Fire Red_Apr28 20_30_35_148
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 0
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 75ec0f63528206d30800000000000000
+      internalID: 4422578974378479191
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GBA--Pokemon Fire Red_Apr28 20_30_35_149
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 0
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d1b7435e54c121c80800000000000000
+      internalID: -8353583272295105763
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

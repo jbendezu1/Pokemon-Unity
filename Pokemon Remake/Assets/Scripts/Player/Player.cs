@@ -13,7 +13,8 @@ public class Player : MonoBehaviour
     public float moveSpeed;
     private Rigidbody2D myRigidBody;
 
-    private Image fade;
+    private GameObject fade;
+    private Image fadeImage;
     private Animator fadeAnimator;
     private GameObject menu;
     public VectorValue startingPosition;
@@ -45,8 +46,7 @@ public class Player : MonoBehaviour
         animator = GetComponent<Animator>();
         spriterenderer = GetComponent<SpriteRenderer>();
         myRigidBody = GetComponent<Rigidbody2D>();
-        fade = GameObject.Find("Fade").GetComponent<Image>();
-        fadeAnimator = GameObject.Find("Fade").GetComponent<Animator>();
+        fade = GameObject.Find("Fade");
         menu = GameObject.Find("Menu");
  //       inventory = new Inventory();
  //       uiInventory.SetInventory(inventory);
@@ -55,6 +55,8 @@ public class Player : MonoBehaviour
     private void Start()
     {
         transform.position = startingPosition.initialValue;
+        fadeAnimator = fade.GetComponent<Animator>();
+        fadeImage = fade.GetComponent<Image>();
     }
 
     public void HandleUpdate()
@@ -68,7 +70,7 @@ public class Player : MonoBehaviour
             if (input.x != 0) input.y = 0;
 
             // Create player movement
-            if (input != Vector3.zero && !menu.activeSelf && !fade.IsActive())
+            if (input != Vector3.zero && !menu.activeSelf && !fadeImage.IsActive())
             {
                 animator.SetFloat("MoveX", input.x);
                 animator.SetFloat("MoveY", input.y);
