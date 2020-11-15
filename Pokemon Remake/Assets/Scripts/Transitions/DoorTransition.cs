@@ -1,11 +1,14 @@
 ﻿using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
+using UnityEngine.UI;
 
 public class DoorTransition : MonoBehaviour
 {
     public Vector2 destination;
     private Animator animator;
+    private GameObject fadeObject;
+    private Image fadeImage;
     private Animator fade;
     Player myPlayer;
 
@@ -13,15 +16,21 @@ public class DoorTransition : MonoBehaviour
     {
         animator = GameObject.Find("Player").GetComponent<Animator>();
         myPlayer = GameObject.FindGameObjectWithTag("Player").GetComponent<Player>();
-        fade = GameObject.Find("Fade").GetComponent<Animator>();
+        fadeObject = GameObject.Find("Fade");
     }
 
+    private void Start()
+    {
+        fade = fadeObject.GetComponent<Animator>();
+        fadeImage = fadeObject.GetComponent<Image>();
+    }
     public void OnTriggerEnter2D(Collider2D other)
     {
         if (other.CompareTag("Player"))
         {
             fade.SetTrigger("FadeOut");
             myPlayer.hasTeleported = true;
+            myPlayer.canMove = false;
             other.transform.position = destination;
         }
     }

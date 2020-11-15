@@ -8,7 +8,8 @@ using Debug = UnityEngine.Debug;
 
 public class Player : MonoBehaviour
 {
-    public bool hasTeleported;
+    public bool hasTeleported = false;
+    public bool canMove = false;
     private string spriteName;
     public float moveSpeed;
     private Rigidbody2D myRigidBody;
@@ -61,6 +62,11 @@ public class Player : MonoBehaviour
 
     public void HandleUpdate()
     {
+        if (fadeImage.IsActive())
+            canMove = false;
+        else if (!fadeImage.IsActive())
+            canMove = true;
+
         if (!isMoving)
         {
             input.x = Input.GetAxisRaw("Horizontal");
@@ -70,7 +76,7 @@ public class Player : MonoBehaviour
             if (input.x != 0) input.y = 0;
 
             // Create player movement
-            if (input != Vector3.zero && !menu.activeSelf && !fadeImage.IsActive())
+            if (input != Vector3.zero && canMove)
             {
                 animator.SetFloat("MoveX", input.x);
                 animator.SetFloat("MoveY", input.y);

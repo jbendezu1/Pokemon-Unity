@@ -1,0 +1,803 @@
+fileFormatVersion: 2
+guid: 063ac79461843b54598c70d4bf04ac9d
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 7235198192015295513
+    second: Game Boy Advance - Pokemon FireRed LeafGreen - Kindle Road_0
+  - first:
+      213: -110587328132718863
+    second: Game Boy Advance - Pokemon FireRed LeafGreen - Kindle Road_1
+  - first:
+      213: 3814981519881446354
+    second: Game Boy Advance - Pokemon FireRed LeafGreen - Kindle Road_2
+  - first:
+      213: -1492081068452101262
+    second: Game Boy Advance - Pokemon FireRed LeafGreen - Kindle Road_3
+  - first:
+      213: 2375777498310744884
+    second: Game Boy Advance - Pokemon FireRed LeafGreen - Kindle Road_4
+  - first:
+      213: 6415071446691536901
+    second: Game Boy Advance - Pokemon FireRed LeafGreen - Kindle Road_5
+  - first:
+      213: 4340529049601094823
+    second: Game Boy Advance - Pokemon FireRed LeafGreen - Kindle Road_6
+  - first:
+      213: 2725636890512850468
+    second: Game Boy Advance - Pokemon FireRed LeafGreen - Kindle Road_7
+  - first:
+      213: -7903292462845978291
+    second: Game Boy Advance - Pokemon FireRed LeafGreen - Kindle Road_8
+  - first:
+      213: 5508264572962326135
+    second: Game Boy Advance - Pokemon FireRed LeafGreen - Kindle Road_9
+  - first:
+      213: -4557934334083799938
+    second: Game Boy Advance - Pokemon FireRed LeafGreen - Kindle Road_10
+  - first:
+      213: 1244699448570787240
+    second: Game Boy Advance - Pokemon FireRed LeafGreen - Kindle Road_11
+  - first:
+      213: -6155374170597808674
+    second: Game Boy Advance - Pokemon FireRed LeafGreen - Kindle Road_12
+  - first:
+      213: 8428223028794681086
+    second: Game Boy Advance - Pokemon FireRed LeafGreen - Kindle Road_13
+  - first:
+      213: -3856533437875489068
+    second: Game Boy Advance - Pokemon FireRed LeafGreen - Kindle Road_14
+  - first:
+      213: -1876010442641650939
+    second: Game Boy Advance - Pokemon FireRed LeafGreen - Kindle Road_15
+  - first:
+      213: -4711630091164086924
+    second: Game Boy Advance - Pokemon FireRed LeafGreen - Kindle Road_16
+  - first:
+      213: 4020475856743747720
+    second: Game Boy Advance - Pokemon FireRed LeafGreen - Kindle Road_17
+  - first:
+      213: -4368658458010688815
+    second: Game Boy Advance - Pokemon FireRed LeafGreen - Kindle Road_18
+  - first:
+      213: -4867363760589448826
+    second: Game Boy Advance - Pokemon FireRed LeafGreen - Kindle Road_19
+  - first:
+      213: 5677570866486119469
+    second: Game Boy Advance - Pokemon FireRed LeafGreen - Kindle Road_20
+  - first:
+      213: -6328936225046560382
+    second: Game Boy Advance - Pokemon FireRed LeafGreen - Kindle Road_21
+  - first:
+      213: 2648170298028135251
+    second: Game Boy Advance - Pokemon FireRed LeafGreen - Kindle Road_22
+  - first:
+      213: -899178890808983812
+    second: Game Boy Advance - Pokemon FireRed LeafGreen - Kindle Road_23
+  - first:
+      213: 5442475603449420361
+    second: Game Boy Advance - Pokemon FireRed LeafGreen - Kindle Road_24
+  - first:
+      213: -5475835717279404305
+    second: Game Boy Advance - Pokemon FireRed LeafGreen - Kindle Road_25
+  - first:
+      213: 3147815410542584313
+    second: Game Boy Advance - Pokemon FireRed LeafGreen - Kindle Road_26
+  - first:
+      213: -4672981681325249141
+    second: Game Boy Advance - Pokemon FireRed LeafGreen - Kindle Road_27
+  - first:
+      213: 6903898480154602121
+    second: Game Boy Advance - Pokemon FireRed LeafGreen - Kindle Road_28
+  - first:
+      213: -4695556037818458934
+    second: Game Boy Advance - Pokemon FireRed LeafGreen - Kindle Road_29
+  - first:
+      213: 8951134693175883873
+    second: Game Boy Advance - Pokemon FireRed LeafGreen - Kindle Road_30
+  - first:
+      213: 6127858337798834944
+    second: Game Boy Advance - Pokemon FireRed LeafGreen - Kindle Road_31
+  - first:
+      213: -1276720093162276485
+    second: Game Boy Advance - Pokemon FireRed LeafGreen - Kindle Road_32
+  - first:
+      213: 8845679096120978838
+    second: Game Boy Advance - Pokemon FireRed LeafGreen - Kindle Road_33
+  - first:
+      213: 1970376848409667033
+    second: Game Boy Advance - Pokemon FireRed LeafGreen - Kindle Road_34
+  - first:
+      213: 4066846615500790651
+    second: Game Boy Advance - Pokemon FireRed LeafGreen - Kindle Road_35
+  - first:
+      213: 7487905356390121233
+    second: Game Boy Advance - Pokemon FireRed LeafGreen - Kindle Road_36
+  - first:
+      213: 4780187834590028524
+    second: Game Boy Advance - Pokemon FireRed LeafGreen - Kindle Road_37
+  - first:
+      213: -7438299663544203432
+    second: Game Boy Advance - Pokemon FireRed LeafGreen - Kindle Road_38
+  - first:
+      213: 2537041784379524001
+    second: Game Boy Advance - Pokemon FireRed LeafGreen - Kindle Road_39
+  - first:
+      213: 6251385311005531815
+    second: Game Boy Advance - Pokemon FireRed LeafGreen - Kindle Road_40
+  - first:
+      213: -451608196527155890
+    second: Game Boy Advance - Pokemon FireRed LeafGreen - Kindle Road_41
+  - first:
+      213: 6920226774009181316
+    second: Game Boy Advance - Pokemon FireRed LeafGreen - Kindle Road_42
+  - first:
+      213: -3742788618143241289
+    second: Game Boy Advance - Pokemon FireRed LeafGreen - Kindle Road_43
+  - first:
+      213: -6363254264914002776
+    second: Game Boy Advance - Pokemon FireRed LeafGreen - Kindle Road_44
+  - first:
+      213: -6733251922659462579
+    second: Game Boy Advance - Pokemon FireRed LeafGreen - Kindle Road_45
+  - first:
+      213: 6581579543483166206
+    second: Game Boy Advance - Pokemon FireRed LeafGreen - Kindle Road_46
+  - first:
+      213: 1300794826745812396
+    second: Game Boy Advance - Pokemon FireRed LeafGreen - Kindle Road_47
+  - first:
+      213: -4908511459269765120
+    second: Game Boy Advance - Pokemon FireRed LeafGreen - Kindle Road_48
+  - first:
+      213: 9022157138205275098
+    second: Game Boy Advance - Pokemon FireRed LeafGreen - Kindle Road_49
+  - first:
+      213: -5619751161772388286
+    second: Game Boy Advance - Pokemon FireRed LeafGreen - Kindle Road_50
+  - first:
+      213: 4540891157901616909
+    second: Game Boy Advance - Pokemon FireRed LeafGreen - Kindle Road_51
+  - first:
+      213: -8525960954202120272
+    second: Game Boy Advance - Pokemon FireRed LeafGreen - Kindle Road_52
+  - first:
+      213: 3189053470724024378
+    second: Game Boy Advance - Pokemon FireRed LeafGreen - Kindle Road_53
+  - first:
+      213: -9106755177449991015
+    second: Game Boy Advance - Pokemon FireRed LeafGreen - Kindle Road_54
+  - first:
+      213: -4350409044959571435
+    second: Game Boy Advance - Pokemon FireRed LeafGreen - Kindle Road_55
+  - first:
+      213: 7533764729035214876
+    second: Game Boy Advance - Pokemon FireRed LeafGreen - Kindle Road_56
+  - first:
+      213: 4994831877826583589
+    second: Game Boy Advance - Pokemon FireRed LeafGreen - Kindle Road_57
+  - first:
+      213: 1858667670407994850
+    second: Game Boy Advance - Pokemon FireRed LeafGreen - Kindle Road_58
+  - first:
+      213: -4470426539723519528
+    second: Game Boy Advance - Pokemon FireRed LeafGreen - Kindle Road_59
+  - first:
+      213: 1145456743795216890
+    second: Game Boy Advance - Pokemon FireRed LeafGreen - Kindle Road_60
+  - first:
+      213: -4014612137836847617
+    second: Game Boy Advance - Pokemon FireRed LeafGreen - Kindle Road_61
+  - first:
+      213: 6360576647652162782
+    second: Game Boy Advance - Pokemon FireRed LeafGreen - Kindle Road_62
+  - first:
+      213: -6573886919786772965
+    second: Game Boy Advance - Pokemon FireRed LeafGreen - Kindle Road_63
+  - first:
+      213: -7937484788565187710
+    second: Game Boy Advance - Pokemon FireRed LeafGreen - Kindle Road_64
+  - first:
+      213: 2510767511063181167
+    second: Game Boy Advance - Pokemon FireRed LeafGreen - Kindle Road_65
+  - first:
+      213: 3070774859968013959
+    second: Game Boy Advance - Pokemon FireRed LeafGreen - Kindle Road_66
+  - first:
+      213: 1899566454278240752
+    second: Game Boy Advance - Pokemon FireRed LeafGreen - Kindle Road_67
+  - first:
+      213: 6228719056483841111
+    second: Game Boy Advance - Pokemon FireRed LeafGreen - Kindle Road_68
+  - first:
+      213: 731547352390684336
+    second: Game Boy Advance - Pokemon FireRed LeafGreen - Kindle Road_69
+  - first:
+      213: -7379390705383173433
+    second: Game Boy Advance - Pokemon FireRed LeafGreen - Kindle Road_70
+  - first:
+      213: -4743140028543688491
+    second: Game Boy Advance - Pokemon FireRed LeafGreen - Kindle Road_71
+  - first:
+      213: -3191596572968815102
+    second: Game Boy Advance - Pokemon FireRed LeafGreen - Kindle Road_72
+  - first:
+      213: -4911457715793925385
+    second: Game Boy Advance - Pokemon FireRed LeafGreen - Kindle Road_73
+  - first:
+      213: 2610038338668414978
+    second: Game Boy Advance - Pokemon FireRed LeafGreen - Kindle Road_74
+  - first:
+      213: -218753351713993883
+    second: Game Boy Advance - Pokemon FireRed LeafGreen - Kindle Road_75
+  - first:
+      213: -4822801830884015909
+    second: Game Boy Advance - Pokemon FireRed LeafGreen - Kindle Road_76
+  - first:
+      213: -2868980356156674752
+    second: Game Boy Advance - Pokemon FireRed LeafGreen - Kindle Road_77
+  - first:
+      213: 8707629478338862712
+    second: Game Boy Advance - Pokemon FireRed LeafGreen - Kindle Road_78
+  - first:
+      213: -913157067969170520
+    second: Game Boy Advance - Pokemon FireRed LeafGreen - Kindle Road_79
+  - first:
+      213: 4178170126716929149
+    second: Game Boy Advance - Pokemon FireRed LeafGreen - Kindle Road_80
+  - first:
+      213: 3156636855350271581
+    second: Game Boy Advance - Pokemon FireRed LeafGreen - Kindle Road_81
+  - first:
+      213: 8060051020325619216
+    second: Game Boy Advance - Pokemon FireRed LeafGreen - Kindle Road_82
+  - first:
+      213: 6487821975990746099
+    second: Game Boy Advance - Pokemon FireRed LeafGreen - Kindle Road_83
+  - first:
+      213: -3875085461536035104
+    second: Game Boy Advance - Pokemon FireRed LeafGreen - Kindle Road_84
+  - first:
+      213: -2742791012645402144
+    second: Game Boy Advance - Pokemon FireRed LeafGreen - Kindle Road_85
+  - first:
+      213: 6500336525106260491
+    second: Game Boy Advance - Pokemon FireRed LeafGreen - Kindle Road_86
+  - first:
+      213: 3944834359576967503
+    second: Game Boy Advance - Pokemon FireRed LeafGreen - Kindle Road_87
+  - first:
+      213: 2865349676017579471
+    second: Game Boy Advance - Pokemon FireRed LeafGreen - Kindle Road_88
+  - first:
+      213: 593181603213795051
+    second: Game Boy Advance - Pokemon FireRed LeafGreen - Kindle Road_89
+  - first:
+      213: -11039697317983599
+    second: Game Boy Advance - Pokemon FireRed LeafGreen - Kindle Road_90
+  - first:
+      213: -5552026108845789253
+    second: Game Boy Advance - Pokemon FireRed LeafGreen - Kindle Road_91
+  - first:
+      213: 4894064080090643108
+    second: Game Boy Advance - Pokemon FireRed LeafGreen - Kindle Road_92
+  - first:
+      213: -5131462125412385875
+    second: Game Boy Advance - Pokemon FireRed LeafGreen - Kindle Road_93
+  - first:
+      213: 3606130919125888707
+    second: Game Boy Advance - Pokemon FireRed LeafGreen - Kindle Road_94
+  - first:
+      213: 9092148410519413771
+    second: Game Boy Advance - Pokemon FireRed LeafGreen - Kindle Road_95
+  - first:
+      213: -3836466258367841067
+    second: Game Boy Advance - Pokemon FireRed LeafGreen - Kindle Road_96
+  - first:
+      213: 8190185365305451256
+    second: Game Boy Advance - Pokemon FireRed LeafGreen - Kindle Road_97
+  - first:
+      213: 2247498712662675859
+    second: Game Boy Advance - Pokemon FireRed LeafGreen - Kindle Road_98
+  - first:
+      213: 4052522133516517881
+    second: Game Boy Advance - Pokemon FireRed LeafGreen - Kindle Road_99
+  - first:
+      213: -2664983095255738688
+    second: Game Boy Advance - Pokemon FireRed LeafGreen - Kindle Road_100
+  - first:
+      213: 3553532979810173355
+    second: Game Boy Advance - Pokemon FireRed LeafGreen - Kindle Road_101
+  - first:
+      213: 9204070880810879295
+    second: Game Boy Advance - Pokemon FireRed LeafGreen - Kindle Road_102
+  - first:
+      213: -8346511901266301057
+    second: Game Boy Advance - Pokemon FireRed LeafGreen - Kindle Road_103
+  - first:
+      213: 224298237089244827
+    second: Game Boy Advance - Pokemon FireRed LeafGreen - Kindle Road_104
+  - first:
+      213: -3295036545900902695
+    second: Game Boy Advance - Pokemon FireRed LeafGreen - Kindle Road_105
+  - first:
+      213: -7219188500863901972
+    second: Game Boy Advance - Pokemon FireRed LeafGreen - Kindle Road_106
+  - first:
+      213: -4506862010056655954
+    second: Game Boy Advance - Pokemon FireRed LeafGreen - Kindle Road_107
+  - first:
+      213: -354399000913447833
+    second: Game Boy Advance - Pokemon FireRed LeafGreen - Kindle Road_108
+  - first:
+      213: -128133770254093392
+    second: Game Boy Advance - Pokemon FireRed LeafGreen - Kindle Road_109
+  - first:
+      213: -7026449140970509190
+    second: Game Boy Advance - Pokemon FireRed LeafGreen - Kindle Road_110
+  - first:
+      213: -6625590313396992470
+    second: Game Boy Advance - Pokemon FireRed LeafGreen - Kindle Road_111
+  - first:
+      213: 7175934605639143111
+    second: Game Boy Advance - Pokemon FireRed LeafGreen - Kindle Road_112
+  - first:
+      213: -6428061627763977527
+    second: Game Boy Advance - Pokemon FireRed LeafGreen - Kindle Road_113
+  - first:
+      213: 8492088219386550818
+    second: Game Boy Advance - Pokemon FireRed LeafGreen - Kindle Road_114
+  - first:
+      213: -1246575070766934239
+    second: Game Boy Advance - Pokemon FireRed LeafGreen - Kindle Road_115
+  - first:
+      213: 6367860183606110209
+    second: Game Boy Advance - Pokemon FireRed LeafGreen - Kindle Road_116
+  - first:
+      213: -7062805120383987802
+    second: Game Boy Advance - Pokemon FireRed LeafGreen - Kindle Road_117
+  - first:
+      213: -3409711743112842316
+    second: Game Boy Advance - Pokemon FireRed LeafGreen - Kindle Road_118
+  - first:
+      213: -4388114881033860341
+    second: Game Boy Advance - Pokemon FireRed LeafGreen - Kindle Road_119
+  - first:
+      213: 5678663178039430155
+    second: Game Boy Advance - Pokemon FireRed LeafGreen - Kindle Road_120
+  - first:
+      213: -2350586007914943189
+    second: Game Boy Advance - Pokemon FireRed LeafGreen - Kindle Road_121
+  - first:
+      213: 8960754611522273089
+    second: Game Boy Advance - Pokemon FireRed LeafGreen - Kindle Road_122
+  - first:
+      213: -8938900356154078110
+    second: Game Boy Advance - Pokemon FireRed LeafGreen - Kindle Road_123
+  - first:
+      213: 83009506602443199
+    second: Game Boy Advance - Pokemon FireRed LeafGreen - Kindle Road_124
+  - first:
+      213: 8751096927268502155
+    second: Game Boy Advance - Pokemon FireRed LeafGreen - Kindle Road_125
+  - first:
+      213: -3202694105198781094
+    second: Game Boy Advance - Pokemon FireRed LeafGreen - Kindle Road_126
+  - first:
+      213: -6627254110055098379
+    second: Game Boy Advance - Pokemon FireRed LeafGreen - Kindle Road_127
+  - first:
+      213: -3182643677852144068
+    second: Game Boy Advance - Pokemon FireRed LeafGreen - Kindle Road_128
+  - first:
+      213: 5687217058162789476
+    second: Game Boy Advance - Pokemon FireRed LeafGreen - Kindle Road_129
+  - first:
+      213: -1216941237346056261
+    second: Game Boy Advance - Pokemon FireRed LeafGreen - Kindle Road_130
+  - first:
+      213: -404112307619740098
+    second: Game Boy Advance - Pokemon FireRed LeafGreen - Kindle Road_131
+  - first:
+      213: 4963630376329985651
+    second: Game Boy Advance - Pokemon FireRed LeafGreen - Kindle Road_132
+  - first:
+      213: -2541419201105366878
+    second: Game Boy Advance - Pokemon FireRed LeafGreen - Kindle Road_133
+  - first:
+      213: -7298964279817825037
+    second: Game Boy Advance - Pokemon FireRed LeafGreen - Kindle Road_134
+  - first:
+      213: -1163367597381214309
+    second: Game Boy Advance - Pokemon FireRed LeafGreen - Kindle Road_135
+  - first:
+      213: -4922193663118110508
+    second: Game Boy Advance - Pokemon FireRed LeafGreen - Kindle Road_136
+  - first:
+      213: -3065028665951873807
+    second: Game Boy Advance - Pokemon FireRed LeafGreen - Kindle Road_137
+  - first:
+      213: -5712569401077326799
+    second: Game Boy Advance - Pokemon FireRed LeafGreen - Kindle Road_138
+  - first:
+      213: -5908570932551874446
+    second: Game Boy Advance - Pokemon FireRed LeafGreen - Kindle Road_139
+  - first:
+      213: 7338731720675118927
+    second: Game Boy Advance - Pokemon FireRed LeafGreen - Kindle Road_140
+  - first:
+      213: 7472993404011074421
+    second: Game Boy Advance - Pokemon FireRed LeafGreen - Kindle Road_141
+  - first:
+      213: 3254345468634619835
+    second: Game Boy Advance - Pokemon FireRed LeafGreen - Kindle Road_142
+  - first:
+      213: 2903788431458124045
+    second: Game Boy Advance - Pokemon FireRed LeafGreen - Kindle Road_143
+  - first:
+      213: -2403746216861513264
+    second: Game Boy Advance - Pokemon FireRed LeafGreen - Kindle Road_144
+  - first:
+      213: -3386897065652218654
+    second: Game Boy Advance - Pokemon FireRed LeafGreen - Kindle Road_145
+  - first:
+      213: -2383465001982194271
+    second: Game Boy Advance - Pokemon FireRed LeafGreen - Kindle Road_146
+  - first:
+      213: 9201359020479046434
+    second: Game Boy Advance - Pokemon FireRed LeafGreen - Kindle Road_147
+  - first:
+      213: 5540408900572227802
+    second: Game Boy Advance - Pokemon FireRed LeafGreen - Kindle Road_148
+  - first:
+      213: -8313404737979301356
+    second: Game Boy Advance - Pokemon FireRed LeafGreen - Kindle Road_149
+  - first:
+      213: -731736427895216829
+    second: Game Boy Advance - Pokemon FireRed LeafGreen - Kindle Road_150
+  - first:
+      213: -455093559039284468
+    second: Game Boy Advance - Pokemon FireRed LeafGreen - Kindle Road_151
+  - first:
+      213: -6237041450855410225
+    second: Game Boy Advance - Pokemon FireRed LeafGreen - Kindle Road_152
+  - first:
+      213: -169325047317575230
+    second: Game Boy Advance - Pokemon FireRed LeafGreen - Kindle Road_153
+  - first:
+      213: 2302618733159141005
+    second: Game Boy Advance - Pokemon FireRed LeafGreen - Kindle Road_154
+  - first:
+      213: -1564657658363777837
+    second: Game Boy Advance - Pokemon FireRed LeafGreen - Kindle Road_155
+  - first:
+      213: -5589526887177246483
+    second: Game Boy Advance - Pokemon FireRed LeafGreen - Kindle Road_156
+  - first:
+      213: 4761943583478908969
+    second: Game Boy Advance - Pokemon FireRed LeafGreen - Kindle Road_157
+  - first:
+      213: 3186480922981625151
+    second: Game Boy Advance - Pokemon FireRed LeafGreen - Kindle Road_158
+  - first:
+      213: -6130229671666521627
+    second: Game Boy Advance - Pokemon FireRed LeafGreen - Kindle Road_159
+  - first:
+      213: -5752848083665048833
+    second: Game Boy Advance - Pokemon FireRed LeafGreen - Kindle Road_160
+  - first:
+      213: -7972752134921325764
+    second: Game Boy Advance - Pokemon FireRed LeafGreen - Kindle Road_161
+  - first:
+      213: -2782106559855982737
+    second: Game Boy Advance - Pokemon FireRed LeafGreen - Kindle Road_162
+  - first:
+      213: -6837924945881797593
+    second: Game Boy Advance - Pokemon FireRed LeafGreen - Kindle Road_163
+  - first:
+      213: 4894362470795124487
+    second: Game Boy Advance - Pokemon FireRed LeafGreen - Kindle Road_164
+  - first:
+      213: 1753805108017317677
+    second: Game Boy Advance - Pokemon FireRed LeafGreen - Kindle Road_165
+  - first:
+      213: 460033758611733131
+    second: Game Boy Advance - Pokemon FireRed LeafGreen - Kindle Road_166
+  - first:
+      213: 7772015349198852259
+    second: Game Boy Advance - Pokemon FireRed LeafGreen - Kindle Road_167
+  - first:
+      213: 31065731987213792
+    second: Game Boy Advance - Pokemon FireRed LeafGreen - Kindle Road_168
+  - first:
+      213: 404251295580403712
+    second: Game Boy Advance - Pokemon FireRed LeafGreen - Kindle Road_169
+  - first:
+      213: 3531498544808450704
+    second: Game Boy Advance - Pokemon FireRed LeafGreen - Kindle Road_170
+  - first:
+      213: -5504955923531780114
+    second: Game Boy Advance - Pokemon FireRed LeafGreen - Kindle Road_171
+  - first:
+      213: 3667852435807597062
+    second: Game Boy Advance - Pokemon FireRed LeafGreen - Kindle Road_172
+  - first:
+      213: 2124546976651438011
+    second: Game Boy Advance - Pokemon FireRed LeafGreen - Kindle Road_173
+  - first:
+      213: 5351030644691087724
+    second: Game Boy Advance - Pokemon FireRed LeafGreen - Kindle Road_174
+  - first:
+      213: -1243338329399747791
+    second: Game Boy Advance - Pokemon FireRed LeafGreen - Kindle Road_175
+  - first:
+      213: 6614633939338782830
+    second: Game Boy Advance - Pokemon FireRed LeafGreen - Kindle Road_176
+  - first:
+      213: -7892154483432849099
+    second: Game Boy Advance - Pokemon FireRed LeafGreen - Kindle Road_177
+  - first:
+      213: 4700432626912371474
+    second: Game Boy Advance - Pokemon FireRed LeafGreen - Kindle Road_178
+  - first:
+      213: -1339718585781329486
+    second: Game Boy Advance - Pokemon FireRed LeafGreen - Kindle Road_179
+  - first:
+      213: -1889542469135862528
+    second: Game Boy Advance - Pokemon FireRed LeafGreen - Kindle Road_180
+  - first:
+      213: -909237032232072025
+    second: Game Boy Advance - Pokemon FireRed LeafGreen - Kindle Road_181
+  - first:
+      213: 8521684231764304229
+    second: Game Boy Advance - Pokemon FireRed LeafGreen - Kindle Road_0
+  - first:
+      213: -5021682772248314153
+    second: Game Boy Advance - Pokemon FireRed LeafGreen - Kindle Road_1
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 16
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Game Boy Advance - Pokemon FireRed LeafGreen - Kindle Road_0
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 104
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 561eb52b8aa134670800000000000000
+      internalID: 8521684231764304229
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Pokemon FireRed LeafGreen - Kindle Road_1
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 104
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1fe5df5396d177ef0800000000000000
+      internalID: -110587328132718863
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Pokemon FireRed LeafGreen - Kindle Road_2
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 104
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2d3a63dca7981f430800000000000000
+      internalID: 3814981519881446354
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Pokemon FireRed LeafGreen - Kindle Road_3
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 120
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 273c3d27c201b4be0800000000000000
+      internalID: -1492081068452101262
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Pokemon FireRed LeafGreen - Kindle Road_4
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 120
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 43b9d2c1c0578f020800000000000000
+      internalID: 2375777498310744884
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Pokemon FireRed LeafGreen - Kindle Road_5
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 120
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 500ecc40e79e60950800000000000000
+      internalID: 6415071446691536901
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Pokemon FireRed LeafGreen - Kindle Road_6
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 136
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7a4bcba6c28ac3c30800000000000000
+      internalID: 4340529049601094823
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

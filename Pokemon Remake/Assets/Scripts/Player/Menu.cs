@@ -9,10 +9,13 @@ public class Menu : MonoBehaviour
     public GameObject menu;
     public Button firstButton;
     public GameObject trainer;
+    Player myPlayer;
     // Start is called before the first frame update
     void Start()
     {
         menu.SetActive(false);
+        myPlayer = trainer.GetComponent<Player>();
+
     }
 
     // Update is called once per frame
@@ -29,10 +32,16 @@ public class Menu : MonoBehaviour
     void toggleMenu()
     {
         if (menu.activeSelf)
+        {
             menu.SetActive(false);
+            myPlayer.canMove = true;
+        }
         else
+        {
             menu.SetActive(true);
-        
+            myPlayer.canMove = false;
+        }
+
     }
 
     public void LoadMenu()
