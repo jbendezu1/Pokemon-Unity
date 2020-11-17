@@ -6,6 +6,26 @@ using Vector3 = UnityEngine.Vector3;
 using Vector2 = UnityEngine.Vector2;
 using Debug = UnityEngine.Debug;
 
+public class Ordinance
+{
+    public enum Direction { North, South, East, West };
+
+    public Direction myDirection;
+    Direction changeDirection (Direction dir, String direction)
+    {
+        if (direction == "east")
+            dir = Direction.East;
+        else if (direction == "west")
+            dir = Direction.West;
+        else if (direction == "north")
+            dir = Direction.North;
+        else
+            dir = Direction.South;
+
+        return dir;
+    }
+}
+
 public class Player : MonoBehaviour
 {
     public bool hasTeleported = false;
@@ -19,8 +39,6 @@ public class Player : MonoBehaviour
     private Animator fadeAnimator;
     private GameObject menu;
     public VectorValue startingPosition;
-
-    public int badges = 0;
 
     public event Action onEncountered;
 
@@ -41,9 +59,10 @@ public class Player : MonoBehaviour
     private Inventory inventory;
     [SerializeField] private UI_Inventory uiInventory;
 
+    public Ordinance playerOrdinance = new Ordinance();
+
     private void Awake()
     {
-        Debug.Log("Awake");
         animator = GetComponent<Animator>();
         spriterenderer = GetComponent<SpriteRenderer>();
         myRigidBody = GetComponent<Rigidbody2D>();
@@ -56,16 +75,21 @@ public class Player : MonoBehaviour
     private void Start()
     {
         transform.position = startingPosition.initialValue;
+//        playerOrdinance = startingPosition.playerDirectionOrdinance.Direction;
         fadeAnimator = fade.GetComponent<Animator>();
         fadeImage = fade.GetComponent<Image>();
     }
 
     public void HandleUpdate()
     {
+        // Restrict player movement when menu is on and during fades
         if (fadeImage.IsActive())
             canMove = false;
-        else if (!fadeImage.IsActive())
+        else if (!fadeImage.IsActive() && !menu.activeSelf)
             canMove = true;
+
+        // 
+
 
         if (!isMoving)
         {
@@ -133,8 +157,7 @@ public class Player : MonoBehaviour
 
         hasTeleported = false;
         isMoving = false;
-        checkForEncounter();            
-        
+        checkForEncounter();        
     }
 
     // Prevent player from moving over foreground tiles

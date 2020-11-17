@@ -5,6 +5,7 @@ using UnityEngine.UI;
 
 public class DoorTransition : MonoBehaviour
 {
+    public float waitTime;
     public Vector2 destination;
     private Animator animator;
     private GameObject fadeObject;
@@ -28,10 +29,17 @@ public class DoorTransition : MonoBehaviour
     {
         if (other.CompareTag("Player"))
         {
-            fade.SetTrigger("FadeOut");
-            myPlayer.hasTeleported = true;
-            myPlayer.canMove = false;
-            other.transform.position = destination;
+            StartCoroutine(MovePlayer(other.transform));
         }
     }
+
+    IEnumerator MovePlayer(Transform playerTransform)
+    {
+        fade.SetTrigger("FadeOut");
+        myPlayer.hasTeleported = true;
+        myPlayer.canMove = false;
+        yield return new WaitForSeconds(waitTime);
+        playerTransform.position = destination;
+    }
+
 }

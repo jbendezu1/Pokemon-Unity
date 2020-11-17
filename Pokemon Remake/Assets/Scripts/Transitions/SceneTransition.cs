@@ -18,13 +18,20 @@ public class SceneTransition : MonoBehaviour
 
     public void OnTriggerEnter2D(Collider2D other)
     {
+
         if (other.CompareTag("Player"))
         {
             fade.SetTrigger("FadeOut");
-            // Store player's last position to get back to it
-            playerStorage.initialValue = playerPosition;
-
-            SceneManager.LoadScene(sceneToLoad);
+            StartCoroutine(LoadLevel(other.transform));
         }
+    }
+
+    IEnumerator LoadLevel(Transform playerTransform)
+    {
+        fade.SetTrigger("Start");
+        // Store player's last position to get back to it
+        playerStorage.initialValue = playerPosition;
+        yield return new WaitForSeconds(0);
+        SceneManager.LoadScene(sceneToLoad);
     }
 }

@@ -6,11 +6,11 @@ using UnityEngine;
 
 public class Decision : MonoBehaviour
 {
-    public GameObject decision;
+    public GameObject decisionManager;
     public Button firstButton;
     public GameObject trainer;
     public bool showDecision;
-
+    public string decision;
 
     Player myPlayer;
 
@@ -26,11 +26,21 @@ public class Decision : MonoBehaviour
     {
         if (showDecision == true)
         {
-            decision.SetActive(true);
+            decisionManager.SetActive(true);
             firstButton.Select();
         }
         else
-            decision.SetActive(false);
+            decisionManager.SetActive(false);
     }
 
+
+    public void ChoseYes()
+    {
+        decision = "yes";
+    }
+
+    public void ChoseNo()
+    {
+        decision = "no";
+    }
 }
