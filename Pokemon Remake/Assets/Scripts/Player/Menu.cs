@@ -15,7 +15,6 @@ public class Menu : MonoBehaviour
     {
         menu.SetActive(false);
         myPlayer = trainer.GetComponent<Player>();
-
     }
 
     // Update is called once per frame

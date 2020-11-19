@@ -9,5 +9,4 @@ public class VectorValue : ScriptableObject
     public int badgeCount;
     public Inventory playerInventory;
     public PokemonParty myPart;
-    public Ordinance playerDirection;
 }

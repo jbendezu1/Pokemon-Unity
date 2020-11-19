@@ -6,25 +6,6 @@ using Vector3 = UnityEngine.Vector3;
 using Vector2 = UnityEngine.Vector2;
 using Debug = UnityEngine.Debug;
 
-public class Ordinance
-{
-    public enum Direction { North, South, East, West };
-
-    public Direction myDirection;
-    Direction changeDirection (Direction dir, String direction)
-    {
-        if (direction == "east")
-            dir = Direction.East;
-        else if (direction == "west")
-            dir = Direction.West;
-        else if (direction == "north")
-            dir = Direction.North;
-        else
-            dir = Direction.South;
-
-        return dir;
-    }
-}
 
 public class Player : MonoBehaviour
 {
@@ -38,6 +19,7 @@ public class Player : MonoBehaviour
     private Image fadeImage;
     private Animator fadeAnimator;
     private GameObject menu;
+    private GameObject decisionBox;
     public VectorValue startingPosition;
 
     public event Action onEncountered;
@@ -59,7 +41,6 @@ public class Player : MonoBehaviour
     private Inventory inventory;
     [SerializeField] private UI_Inventory uiInventory;
 
-    public Ordinance playerOrdinance = new Ordinance();
 
     private void Awake()
     {
@@ -68,14 +49,14 @@ public class Player : MonoBehaviour
         myRigidBody = GetComponent<Rigidbody2D>();
         fade = GameObject.Find("Fade");
         menu = GameObject.Find("Menu");
- //       inventory = new Inventory();
- //       uiInventory.SetInventory(inventory);
+        decisionBox = GameObject.Find("DecisionBox");
+        //       inventory = new Inventory();
+        //       uiInventory.SetInventory(inventory);
     }
 
     private void Start()
     {
         transform.position = startingPosition.initialValue;
-//        playerOrdinance = startingPosition.playerDirectionOrdinance.Direction;
         fadeAnimator = fade.GetComponent<Animator>();
         fadeImage = fade.GetComponent<Image>();
     }
@@ -83,12 +64,10 @@ public class Player : MonoBehaviour
     public void HandleUpdate()
     {
         // Restrict player movement when menu is on and during fades
-        if (fadeImage.IsActive())
+        if (fadeImage.IsActive() || menu.activeSelf || decisionBox.activeSelf)
             canMove = false;
-        else if (!fadeImage.IsActive() && !menu.activeSelf)
+        else if (!fadeImage.IsActive() && !menu.activeSelf && !decisionBox.activeSelf)
             canMove = true;
-
-        // 
 
 
         if (!isMoving)
@@ -108,10 +87,9 @@ public class Player : MonoBehaviour
                 var targetPosition = transform.position;
                 targetPosition.x += input.x;
                 targetPosition.y += input.y;
-
                 if (isWalkable(targetPosition))
                 {
-                    co = StartCoroutine(MovePlayer(targetPosition));                    
+                    co = StartCoroutine(MovePlayer(targetPosition));
                 }
             }
         }
@@ -129,7 +107,7 @@ public class Player : MonoBehaviour
         var facingDir = new Vector3(animator.GetFloat("MoveX"), animator.GetFloat("MoveY"));
         var interactPos = transform.position + facingDir;
 
-        //Debug.DrawLine(transform.position, interactPos, Color.green, 0.5f);
+        Debug.DrawLine(transform.position, interactPos, Color.green, 0.3f);
 
         var collider = Physics2D.OverlapCircle(interactPos, 0.3f, interactableLayer);
         if (collider != null)
@@ -139,7 +117,7 @@ public class Player : MonoBehaviour
     }
 
     public IEnumerator MovePlayer(Vector3 targetPosition)
-    { 
+    {
         isMoving = true;
 
         while ((targetPosition - transform.position).sqrMagnitude > Mathf.Epsilon)
@@ -157,13 +135,15 @@ public class Player : MonoBehaviour
 
         hasTeleported = false;
         isMoving = false;
-        checkForEncounter();        
+        checkForEncounter();
     }
 
     // Prevent player from moving over foreground tiles
-    private bool isWalkable(Vector3 targetposition) {
+    private bool isWalkable(Vector3 targetposition)
+    {
 
-        if (Physics2D.OverlapCircle(targetposition, 0.1f, Foreground | interactableLayer) != null) {
+        if (Physics2D.OverlapCircle(targetposition, 0.1f, Foreground | interactableLayer) != null)
+        {
             return false;
         }
 

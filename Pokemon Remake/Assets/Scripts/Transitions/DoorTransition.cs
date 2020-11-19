@@ -16,7 +16,7 @@ public class DoorTransition : MonoBehaviour
     private void Awake()
     {
         animator = GameObject.Find("Player").GetComponent<Animator>();
-        myPlayer = GameObject.FindGameObjectWithTag("Player").GetComponent<Player>();
+        myPlayer = GameObject.Find("Player").GetComponent<Player>();
         fadeObject = GameObject.Find("Fade");
     }
 
@@ -25,6 +25,7 @@ public class DoorTransition : MonoBehaviour
         fade = fadeObject.GetComponent<Animator>();
         fadeImage = fadeObject.GetComponent<Image>();
     }
+
     public void OnTriggerEnter2D(Collider2D other)
     {
         if (other.CompareTag("Player"))
@@ -41,5 +42,4 @@ public class DoorTransition : MonoBehaviour
         yield return new WaitForSeconds(waitTime);
         playerTransform.position = destination;
     }
-
 }

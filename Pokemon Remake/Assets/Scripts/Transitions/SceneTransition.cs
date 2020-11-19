@@ -10,7 +10,6 @@ public class SceneTransition : MonoBehaviour
     public VectorValue playerStorage;
     private Animator fade;
 
-
     private void Awake()
     {
         fade = GameObject.Find("Fade").GetComponent<Animator>();

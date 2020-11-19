@@ -71,7 +71,9 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 279f3da207f64c846ba23d46ad081258, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  destination: {x: 331.5, y: 217.5}
+  waitTime: 0
+  destination: {x: 186.5, y: 217.8}
+  player: {fileID: 0}
 --- !u!50 &1889958533812627841
 Rigidbody2D:
   serializedVersion: 4

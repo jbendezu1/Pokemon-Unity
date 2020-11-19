@@ -6,33 +6,16 @@ using UnityEngine;
 
 public class Decision : MonoBehaviour
 {
-    public GameObject decisionManager;
+    public GameObject decisionBox;
     public Button firstButton;
     public GameObject trainer;
-    public bool showDecision;
     public string decision;
-
-    Player myPlayer;
 
     // Start is called before the first frame update
     void Start()
     {
-        myPlayer = trainer.GetComponent<Player>();
-        showDecision = false;
+        decisionBox.SetActive(false);
     }
-
-    // Update is called once per frame
-    void Update()
-    {
-        if (showDecision == true)
-        {
-            decisionManager.SetActive(true);
-            firstButton.Select();
-        }
-        else
-            decisionManager.SetActive(false);
-    }
-
 
     public void ChoseYes()
     {
