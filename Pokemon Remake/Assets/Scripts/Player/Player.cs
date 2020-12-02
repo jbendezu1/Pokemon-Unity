@@ -9,6 +9,9 @@ using Debug = UnityEngine.Debug;
 
 public class Player : MonoBehaviour
 {
+    [SerializeField] string name;
+    [SerializeField] Sprite sprite;
+
     public bool hasTeleported = false;
     public bool canMove = false;
     private string spriteName;
@@ -23,6 +26,7 @@ public class Player : MonoBehaviour
     public VectorValue startingPosition;
 
     public event Action onEncountered;
+    public event Action<Collider2D> OnEnterTrainersView;
 
     public LayerMask Ocean;
     public LayerMask Foreground;
@@ -37,6 +41,7 @@ public class Player : MonoBehaviour
     private Animator animator;
     private SpriteRenderer spriterenderer;
     public Coroutine co;
+    private Character character;
 
     private Inventory inventory;
     [SerializeField] private UI_Inventory uiInventory;
@@ -44,6 +49,7 @@ public class Player : MonoBehaviour
 
     private void Awake()
     {
+        character = GetComponent<Character>();
         animator = GetComponent<Animator>();
         spriterenderer = GetComponent<SpriteRenderer>();
         myRigidBody = GetComponent<Rigidbody2D>();
@@ -89,7 +95,7 @@ public class Player : MonoBehaviour
                 targetPosition.y += input.y;
                 if (isWalkable(targetPosition))
                 {
-                    co = StartCoroutine(MovePlayer(targetPosition));
+                    StartCoroutine(MovePlayer(targetPosition));
                 }
             }
         }
@@ -112,7 +118,7 @@ public class Player : MonoBehaviour
         var collider = Physics2D.OverlapCircle(interactPos, 0.3f, interactableLayer);
         if (collider != null)
         {
-            collider.GetComponent<Interactable>()?.Interact();
+            collider.GetComponent<Interactable>()?.Interact(transform);
         }
     }
 
@@ -135,7 +141,7 @@ public class Player : MonoBehaviour
 
         hasTeleported = false;
         isMoving = false;
-        checkForEncounter();
+        OnMoveOver();
     }
 
     // Prevent player from moving over foreground tiles
@@ -156,6 +162,12 @@ public class Player : MonoBehaviour
         return true;
     }
 
+    private void OnMoveOver()
+    {
+        checkForEncounter();
+        CheckIfInTrainersView();
+    }
+
     private void checkForEncounter()
     {
         if (Physics2D.OverlapCircle(transform.position, 0.1f, Grass) != null)
@@ -166,5 +178,24 @@ public class Player : MonoBehaviour
                 onEncountered();
             }
         }
+    }
+
+    private void CheckIfInTrainersView()
+    {
+        var collider = Physics2D.OverlapCircle(transform.position, 0.2f, GameLayers.i.FovL);
+        if (collider != null)
+        {
+            animator.SetBool("isMoving", false);
+            OnEnterTrainersView?.Invoke(collider);
+        }
+    }
+    public string Name
+    {
+        get => name;
+    }
+
+    public Sprite Sprite
+    {
+        get => sprite;
     }
 }
