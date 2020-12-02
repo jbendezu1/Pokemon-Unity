@@ -1,0 +1,488 @@
+fileFormatVersion: 2
+guid: 558edcf8552738a4db94ab400bd185ba
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -77262917202025089
+    second: Sharpedo Ride_0
+  - first:
+      213: -2097793209173080468
+    second: Sharpedo Ride_1
+  - first:
+      213: -6371381951175821182
+    second: Sharpedo Ride_2
+  - first:
+      213: 4674332709373114312
+    second: Sharpedo Ride_3
+  - first:
+      213: -8738299399953406969
+    second: Sharpedo Ride_4
+  - first:
+      213: -7264979164580083581
+    second: Sharpedo Ride_5
+  - first:
+      213: -6502311132617949370
+    second: Sharpedo Ride_6
+  - first:
+      213: -7546139567709351941
+    second: Sharpedo Ride_7
+  - first:
+      213: 2007641892652942559
+    second: Sharpedo Ride_8
+  - first:
+      213: -5195034742031971515
+    second: Sharpedo Ride_9
+  - first:
+      213: -1066232979545908163
+    second: Sharpedo Ride_10
+  - first:
+      213: 2520089704463682008
+    second: Sharpedo Ride_11
+  - first:
+      213: -8022897759952751721
+    second: Sharpedo Ride_12
+  - first:
+      213: 209355079675818561
+    second: Sharpedo Ride_13
+  - first:
+      213: 4374353777462714344
+    second: Sharpedo Ride_14
+  - first:
+      213: -5320995689381502400
+    second: Sharpedo Ride_15
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 16
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Sharpedo Ride_0
+      rect:
+        serializedVersion: 2
+        x: 366
+        y: 187
+        width: 29
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f75ecd149c18deef0800000000000000
+      internalID: -77262917202025089
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sharpedo Ride_1
+      rect:
+        serializedVersion: 2
+        x: 401
+        y: 186
+        width: 29
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c66030bd03423e2e0800000000000000
+      internalID: -2097793209173080468
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sharpedo Ride_2
+      rect:
+        serializedVersion: 2
+        x: 433
+        y: 187
+        width: 29
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 28874d75fdd4497a0800000000000000
+      internalID: -6371381951175821182
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sharpedo Ride_3
+      rect:
+        serializedVersion: 2
+        x: 468
+        y: 186
+        width: 29
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c77c2065d09ed040800000000000000
+      internalID: 4674332709373114312
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sharpedo Ride_4
+      rect:
+        serializedVersion: 2
+        x: 368
+        y: 147
+        width: 26
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 704a4c44ef25bb680800000000000000
+      internalID: -8738299399953406969
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sharpedo Ride_5
+      rect:
+        serializedVersion: 2
+        x: 403
+        y: 147
+        width: 26
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 388079af0fb9d2b90800000000000000
+      internalID: -7264979164580083581
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sharpedo Ride_6
+      rect:
+        serializedVersion: 2
+        x: 434
+        y: 147
+        width: 26
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 64f3d31c97623c5a0800000000000000
+      internalID: -6502311132617949370
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sharpedo Ride_7
+      rect:
+        serializedVersion: 2
+        x: 469
+        y: 147
+        width: 26
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bff0a295b0ab64790800000000000000
+      internalID: -7546139567709351941
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sharpedo Ride_8
+      rect:
+        serializedVersion: 2
+        x: 368
+        y: 101
+        width: 26
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fd485c71aa39cdb10800000000000000
+      internalID: 2007641892652942559
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sharpedo Ride_9
+      rect:
+        serializedVersion: 2
+        x: 399
+        y: 101
+        width: 26
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 54b0f553d6787e7b0800000000000000
+      internalID: -5195034742031971515
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sharpedo Ride_10
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 101
+        width: 26
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d3c1c5611caf331f0800000000000000
+      internalID: -1066232979545908163
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sharpedo Ride_11
+      rect:
+        serializedVersion: 2
+        x: 463
+        y: 101
+        width: 26
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8d94da4fb3829f220800000000000000
+      internalID: 2520089704463682008
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sharpedo Ride_12
+      rect:
+        serializedVersion: 2
+        x: 364
+        y: 59
+        width: 29
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7933db49ef0f8a090800000000000000
+      internalID: -8022897759952751721
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sharpedo Ride_13
+      rect:
+        serializedVersion: 2
+        x: 397
+        y: 59
+        width: 29
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1423004f557c7e200800000000000000
+      internalID: 209355079675818561
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sharpedo Ride_14
+      rect:
+        serializedVersion: 2
+        x: 430
+        y: 59
+        width: 29
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8ef9d839593d4bc30800000000000000
+      internalID: 4374353777462714344
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sharpedo Ride_15
+      rect:
+        serializedVersion: 2
+        x: 462
+        y: 59
+        width: 29
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 042e703cc960826b0800000000000000
+      internalID: -5320995689381502400
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

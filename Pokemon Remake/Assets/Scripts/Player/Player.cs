@@ -21,8 +21,8 @@ public class Player : MonoBehaviour
     private GameObject fade;
     private Image fadeImage;
     private Animator fadeAnimator;
-    private GameObject menu;
-    private GameObject decisionBox;
+    public GameObject decisionBox;
+
     public VectorValue startingPosition;
 
     public event Action onEncountered;
@@ -31,7 +31,6 @@ public class Player : MonoBehaviour
     public LayerMask Ocean;
     public LayerMask Foreground;
     public LayerMask Grass;
-    public LayerMask Door;
     public LayerMask interactableLayer;
 
     private bool isMoving;
@@ -45,7 +44,7 @@ public class Player : MonoBehaviour
 
     private Inventory inventory;
     [SerializeField] private UI_Inventory uiInventory;
-
+    [SerializeField] Menu menu;
 
     private void Awake()
     {
@@ -54,8 +53,6 @@ public class Player : MonoBehaviour
         spriterenderer = GetComponent<SpriteRenderer>();
         myRigidBody = GetComponent<Rigidbody2D>();
         fade = GameObject.Find("Fade");
-        menu = GameObject.Find("Menu");
-        decisionBox = GameObject.Find("DecisionBox");
         //       inventory = new Inventory();
         //       uiInventory.SetInventory(inventory);
     }
@@ -70,11 +67,10 @@ public class Player : MonoBehaviour
     public void HandleUpdate()
     {
         // Restrict player movement when menu is on and during fades
-        if (fadeImage.IsActive() || menu.activeSelf || decisionBox.activeSelf)
+        if (fadeImage.IsActive())
             canMove = false;
-        else if (!fadeImage.IsActive() && !menu.activeSelf && !decisionBox.activeSelf)
+        else if (!fadeImage.IsActive())
             canMove = true;
-
 
         if (!isMoving)
         {
@@ -104,6 +100,9 @@ public class Player : MonoBehaviour
         if (Input.GetKeyDown(KeyCode.Z))
             Interact();
 
+        if (Input.GetKeyDown(KeyCode.M))
+            StartCoroutine(MenuManager.Instance.ShowMenu(menu));
+
         if (fadeAnimator.GetCurrentAnimatorStateInfo(0).IsName("Fade Out"))
             fadeAnimator.SetTrigger("FadeIn");
     }
@@ -113,7 +112,8 @@ public class Player : MonoBehaviour
         var facingDir = new Vector3(animator.GetFloat("MoveX"), animator.GetFloat("MoveY"));
         var interactPos = transform.position + facingDir;
 
-        Debug.DrawLine(transform.position, interactPos, Color.green, 0.3f);
+        //Debug.DrawLine(transform.position, interactPos, Color.green, 0.3f);
+
 
         var collider = Physics2D.OverlapCircle(interactPos, 0.3f, interactableLayer);
         if (collider != null)
@@ -147,7 +147,6 @@ public class Player : MonoBehaviour
     // Prevent player from moving over foreground tiles
     private bool isWalkable(Vector3 targetposition)
     {
-
         if (Physics2D.OverlapCircle(targetposition, 0.1f, Foreground | interactableLayer) != null)
         {
             return false;
@@ -159,6 +158,7 @@ public class Player : MonoBehaviour
             string spriteName = spriterenderer.sprite.name;
             return false;
         }
+
         return true;
     }
 

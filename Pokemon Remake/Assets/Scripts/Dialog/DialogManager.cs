@@ -15,7 +15,6 @@ public class DialogManager : MonoBehaviour
     public event Action OnShowDialog;
     public event Action OnCloseDialog;
 
-
     public static DialogManager Instance { get; private set; }
 
     private void Awake()

@@ -2,13 +2,14 @@
 using System.Collections.Generic;
 using UnityEngine;
 
-public enum GameState { FreeRoam, Battle, Dialog, Cutscene }
+public enum GameState { FreeRoam, Battle, Dialog, Cutscene, Menu}
 
 public class GameController : MonoBehaviour
 {
     [SerializeField] Player playerController;
     [SerializeField] BattleSystem battleSystem;
     [SerializeField] Camera worldCamera;
+    [SerializeField] Animator playerAnimation;
 
     GameState state;
 
@@ -37,11 +38,24 @@ public class GameController : MonoBehaviour
         DialogManager.Instance.OnShowDialog += () =>
         {
             state = GameState.Dialog;
+            playerAnimation.SetBool("isMoving", false);
         };
 
         DialogManager.Instance.OnCloseDialog += () =>
         {
             if (state == GameState.Dialog)
+                state = GameState.FreeRoam;
+        };
+
+        MenuManager.Instance.OnShowMenu += () =>
+        {
+            state = GameState.Menu;
+            playerAnimation.SetBool("isMoving", false);
+        };
+
+        MenuManager.Instance.OnCloseMenu += () =>
+        {
+            if (state == GameState.Menu)
                 state = GameState.FreeRoam;
         };
     }
@@ -81,7 +95,7 @@ public class GameController : MonoBehaviour
     }
 
     private void Update()
-    {
+    { 
         if (state == GameState.FreeRoam)
         {
             playerController.HandleUpdate();
@@ -93,6 +107,10 @@ public class GameController : MonoBehaviour
         else if (state == GameState.Dialog)
         {
             DialogManager.Instance.HandleUpdate();
+        }
+        else if (state == GameState.Menu)
+        {
+            MenuManager.Instance.HandleUpdate();
         }
     }
 }
