@@ -1,31 +1,31 @@
 fileFormatVersion: 2
-guid: ad24883e96cad6a4e85a3d54d1f361b7
+guid: 1d0426e3e823f0a4ba4536c15f099049
 TextureImporter:
   internalIDToNameTable:
   - first:
-      213: 8224137909075614599
-    second: Lapras_0
+      213: 8549191579830041811
+    second: Lapras Ride_0
   - first:
-      213: -6054979608646688707
-    second: Lapras_1
+      213: 976425626692724037
+    second: Lapras Ride_1
   - first:
-      213: -6958735981246679889
-    second: Lapras_2
+      213: 2480035333568314207
+    second: Lapras Ride_2
   - first:
-      213: 7537983341691084343
-    second: Lapras_3
+      213: 9028491469901361230
+    second: Lapras Ride_3
   - first:
-      213: 3992836237265349577
-    second: Lapras_4
+      213: 7444963019646007526
+    second: Lapras Ride_4
   - first:
-      213: -2681139972069786878
-    second: Lapras_5
+      213: 3610251189912695785
+    second: Lapras Ride_5
   - first:
-      213: 3935509087212272355
-    second: Lapras_6
+      213: 8424932649824335819
+    second: Lapras Ride_6
   - first:
-      213: -8065661370570185028
-    second: Lapras_7
+      213: 1512543477747570026
+    second: Lapras Ride_7
   externalObjects: {}
   serializedVersion: 11
   mipmaps:
@@ -111,11 +111,11 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: Lapras_0
+      name: Lapras Ride_0
       rect:
         serializedVersion: 2
-        x: 212
-        y: 186
+        x: 211
+        y: 184
         width: 25
         height: 25
       alignment: 0
@@ -125,60 +125,102 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 78b964edad1022270800000000000000
-      internalID: 8224137909075614599
+      spriteID: 3dcb7804274d4a670800000000000000
+      internalID: 8549191579830041811
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Lapras_1
+      name: Lapras Ride_1
+      rect:
+        serializedVersion: 2
+        x: 241
+        y: 185
+        width: 25
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 545ab942fe5fc8d00800000000000000
+      internalID: 976425626692724037
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lapras Ride_2
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 152
+        width: 26
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f5bb1cffefada6220800000000000000
+      internalID: 2480035333568314207
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lapras Ride_3
+      rect:
+        serializedVersion: 2
+        x: 244
+        y: 152
+        width: 26
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e407d192825ab4d70800000000000000
+      internalID: 9028491469901361230
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lapras Ride_4
+      rect:
+        serializedVersion: 2
+        x: 213
+        y: 117
+        width: 26
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6e87be7db62d15760800000000000000
+      internalID: 7444963019646007526
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lapras Ride_5
       rect:
         serializedVersion: 2
         x: 247
-        y: 186
-        width: 25
-        height: 25
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: d306168602468fba0800000000000000
-      internalID: -6054979608646688707
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Lapras_2
-      rect:
-        serializedVersion: 2
-        x: 211
-        y: 152
-        width: 25
-        height: 26
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: fa4ff087e7a9d6f90800000000000000
-      internalID: -6958735981246679889
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Lapras_3
-      rect:
-        serializedVersion: 2
-        x: 244
-        y: 152
+        y: 117
         width: 26
         height: 26
       alignment: 0
@@ -188,56 +230,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 73e1f4c49eb4c9860800000000000000
-      internalID: 7537983341691084343
+      spriteID: 9e37dac44503a1230800000000000000
+      internalID: 3610251189912695785
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Lapras_4
-      rect:
-        serializedVersion: 2
-        x: 211
-        y: 114
-        width: 25
-        height: 26
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 9cb22802767696730800000000000000
-      internalID: 3992836237265349577
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Lapras_5
-      rect:
-        serializedVersion: 2
-        x: 244
-        y: 114
-        width: 26
-        height: 26
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 20bfda3966daacad0800000000000000
-      internalID: -2681139972069786878
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Lapras_6
+      name: Lapras Ride_6
       rect:
         serializedVersion: 2
         x: 215
@@ -251,14 +251,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 3eafb91e9acbd9630800000000000000
-      internalID: 3935509087212272355
+      spriteID: bc7be599b9f5be470800000000000000
+      internalID: 8424932649824335819
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Lapras_7
+      name: Lapras Ride_7
       rect:
         serializedVersion: 2
         x: 242
@@ -272,8 +272,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: cb6e29897b3011090800000000000000
-      internalID: -8065661370570185028
+      spriteID: a655a7a7742adf410800000000000000
+      internalID: 1512543477747570026
       vertices: []
       indices: 
       edges: []
