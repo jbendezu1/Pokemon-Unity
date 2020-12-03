@@ -2,29 +2,32 @@
 using System.Collections.Generic;
 using UnityEngine;
 
-public class SurfDetection : MonoBehaviour
+public class SurfDetection : MonoBehaviour, Interactable
 {
-    private bool byShore;
-    public string incoming;
-    public int moveSpeed = 10;
-    public Vector3 targetPosition = Vector3.zero;
-    private string playerName;
-    public Decision playerDecision;
-    private Player myPlayer;
+    [SerializeField] GameObject decisionBox;
+    [SerializeField] Button firstButton;
+    [SerializeField] Decision decision;
+    [SerializeField] GameObject player;
+    Character character;
 
-    private void Start()
+    private void Awake()
     {
-        myPlayer = GameObject.Find("Player").GetComponent<Player>();
+        character = GetComponent<Character>();
     }
 
-    private void Update()
+    public void Interact(Transform initiator)
     {
-        if (byShore)
+        Dialog dialog = new Dialog();
+        string text = GetSurfablePokemon();
+        dialog.Lines.Add(text);
+        character.LookTowards(initiator.position);
+
+        foreach (string x in dialog.Lines)
         {
-            var playerPosition = myPlayer.transform.position;
-            playerName = myPlayer.GetComponent<SpriteRenderer>().sprite.name;
-            targetPosition = new Vector3(Mathf.Ceil(playerPosition.x) + 0.5f, Mathf.Floor(playerPosition.y) + 0.8f, Mathf.Ceil(playerPosition.z) + 0.5f);
-            var facingRightWay = AssignTargetPosition(playerName);
+            Debug.Log(x);
+        }
+
+        StartCoroutine(DialogManager.Instance.ShowDialog(dialog));
 
             if ( !playerDecision.decisionBox.activeSelf && Input.GetKeyDown(KeyCode.X) && facingRightWay)
             {
@@ -113,4 +116,6 @@ public class SurfDetection : MonoBehaviour
 
         transform.position = targetPosition;
     }
+
+
 }
