@@ -131,6 +131,19 @@ public enum PokemonType
     Steel,
     Fairy
 }
+public enum Stat
+{
+    Attack,
+    Defense,
+    SpAttack,
+    SpDefense,
+    Speed,
+
+    // These 2 are not actual stats, they're used to boost the moveAccuracy
+    Accuracy,
+    Evasion
+}
+
 
 public class TypeChart
 {
