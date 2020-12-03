@@ -27,6 +27,7 @@ public class SceneTransition : MonoBehaviour
 
     IEnumerator LoadLevel(Transform playerTransform)
     {
+        fade.SetTrigger("Start");
         // Store player's last position to get back to it
         playerStorage.initialValue = playerPosition;
         yield return new WaitForSeconds(0);

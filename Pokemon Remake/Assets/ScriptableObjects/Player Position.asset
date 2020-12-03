@@ -13,5 +13,3 @@ MonoBehaviour:
   m_Name: Player Position
   m_EditorClassIdentifier: 
   initialValue: {x: -5.5, y: 0.8}
-  badgeCount: 0
-  myPart: {fileID: 0}

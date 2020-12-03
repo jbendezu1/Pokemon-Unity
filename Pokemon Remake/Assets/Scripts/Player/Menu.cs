@@ -4,14 +4,50 @@ using UnityEngine.SceneManagement;
 using UnityEngine.UI;
 using UnityEngine;
 
-[System.Serializable]
-
 public class Menu : MonoBehaviour
 {
-    [SerializeField] List<string> buttons;
-
-    public List<string> Buttons
+    public GameObject menu;
+    public Button firstButton;
+    public GameObject trainer;
+    Player myPlayer;
+    // Start is called before the first frame update
+    void Start()
     {
-        get { return buttons; }
+        menu.SetActive(false);
+        myPlayer = trainer.GetComponent<Player>();
     }
+
+    // Update is called once per frame
+    void Update()
+    {
+        if (Input.GetKeyDown(KeyCode.M))
+        {
+            toggleMenu();
+            if (menu.activeSelf)
+                firstButton.Select();
+        }
+    }
+
+    void toggleMenu()
+    {
+        if (menu.activeSelf)
+        {
+            menu.SetActive(false);
+            myPlayer.canMove = true;
+        }
+        else
+        {
+            menu.SetActive(true);
+            myPlayer.canMove = false;
+        }
+
+    }
+
+    public void LoadMenu()
+    {
+        SceneManager.LoadScene("Menu");
+        DontDestroyOnLoad(trainer);
+    }
+
+
 }

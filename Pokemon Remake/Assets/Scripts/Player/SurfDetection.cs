@@ -1,77 +1,116 @@
 ﻿using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
-using UnityEngine.UI;
 
-public class SurfDetection : MonoBehaviour, InteractOcean
+public class SurfDetection : MonoBehaviour
 {
-    [SerializeField] GameObject decisionBox;
-    [SerializeField] Button firstButton;
-    [SerializeField] Decision decision;
-    [SerializeField] GameObject player;
-    Dialog dialog = new Dialog();
+    private bool byShore;
+    public string incoming;
+    public int moveSpeed = 10;
+    public Vector3 targetPosition = Vector3.zero;
+    private string playerName;
+    public Decision playerDecision;
+    private Player myPlayer;
 
-    public void Interact()
+    private void Start()
     {
-        string text = GetSurfablePokemon();
-        dialog.Lines.Add(text);
-
-        foreach(string x in dialog.Lines)
-        {
-            Debug.Log(x);
-        }
-        StartCoroutine(DialogManager.Instance.ShowDialog(dialog));
-
-        // Show decision box if player has surfable pokemon
-        if (!text.Equals("You cannot travel on water right now."))
-            ShowDecision();
+        myPlayer = GameObject.Find("Player").GetComponent<Player>();
     }
 
-    public string GetSurfablePokemon()
+    private void Update()
     {
-        List<Pokemon> party = player.GetComponent<PokemonParty>().Pokemons;
-        var surfPokemon = party.Find(x => x.Base.Name.Equals("Lapras"));
-        string text = (surfPokemon != null) ? $"Would you like to use " + surfPokemon.Base.Name + " to travel on water?" : "You cannot travel on water right now.";
-        return text;
+        if (byShore)
+        {
+            var playerPosition = myPlayer.transform.position;
+            playerName = myPlayer.GetComponent<SpriteRenderer>().sprite.name;
+            targetPosition = new Vector3(Mathf.Ceil(playerPosition.x) + 0.5f, Mathf.Floor(playerPosition.y) + 0.8f, Mathf.Ceil(playerPosition.z) + 0.5f);
+            var facingRightWay = AssignTargetPosition(playerName);
+
+            if ( !playerDecision.decisionBox.activeSelf && Input.GetKeyDown(KeyCode.X) && facingRightWay)
+            {
+                Debug.Log(targetPosition);
+                if(targetPosition != Vector3.zero)
+                {
+                    playerDecision.decisionBox.SetActive(true);
+                    playerDecision.firstButton.Select();
+                }
+            }
+
+            if (playerDecision.decision == "yes")
+            {
+                Debug.Log("Deided yes and player will be at position: " + targetPosition);
+                StartCoroutine(MovePlayer(targetPosition));
+                playerDecision.decision = null;
+                playerDecision.decisionBox.SetActive(false);
+            }
+            else if (playerDecision.decision == "no")
+            {
+                playerDecision.decision = null;
+                playerDecision.decisionBox.SetActive(false);
+            }
+        }
     }
 
-    public void ShowDecision()
+    // Check whether player is coming towards the ocean and sprite is facing towards the ocean
+    // If true, then set target position to be in the water
+
+    public void OnTriggerEnter2D(Collider2D other)
     {
-        decisionBox.SetActive(true);
-        firstButton.Select();
+        if (other.CompareTag("Player"))
+        {
+            byShore = true;
+        }
     }
 
-    public void Update()
+    public void OnTriggerExit2D(Collider2D collision)
     {
-        if (decision.decision == "yes")
+        if (collision.CompareTag("Player"))
         {
-            var x = player.GetComponent<Animator>().GetFloat("MoveX") * 2;
-            var y = player.GetComponent<Animator>().GetFloat("MoveY") * 2;
-            Vector3 destination = new Vector3(player.transform.position.x + x, player.transform.position.y + y, player.transform.position.z);
-            decision.decision = null;
-            StartCoroutine(MovePlayer(destination));
+            byShore = false;
+            Debug.Log("We exited");
         }
+    }
 
-        if (decision.decision == "no")
-        {
-            Debug.Log("Player chose noooo");
-            decision.decision = null;
-            decisionBox.SetActive(false);
-        }
+    bool AssignTargetPosition(string playerName)
+    {
+        if (incoming == "west")
+            if (playerName.Contains("right"))
+            {
+                targetPosition.x += 1;
+                return true;
+            }
+
+        if (incoming == "east")
+            if (playerName.Contains("left"))
+            {
+                targetPosition.x -= 1;
+                return true;
+            }
+
+        if (incoming == "south")
+            if (playerName.Contains("back"))
+            {
+                targetPosition.y += 1;
+                return true;
+            }
+
+        if (incoming == "north")
+            if (playerName.Contains("front"))
+            {
+                targetPosition.y -= 1;
+                return true;
+            }
+        return false;
     }
 
     public IEnumerator MovePlayer(Vector3 targetPosition)
     {
-        this.gameObject.layer = LayerMask.NameToLayer("Default");
-        while ((targetPosition - player.transform.position).sqrMagnitude > Mathf.Epsilon)
+        while ((targetPosition - transform.position).sqrMagnitude > Mathf.Epsilon)
         {
-            player.transform.position = Vector3.MoveTowards(player.transform.position, targetPosition, 10 * Time.deltaTime);
+            transform.position = Vector3.MoveTowards(transform.position, targetPosition, moveSpeed * Time.deltaTime);
             yield return null;
         }
-        this.gameObject.layer = LayerMask.NameToLayer("Interactable");
-        player.transform.position = targetPosition;
-        var riding = player.GetComponent<Animator>().GetBool("isSurfing");
-        player.GetComponent<Animator>().SetBool("isSurfing", !riding);
-        decisionBox.SetActive(false);
+
+        transform.position = targetPosition;
     }
 }

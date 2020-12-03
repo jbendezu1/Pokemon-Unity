@@ -2,7 +2,6 @@
 using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
-using UnityEngine.UI;
 
 public enum BattleState { Start, ActionSelection, MoveSelection, RunningTurn, Busy, PartyScreen, BattleOver}
 public enum BattleAction { Move, SwitchPokemon, UseItem, Run }
@@ -13,8 +12,6 @@ public class BattleSystem : MonoBehaviour
     [SerializeField] BattleUnit enemyUnit;
     [SerializeField] BattleDialogBox dialogBox;
     [SerializeField] PartyScreen partyScreen;
-    [SerializeField] Image playerImage;
-    [SerializeField] Image trainerImage;
 
     public event Action<bool> OnBattleOver;
 
@@ -26,74 +23,28 @@ public class BattleSystem : MonoBehaviour
     int escapeAttempts = 0;
 
     PokemonParty playerParty;
-    PokemonParty trainerParty;
     Pokemon wildPokemon;
-
-    bool isTrainerBattle = false;
-    Player player;
-    TrainerController trainer;
-
     public void StartBattle(PokemonParty playerParty, Pokemon wildPokemon)
     {
         this.wildPokemon = wildPokemon;
         this.playerParty = playerParty;
         StartCoroutine(SetupBattle());
     }
-
-    public void StartTrainerBattle(PokemonParty playerParty, PokemonParty trainerParty)
-    {
-        this.trainerParty = trainerParty;
-        this.playerParty = playerParty;
-
-        isTrainerBattle = true;
-        player = playerParty.GetComponent<Player>();
-        trainer = trainerParty.GetComponent<TrainerController>();
-        StartCoroutine(SetupBattle());
-    }
-
     public IEnumerator SetupBattle()
     {
-        if (!isTrainerBattle)
-        {
-            playerUnit.Setup(playerParty.GetHealthyPokemon());
-            enemyUnit.Setup(wildPokemon);
-            dialogBox.SetMoveNames(playerUnit.pokemon.Moves);
-
-            yield return (dialogBox.TypeDialog($"A wild {enemyUnit.pokemon.Base.Name} appeared."));
-        }
-
-        else
-        {
-            playerUnit.gameObject.SetActive(false);
-            enemyUnit.gameObject.SetActive(false);
-
-            playerImage.gameObject.SetActive(true);
-            trainerImage.gameObject.SetActive(true);
-            playerImage.sprite = player.Sprite;
-            trainerImage.sprite = trainer.Sprite;
-
-            yield return (dialogBox.TypeDialog($"{trainer.Name} wants to battle."));
-            
-            trainerImage.gameObject.SetActive(false);
-            enemyUnit.gameObject.SetActive(true);
-            var enemyPokemon = trainerParty.GetHealthyPokemon();
-            enemyUnit.Setup(enemyPokemon);
-            yield return (dialogBox.TypeDialog($"{trainer.Name} send out {enemyPokemon.Base.Name}"));
-
-            playerImage.gameObject.SetActive(false);
-            playerUnit.gameObject.SetActive(true);
-            var playerPokemon = playerParty.GetHealthyPokemon();
-            playerUnit.Setup(playerPokemon);
-            yield return (dialogBox.TypeDialog($"Go {playerPokemon.Base.Name}"));
-            dialogBox.SetMoveNames(playerUnit.pokemon.Moves);
-
-        }
+        playerUnit.Setup(playerParty.GetHealthyPokemon());
+        enemyUnit.Setup(wildPokemon);
 
         partyScreen.Init();
-        PlayerAction();
-    }
 
-    void BattleOver(bool won)
+        dialogBox.SetMoveNames(playerUnit.pokemon.Moves);
+																							 
+        yield return (dialogBox.TypeDialog($"A wild {enemyUnit.pokemon.Base.Name} appeared."));
+        
+		PlayerAction();
+    }
+	
+	void BattleOver(bool won)
     {
         state = BattleState.BattleOver;
         playerParty.Pokemons.ForEach(p => p.OnBattleOver());
@@ -345,33 +296,6 @@ public class BattleSystem : MonoBehaviour
             BattleOver(true);
     }
 
-   /* void CheckForBattleOver(BattleUnit faintedUnit)
-    {
-        if (faintedUnit.isPlayerUnit)
-        {
-            var nextPokemon = playerParty.GetHealthyPokemon();
-            if (nextPokemon != null)
-                OpenPartyScreen();
-            else
-                onBattleOver(false);
-        }
-        else
-            if (!isTrainerBattle)
-        {
-            onBattleOver(true);
-        }
-        else
-        {
-            var nextPokemon = trainerParty.GetHealthyPokemon();
-            if (nextPokemon != null)
-            {
-                StartCoroutine(SendNextTrainerPokemon(nextPokemon));
-            }
-            else
-                onBattleOver(true);
-        }
-    }*/
-
     IEnumerator ShowDamageDetails(DamageDetails damageDetails)
     {
         if (damageDetails.Critical > 1f)
@@ -566,16 +490,5 @@ public class BattleSystem : MonoBehaviour
         yield return dialogBox.TypeDialog($"Go {newPokemon.Base.Name}!");
 
         state = BattleState.RunningTurn;
-    }
-
-    IEnumerator SendNextTrainerPokemon(Pokemon nextPokemon)
-    {
-        state = BattleState.Busy;
-
-        enemyUnit.Setup(nextPokemon);
-        yield return dialogBox.TypeDialog($"{trainer.Name} send out {nextPokemon.Base.Name}!");
-
-        //state = BattleState.RunningTurn;
-
     }
 }

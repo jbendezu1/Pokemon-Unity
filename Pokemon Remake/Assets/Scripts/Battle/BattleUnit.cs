@@ -41,11 +41,6 @@ public class BattleUnit : MonoBehaviour
         PlayEnterAnimation();
     }
 
-    public void Clear()
-    {
-        //hud.gameObject.SetActive(false);
-    }
-
     public void PlayEnterAnimation()
     {
         if (isPlayerUnit)

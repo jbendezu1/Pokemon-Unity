@@ -8,6 +8,8 @@ public class DoorTransition : MonoBehaviour
     public float waitTime;
     public Vector2 destination;
     private Animator animator;
+    private GameObject fadeObject;
+    private Image fadeImage;
     private Animator fade;
     Player myPlayer;
 
@@ -15,7 +17,13 @@ public class DoorTransition : MonoBehaviour
     {
         animator = GameObject.Find("Player").GetComponent<Animator>();
         myPlayer = GameObject.Find("Player").GetComponent<Player>();
-        fade = GameObject.Find("Fade").GetComponent<Animator>();
+        fadeObject = GameObject.Find("Fade");
+    }
+
+    private void Start()
+    {
+        fade = fadeObject.GetComponent<Animator>();
+        fadeImage = fadeObject.GetComponent<Image>();
     }
 
     public void OnTriggerEnter2D(Collider2D other)

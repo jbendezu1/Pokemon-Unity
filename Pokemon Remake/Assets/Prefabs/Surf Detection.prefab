@@ -12,7 +12,7 @@ GameObject:
   - component: {fileID: 1521614813408827477}
   - component: {fileID: 1521614813408827474}
   - component: {fileID: 1521614813408827476}
-  m_Layer: 14
+  m_Layer: 0
   m_Name: Surf Detection
   m_TagString: Untagged
   m_Icon: {fileID: 0}
