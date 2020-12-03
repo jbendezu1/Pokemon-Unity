@@ -1,0 +1,422 @@
+fileFormatVersion: 2
+guid: 5783787f5151e524fbc212bb7a3cc49c
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -4700608406153596541
+    second: Game Boy Advance - Pokemon FireRed LeafGreen - Trainers_0
+  - first:
+      213: -2157561688526581476
+    second: Game Boy Advance - Pokemon FireRed LeafGreen - Trainers_0
+  - first:
+      213: -2453699177786356488
+    second: Game Boy Advance - Pokemon FireRed LeafGreen - Trainers_1
+  - first:
+      213: 1550225800116140526
+    second: Game Boy Advance - Pokemon FireRed LeafGreen - Trainers_2
+  - first:
+      213: -8857449248059848646
+    second: Game Boy Advance - Pokemon FireRed LeafGreen - Trainers_3
+  - first:
+      213: -183736527195040436
+    second: Game Boy Advance - Pokemon FireRed LeafGreen - Trainers_4
+  - first:
+      213: -909694808642940416
+    second: Game Boy Advance - Pokemon FireRed LeafGreen - Trainers_5
+  - first:
+      213: 4097097539612521934
+    second: Game Boy Advance - Pokemon FireRed LeafGreen - Trainers_6
+  - first:
+      213: -609079919493782032
+    second: Game Boy Advance - Pokemon FireRed LeafGreen - Trainers_7
+  - first:
+      213: -4196913261513381855
+    second: Game Boy Advance - Pokemon FireRed LeafGreen - Trainers_8
+  - first:
+      213: 3705735496550272949
+    second: Game Boy Advance - Pokemon FireRed LeafGreen - Trainers_9
+  - first:
+      213: -6314167651511751763
+    second: Game Boy Advance - Pokemon FireRed LeafGreen - Trainers_10
+  - first:
+      213: 252315835570233404
+    second: Game Boy Advance - Pokemon FireRed LeafGreen - Trainers_11
+  - first:
+      213: -2248304970234748565
+    second: Game Boy Advance - Pokemon FireRed LeafGreen - Trainers_12
+  - first:
+      213: -8064094873431826395
+    second: Game Boy Advance - Pokemon FireRed LeafGreen - Trainers_13
+  - first:
+      213: -5770119522294949406
+    second: Game Boy Advance - Pokemon FireRed LeafGreen - Trainers_14
+  - first:
+      213: 6821133334333504420
+    second: Game Boy Advance - Pokemon FireRed LeafGreen - Trainers_15
+  - first:
+      213: 3570307950893917430
+    second: Game Boy Advance - Pokemon FireRed LeafGreen - Trainers_16
+  - first:
+      213: 4194841911394677804
+    second: Game Boy Advance - Pokemon FireRed LeafGreen - Trainers_17
+  - first:
+      213: -291667320085378527
+    second: Game Boy Advance - Pokemon FireRed LeafGreen - Trainers_18
+  - first:
+      213: -4847839523583668575
+    second: Game Boy Advance - Pokemon FireRed LeafGreen - Trainers_19
+  - first:
+      213: 3861518641219399545
+    second: Game Boy Advance - Pokemon FireRed LeafGreen - Trainers_20
+  - first:
+      213: -6356778207418728623
+    second: Game Boy Advance - Pokemon FireRed LeafGreen - Trainers_21
+  - first:
+      213: -6920115057346266106
+    second: Game Boy Advance - Pokemon FireRed LeafGreen - Trainers_22
+  - first:
+      213: 7362887186981146804
+    second: Game Boy Advance - Pokemon FireRed LeafGreen - Trainers_23
+  - first:
+      213: -8545258959302647192
+    second: Game Boy Advance - Pokemon FireRed LeafGreen - Trainers_24
+  - first:
+      213: 169084176798034328
+    second: Game Boy Advance - Pokemon FireRed LeafGreen - Trainers_25
+  - first:
+      213: 5548222149823061031
+    second: Game Boy Advance - Pokemon FireRed LeafGreen - Trainers_26
+  - first:
+      213: 4136756003300004167
+    second: Game Boy Advance - Pokemon FireRed LeafGreen - Trainers_27
+  - first:
+      213: -8929472685422172311
+    second: Game Boy Advance - Pokemon FireRed LeafGreen - Trainers_28
+  - first:
+      213: -4141167411743189974
+    second: Game Boy Advance - Pokemon FireRed LeafGreen - Trainers_29
+  - first:
+      213: -3299548838971582125
+    second: Game Boy Advance - Pokemon FireRed LeafGreen - Trainers_30
+  - first:
+      213: -4057594030067347852
+    second: Game Boy Advance - Pokemon FireRed LeafGreen - Trainers_31
+  - first:
+      213: 6155159739353359154
+    second: Game Boy Advance - Pokemon FireRed LeafGreen - Trainers_32
+  - first:
+      213: 4048680338766304140
+    second: Game Boy Advance - Pokemon FireRed LeafGreen - Trainers_33
+  - first:
+      213: 4704917370241790196
+    second: Game Boy Advance - Pokemon FireRed LeafGreen - Trainers_34
+  - first:
+      213: 8420706939845614988
+    second: Game Boy Advance - Pokemon FireRed LeafGreen - Trainers_35
+  - first:
+      213: 7481835152961189010
+    second: Game Boy Advance - Pokemon FireRed LeafGreen - Trainers_36
+  - first:
+      213: 2384038877751511386
+    second: Game Boy Advance - Pokemon FireRed LeafGreen - Trainers_37
+  - first:
+      213: 7492477476952476227
+    second: Game Boy Advance - Pokemon FireRed LeafGreen - Trainers_38
+  - first:
+      213: 7999121903545353156
+    second: Game Boy Advance - Pokemon FireRed LeafGreen - Trainers_39
+  - first:
+      213: -5254677957108294255
+    second: Game Boy Advance - Pokemon FireRed LeafGreen - Trainers_40
+  - first:
+      213: 3197365522151639197
+    second: Game Boy Advance - Pokemon FireRed LeafGreen - Trainers_41
+  - first:
+      213: 462529572401034918
+    second: Game Boy Advance - Pokemon FireRed LeafGreen - Trainers_42
+  - first:
+      213: 7187914066584386985
+    second: Game Boy Advance - Pokemon FireRed LeafGreen - Trainers_43
+  - first:
+      213: 6835161401718553066
+    second: Game Boy Advance - Pokemon FireRed LeafGreen - Trainers_44
+  - first:
+      213: -9190655144629906591
+    second: Game Boy Advance - Pokemon FireRed LeafGreen - Trainers_45
+  - first:
+      213: -6361014432084052728
+    second: Game Boy Advance - Pokemon FireRed LeafGreen - Trainers_46
+  - first:
+      213: -2579296871944115834
+    second: Game Boy Advance - Pokemon FireRed LeafGreen - Trainers_47
+  - first:
+      213: -6027601094113756757
+    second: Game Boy Advance - Pokemon FireRed LeafGreen - Trainers_48
+  - first:
+      213: 6591595589229587321
+    second: Game Boy Advance - Pokemon FireRed LeafGreen - Trainers_49
+  - first:
+      213: -1695541701330215524
+    second: Game Boy Advance - Pokemon FireRed LeafGreen - Trainers_50
+  - first:
+      213: -4456507808709338550
+    second: Game Boy Advance - Pokemon FireRed LeafGreen - Trainers_51
+  - first:
+      213: -9138151552729107665
+    second: Game Boy Advance - Pokemon FireRed LeafGreen - Trainers_52
+  - first:
+      213: 5587140806261392742
+    second: Game Boy Advance - Pokemon FireRed LeafGreen - Trainers_53
+  - first:
+      213: 5418518683226839427
+    second: Game Boy Advance - Pokemon FireRed LeafGreen - Trainers_54
+  - first:
+      213: -2873814130641340849
+    second: Game Boy Advance - Pokemon FireRed LeafGreen - Trainers_55
+  - first:
+      213: -6086908369100887538
+    second: Game Boy Advance - Pokemon FireRed LeafGreen - Trainers_56
+  - first:
+      213: 8880297883950513148
+    second: Game Boy Advance - Pokemon FireRed LeafGreen - Trainers_57
+  - first:
+      213: -1166280472275916005
+    second: Game Boy Advance - Pokemon FireRed LeafGreen - Trainers_58
+  - first:
+      213: -6291556058297103973
+    second: Game Boy Advance - Pokemon FireRed LeafGreen - Trainers_59
+  - first:
+      213: 1437364891354706276
+    second: Game Boy Advance - Pokemon FireRed LeafGreen - Trainers_60
+  - first:
+      213: 8210106999817737475
+    second: Game Boy Advance - Pokemon FireRed LeafGreen - Trainers_61
+  - first:
+      213: -4893214673894902674
+    second: Game Boy Advance - Pokemon FireRed LeafGreen - Trainers_62
+  - first:
+      213: 3051880320073801166
+    second: Game Boy Advance - Pokemon FireRed LeafGreen - Trainers_63
+  - first:
+      213: -7010985955571409221
+    second: Game Boy Advance - Pokemon FireRed LeafGreen - Trainers_64
+  - first:
+      213: 1959436367079354729
+    second: Game Boy Advance - Pokemon FireRed LeafGreen - Trainers_65
+  - first:
+      213: 457106151877658547
+    second: Game Boy Advance - Pokemon FireRed LeafGreen - Trainers_66
+  - first:
+      213: 900169046335902354
+    second: Game Boy Advance - Pokemon FireRed LeafGreen - Trainers_67
+  - first:
+      213: 4596832685224068449
+    second: Game Boy Advance - Pokemon FireRed LeafGreen - Trainers_68
+  - first:
+      213: 5690396074429295933
+    second: Game Boy Advance - Pokemon FireRed LeafGreen - Trainers_69
+  - first:
+      213: -8530378674638311112
+    second: Game Boy Advance - Pokemon FireRed LeafGreen - Trainers_70
+  - first:
+      213: -4033794403742488540
+    second: Game Boy Advance - Pokemon FireRed LeafGreen - Trainers_71
+  - first:
+      213: 913558941456047911
+    second: Game Boy Advance - Pokemon FireRed LeafGreen - Trainers_72
+  - first:
+      213: 4936613884079043554
+    second: Game Boy Advance - Pokemon FireRed LeafGreen - Trainers_73
+  - first:
+      213: 8044825598576989874
+    second: Game Boy Advance - Pokemon FireRed LeafGreen - Trainers_74
+  - first:
+      213: 426263263016921378
+    second: Game Boy Advance - Pokemon FireRed LeafGreen - Trainers_75
+  - first:
+      213: 5128909843673167858
+    second: Game Boy Advance - Pokemon FireRed LeafGreen - Trainers_76
+  - first:
+      213: 7427408797537979384
+    second: Game Boy Advance - Pokemon FireRed LeafGreen - Trainers_77
+  - first:
+      213: 3340983616142719453
+    second: Game Boy Advance - Pokemon FireRed LeafGreen - Trainers_78
+  - first:
+      213: -2447877869790418492
+    second: Game Boy Advance - Pokemon FireRed LeafGreen - Trainers_79
+  - first:
+      213: 4745128368563833631
+    second: Game Boy Advance - Pokemon FireRed LeafGreen - Trainers_80
+  - first:
+      213: 8098682388979367354
+    second: Game Boy Advance - Pokemon FireRed LeafGreen - Trainers_81
+  - first:
+      213: -4910505267668224884
+    second: Game Boy Advance - Pokemon FireRed LeafGreen - Trainers_82
+  - first:
+      213: 8891581164821600724
+    second: Game Boy Advance - Pokemon FireRed LeafGreen - Trainers_83
+  - first:
+      213: 2406232999177228576
+    second: Game Boy Advance - Pokemon FireRed LeafGreen - Trainers_84
+  - first:
+      213: 2125797657114867
+    second: Game Boy Advance - Pokemon FireRed LeafGreen - Trainers_85
+  - first:
+      213: -7150564154856760055
+    second: Game Boy Advance - Pokemon FireRed LeafGreen - Trainers_86
+  - first:
+      213: -699387062579744326
+    second: Game Boy Advance - Pokemon FireRed LeafGreen - Trainers_87
+  - first:
+      213: 1894635120989323129
+    second: Game Boy Advance - Pokemon FireRed LeafGreen - Trainers_88
+  - first:
+      213: -493916336742756377
+    second: Game Boy Advance - Pokemon FireRed LeafGreen - Trainers_89
+  - first:
+      213: -6931686866929200641
+    second: Game Boy Advance - Pokemon FireRed LeafGreen - Trainers_90
+  - first:
+      213: -2036523015967998246
+    second: Game Boy Advance - Pokemon FireRed LeafGreen - Trainers_91
+  - first:
+      213: 6860617609871914755
+    second: Game Boy Advance - Pokemon FireRed LeafGreen - Trainers_92
+  - first:
+      213: -8063769205841377045
+    second: Game Boy Advance - Pokemon FireRed LeafGreen - Trainers_93
+  - first:
+      213: 6563776524180772482
+    second: Game Boy Advance - Pokemon FireRed LeafGreen - Trainers_94
+  - first:
+      213: 1518306320166651194
+    second: Game Boy Advance - Pokemon FireRed LeafGreen - Trainers_95
+  - first:
+      213: -1279837076349086430
+    second: Game Boy Advance - Pokemon FireRed LeafGreen - Trainers_96
+  - first:
+      213: 2203294393706474557
+    second: Game Boy Advance - Pokemon FireRed LeafGreen - Trainers_97
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Game Boy Advance - Pokemon FireRed LeafGreen - Trainers_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 463
+        height: 911
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 381fffa3f8514ceb0800000000000000
+      internalID: -4700608406153596541
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
