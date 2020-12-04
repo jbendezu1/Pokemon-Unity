@@ -7,11 +7,18 @@ using DG.Tweening;
 public class BattleUnit : MonoBehaviour
 {
     [SerializeField] bool isPlayerUnit;
-
+	[SerializeField] BattleHud hud;	
     public Player badges;
+	public bool IsPlayerUnit {
+        get { return isPlayerUnit; }
+    }
+
+    public BattleHud Hud {
+        get { return hud;  }
+    }								
 
     public Pokemon pokemon { get; set; }
-    public int level;
+
     Image image;
     Vector3 originalPos;
     Color originalColor;
@@ -29,8 +36,7 @@ public class BattleUnit : MonoBehaviour
         else
             image.sprite = pokemon.Base.FrontSprite;
 
-        //hud.gameObject.SetActive(true);
-
+		hud.SetData(pokemon);
         image.color = originalColor;
         PlayEnterAnimation();
     }
