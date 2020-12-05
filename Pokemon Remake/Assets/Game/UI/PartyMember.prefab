@@ -338,3 +338,4 @@ MonoBehaviour:
   nameText: {fileID: 1689447499769315223}
   levelText: {fileID: 7867278719964262967}
   hpBar: {fileID: 3569476271754797278}
+  highlightedColor: {r: 0, g: 0.8595505, b: 1, a: 0.9843137}

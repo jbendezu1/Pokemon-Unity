@@ -8,6 +8,10 @@ public class Pokemon
 {
     [SerializeField] PokemonBase _base;
     [SerializeField] int level;
+
+    BattleUnit unit;
+    Player badges;
+
     public PokemonBase Base {
         get
         {

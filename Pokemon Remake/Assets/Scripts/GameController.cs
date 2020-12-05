@@ -23,7 +23,7 @@ public class GameController : MonoBehaviour
     private void Start()
     {
         playerController.onEncountered += StartBattle;
-        battleSystem.onBattleOver += EndBattle;
+        battleSystem.OnBattleOver += EndBattle;
 
         playerController.OnEnterTrainersView += (Collider2D trainerCollider) =>
         {

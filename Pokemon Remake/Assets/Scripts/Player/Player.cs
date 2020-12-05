@@ -33,6 +33,8 @@ public class Player : MonoBehaviour
     public LayerMask Grass;
     public LayerMask interactableLayer;
 
+    public int badges = 0;
+
     private bool isMoving;
     private bool onMilotic;
     private Vector3 input;

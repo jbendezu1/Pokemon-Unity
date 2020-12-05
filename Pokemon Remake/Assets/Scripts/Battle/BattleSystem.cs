@@ -385,19 +385,19 @@ public class BattleSystem : MonoBehaviour
 
     public void HandleUpdate()
     {
-        if(state == BattleState.ActionSelection)
+        if (state == BattleState.ActionSelection)
         {
             HandleActionSelection();
         }
-        else if(state == BattleState.MoveSelection)
+        else if (state == BattleState.MoveSelection)
         {
             HandleMoveSelection();
         }
-		else if (state == BattleState.PartyScreen)
+        else if (state == BattleState.PartyScreen)
         {
             HandlePartySelection();
         }
-    }
+}
 
     void HandleActionSelection()
     {
