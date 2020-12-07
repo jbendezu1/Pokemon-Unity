@@ -852,6 +852,7 @@ MonoBehaviour:
   BG: {fileID: 886484509}
   BG2: {fileID: 343925661}
   BG3: {fileID: 658486372}
+  BG0: {fileID: 536927503}
   dialogText: {fileID: 1427281243}
   lettersPerSecond: 25
 --- !u!1 &1698323400
