@@ -8213,13 +8213,17 @@ TextureImporter:
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 8, y: 8, z: 0, w: 0}
+<<<<<<< Updated upstream
       outline:
       - - {x: 0, y: 8}
         - {x: 0, y: 0}
         - {x: 8, y: 0}
         - {x: 8, y: 8}
+=======
+      outline: []
+>>>>>>> Stashed changes
       physicsShape: []
-      tessellationDetail: 0
+      tessellationDetail: -1
       bones: []
       spriteID: 4e6f52a6317219f70800000000000000
       internalID: 9192171278778627812
@@ -8227,6 +8231,7 @@ TextureImporter:
       indices: 
       edges: []
       weights: []
+<<<<<<< Updated upstream
     - serializedVersion: 2
       name: Game Boy Advance - Pokemon FireRed LeafGreen - Tileset 1_30
       rect:
@@ -9404,10 +9409,12 @@ TextureImporter:
       indices: 
       edges: []
       weights: []
+=======
+>>>>>>> Stashed changes
     outline: []
     physicsShape: []
     bones: []
-    spriteID: 5e97eb03825dee720800000000000000
+    spriteID: 
     internalID: 0
     vertices: []
     indices: 
