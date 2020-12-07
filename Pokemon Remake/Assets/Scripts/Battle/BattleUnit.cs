@@ -43,7 +43,7 @@ public class BattleUnit : MonoBehaviour
 
     public void Clear()
     {
-        //hud.gameObject.SetActive(false);
+       hud.gameObject.SetActive(false);
     }
 
     public void PlayEnterAnimation()

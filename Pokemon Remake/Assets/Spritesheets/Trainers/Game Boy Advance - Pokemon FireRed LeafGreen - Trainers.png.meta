@@ -6,9 +6,6 @@ TextureImporter:
       213: -4700608406153596541
     second: Game Boy Advance - Pokemon FireRed LeafGreen - Trainers_0
   - first:
-      213: -2157561688526581476
-    second: Game Boy Advance - Pokemon FireRed LeafGreen - Trainers_0
-  - first:
       213: -2453699177786356488
     second: Game Boy Advance - Pokemon FireRed LeafGreen - Trainers_1
   - first:
@@ -227,78 +224,6 @@ TextureImporter:
   - first:
       213: 4936613884079043554
     second: Game Boy Advance - Pokemon FireRed LeafGreen - Trainers_73
-  - first:
-      213: 8044825598576989874
-    second: Game Boy Advance - Pokemon FireRed LeafGreen - Trainers_74
-  - first:
-      213: 426263263016921378
-    second: Game Boy Advance - Pokemon FireRed LeafGreen - Trainers_75
-  - first:
-      213: 5128909843673167858
-    second: Game Boy Advance - Pokemon FireRed LeafGreen - Trainers_76
-  - first:
-      213: 7427408797537979384
-    second: Game Boy Advance - Pokemon FireRed LeafGreen - Trainers_77
-  - first:
-      213: 3340983616142719453
-    second: Game Boy Advance - Pokemon FireRed LeafGreen - Trainers_78
-  - first:
-      213: -2447877869790418492
-    second: Game Boy Advance - Pokemon FireRed LeafGreen - Trainers_79
-  - first:
-      213: 4745128368563833631
-    second: Game Boy Advance - Pokemon FireRed LeafGreen - Trainers_80
-  - first:
-      213: 8098682388979367354
-    second: Game Boy Advance - Pokemon FireRed LeafGreen - Trainers_81
-  - first:
-      213: -4910505267668224884
-    second: Game Boy Advance - Pokemon FireRed LeafGreen - Trainers_82
-  - first:
-      213: 8891581164821600724
-    second: Game Boy Advance - Pokemon FireRed LeafGreen - Trainers_83
-  - first:
-      213: 2406232999177228576
-    second: Game Boy Advance - Pokemon FireRed LeafGreen - Trainers_84
-  - first:
-      213: 2125797657114867
-    second: Game Boy Advance - Pokemon FireRed LeafGreen - Trainers_85
-  - first:
-      213: -7150564154856760055
-    second: Game Boy Advance - Pokemon FireRed LeafGreen - Trainers_86
-  - first:
-      213: -699387062579744326
-    second: Game Boy Advance - Pokemon FireRed LeafGreen - Trainers_87
-  - first:
-      213: 1894635120989323129
-    second: Game Boy Advance - Pokemon FireRed LeafGreen - Trainers_88
-  - first:
-      213: -493916336742756377
-    second: Game Boy Advance - Pokemon FireRed LeafGreen - Trainers_89
-  - first:
-      213: -6931686866929200641
-    second: Game Boy Advance - Pokemon FireRed LeafGreen - Trainers_90
-  - first:
-      213: -2036523015967998246
-    second: Game Boy Advance - Pokemon FireRed LeafGreen - Trainers_91
-  - first:
-      213: 6860617609871914755
-    second: Game Boy Advance - Pokemon FireRed LeafGreen - Trainers_92
-  - first:
-      213: -8063769205841377045
-    second: Game Boy Advance - Pokemon FireRed LeafGreen - Trainers_93
-  - first:
-      213: 6563776524180772482
-    second: Game Boy Advance - Pokemon FireRed LeafGreen - Trainers_94
-  - first:
-      213: 1518306320166651194
-    second: Game Boy Advance - Pokemon FireRed LeafGreen - Trainers_95
-  - first:
-      213: -1279837076349086430
-    second: Game Boy Advance - Pokemon FireRed LeafGreen - Trainers_96
-  - first:
-      213: 2203294393706474557
-    second: Game Boy Advance - Pokemon FireRed LeafGreen - Trainers_97
   externalObjects: {}
   serializedVersion: 11
   mipmaps:
@@ -342,12 +267,12 @@ TextureImporter:
   spriteMeshType: 1
   alignment: 0
   spritePivot: {x: 0.5, y: 0.5}
-  spritePixelsToUnits: 100
+  spritePixelsToUnits: 16
   spriteBorder: {x: 0, y: 0, z: 0, w: 0}
   spriteGenerateFallbackPhysicsShape: 1
   alphaUsage: 1
   alphaIsTransparency: 1
-  spriteTessellationDetail: -1
+  spriteTessellationDetail: 0
   textureType: 8
   textureShape: 1
   singleChannelComponent: 0
@@ -361,7 +286,7 @@ TextureImporter:
     maxTextureSize: 2048
     resizeAlgorithm: 0
     textureFormat: -1
-    textureCompression: 0
+    textureCompression: 1
     compressionQuality: 50
     crunchedCompression: 0
     allowsAlphaSplitting: 0
@@ -373,7 +298,7 @@ TextureImporter:
     maxTextureSize: 2048
     resizeAlgorithm: 0
     textureFormat: -1
-    textureCompression: 0
+    textureCompression: 1
     compressionQuality: 50
     crunchedCompression: 0
     allowsAlphaSplitting: 0
@@ -387,10 +312,10 @@ TextureImporter:
       name: Game Boy Advance - Pokemon FireRed LeafGreen - Trainers_0
       rect:
         serializedVersion: 2
-        x: 0
-        y: 0
-        width: 463
-        height: 911
+        x: 14
+        y: 841
+        width: 32
+        height: 56
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -404,7 +329,2274 @@ TextureImporter:
       indices: 
       edges: []
       weights: []
-    outline: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Pokemon FireRed LeafGreen - Trainers_1
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 839
+        width: 28
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8fc406a1995b2fdd0800000000000000
+      internalID: -2453699177786356488
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Pokemon FireRed LeafGreen - Trainers_2
+      rect:
+        serializedVersion: 2
+        x: 87
+        y: 844
+        width: 45
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ee97199d622838510800000000000000
+      internalID: 1550225800116140526
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Pokemon FireRed LeafGreen - Trainers_3
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 839
+        width: 36
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a38875176d4041580800000000000000
+      internalID: -8857449248059848646
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Pokemon FireRed LeafGreen - Trainers_4
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 840
+        width: 34
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c45964c1a9c337df0800000000000000
+      internalID: -183736527195040436
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Pokemon FireRed LeafGreen - Trainers_5
+      rect:
+        serializedVersion: 2
+        x: 237
+        y: 840
+        width: 48
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 00212dc246d1063f0800000000000000
+      internalID: -909694808642940416
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Pokemon FireRed LeafGreen - Trainers_6
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 842
+        width: 41
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ec53bb24180dbd830800000000000000
+      internalID: 4097097539612521934
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Pokemon FireRed LeafGreen - Trainers_7
+      rect:
+        serializedVersion: 2
+        x: 355
+        y: 842
+        width: 37
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0f5efbe4a0d1c87f0800000000000000
+      internalID: -609079919493782032
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Pokemon FireRed LeafGreen - Trainers_8
+      rect:
+        serializedVersion: 2
+        x: 407
+        y: 840
+        width: 39
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1286e56ff9191c5c0800000000000000
+      internalID: -4196913261513381855
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Pokemon FireRed LeafGreen - Trainers_9
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 770
+        width: 47
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5bf4f6fdcca6d6330800000000000000
+      internalID: 3705735496550272949
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Pokemon FireRed LeafGreen - Trainers_10
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 771
+        width: 34
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dab216f89f19f58a0800000000000000
+      internalID: -6314167651511751763
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Pokemon FireRed LeafGreen - Trainers_11
+      rect:
+        serializedVersion: 2
+        x: 157
+        y: 772
+        width: 40
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c30ae566ae7608300800000000000000
+      internalID: 252315835570233404
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Pokemon FireRed LeafGreen - Trainers_12
+      rect:
+        serializedVersion: 2
+        x: 228
+        y: 773
+        width: 32
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b61a966aa8a6cc0e0800000000000000
+      internalID: -2248304970234748565
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Pokemon FireRed LeafGreen - Trainers_13
+      rect:
+        serializedVersion: 2
+        x: 295
+        y: 774
+        width: 30
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5202c022074961090800000000000000
+      internalID: -8064094873431826395
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Pokemon FireRed LeafGreen - Trainers_14
+      rect:
+        serializedVersion: 2
+        x: 349
+        y: 775
+        width: 61
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2e9101aadda6cefa0800000000000000
+      internalID: -5770119522294949406
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Pokemon FireRed LeafGreen - Trainers_15
+      rect:
+        serializedVersion: 2
+        x: 29
+        y: 693
+        width: 24
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4ab368ea0a889ae50800000000000000
+      internalID: 6821133334333504420
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Pokemon FireRed LeafGreen - Trainers_16
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 694
+        width: 36
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f4e8cf3a284c8130800000000000000
+      internalID: 3570307950893917430
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Pokemon FireRed LeafGreen - Trainers_17
+      rect:
+        serializedVersion: 2
+        x: 142
+        y: 701
+        width: 44
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c24b9914e72173a30800000000000000
+      internalID: 4194841911394677804
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Pokemon FireRed LeafGreen - Trainers_18
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 699
+        width: 42
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 12a88b12e1ac3fbf0800000000000000
+      internalID: -291667320085378527
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Pokemon FireRed LeafGreen - Trainers_19
+      rect:
+        serializedVersion: 2
+        x: 274
+        y: 697
+        width: 38
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1ae42b463a309bcb0800000000000000
+      internalID: -4847839523583668575
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Pokemon FireRed LeafGreen - Trainers_20
+      rect:
+        serializedVersion: 2
+        x: 338
+        y: 701
+        width: 35
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 97f6e67bebed69530800000000000000
+      internalID: 3861518641219399545
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Pokemon FireRed LeafGreen - Trainers_21
+      rect:
+        serializedVersion: 2
+        x: 408
+        y: 701
+        width: 33
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 15fbcd666ef28c7a0800000000000000
+      internalID: -6356778207418728623
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Pokemon FireRed LeafGreen - Trainers_22
+      rect:
+        serializedVersion: 2
+        x: 53
+        y: 621
+        width: 24
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 60c3b0a0500d6ff90800000000000000
+      internalID: -6920115057346266106
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Pokemon FireRed LeafGreen - Trainers_23
+      rect:
+        serializedVersion: 2
+        x: 109
+        y: 621
+        width: 40
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b05945e2ea3e2660800000000000000
+      internalID: 7362887186981146804
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Pokemon FireRed LeafGreen - Trainers_24
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 624
+        width: 49
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 862aa015044296980800000000000000
+      internalID: -8545258959302647192
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Pokemon FireRed LeafGreen - Trainers_25
+      rect:
+        serializedVersion: 2
+        x: 259
+        y: 630
+        width: 26
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 899af27b925b85200800000000000000
+      internalID: 169084176798034328
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Pokemon FireRed LeafGreen - Trainers_26
+      rect:
+        serializedVersion: 2
+        x: 327
+        y: 625
+        width: 52
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 72c582746ae3ffc40800000000000000
+      internalID: 5548222149823061031
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Pokemon FireRed LeafGreen - Trainers_27
+      rect:
+        serializedVersion: 2
+        x: 396
+        y: 623
+        width: 55
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7415923eaa5b86930800000000000000
+      internalID: 4136756003300004167
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Pokemon FireRed LeafGreen - Trainers_28
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 547
+        width: 51
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 967abd927e3241480800000000000000
+      internalID: -8929472685422172311
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Pokemon FireRed LeafGreen - Trainers_29
+      rect:
+        serializedVersion: 2
+        x: 190
+        y: 549
+        width: 51
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a249f9b0e2e9786c0800000000000000
+      internalID: -4141167411743189974
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Pokemon FireRed LeafGreen - Trainers_30
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 605
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 359db0e00d5a532d0800000000000000
+      internalID: -3299548838971582125
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Pokemon FireRed LeafGreen - Trainers_31
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 550
+        width: 49
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 47e071b4ab780b7c0800000000000000
+      internalID: -4057594030067347852
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Pokemon FireRed LeafGreen - Trainers_32
+      rect:
+        serializedVersion: 2
+        x: 365
+        y: 554
+        width: 35
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 23361f7eb258b6550800000000000000
+      internalID: 6155159739353359154
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Pokemon FireRed LeafGreen - Trainers_33
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 595
+        width: 4
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c831649315dcf2830800000000000000
+      internalID: 4048680338766304140
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Pokemon FireRed LeafGreen - Trainers_34
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 543
+        width: 41
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4f0b3d6ab693b4140800000000000000
+      internalID: 4704917370241790196
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Pokemon FireRed LeafGreen - Trainers_35
+      rect:
+        serializedVersion: 2
+        x: 397
+        y: 600
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c8d1a23d85c5cd470800000000000000
+      internalID: 8420706939845614988
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Pokemon FireRed LeafGreen - Trainers_36
+      rect:
+        serializedVersion: 2
+        x: 28
+        y: 587
+        width: 6
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 29438406e61d4d760800000000000000
+      internalID: 7481835152961189010
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Pokemon FireRed LeafGreen - Trainers_37
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 581
+        width: 6
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a5989176abec51120800000000000000
+      internalID: 2384038877751511386
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Pokemon FireRed LeafGreen - Trainers_38
+      rect:
+        serializedVersion: 2
+        x: 353
+        y: 578
+        width: 4
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 34a0e558190aaf760800000000000000
+      internalID: 7492477476952476227
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Pokemon FireRed LeafGreen - Trainers_39
+      rect:
+        serializedVersion: 2
+        x: 354
+        y: 567
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4c30ed77df6920f60800000000000000
+      internalID: 7999121903545353156
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Pokemon FireRed LeafGreen - Trainers_40
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 474
+        width: 33
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 19d1c7d0d32a317b0800000000000000
+      internalID: -5254677957108294255
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Pokemon FireRed LeafGreen - Trainers_41
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 483
+        width: 44
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d980ee480035f5c20800000000000000
+      internalID: 3197365522151639197
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Pokemon FireRed LeafGreen - Trainers_42
+      rect:
+        serializedVersion: 2
+        x: 217
+        y: 481
+        width: 62
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6a6b31d023c3b6600800000000000000
+      internalID: 462529572401034918
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Pokemon FireRed LeafGreen - Trainers_43
+      rect:
+        serializedVersion: 2
+        x: 308
+        y: 490
+        width: 38
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9adbbc6a2c990c360800000000000000
+      internalID: 7187914066584386985
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Pokemon FireRed LeafGreen - Trainers_44
+      rect:
+        serializedVersion: 2
+        x: 367
+        y: 483
+        width: 30
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ae935e3a41f5bde50800000000000000
+      internalID: 6835161401718553066
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Pokemon FireRed LeafGreen - Trainers_45
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 397
+        width: 51
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 163d73317db347080800000000000000
+      internalID: -9190655144629906591
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Pokemon FireRed LeafGreen - Trainers_46
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 399
+        width: 47
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8053f7c731329b7a0800000000000000
+      internalID: -6361014432084052728
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Pokemon FireRed LeafGreen - Trainers_47
+      rect:
+        serializedVersion: 2
+        x: 214
+        y: 400
+        width: 38
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 689ae71292f743cd0800000000000000
+      internalID: -2579296871944115834
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Pokemon FireRed LeafGreen - Trainers_48
+      rect:
+        serializedVersion: 2
+        x: 284
+        y: 396
+        width: 62
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ba9f7919db8a95ca0800000000000000
+      internalID: -6027601094113756757
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Pokemon FireRed LeafGreen - Trainers_49
+      rect:
+        serializedVersion: 2
+        x: 364
+        y: 404
+        width: 52
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 97baf0fb34d0a7b50800000000000000
+      internalID: 6591595589229587321
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Pokemon FireRed LeafGreen - Trainers_50
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 324
+        width: 34
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c9dd9565ec93878e0800000000000000
+      internalID: -1695541701330215524
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Pokemon FireRed LeafGreen - Trainers_51
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 324
+        width: 32
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a4a102372cd4722c0800000000000000
+      internalID: -4456507808709338550
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Pokemon FireRed LeafGreen - Trainers_52
+      rect:
+        serializedVersion: 2
+        x: 173
+        y: 324
+        width: 35
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f23b5eb2493ce2180800000000000000
+      internalID: -9138151552729107665
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Pokemon FireRed LeafGreen - Trainers_53
+      rect:
+        serializedVersion: 2
+        x: 246
+        y: 322
+        width: 29
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 665cc4b16f2898d40800000000000000
+      internalID: 5587140806261392742
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Pokemon FireRed LeafGreen - Trainers_54
+      rect:
+        serializedVersion: 2
+        x: 310
+        y: 328
+        width: 28
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3899d8aa802723b40800000000000000
+      internalID: 5418518683226839427
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Pokemon FireRed LeafGreen - Trainers_55
+      rect:
+        serializedVersion: 2
+        x: 362
+        y: 330
+        width: 39
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f46ff9836492e18d0800000000000000
+      internalID: -2873814130641340849
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Pokemon FireRed LeafGreen - Trainers_56
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 253
+        width: 40
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e0aa36f8615f68ba0800000000000000
+      internalID: -6086908369100887538
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Pokemon FireRed LeafGreen - Trainers_57
+      rect:
+        serializedVersion: 2
+        x: 181
+        y: 252
+        width: 40
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cfbf58820e72d3b70800000000000000
+      internalID: 8880297883950513148
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Pokemon FireRed LeafGreen - Trainers_58
+      rect:
+        serializedVersion: 2
+        x: 242
+        y: 253
+        width: 37
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b1be485f61a80dfe0800000000000000
+      internalID: -1166280472275916005
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Pokemon FireRed LeafGreen - Trainers_59
+      rect:
+        serializedVersion: 2
+        x: 299
+        y: 254
+        width: 36
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b998ebc5917efa8a0800000000000000
+      internalID: -6291556058297103973
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Pokemon FireRed LeafGreen - Trainers_60
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 181
+        width: 29
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 461b0d1d0cb82f310800000000000000
+      internalID: 1437364891354706276
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Pokemon FireRed LeafGreen - Trainers_61
+      rect:
+        serializedVersion: 2
+        x: 78
+        y: 182
+        width: 38
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 305951c31d820f170800000000000000
+      internalID: 8210106999817737475
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Pokemon FireRed LeafGreen - Trainers_62
+      rect:
+        serializedVersion: 2
+        x: 125
+        y: 177
+        width: 41
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e64f3c0fd2fc71cb0800000000000000
+      internalID: -4893214673894902674
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Pokemon FireRed LeafGreen - Trainers_63
+      rect:
+        serializedVersion: 2
+        x: 178
+        y: 181
+        width: 37
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ecd11074bf47a5a20800000000000000
+      internalID: 3051880320073801166
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Pokemon FireRed LeafGreen - Trainers_64
+      rect:
+        serializedVersion: 2
+        x: 239
+        y: 179
+        width: 46
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bbed9e05b69f3be90800000000000000
+      internalID: -7010985955571409221
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Pokemon FireRed LeafGreen - Trainers_65
+      rect:
+        serializedVersion: 2
+        x: 292
+        y: 220
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9613fbb8ef0513b10800000000000000
+      internalID: 1959436367079354729
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Pokemon FireRed LeafGreen - Trainers_66
+      rect:
+        serializedVersion: 2
+        x: 293
+        y: 178
+        width: 36
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3b7405f8f97f75600800000000000000
+      internalID: 457106151877658547
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Pokemon FireRed LeafGreen - Trainers_67
+      rect:
+        serializedVersion: 2
+        x: 339
+        y: 178
+        width: 44
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 29257a47afa0e7c00800000000000000
+      internalID: 900169046335902354
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Pokemon FireRed LeafGreen - Trainers_68
+      rect:
+        serializedVersion: 2
+        x: 399
+        y: 177
+        width: 38
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1658faed8fa3bcf30800000000000000
+      internalID: 4596832685224068449
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Pokemon FireRed LeafGreen - Trainers_69
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 108
+        width: 38
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d3da2a7a41958fe40800000000000000
+      internalID: 5690396074429295933
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Pokemon FireRed LeafGreen - Trainers_70
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 109
+        width: 53
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 831bd929ac10e9980800000000000000
+      internalID: -8530378674638311112
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Pokemon FireRed LeafGreen - Trainers_71
+      rect:
+        serializedVersion: 2
+        x: 242
+        y: 114
+        width: 30
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 42868fb9c551508c0800000000000000
+      internalID: -4033794403742488540
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Pokemon FireRed LeafGreen - Trainers_72
+      rect:
+        serializedVersion: 2
+        x: 299
+        y: 112
+        width: 60
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 72f9eda540d9dac00800000000000000
+      internalID: 913558941456047911
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Pokemon FireRed LeafGreen - Trainers_73
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 19
+        width: 281
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2e3fac91c20628440800000000000000
+      internalID: 4936613884079043554
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline:
+    - - {x: -128.5, y: -377.5}
+      - {x: -131.5, y: -385.5}
+      - {x: -131.5, y: -434.5}
+      - {x: -129.5, y: -438.5}
+      - {x: 34.5, y: -438.5}
+      - {x: 153.5, y: -433.5}
+      - {x: 153.5, y: -389.5}
+      - {x: 151.5, y: -387.5}
+      - {x: 32.5, y: -377.5}
+    - - {x: -120.5, y: -283.5}
+      - {x: -135.5, y: -297.5}
+      - {x: -135.5, y: -342.5}
+      - {x: -133.5, y: -349.5}
+      - {x: -93.5, y: -349.5}
+      - {x: -93.5, y: -299.5}
+      - {x: -104.5, y: -283.5}
+    - - {x: -27.5, y: -292.5}
+      - {x: -66.5, y: -292.5}
+      - {x: -74.5, y: -307.5}
+      - {x: -74.5, y: -336.5}
+      - {x: -71.5, y: -347.5}
+      - {x: -59.5, y: -348.5}
+      - {x: -22.5, y: -348.5}
+      - {x: -19.5, y: -343.5}
+      - {x: -17.5, y: -335.5}
+      - {x: -17.5, y: -323.5}
+    - - {x: 129.5, y: -303.5}
+      - {x: 105.5, y: -280.5}
+      - {x: 79.5, y: -280.5}
+      - {x: 65.5, y: -287.5}
+      - {x: 65.5, y: -312.5}
+      - {x: 76.5, y: -345.5}
+      - {x: 113.5, y: -345.5}
+      - {x: 115.5, y: -340.5}
+      - {x: 125.5, y: -325.5}
+      - {x: 129.5, y: -318.5}
+    - - {x: 35.5, y: -282.5}
+      - {x: 25.5, y: -282.5}
+      - {x: 8.5, y: -287.5}
+      - {x: 8.5, y: -343.5}
+      - {x: 42.5, y: -343.5}
+      - {x: 42.5, y: -303.5}
+      - {x: 41.5, y: -291.5}
+    - - {x: -102.5, y: -215.5}
+      - {x: -108.5, y: -221.5}
+      - {x: -108.5, y: -265.5}
+      - {x: -93.5, y: -280.5}
+      - {x: -71.5, y: -280.5}
+      - {x: -69.5, y: -278.5}
+      - {x: -63.5, y: -267.5}
+      - {x: -63.5, y: -231.5}
+      - {x: -71.5, y: -215.5}
+    - - {x: 184.5, y: -213.5}
+      - {x: 165.5, y: -230.5}
+      - {x: 165.5, y: -252.5}
+      - {x: 174.5, y: -280.5}
+      - {x: 203.5, y: -280.5}
+      - {x: 207.5, y: -267.5}
+      - {x: 207.5, y: -228.5}
+      - {x: 196.5, y: -213.5}
+    - - {x: 87.5, y: -249.5}
+      - {x: 88.5, y: -252.5}
+      - {x: 86.5, y: -256.5}
+      - {x: 88.5, y: -258.5}
+      - {x: 92.5, y: -260.5}
+      - {x: 99.5, y: -250.5}
+      - {x: 99.5, y: -233.5}
+      - {x: 98.5, y: -227.5}
+      - {x: 85.5, y: -219.5}
+      - {x: 77.5, y: -219.5}
+      - {x: 63.5, y: -221.5}
+      - {x: 58.5, y: -224.5}
+      - {x: 58.5, y: -255.5}
+      - {x: 66.5, y: -279.5}
+      - {x: 85.5, y: -279.5}
+      - {x: 89.5, y: -278.5}
+      - {x: 90.5, y: -270.5}
+      - {x: 83.5, y: -263.5}
+      - {x: 87.5, y: -252.5}
+    - - {x: 105.5, y: -214.5}
+      - {x: 105.5, y: -268.5}
+      - {x: 108.5, y: -279.5}
+      - {x: 153.5, y: -279.5}
+      - {x: 153.5, y: -230.5}
+      - {x: 141.5, y: -214.5}
+    - - {x: 22.5, y: -220.5}
+      - {x: 6.5, y: -224.5}
+      - {x: 5.5, y: -232.5}
+      - {x: 5.5, y: -264.5}
+      - {x: 6.5, y: -265.5}
+      - {x: 15.5, y: -278.5}
+      - {x: 50.5, y: -278.5}
+      - {x: 55.5, y: -249.5}
+      - {x: 55.5, y: -225.5}
+      - {x: 47.5, y: -220.5}
+    - - {x: -194.5, y: -276.5}
+      - {x: -163.5, y: -276.5}
+      - {x: -163.5, y: -215.5}
+      - {x: -168.5, y: -209.5}
+      - {x: -190.5, y: -209.5}
+      - {x: -196.5, y: -212.5}
+      - {x: -196.5, y: -273.5}
+    - - {x: -55.5, y: -242.5}
+      - {x: -55.5, y: -258.5}
+      - {x: -48.5, y: -268.5}
+      - {x: -40.5, y: -276.5}
+      - {x: -24.5, y: -276.5}
+      - {x: -14.5, y: -271.5}
+      - {x: -14.5, y: -224.5}
+      - {x: -15.5, y: -219.5}
+      - {x: -20.5, y: -215.5}
+      - {x: -38.5, y: -215.5}
+      - {x: -45.5, y: -219.5}
+    - - {x: -143.5, y: -210.5}
+      - {x: -151.5, y: -217.5}
+      - {x: -155.5, y: -249.5}
+      - {x: -155.5, y: -275.5}
+      - {x: -117.5, y: -275.5}
+      - {x: -113.5, y: -259.5}
+      - {x: -113.5, y: -235.5}
+      - {x: -121.5, y: -210.5}
+    - - {x: 68.5, y: -237.5}
+      - {x: 71.5, y: -235.5}
+      - {x: 73.5, y: -238.5}
+      - {x: 73.5, y: -239.5}
+      - {x: 72.5, y: -240.5}
+      - {x: 72.5, y: -241.5}
+    - - {x: 171.5, y: -224.5}
+      - {x: 167.5, y: -228.5}
+      - {x: 167.5, y: -231.5}
+      - {x: 171.5, y: -235.5}
+      - {x: 174.5, y: -235.5}
+      - {x: 178.5, y: -231.5}
+      - {x: 178.5, y: -228.5}
+      - {x: 174.5, y: -224.5}
+    - - {x: -24.5, y: -146.5}
+      - {x: -38.5, y: -146.5}
+      - {x: -52.5, y: -154.5}
+      - {x: -52.5, y: -177.5}
+      - {x: -44.5, y: -205.5}
+      - {x: -11.5, y: -205.5}
+      - {x: -8.5, y: -181.5}
+      - {x: -8.5, y: -168.5}
+      - {x: -17.5, y: -149.5}
+    - - {x: -69.5, y: -202.5}
+      - {x: -62.5, y: -190.5}
+      - {x: -62.5, y: -165.5}
+      - {x: -72.5, y: -145.5}
+      - {x: -99.5, y: -145.5}
+      - {x: -106.5, y: -159.5}
+      - {x: -106.5, y: -194.5}
+      - {x: -101.5, y: -204.5}
+      - {x: -91.5, y: -204.5}
+      - {x: -88.5, y: -201.5}
+      - {x: -82.5, y: -204.5}
+      - {x: -79.5, y: -204.5}
+    - - {x: 22.5, y: -145.5}
+      - {x: 14.5, y: -150.5}
+      - {x: 8.5, y: -161.5}
+      - {x: 8.5, y: -177.5}
+      - {x: 9.5, y: -178.5}
+      - {x: 17.5, y: -204.5}
+      - {x: 42.5, y: -204.5}
+      - {x: 49.5, y: -188.5}
+      - {x: 49.5, y: -165.5}
+      - {x: 34.5, y: -145.5}
+    - - {x: 68.5, y: -144.5}
+      - {x: 65.5, y: -154.5}
+      - {x: 65.5, y: -197.5}
+      - {x: 71.5, y: -203.5}
+      - {x: 100.5, y: -203.5}
+      - {x: 105.5, y: -192.5}
+      - {x: 105.5, y: -158.5}
+      - {x: 94.5, y: -144.5}
+    - - {x: 27.5, y: -69.5}
+      - {x: 13.5, y: -72.5}
+      - {x: 12.5, y: -73.5}
+      - {x: 12.5, y: -110.5}
+      - {x: 24.5, y: -135.5}
+      - {x: 44.5, y: -135.5}
+      - {x: 45.5, y: -121.5}
+      - {x: 45.5, y: -69.5}
+    - - {x: -194.5, y: -81.5}
+      - {x: -200.5, y: -90.5}
+      - {x: -200.5, y: -133.5}
+      - {x: -162.5, y: -133.5}
+      - {x: -162.5, y: -83.5}
+      - {x: -168.5, y: -81.5}
+    - - {x: -126.5, y: -76.5}
+      - {x: -134.5, y: -92.5}
+      - {x: -134.5, y: -121.5}
+      - {x: -130.5, y: -133.5}
+      - {x: -98.5, y: -133.5}
+      - {x: -98.5, y: -76.5}
+    - - {x: -21.5, y: -93.5}
+      - {x: -27.5, y: -79.5}
+      - {x: -45.5, y: -79.5}
+      - {x: -60.5, y: -95.5}
+      - {x: -60.5, y: -99.5}
+      - {x: -55.5, y: -107.5}
+      - {x: -51.5, y: -106.5}
+      - {x: -54.5, y: -127.5}
+      - {x: -51.5, y: -133.5}
+      - {x: -21.5, y: -133.5}
+    - - {x: 87.5, y: -70.5}
+      - {x: 76.5, y: -83.5}
+      - {x: 76.5, y: -108.5}
+      - {x: 82.5, y: -128.5}
+      - {x: 88.5, y: -127.5}
+      - {x: 91.5, y: -124.5}
+      - {x: 97.5, y: -129.5}
+      - {x: 104.5, y: -129.5}
+      - {x: 108.5, y: -123.5}
+      - {x: 108.5, y: -72.5}
+      - {x: 103.5, y: -70.5}
+    - - {x: 128.5, y: -75.5}
+      - {x: 128.5, y: -113.5}
+      - {x: 131.5, y: -127.5}
+      - {x: 171.5, y: -127.5}
+      - {x: 171.5, y: -78.5}
+      - {x: 166.5, y: -75.5}
+    - - {x: 145.5, y: -88.5}
+      - {x: 149.5, y: -91.5}
+      - {x: 145.5, y: -92.5}
+    - - {x: 102.5, y: -15.5}
+      - {x: 78.5, y: 5.5}
+      - {x: 60.5, y: 5.5}
+      - {x: 50.5, y: -3.5}
+      - {x: 50.5, y: -54.5}
+      - {x: 52.5, y: -61.5}
+      - {x: 107.5, y: -61.5}
+      - {x: 116.5, y: -58.5}
+      - {x: 116.5, y: -40.5}
+      - {x: 111.5, y: -32.5}
+    - - {x: -186.5, y: 2.5}
+      - {x: -190.5, y: -0.5}
+      - {x: -191.5, y: -14.5}
+      - {x: -191.5, y: -51.5}
+      - {x: -185.5, y: -59.5}
+      - {x: -180.5, y: -59.5}
+      - {x: -174.5, y: -50.5}
+      - {x: -183.5, y: -44.5}
+      - {x: -180.5, y: -12.5}
+      - {x: -183.5, y: -40.5}
+      - {x: -173.5, y: -51.5}
+      - {x: -173.5, y: -57.5}
+      - {x: -163.5, y: -60.5}
+      - {x: -137.5, y: -60.5}
+      - {x: -136.5, y: -57.5}
+      - {x: -136.5, y: -27.5}
+      - {x: -145.5, y: 2.5}
+    - - {x: -67.5, y: 4.5}
+      - {x: -89.5, y: 4.5}
+      - {x: -98.5, y: -4.5}
+      - {x: -98.5, y: -46.5}
+      - {x: -94.5, y: -58.5}
+      - {x: -52.5, y: -58.5}
+      - {x: -47.5, y: -42.5}
+      - {x: -47.5, y: -16.5}
+      - {x: -60.5, y: 1.5}
+    - - {x: -9.5, y: 1.5}
+      - {x: -19.5, y: -13.5}
+      - {x: -19.5, y: -33.5}
+      - {x: -16.5, y: -37.5}
+      - {x: -11.5, y: -41.5}
+      - {x: -5.5, y: -41.5}
+      - {x: -2.5, y: -40.5}
+      - {x: -6.5, y: -41.5}
+      - {x: -10.5, y: -44.5}
+      - {x: -10.5, y: -47.5}
+      - {x: -9.5, y: -57.5}
+      - {x: 22.5, y: -57.5}
+      - {x: 22.5, y: -9.5}
+      - {x: 10.5, y: 1.5}
+    - - {x: 136.5, y: 10.5}
+      - {x: 130.5, y: 5.5}
+      - {x: 130.5, y: -51.5}
+      - {x: 136.5, y: -53.5}
+      - {x: 178.5, y: -53.5}
+      - {x: 186.5, y: -49.5}
+      - {x: 186.5, y: -9.5}
+      - {x: 166.5, y: 10.5}
+    - - {x: -64.5, y: -30.5}
+      - {x: -64.5, y: -25.5}
+      - {x: -65.5, y: -24.5}
+      - {x: -65.5, y: -22.5}
+      - {x: -61.5, y: -25.5}
+      - {x: -65.5, y: -29.5}
+      - {x: -64.5, y: -32.5}
+      - {x: -63.5, y: -31.5}
+    - - {x: -153.5, y: 81.5}
+      - {x: -153.5, y: 16.5}
+      - {x: -125.5, y: 16.5}
+      - {x: -116.5, y: 30.5}
+      - {x: -116.5, y: 73.5}
+      - {x: -123.5, y: 81.5}
+    - - {x: 29.5, y: 89.5}
+      - {x: 11.5, y: 89.5}
+      - {x: -3.5, y: 82.5}
+      - {x: -6.5, y: 72.5}
+      - {x: -2.5, y: 71.5}
+      - {x: -0.5, y: 71.5}
+      - {x: -2.5, y: 71.5}
+      - {x: -14.5, y: 66.5}
+      - {x: -16.5, y: 57.5}
+      - {x: -16.5, y: 23.5}
+      - {x: 44.5, y: 23.5}
+      - {x: 49.5, y: 39.5}
+      - {x: 49.5, y: 78.5}
+      - {x: 48.5, y: 81.5}
+    - - {x: -71.5, y: 81.5}
+      - {x: -77.5, y: 78.5}
+      - {x: -93.5, y: 37.5}
+      - {x: -93.5, y: 25.5}
+      - {x: -53.5, y: 25.5}
+      - {x: -45.5, y: 29.5}
+      - {x: -45.5, y: 61.5}
+      - {x: -58.5, y: 81.5}
+    - - {x: 138.5, y: 90.5}
+      - {x: 133.5, y: 86.5}
+      - {x: 133.5, y: 25.5}
+      - {x: 167.5, y: 25.5}
+      - {x: 167.5, y: 87.5}
+      - {x: 163.5, y: 90.5}
+    - - {x: 95.5, y: 84.5}
+      - {x: 81.5, y: 84.5}
+      - {x: 74.5, y: 80.5}
+      - {x: 74.5, y: 41.5}
+      - {x: 86.5, y: 32.5}
+      - {x: 89.5, y: 32.5}
+      - {x: 92.5, y: 33.5}
+      - {x: 95.5, y: 35.5}
+      - {x: 96.5, y: 38.5}
+      - {x: 96.5, y: 35.5}
+      - {x: 97.5, y: 32.5}
+      - {x: 115.5, y: 32.5}
+      - {x: 116.5, y: 42.5}
+      - {x: 116.5, y: 71.5}
+      - {x: 115.5, y: 78.5}
+    - - {x: -171.5, y: 147.5}
+      - {x: -183.5, y: 147.5}
+      - {x: -198.5, y: 132.5}
+      - {x: -198.5, y: 111.5}
+      - {x: -195.5, y: 85.5}
+      - {x: -153.5, y: 85.5}
+      - {x: -150.5, y: 89.5}
+      - {x: -150.5, y: 124.5}
+      - {x: -153.5, y: 133.5}
+    - - {x: -88.5, y: 135.5}
+      - {x: -88.5, y: 137.5}
+      - {x: -91.5, y: 143.5}
+      - {x: -81.5, y: 141.5}
+      - {x: -89.5, y: 126.5}
+      - {x: -90.5, y: 123.5}
+      - {x: -90.5, y: 118.5}
+      - {x: -89.5, y: 115.5}
+      - {x: -84.5, y: 111.5}
+      - {x: -80.5, y: 110.5}
+      - {x: -77.5, y: 116.5}
+      - {x: -75.5, y: 127.5}
+      - {x: -75.5, y: 147.5}
+      - {x: -86.5, y: 152.5}
+      - {x: -94.5, y: 153.5}
+      - {x: -118.5, y: 153.5}
+      - {x: -130.5, y: 136.5}
+      - {x: -130.5, y: 118.5}
+      - {x: -128.5, y: 111.5}
+      - {x: -123.5, y: 89.5}
+      - {x: -85.5, y: 89.5}
+      - {x: -84.5, y: 94.5}
+      - {x: -84.5, y: 105.5}
+      - {x: -95.5, y: 129.5}
+    - - {x: 9.5, y: 144.5}
+      - {x: -1.5, y: 158.5}
+      - {x: -41.5, y: 158.5}
+      - {x: -43.5, y: 152.5}
+      - {x: -43.5, y: 91.5}
+      - {x: -2.5, y: 91.5}
+      - {x: 11.5, y: 107.5}
+      - {x: 11.5, y: 122.5}
+      - {x: 3.5, y: 136.5}
+    - - {x: 38.5, y: 159.5}
+      - {x: 30.5, y: 153.5}
+      - {x: 30.5, y: 111.5}
+      - {x: 37.5, y: 92.5}
+      - {x: 77.5, y: 92.5}
+      - {x: 83.5, y: 113.5}
+      - {x: 83.5, y: 157.5}
+      - {x: 80.5, y: 159.5}
+    - - {x: 129.5, y: 161.5}
+      - {x: 119.5, y: 134.5}
+      - {x: 119.5, y: 102.5}
+      - {x: 125.5, y: 96.5}
+      - {x: 170.5, y: 96.5}
+      - {x: 171.5, y: 103.5}
+      - {x: 171.5, y: 161.5}
+    - - {x: 41.5, y: 115.5}
+      - {x: 42.5, y: 117.5}
+      - {x: 48.5, y: 116.5}
+      - {x: 50.5, y: 119.5}
+      - {x: 48.5, y: 118.5}
+      - {x: 47.5, y: 114.5}
+      - {x: 43.5, y: 111.5}
+      - {x: 41.5, y: 110.5}
+      - {x: 40.5, y: 111.5}
+    - - {x: 69.5, y: 130.5}
+      - {x: 73.5, y: 131.5}
+      - {x: 75.5, y: 134.5}
+      - {x: 73.5, y: 133.5}
+      - {x: 73.5, y: 131.5}
+      - {x: 71.5, y: 128.5}
+      - {x: 69.5, y: 128.5}
+    - - {x: 45.5, y: 132.5}
+      - {x: 44.5, y: 138.5}
+      - {x: 45.5, y: 139.5}
+      - {x: 45.5, y: 143.5}
+      - {x: 46.5, y: 142.5}
+      - {x: 46.5, y: 139.5}
+      - {x: 48.5, y: 135.5}
+      - {x: 46.5, y: 130.5}
+      - {x: 47.5, y: 130.5}
+    - - {x: -205.5, y: 134.5}
+      - {x: -205.5, y: 132.5}
+      - {x: -202.5, y: 129.5}
+      - {x: -198.5, y: 130.5}
+      - {x: -195.5, y: 134.5}
+      - {x: -196.5, y: 137.5}
+      - {x: -202.5, y: 137.5}
+    - - {x: -198.5, y: 147.5}
+      - {x: -201.5, y: 146.5}
+      - {x: -201.5, y: 137.5}
+      - {x: -194.5, y: 137.5}
+      - {x: -193.5, y: 140.5}
+      - {x: -193.5, y: 145.5}
+      - {x: -195.5, y: 147.5}
+    - - {x: 69.5, y: 141.5}
+      - {x: 70.5, y: 151.5}
+      - {x: 67.5, y: 149.5}
+      - {x: 67.5, y: 147.5}
+      - {x: 68.5, y: 146.5}
+      - {x: 68.5, y: 142.5}
+      - {x: 67.5, y: 141.5}
+    - - {x: -157.5, y: 227.5}
+      - {x: -168.5, y: 227.5}
+      - {x: -176.5, y: 222.5}
+      - {x: -176.5, y: 215.5}
+      - {x: -180.5, y: 203.5}
+      - {x: -180.5, y: 166.5}
+      - {x: -170.5, y: 163.5}
+      - {x: -158.5, y: 163.5}
+      - {x: -154.5, y: 168.5}
+      - {x: -152.5, y: 186.5}
+      - {x: -152.5, y: 220.5}
+    - - {x: -124.5, y: 226.5}
+      - {x: -124.5, y: 163.5}
+      - {x: -80.5, y: 163.5}
+      - {x: -80.5, y: 197.5}
+      - {x: -95.5, y: 222.5}
+      - {x: -100.5, y: 226.5}
+    - - {x: 199.5, y: 232.5}
+      - {x: 182.5, y: 232.5}
+      - {x: 166.5, y: 228.5}
+      - {x: 162.5, y: 216.5}
+      - {x: 162.5, y: 179.5}
+      - {x: 176.5, y: 165.5}
+      - {x: 212.5, y: 165.5}
+      - {x: 221.5, y: 188.5}
+      - {x: 221.5, y: 205.5}
+      - {x: 208.5, y: 223.5}
+    - - {x: -8.5, y: 223.5}
+      - {x: -13.5, y: 219.5}
+      - {x: -14.5, y: 227.5}
+      - {x: -21.5, y: 229.5}
+      - {x: -37.5, y: 229.5}
+      - {x: -53.5, y: 220.5}
+      - {x: -53.5, y: 175.5}
+      - {x: -36.5, y: 166.5}
+      - {x: -2.5, y: 166.5}
+      - {x: -0.5, y: 170.5}
+      - {x: -0.5, y: 214.5}
+      - {x: -5.5, y: 224.5}
+    - - {x: 145.5, y: 232.5}
+      - {x: 93.5, y: 232.5}
+      - {x: 93.5, y: 167.5}
+      - {x: 122.5, y: 167.5}
+      - {x: 143.5, y: 171.5}
+      - {x: 149.5, y: 196.5}
+      - {x: 149.5, y: 228.5}
+    - - {x: 32.5, y: 233.5}
+      - {x: 25.5, y: 232.5}
+      - {x: 25.5, y: 197.5}
+      - {x: 33.5, y: 172.5}
+      - {x: 55.5, y: 172.5}
+      - {x: 55.5, y: 233.5}
+    - - {x: 205.5, y: 192.5}
+      - {x: 205.5, y: 194.5}
+      - {x: 204.5, y: 195.5}
+      - {x: 210.5, y: 195.5}
+      - {x: 209.5, y: 194.5}
+      - {x: 208.5, y: 186.5}
+      - {x: 209.5, y: 186.5}
+    - - {x: -186.5, y: 299.5}
+      - {x: -203.5, y: 299.5}
+      - {x: -204.5, y: 298.5}
+      - {x: -204.5, y: 241.5}
+      - {x: -203.5, y: 235.5}
+      - {x: -180.5, y: 235.5}
+      - {x: -176.5, y: 255.5}
+      - {x: -176.5, y: 290.5}
+      - {x: -178.5, y: 296.5}
+    - - {x: -138.5, y: 300.5}
+      - {x: -154.5, y: 290.5}
+      - {x: -154.5, y: 236.5}
+      - {x: -119.5, y: 236.5}
+      - {x: -114.5, y: 260.5}
+      - {x: -114.5, y: 292.5}
+      - {x: -122.5, y: 300.5}
+    - - {x: 50.5, y: 303.5}
+      - {x: 40.5, y: 296.5}
+      - {x: 40.5, y: 265.5}
+      - {x: 54.5, y: 239.5}
+      - {x: 82.5, y: 239.5}
+      - {x: 82.5, y: 303.5}
+    - - {x: -26.5, y: 288.5}
+      - {x: -26.5, y: 241.5}
+      - {x: 15.5, y: 241.5}
+      - {x: 19.5, y: 246.5}
+      - {x: 19.5, y: 283.5}
+      - {x: 7.5, y: 303.5}
+      - {x: -1.5, y: 305.5}
+      - {x: -17.5, y: 305.5}
+      - {x: -23.5, y: 300.5}
+    - - {x: -58.5, y: 294.5}
+      - {x: -79.5, y: 294.5}
+      - {x: -85.5, y: 286.5}
+      - {x: -91.5, y: 265.5}
+      - {x: -91.5, y: 246.5}
+      - {x: -78.5, y: 243.5}
+      - {x: -53.5, y: 243.5}
+      - {x: -43.5, y: 247.5}
+      - {x: -43.5, y: 274.5}
+      - {x: -46.5, y: 291.5}
+    - - {x: 143.5, y: 300.5}
+      - {x: 139.5, y: 304.5}
+      - {x: 119.5, y: 304.5}
+      - {x: 104.5, y: 297.5}
+      - {x: 104.5, y: 287.5}
+      - {x: 113.5, y: 248.5}
+      - {x: 116.5, y: 243.5}
+      - {x: 135.5, y: 243.5}
+      - {x: 138.5, y: 246.5}
+      - {x: 138.5, y: 248.5}
+      - {x: 143.5, y: 268.5}
+    - - {x: 183.5, y: 307.5}
+      - {x: 174.5, y: 282.5}
+      - {x: 174.5, y: 260.5}
+      - {x: 177.5, y: 243.5}
+      - {x: 207.5, y: 243.5}
+      - {x: 211.5, y: 256.5}
+      - {x: 211.5, y: 298.5}
+      - {x: 209.5, y: 307.5}
+    - - {x: -181.5, y: 373.5}
+      - {x: -198.5, y: 362.5}
+      - {x: -198.5, y: 352.5}
+      - {x: -195.5, y: 346.5}
+      - {x: -189.5, y: 344.5}
+      - {x: -184.5, y: 344.5}
+      - {x: -188.5, y: 344.5}
+      - {x: -193.5, y: 342.5}
+      - {x: -189.5, y: 330.5}
+      - {x: -191.5, y: 318.5}
+      - {x: -189.5, y: 312.5}
+      - {x: -147.5, y: 312.5}
+      - {x: -147.5, y: 367.5}
+      - {x: -163.5, y: 373.5}
+    - - {x: -108.5, y: 377.5}
+      - {x: -124.5, y: 377.5}
+      - {x: -130.5, y: 374.5}
+      - {x: -132.5, y: 360.5}
+      - {x: -132.5, y: 313.5}
+      - {x: -101.5, y: 313.5}
+      - {x: -94.5, y: 319.5}
+      - {x: -94.5, y: 358.5}
+      - {x: -99.5, y: 373.5}
+    - - {x: -59.5, y: 381.5}
+      - {x: -76.5, y: 366.5}
+      - {x: -76.5, y: 335.5}
+      - {x: -68.5, y: 316.5}
+      - {x: -63.5, y: 314.5}
+      - {x: -33.5, y: 314.5}
+      - {x: -32.5, y: 334.5}
+      - {x: -32.5, y: 364.5}
+      - {x: -42.5, y: 381.5}
+    - - {x: -5.5, y: 378.5}
+      - {x: -5.5, y: 321.5}
+      - {x: -0.5, y: 315.5}
+      - {x: 24.5, y: 315.5}
+      - {x: 30.5, y: 318.5}
+      - {x: 30.5, y: 366.5}
+      - {x: 19.5, y: 378.5}
+    - - {x: 72.5, y: 365.5}
+      - {x: 61.5, y: 350.5}
+      - {x: 61.5, y: 324.5}
+      - {x: 63.5, y: 316.5}
+      - {x: 89.5, y: 316.5}
+      - {x: 95.5, y: 334.5}
+      - {x: 95.5, y: 350.5}
+      - {x: 87.5, y: 365.5}
+    - - {x: 164.5, y: 317.5}
+      - {x: 180.5, y: 331.5}
+      - {x: 180.5, y: 374.5}
+      - {x: 179.5, y: 377.5}
+      - {x: 131.5, y: 377.5}
+      - {x: 115.5, y: 365.5}
+      - {x: 115.5, y: 333.5}
+      - {x: 125.5, y: 317.5}
+      - {x: 140.5, y: 317.5}
+      - {x: 142.5, y: 327.5}
+      - {x: 149.5, y: 318.5}
+      - {x: 151.5, y: 317.5}
+    - - {x: -179.5, y: 353.5}
+      - {x: -184.5, y: 358.5}
+      - {x: -189.5, y: 358.5}
+      - {x: -191.5, y: 357.5}
+      - {x: -189.5, y: 358.5}
+      - {x: -187.5, y: 358.5}
+      - {x: -181.5, y: 360.5}
+      - {x: -182.5, y: 354.5}
+      - {x: -180.5, y: 349.5}
+      - {x: -179.5, y: 349.5}
+    - - {x: 149.5, y: 360.5}
+      - {x: 148.5, y: 361.5}
+      - {x: 147.5, y: 360.5}
+      - {x: 147.5, y: 357.5}
+    - - {x: -177.5, y: 447.5}
+      - {x: -182.5, y: 444.5}
+      - {x: -182.5, y: 384.5}
+      - {x: -178.5, y: 381.5}
+      - {x: -150.5, y: 381.5}
+      - {x: -150.5, y: 447.5}
+    - - {x: -63.5, y: 387.5}
+      - {x: -60.5, y: 381.5}
+      - {x: -59.5, y: 381.5}
+      - {x: -48.5, y: 391.5}
+      - {x: -48.5, y: 421.5}
+      - {x: -52.5, y: 430.5}
+      - {x: -58.5, y: 444.5}
+      - {x: -69.5, y: 446.5}
+      - {x: -76.5, y: 446.5}
+      - {x: -88.5, y: 443.5}
+      - {x: -88.5, y: 427.5}
+      - {x: -83.5, y: 420.5}
+      - {x: -81.5, y: 421.5}
+      - {x: -78.5, y: 424.5}
+      - {x: -78.5, y: 425.5}
+      - {x: -78.5, y: 420.5}
+      - {x: -84.5, y: 414.5}
+      - {x: -88.5, y: 405.5}
+      - {x: -88.5, y: 396.5}
+      - {x: -86.5, y: 394.5}
+      - {x: -84.5, y: 394.5}
+      - {x: -81.5, y: 397.5}
+      - {x: -81.5, y: 398.5}
+      - {x: -83.5, y: 400.5}
+      - {x: -81.5, y: 399.5}
+      - {x: -81.5, y: 397.5}
+      - {x: -80.5, y: 393.5}
+      - {x: -76.5, y: 382.5}
+      - {x: -70.5, y: 381.5}
+      - {x: -65.5, y: 381.5}
+      - {x: -63.5, y: 384.5}
+      - {x: -63.5, y: 386.5}
+      - {x: -64.5, y: 388.5}
+    - - {x: -34.5, y: 446.5}
+      - {x: -40.5, y: 432.5}
+      - {x: -40.5, y: 397.5}
+      - {x: -22.5, y: 382.5}
+      - {x: -2.5, y: 382.5}
+      - {x: -2.5, y: 446.5}
+    - - {x: 3.5, y: 400.5}
+      - {x: 20.5, y: 382.5}
+      - {x: 40.5, y: 382.5}
+      - {x: 55.5, y: 395.5}
+      - {x: 55.5, y: 433.5}
+      - {x: 48.5, y: 446.5}
+      - {x: 17.5, y: 446.5}
+      - {x: 3.5, y: 436.5}
+    - - {x: 197.5, y: 402.5}
+      - {x: 198.5, y: 400.5}
+      - {x: 204.5, y: 385.5}
+      - {x: 210.5, y: 382.5}
+      - {x: 216.5, y: 382.5}
+      - {x: 216.5, y: 418.5}
+      - {x: 214.5, y: 426.5}
+      - {x: 204.5, y: 442.5}
+      - {x: 189.5, y: 442.5}
+      - {x: 173.5, y: 431.5}
+      - {x: 173.5, y: 400.5}
+      - {x: 179.5, y: 382.5}
+      - {x: 187.5, y: 382.5}
+      - {x: 190.5, y: 385.5}
+      - {x: 195.5, y: 396.5}
+      - {x: 198.5, y: 402.5}
+    - - {x: -183.5, y: 383.5}
+      - {x: -183.5, y: 443.5}
+      - {x: -211.5, y: 443.5}
+      - {x: -219.5, y: 438.5}
+      - {x: -219.5, y: 383.5}
+    - - {x: 78.5, y: 435.5}
+      - {x: 69.5, y: 430.5}
+      - {x: 66.5, y: 412.5}
+      - {x: 66.5, y: 384.5}
+      - {x: 111.5, y: 384.5}
+      - {x: 111.5, y: 426.5}
+      - {x: 106.5, y: 435.5}
+    - - {x: 121.5, y: 428.5}
+      - {x: 121.5, y: 398.5}
+      - {x: 134.5, y: 384.5}
+      - {x: 161.5, y: 384.5}
+      - {x: 162.5, y: 387.5}
+      - {x: 162.5, y: 423.5}
+      - {x: 159.5, y: 428.5}
+    - - {x: -136.5, y: 441.5}
+      - {x: -146.5, y: 433.5}
+      - {x: -146.5, y: 393.5}
+      - {x: -135.5, y: 386.5}
+      - {x: -101.5, y: 386.5}
+      - {x: -97.5, y: 399.5}
+      - {x: -97.5, y: 432.5}
+      - {x: -115.5, y: 441.5}
+    - - {x: -82.5, y: 437.5}
+      - {x: -79.5, y: 440.5}
+      - {x: -81.5, y: 438.5}
+      - {x: -81.5, y: 435.5}
     physicsShape: []
     bones: []
     spriteID: 5e97eb03825dee720800000000000000
