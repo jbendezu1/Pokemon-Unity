@@ -38,6 +38,7 @@ public class Intro : MonoBehaviour
         BG.gameObject.SetActive(true);
         BG2.gameObject.SetActive(true);
         BG3.gameObject.SetActive(true);
+        BG0.gameObject.SetActive(true);
         IntroBackground.gameObject.SetActive(false);
         yield return StartCoroutine(RunIntro());
     }
