@@ -24,7 +24,8 @@ public class NPCController : MonoBehaviour, Interactable
         if (state == NPCState.Idle)
         {
             state = NPCState.Dialog;
-            character.LookTowards(initiator.position);
+            if (character != null)
+                character.LookTowards(initiator.position);
             StartCoroutine(DialogManager.Instance.ShowDialog(dialog, () =>
             {
                 idleTime = 0f;
@@ -47,7 +48,8 @@ public class NPCController : MonoBehaviour, Interactable
                 }
             }
         }
-        character.HandleUpdate();
+        if (character != null)
+            character.HandleUpdate();
     }
 
     IEnumerator Walk()
