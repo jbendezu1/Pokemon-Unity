@@ -9,12 +9,21 @@ public class SurfDetection : MonoBehaviour, Interactable
     [SerializeField] Button firstButton;
     [SerializeField] Decision decision;
     [SerializeField] GameObject player;
+    [SerializeField] Dialog myDialog;
 
     public void Interact(Transform initiator)
     {
-        string text = GetSurfablePokemon();
+        string text = "";
+        string spritename = player.GetComponent<SpriteRenderer>().sprite.name;
 
-        StartCoroutine(DialogManager.Instance.TypeDialog(text));
+        if (!spritename.Contains("Trainer"))
+            text = GetSurfablePokemon();
+        else
+            text = "Would you like to go back on land?";
+
+        myDialog.Lines.Clear();
+        myDialog.Lines.Insert(0,text);
+        StartCoroutine(DialogManager.Instance.ShowDialog(myDialog));
 
         // Show decision box if player has surfable pokemon
         if (!text.Equals("You cannot travel on water right now."))
