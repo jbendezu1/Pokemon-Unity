@@ -3,24 +3,18 @@ using System.Collections.Generic;
 using UnityEngine;
 using UnityEngine.UI;
 
-public class SurfDetection : MonoBehaviour, InteractOcean
+public class SurfDetection : MonoBehaviour, Interactable
 {
     [SerializeField] GameObject decisionBox;
     [SerializeField] Button firstButton;
     [SerializeField] Decision decision;
     [SerializeField] GameObject player;
-    Dialog dialog = new Dialog();
 
-    public void Interact()
+    public void Interact(Transform initiator)
     {
         string text = GetSurfablePokemon();
-        dialog.Lines.Add(text);
 
-        foreach(string x in dialog.Lines)
-        {
-            Debug.Log(x);
-        }
-        StartCoroutine(DialogManager.Instance.ShowDialog(dialog));
+        StartCoroutine(DialogManager.Instance.TypeDialog(text));
 
         // Show decision box if player has surfable pokemon
         if (!text.Equals("You cannot travel on water right now."))
