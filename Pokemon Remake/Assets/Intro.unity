@@ -155,8 +155,8 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0, y: 0}
   m_AnchorMax: {x: 1, y: 1}
-  m_AnchoredPosition: {x: 0.90625, y: 6.199997}
-  m_SizeDelta: {x: -1102.0375, y: -149.69403}
+  m_AnchoredPosition: {x: 0, y: 5.299988}
+  m_SizeDelta: {x: -1166.4069, y: -172.61246}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &19617774
 MonoBehaviour:
@@ -212,7 +212,7 @@ GameObject:
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 0
+  m_IsActive: 1
 --- !u!224 &29083070
 RectTransform:
   m_ObjectHideFlags: 0
@@ -229,7 +229,7 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0, y: 0}
   m_AnchorMax: {x: 1, y: 1}
-  m_AnchoredPosition: {x: -0.01977539, y: -0.0051116943}
+  m_AnchoredPosition: {x: 0, y: 0}
   m_SizeDelta: {x: -680.9992, y: -289.41772}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &29083071
@@ -462,7 +462,7 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0, y: 0}
   m_AnchorMax: {x: 1, y: 1}
-  m_AnchoredPosition: {x: 0, y: -0.02658081}
+  m_AnchoredPosition: {x: 0, y: -0.026611328}
   m_SizeDelta: {x: 22, y: -89.03262}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &352616568
@@ -1252,15 +1252,17 @@ MonoBehaviour:
   IntroLogo: {fileID: 2095422394}
   PushToStart: {fileID: 2098774424}
   IntroBackground: {fileID: 352616568}
+  Professor: {fileID: 19617774}
+  DialogBox: {fileID: 1865855562}
   BG: {fileID: 886484509}
   BG2: {fileID: 343925661}
   BG3: {fileID: 536927503}
   BG4: {fileID: 658486372}
-  StarterSelectionScreen: {fileID: 449350351}
+  StarterSelectionScreen: {fileID: 0}
   dialogText: {fileID: 1427281243}
   inputField: {fileID: 766413790}
   inputFieldText: {fileID: 477224889}
-  lettersPerSecond: 100
+  lettersPerSecond: 40
   highlightedColor: {r: 0.0047169924, g: 1, b: 0.9597948, a: 1}
   pokenameText: {fileID: 0}
   pokemons:
@@ -1364,7 +1366,7 @@ Transform:
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children: []
   m_Father: {fileID: 0}
-  m_RootOrder: 1
+  m_RootOrder: 2
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &1865855560
 GameObject:
@@ -1468,11 +1470,11 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1983059857}
   m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
-  m_LocalPosition: {x: 584.2802, y: 277.29486, z: -10}
+  m_LocalPosition: {x: 628, y: 249, z: -10}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children: []
   m_Father: {fileID: 0}
-  m_RootOrder: 2
+  m_RootOrder: 1
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!81 &1983059859
 AudioListener:
@@ -1492,7 +1494,7 @@ Camera:
   m_Enabled: 1
   serializedVersion: 2
   m_ClearFlags: 1
-  m_BackGroundColor: {r: 0.19215687, g: 0.3019608, b: 0.4745098, a: 0}
+  m_BackGroundColor: {r: 0, g: 0, b: 0, a: 0}
   m_projectionMatrixMode: 1
   m_GateFitMode: 2
   m_FOVAxisMode: 0
@@ -1509,7 +1511,7 @@ Camera:
   far clip plane: 1000
   field of view: 60
   orthographic: 1
-  orthographic size: 15.509118
+  orthographic size: 251.09453
   m_Depth: -1
   m_CullingMask:
     serializedVersion: 2
@@ -1694,7 +1696,7 @@ GameObject:
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 0
+  m_IsActive: 1
 --- !u!224 &2111844097
 RectTransform:
   m_ObjectHideFlags: 0
