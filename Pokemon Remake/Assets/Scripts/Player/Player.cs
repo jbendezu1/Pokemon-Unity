@@ -117,7 +117,7 @@ public class Player : MonoBehaviour
         var facingDir = new Vector3(animator.GetFloat("MoveX"), animator.GetFloat("MoveY"));
         var interactPos = transform.position + facingDir;
 
-        //Debug.DrawLine(transform.position, interactPos, Color.green, 0.3f);
+        Debug.DrawLine(transform.position, interactPos, Color.green, 0.3f);
 
 
         var collider = Physics2D.OverlapCircle(interactPos, 0.3f, interactableLayer);

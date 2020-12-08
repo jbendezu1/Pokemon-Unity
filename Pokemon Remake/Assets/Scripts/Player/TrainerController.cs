@@ -10,9 +10,10 @@ public class TrainerController : MonoBehaviour, Interactable
     [SerializeField] Dialog dialogAfterBattle;
     [SerializeField] GameObject exclamation;
     [SerializeField] GameObject fov;
+    [SerializeField] GameObject fovParent;
 
     Character character;
-
+    
     bool battleLost = false;
     private void Awake()
     {
@@ -57,7 +58,7 @@ public class TrainerController : MonoBehaviour, Interactable
         var moveVec = diff - diff.normalized;
         moveVec = new Vector2(Mathf.Round(moveVec.x), Mathf.Round(moveVec.y));
 
-        yield return character.Move(moveVec);
+        yield return character.Move(moveVec, true);
 
         // Show dialog
         StartCoroutine(DialogManager.Instance.ShowDialog(dialog, () =>
@@ -81,8 +82,7 @@ public class TrainerController : MonoBehaviour, Interactable
             angle = 180f;
         else if (dir == FacingDirection.Left)
             angle = 270;
-
-        fov.transform.eulerAngles = new Vector3(0f, 0f, angle);
+        fovParent.transform.eulerAngles = new Vector3(0f, 0f, angle);
     }
 
     public string Name
