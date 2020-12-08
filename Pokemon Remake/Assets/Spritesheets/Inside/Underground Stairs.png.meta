@@ -1,0 +1,455 @@
+fileFormatVersion: 2
+guid: 5db4380ebc406ac458ec279baf4a829b
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 5442460533592708707
+    second: Underground Stairs_0
+  - first:
+      213: 6550269504331890777
+    second: Underground Stairs_1
+  - first:
+      213: -4684544570334928905
+    second: Underground Stairs_2
+  - first:
+      213: 3870098947230334400
+    second: Underground Stairs_3
+  - first:
+      213: 7269332469467536690
+    second: Underground Stairs_4
+  - first:
+      213: -6311540960555090704
+    second: Underground Stairs_5
+  - first:
+      213: 5909714038703944461
+    second: Underground Stairs_6
+  - first:
+      213: -3264858339920562275
+    second: Underground Stairs_7
+  - first:
+      213: 8792940685887909493
+    second: Underground Stairs_8
+  - first:
+      213: 6306037846899131835
+    second: Underground Stairs_9
+  - first:
+      213: 5246134988635591901
+    second: Underground Stairs_10
+  - first:
+      213: 6589757950399925007
+    second: Underground Stairs_11
+  - first:
+      213: 6870000694550765748
+    second: Underground Stairs_12
+  - first:
+      213: -1715108924043462874
+    second: Underground Stairs_13
+  - first:
+      213: 5532853917694842263
+    second: Underground Stairs_14
+  - first:
+      213: 6499055287572458145
+    second: Underground Stairs_15
+  - first:
+      213: -7133795289710479923
+    second: Underground Stairs_16
+  - first:
+      213: 1664242118232942545
+    second: Underground Stairs_17
+  - first:
+      213: 5855233529175263547
+    second: Underground Stairs_18
+  - first:
+      213: 7464769311394107213
+    second: Underground Stairs_19
+  - first:
+      213: -7469818327189874008
+    second: Underground Stairs_20
+  - first:
+      213: -2325520255391535281
+    second: Underground Stairs_21
+  - first:
+      213: 5615922366715151898
+    second: Underground Stairs_22
+  - first:
+      213: -143421966728021792
+    second: Underground Stairs_23
+  - first:
+      213: -7071546958814517676
+    second: Underground Stairs_24
+  - first:
+      213: 1094803936057119479
+    second: Underground Stairs_25
+  - first:
+      213: -3476679317979896478
+    second: Underground Stairs_26
+  - first:
+      213: 414504505887447257
+    second: Underground Stairs_27
+  - first:
+      213: -9069490160194226110
+    second: Underground Stairs_28
+  - first:
+      213: -8766995721875586853
+    second: Underground Stairs_29
+  - first:
+      213: 3353611232589817043
+    second: Underground Stairs_30
+  - first:
+      213: -606536044023349159
+    second: Underground Stairs_31
+  - first:
+      213: 382967456333812421
+    second: Underground Stairs_32
+  - first:
+      213: -4586981388927497318
+    second: Underground Stairs_33
+  - first:
+      213: -3600635710022962535
+    second: Underground Stairs_34
+  - first:
+      213: -5845561833662690200
+    second: Underground Stairs_6
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 16
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Underground Stairs_0
+      rect:
+        serializedVersion: 2
+        x: 89
+        y: 58
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 0, y: 6}
+        - {x: 0, y: 5}
+        - {x: -2, y: 5}
+        - {x: -2, y: 4}
+        - {x: -4, y: 4}
+        - {x: -4, y: 3}
+        - {x: -6, y: 3}
+        - {x: -6, y: 2}
+        - {x: -8, y: 2}
+        - {x: -8, y: -8}
+        - {x: 8, y: -8}
+        - {x: 8, y: 8}
+        - {x: 4, y: 8}
+        - {x: 4, y: 7}
+        - {x: 2, y: 7}
+        - {x: 2, y: 6}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 36650e81501878b40800000000000000
+      internalID: 5442460533592708707
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Underground Stairs_1
+      rect:
+        serializedVersion: 2
+        x: 89
+        y: 42
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -8, y: 8}
+        - {x: -8, y: -8}
+        - {x: 8, y: -8}
+        - {x: 8, y: 8}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 950c6ccc86b37ea50800000000000000
+      internalID: 6550269504331890777
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Underground Stairs_2
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 58
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 6, y: 1}
+        - {x: 6, y: 0}
+        - {x: 4, y: 0}
+        - {x: 4, y: -1}
+        - {x: 2, y: -1}
+        - {x: 2, y: -2}
+        - {x: 0, y: -2}
+        - {x: 0, y: -3}
+        - {x: -2, y: -3}
+        - {x: -2, y: -4}
+        - {x: -4, y: -4}
+        - {x: -4, y: -5}
+        - {x: -6, y: -5}
+        - {x: -6, y: -6}
+        - {x: -8, y: -6}
+        - {x: -8, y: -8}
+        - {x: 8, y: -8}
+        - {x: 8, y: 1}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7ff93b678872dfeb0800000000000000
+      internalID: -4684544570334928905
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Underground Stairs_3
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 42
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0cdf643ec7a55b530800000000000000
+      internalID: 3870098947230334400
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Underground Stairs_5
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 68
+        width: 16
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -8, y: 8}
+        - {x: -8, y: -8}
+        - {x: 8, y: -8}
+        - {x: 8, y: 8}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0fc39c4bfe6e868a0800000000000000
+      internalID: -6311540960555090704
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Underground Stairs_7
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 10
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -8, y: 8}
+        - {x: -8, y: 4}
+        - {x: 8, y: 4}
+        - {x: 8, y: 8}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d97301743a4e0b2d0800000000000000
+      internalID: -3264858339920562275
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Underground Stairs_6
+      rect:
+        serializedVersion: 2
+        x: 89
+        y: 10
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -8, y: 8}
+        - {x: -8, y: 4}
+        - {x: 5, y: 4}
+        - {x: 5, y: 6}
+        - {x: 6, y: 6}
+        - {x: 6, y: 7}
+        - {x: 7, y: 7}
+        - {x: 7, y: 8}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 86c44ffbb7460eea0800000000000000
+      internalID: -5845561833662690200
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Underground Stairs_9
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 26
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bb5879cc20c838750800000000000000
+      internalID: 6306037846899131835
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Underground Stairs_4
+      rect:
+        serializedVersion: 2
+        x: 89
+        y: 26
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 23d53dccd5bd1e460800000000000000
+      internalID: 7269332469467536690
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

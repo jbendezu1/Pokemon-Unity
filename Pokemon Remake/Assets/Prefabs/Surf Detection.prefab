@@ -12,7 +12,6 @@ GameObject:
   - component: {fileID: 1521614813408827477}
   - component: {fileID: 1521614813408827474}
   - component: {fileID: 1521614813408827476}
-  - component: {fileID: 1783291261}
   m_Layer: 14
   m_Name: Surf Detection
   m_TagString: Untagged
@@ -99,20 +98,3 @@ Rigidbody2D:
   m_SleepingMode: 1
   m_CollisionDetection: 0
   m_Constraints: 7
---- !u!114 &1783291261
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 1521614813408827478}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 215fd878a8898fc4e8a198c93c1330c6, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  dialog:
-    lines:
-    - Would you like to travel on water?
-  movementPattern: []
-  timeBetweenPattern: 0
