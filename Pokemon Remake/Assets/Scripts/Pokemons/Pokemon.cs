@@ -219,8 +219,14 @@ public class Pokemon
     {
         var movesWithPP = Moves.Where(x => x.PP > 0).ToList();
 
-        int r = Random.Range(0, movesWithPP.Count);
-        return movesWithPP[r];
+        for (int r = 0; r < movesWithPP.Count; r++)
+        {
+            if (TypeChart.GetEffectiveness(movesWithPP[r].Base.Type, this.Base.Type1) > 1 || TypeChart.GetEffectiveness(movesWithPP[r].Base.Type, this.Base.Type2) > 1)
+            {
+                return movesWithPP[r];
+            }
+        }
+        return movesWithPP[Random.Range(0, movesWithPP.Count)];
     }
 
     public bool OnBeforeMove()
