@@ -6,7 +6,6 @@ using UnityEngine;
 public class VectorValue : ScriptableObject
 {
     public Vector2 initialValue;
-    public int badgeCount;
     public Inventory playerInventory;
     public PokemonParty myPart;
 }

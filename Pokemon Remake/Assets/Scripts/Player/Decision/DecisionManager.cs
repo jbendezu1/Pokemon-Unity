@@ -8,6 +8,7 @@ using System;
 
 public class DecisionManager : MonoBehaviour
 {
+    /*
     [SerializeField] GameObject player;
     [SerializeField] GameObject dialogBox;
     [SerializeField] Text dialogText;
@@ -29,6 +30,7 @@ public class DecisionManager : MonoBehaviour
 
     public IEnumerator ShowDialog(Dialog dialog)
     {
+        Debug.Log("asd");
         yield return new WaitForEndOfFrame();
 
         OnShowDialog?.Invoke();
@@ -42,7 +44,7 @@ public class DecisionManager : MonoBehaviour
 
     public void HandleUpdate()
     {
-        if (Input.GetKeyDown(KeyCode.Z) && !isTyping)
+        if (Input.GetKeyDown(KeyCode.Return) && !isTyping)
         {
             ++currentLine;
             if (currentLine < dialog.Lines.Count)
@@ -70,4 +72,4 @@ public class DecisionManager : MonoBehaviour
         }
         isTyping = false;
     }
-}
+*/}

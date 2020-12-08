@@ -45,10 +45,12 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: eb5a7bdcae27c0044ad82347451aa378, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  incoming: west
-  moveSpeed: 10
-  targetPosition: {x: 0, y: 0, z: 0}
-  playerDecision: {fileID: 0}
+  decisionBox: {fileID: 0}
+  firstButton: {fileID: 0}
+  decision: {fileID: 0}
+  player: {fileID: 0}
+  myDialog:
+    lines: []
 --- !u!61 &1521614813408827474
 BoxCollider2D:
   m_ObjectHideFlags: 0
