@@ -12,15 +12,15 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: e479809b80cfbea48b3bd91b9b01ccfb, type: 3}
   m_Name: Psychic
   m_EditorClassIdentifier: 
-  movename: 
+  movename: Psychic Blast
   description: 
-  type: 0
-  power: 0
-  accuracy: 0
-  alwaysHits: 0
-  pp: 0
-  priority: 0
-  category: 0
+  type: 11
+  power: 70
+  accuracy: 100
+  alwaysHits: 1
+  pp: 10
+  priority: 1
+  category: 1
   effects:
     boosts: []
     status: 0

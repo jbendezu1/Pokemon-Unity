@@ -12,14 +12,14 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: e479809b80cfbea48b3bd91b9b01ccfb, type: 3}
   m_Name: Lipsuction
   m_EditorClassIdentifier: 
-  movename: 
-  description: 
-  type: 0
-  power: 0
+  movename: Liposuction
+  description: pokemon performs surgery on opposing pokemon
+  type: 1
+  power: 50
   accuracy: 0
-  alwaysHits: 0
-  pp: 0
-  priority: 0
+  alwaysHits: 1
+  pp: 10
+  priority: 1
   category: 0
   effects:
     boosts: []

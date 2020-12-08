@@ -14,10 +14,10 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   movename: 
   description: 
-  type: 0
-  power: 0
-  accuracy: 0
-  alwaysHits: 0
+  type: 12
+  power: 70
+  accuracy: 100
+  alwaysHits: 1
   pp: 0
   priority: 0
   category: 0

@@ -12,12 +12,12 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: e479809b80cfbea48b3bd91b9b01ccfb, type: 3}
   m_Name: Ice freeze
   m_EditorClassIdentifier: 
-  movename: 
+  movename: Ice
   description: 
-  type: 0
-  power: 0
-  accuracy: 0
-  alwaysHits: 0
+  type: 6
+  power: 50
+  accuracy: 100
+  alwaysHits: 1
   pp: 0
   priority: 0
   category: 0
