@@ -1,0 +1,29 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 7bbda3a8e8c7c084d9cf1108b80f9bfa, type: 3}
+  m_Name: Staravia
+  m_EditorClassIdentifier: 
+  pokename: Staravia
+  description: 
+  frontSprite: {fileID: -8693139099059903993, guid: c707900f43854314c8d9e6b7bca1d3a8,
+    type: 3}
+  backSprite: {fileID: 7953578659813170980, guid: 9eef06126d7d50f4fad53f98a6a371f8,
+    type: 3}
+  type1: 1
+  type2: 10
+  maxHP: 64
+  attack: 78
+  defense: 52
+  specialAttack: 78
+  specialDefense: 52
+  speed: 81
+  learnableMoves: []

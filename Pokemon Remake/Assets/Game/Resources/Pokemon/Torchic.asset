@@ -14,11 +14,11 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   pokename: Torchic
   description: 
-  frontSprite: {fileID: 3361809624724414900, guid: c707900f43854314c8d9e6b7bca1d3a8,
+  frontSprite: {fileID: -3690269204792933047, guid: c707900f43854314c8d9e6b7bca1d3a8,
     type: 3}
   backSprite: {fileID: -1152953000604359478, guid: 9eef06126d7d50f4fad53f98a6a371f8,
     type: 3}
-  type1: 3
+  type1: 2
   type2: 0
   maxHP: 45
   attack: 60
@@ -26,3 +26,4 @@ MonoBehaviour:
   specialAttack: 70
   specialDefense: 50
   speed: 45
+  learnableMoves: []
