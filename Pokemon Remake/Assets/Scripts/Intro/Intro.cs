@@ -89,7 +89,7 @@ public class Intro : MonoBehaviour
         yield return sequence.Append(IntroBackground.DOFade(0f, 2f));
         yield return sequence.Join(Professor.DOFade(0f,2f));
         yield return sequence.Join(DialogBox.DOFade(0f, 2f));
-        StarterSelectionScreen.gameObject.SetActive(true);
+        //StarterSelectionScreen.gameObject.SetActive(true);
         yield return (BG4.DOFade(0f, 5f)).SetDelay(1);
         //yield return StartCoroutine(StarterSelection());
         ConnectRegion();
@@ -171,6 +171,7 @@ public class Intro : MonoBehaviour
     }
     public void ConnectRegion()
     {
+        Debug.Log("I'M IN!!!!!!!!!!!");
         SceneManager.LoadScene("Region 1");
     }
 }
