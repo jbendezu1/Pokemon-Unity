@@ -31,7 +31,7 @@ public class CharacterAnimator : MonoBehaviour
         walkUpAnim = new SpriteAnimator(walkUpSprites, spriteRenderer);
         walkRightAnim = new SpriteAnimator(walkRightSprites, spriteRenderer);
         walkLeftAnim = new SpriteAnimator(walkLeftSprites, spriteRenderer);
-
+        SetFacingDirection(defaultDirection);
         currentAnim = walkDownAnim;
     }
 
