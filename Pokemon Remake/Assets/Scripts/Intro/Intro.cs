@@ -4,6 +4,7 @@ using System.Collections.Generic;
 using UnityEngine;
 using UnityEngine.UI;
 using DG.Tweening;
+using UnityEngine.SceneManagement;
 
 public class Intro : MonoBehaviour
 {
@@ -12,11 +13,13 @@ public class Intro : MonoBehaviour
     [SerializeField] Image IntroLogo;
     [SerializeField] Text PushToStart;
     [SerializeField] Image IntroBackground;
+    [SerializeField] Image Professor;
+    [SerializeField] Image DialogBox;
     [SerializeField] Image BG;
     [SerializeField] Image BG2;
     [SerializeField] Image BG3;
     [SerializeField] Image BG4;
-    [SerializeField] Image StarterSelectionScreen;
+    [SerializeField] GameObject StarterSelectionScreen;
     [SerializeField] Text dialogText;
     [SerializeField] GameObject inputField;
     [SerializeField] InputField inputFieldText;
@@ -59,7 +62,7 @@ public class Intro : MonoBehaviour
     public IEnumerator RunIntro()
     {
         var sequence = DOTween.Sequence();
-        yield return new WaitForSeconds(3);
+        yield return new WaitForSeconds(2);
         //while (!Input.GetKeyDown(KeyCode.Return))
             //yield return null;
         yield return sequence.Join(DeveloperText.DOFade(0f, 2f));
@@ -77,16 +80,19 @@ public class Intro : MonoBehaviour
         yield return sequence.Join(PushToStart.DOFade(0f, 2f));
         IntroBackground.gameObject.SetActive(true);
         yield return (BG2.DOFade(0f, 5f)).SetDelay(2);
-        new WaitForSeconds(2);
+        yield return new WaitForSeconds(2);
         yield return StartCoroutine(TypeDialog(""));
         yield return StartCoroutine(TypeDialog("Hello there and welcome to the world of Pokemon. I'm terribly sorry for what happened, your father was a great man and an excellent trainer."));
         yield return StartCoroutine(TypeDialog("Who am I? Why I'm Professor Carbone of course, leading expert in Pokemon and programming. I'm also the person in charge to hand you your partner pokemon."));
         yield return StartCoroutine(TypeDialog("I'm sure now you must want to set off on your own adventure and continue your fathers legacy as one of the elite trainers here in the Noraldo region."));
         yield return StartCoroutine(TypeDialog("Now "+playerName + ", why don't we get you your partner Pokemon?"));
-        IntroBackground.DOFade(0f, 2f);
-        StarterSelectionScreen.gameObject.SetActive(true);
+        yield return sequence.Append(IntroBackground.DOFade(0f, 2f));
+        yield return sequence.Join(Professor.DOFade(0f,2f));
+        yield return sequence.Join(DialogBox.DOFade(0f, 2f));
+        //StarterSelectionScreen.gameObject.SetActive(true);
         yield return (BG4.DOFade(0f, 5f)).SetDelay(1);
-        yield return StartCoroutine(StarterSelection());
+        //yield return StartCoroutine(StarterSelection());
+        ConnectRegion();
     }
     public IEnumerator TypeDialog(string dialog)
     {
@@ -165,6 +171,7 @@ public class Intro : MonoBehaviour
     }
     public void ConnectRegion()
     {
-
+        Debug.Log("I'M IN!!!!!!!!!!!");
+        SceneManager.LoadScene("Region 1");
     }
 }

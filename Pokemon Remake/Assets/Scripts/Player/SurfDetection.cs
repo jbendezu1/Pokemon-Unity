@@ -2,7 +2,7 @@
 using System.Collections.Generic;
 using UnityEngine;
 using UnityEngine.UI;
-
+using UnityEngine.SceneManagement;
 public class SurfDetection : MonoBehaviour, Interactable
 {
     [SerializeField] GameObject decisionBox;
@@ -10,7 +10,7 @@ public class SurfDetection : MonoBehaviour, Interactable
     [SerializeField] Decision decision;
     [SerializeField] GameObject player;
     [SerializeField] Dialog myDialog;
-
+   
     public void Interact(Transform initiator)
     {
         string text = "";

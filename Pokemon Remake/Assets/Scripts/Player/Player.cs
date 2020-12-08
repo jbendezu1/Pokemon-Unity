@@ -2,6 +2,7 @@
 using System.Collections;
 using UnityEngine;
 using UnityEngine.UI;
+using UnityEngine.SceneManagement;
 using Vector3 = UnityEngine.Vector3;
 using Vector2 = UnityEngine.Vector2;
 using Debug = UnityEngine.Debug;
@@ -33,7 +34,7 @@ public class Player : MonoBehaviour
     public LayerMask Grass;
     public LayerMask interactableLayer;
 
-    public int badges = 0;
+    public static int badges = 0;
 
     private bool isMoving;
     private bool onMilotic;
@@ -61,6 +62,8 @@ public class Player : MonoBehaviour
 
     private void Start()
     {
+        string sceneName = SceneManager.GetActiveScene().name;
+
         transform.position = startingPosition.initialValue;
         fadeAnimator = fade.GetComponent<Animator>();
         fadeImage = fade.GetComponent<Image>();
@@ -114,7 +117,7 @@ public class Player : MonoBehaviour
         var facingDir = new Vector3(animator.GetFloat("MoveX"), animator.GetFloat("MoveY"));
         var interactPos = transform.position + facingDir;
 
-        //Debug.DrawLine(transform.position, interactPos, Color.green, 0.3f);
+        Debug.DrawLine(transform.position, interactPos, Color.green, 0.3f);
 
 
         var collider = Physics2D.OverlapCircle(interactPos, 0.3f, interactableLayer);

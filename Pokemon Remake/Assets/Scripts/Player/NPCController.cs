@@ -12,7 +12,7 @@ public class NPCController : MonoBehaviour, Interactable
     NPCState state;
     float idleTime = 0f;
     int currentPattern = 0;
-
+    bool isTrainer = false;
     Character character;
     
     private void Awake()
@@ -55,10 +55,10 @@ public class NPCController : MonoBehaviour, Interactable
     IEnumerator Walk()
     {
         state = NPCState.Walking;
-
+        
         var oldPos = transform.position;
 
-        yield return character.Move(movementPattern[currentPattern]);
+        yield return character.Move(movementPattern[currentPattern],isTrainer);
 
         if (transform.position != oldPos)
             currentPattern = (currentPattern + 1) % movementPattern.Count;

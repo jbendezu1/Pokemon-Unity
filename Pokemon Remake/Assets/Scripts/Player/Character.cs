@@ -15,7 +15,7 @@ public class Character : MonoBehaviour
         animator = GetComponent<CharacterAnimator>();
     }
 
-    public IEnumerator Move(Vector2 moveVec, Action OnMoveOver = null)
+    public IEnumerator Move(Vector2 moveVec, bool isTrainer, Action OnMoveOver = null)
     {
         animator.MoveX = Mathf.Clamp(moveVec.x, -1f, 1f);
         animator.MoveY = Mathf.Clamp(moveVec.y, -1f, 1f);
@@ -24,7 +24,7 @@ public class Character : MonoBehaviour
         targetPos.x += moveVec.x;
         targetPos.y += moveVec.y;
 
-        if (!IsPathClear(targetPos))
+        if (!IsPathClear(targetPos) && isTrainer == false)
         {
             yield break;
         }
@@ -51,7 +51,7 @@ public class Character : MonoBehaviour
     {
         var diff = targetPos - transform.position;
         var dir = diff.normalized;
-
+       
         if (Physics2D.BoxCast(transform.position + dir, new Vector2(0.2f, 0.2f), 0f, dir, diff.magnitude - 1, GameLayers.i.ForegroundL | GameLayers.i.PlayerL) == true)
         {
             Debug.LogError("Ooof1");
