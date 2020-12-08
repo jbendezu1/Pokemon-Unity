@@ -5,17 +5,16 @@ using UnityEngine;
 public class BaseLevel : MonoBehaviour
 {
     public BattleUnit unit;
-    public Player badges;
 
     public int Pokelevel()
     {
         if (unit.IsPlayerUnit)
         {
-            return 6 + 10*badges.badges;
+            return 6 + (10*Player.badges);
         }
         else
         {
-            return Random.Range(4 + 10 * badges.badges, 8 + 10 * badges.badges);
+            return Random.Range(4 + 10 * Player.badges, 8 + 10 * Player.badges);
         }
     }
 }
