@@ -1,6 +1,7 @@
 ﻿using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
+using UnityEngine.UI;
 
 public class UnstableGround : MonoBehaviour
 {
@@ -10,11 +11,14 @@ public class UnstableGround : MonoBehaviour
     public float amount = 0.01f;
     private float y;
     bool willFall = false;
+    private Sprite volcanicSprite;
+    
     // Start is called before the first frame update
     void Start()
     {
         y = transform.position.y;
         thisSprite = this.GetComponent<SpriteRenderer>();
+        volcanicSprite = thisSprite.sprite;
     }
 
     void Update()
@@ -31,17 +35,24 @@ public class UnstableGround : MonoBehaviour
         }
 
         if (thisSprite.sprite == null)
-        {
-            thisSprite.sprite = ;
+        {            
+            thisSprite.sprite = volcanicSprite;
         }
-    }
-
-
+    }    
 
     void Shakey()
     {
         y = startingPos.y + Mathf.Sin(Time.time * speed) * amount;
         transform.position = new Vector3(transform.position.x, y, transform.position.z);
         willFall = true;
+    }
+
+    void RecoverSprite()
+    {
+        float start = 0;
+        while(start < 10)
+        {
+            start += Time.deltaTime;
+        }
     }
 }

@@ -10,9 +10,12 @@ public class SurfDetection : MonoBehaviour, Interactable
     [SerializeField] Decision decision;
     [SerializeField] GameObject player;
     [SerializeField] Dialog myDialog;
-   
+
+    private bool thisInteraction = false;
+
     public void Interact(Transform initiator)
     {
+        thisInteraction = true;
         string text = "";
         string spritename = player.GetComponent<SpriteRenderer>().sprite.name;
         if (spritename.Contains("Trainer"))
@@ -45,23 +48,25 @@ public class SurfDetection : MonoBehaviour, Interactable
 
     public void Update()
     {
-        if (decision.decision == "yes")
+        if (thisInteraction)
         {
-            var x = player.GetComponent<Animator>().GetFloat("MoveX") * 2;
-            var y = player.GetComponent<Animator>().GetFloat("MoveY") * 2;
-            Vector3 destination = new Vector3(player.transform.position.x + x, player.transform.position.y + y, player.transform.position.z);
-            StartCoroutine(MovePlayer(destination));
-            decision.decision = null;
+            if (decision.decision == "yes")
+            {
+                var x = player.GetComponent<Animator>().GetFloat("MoveX") * 2;
+                var y = player.GetComponent<Animator>().GetFloat("MoveY") * 2;
+                Vector3 destination = new Vector3(player.transform.position.x + x, player.transform.position.y + y, player.transform.position.z);
+                StartCoroutine(MovePlayer(destination));
+                decision.decision = null;
+                thisInteraction = false;
+            }
 
-        }
-
-        if (decision.decision == "no")
-        {
-            Debug.Log("Player chose noooo");
-            decisionBox.SetActive(false);
-            decision.decision = null;
-
-        }
+            if (decision.decision == "no")
+            {
+                decisionBox.SetActive(false);
+                decision.decision = null;
+                thisInteraction = false;
+            }
+        }        
     }
 
     public IEnumerator MovePlayer(Vector3 targetPosition)
