@@ -1,0 +1,33 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 7bbda3a8e8c7c084d9cf1108b80f9bfa, type: 3}
+  m_Name: Glaceon
+  m_EditorClassIdentifier: 
+  pokename: Glaceon
+  description: 
+  frontSprite: {fileID: -4250673752050378190, guid: c707900f43854314c8d9e6b7bca1d3a8,
+    type: 3}
+  backSprite: {fileID: -2515131092205591471, guid: 9eef06126d7d50f4fad53f98a6a371f8,
+    type: 3}
+  type1: 6
+  type2: 0
+  maxHP: 78
+  attack: 84
+  defense: 78
+  specialAttack: 109
+  specialDefense: 85
+  speed: 100
+  learnableMoves:
+  - moveBase: {fileID: 11400000, guid: 8e829b3294056084ca7096497fa95d65, type: 2}
+    level: 1
+  - moveBase: {fileID: 11400000, guid: 7080cedb71df7c5419e2c3bc73316c67, type: 2}
+    level: 1

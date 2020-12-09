@@ -1,0 +1,31 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 7bbda3a8e8c7c084d9cf1108b80f9bfa, type: 3}
+  m_Name: Tangrowth
+  m_EditorClassIdentifier: 
+  pokename: Tangrowth
+  description: 
+  frontSprite: {fileID: 5961588717602764429, guid: c707900f43854314c8d9e6b7bca1d3a8,
+    type: 3}
+  backSprite: {fileID: 8954580257171704528, guid: 9eef06126d7d50f4fad53f98a6a371f8,
+    type: 3}
+  type1: 5
+  type2: 0
+  maxHP: 60
+  attack: 60
+  defense: 50
+  specialAttack: 20
+  specialDefense: 20
+  speed: 20
+  learnableMoves:
+  - moveBase: {fileID: 11400000, guid: ec3164bf6659d7f4b85d64fc78140d50, type: 2}
+    level: 1

@@ -65,7 +65,6 @@ public class Player : MonoBehaviour
         string sceneName = SceneManager.GetActiveScene().name;
 
         transform.position = startingPosition.initialValue;
-
         fadeAnimator = fade.GetComponent<Animator>();
         fadeImage = fade.GetComponent<Image>();
     }

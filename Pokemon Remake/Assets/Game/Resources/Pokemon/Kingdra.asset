@@ -1,0 +1,37 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 7bbda3a8e8c7c084d9cf1108b80f9bfa, type: 3}
+  m_Name: Kingdra
+  m_EditorClassIdentifier: 
+  pokename: Kingdra
+  description: 
+  frontSprite: {fileID: 7895016931303085489, guid: c707900f43854314c8d9e6b7bca1d3a8,
+    type: 3}
+  backSprite: {fileID: 5086133600623282089, guid: 9eef06126d7d50f4fad53f98a6a371f8,
+    type: 3}
+  type1: 3
+  type2: 15
+  maxHP: 70
+  attack: 70
+  defense: 70
+  specialAttack: 80
+  specialDefense: 80
+  speed: 40
+  learnableMoves:
+  - moveBase: {fileID: 11400000, guid: b8bd238cf5d79204ab742cea1fa57751, type: 2}
+    level: 1
+  - moveBase: {fileID: 11400000, guid: 0e53131e0cf9e564a8a04fe76ef45910, type: 2}
+    level: 1
+  - moveBase: {fileID: 11400000, guid: ba676f23c5fec87469bd676a087259ac, type: 2}
+    level: 1
+  - moveBase: {fileID: 11400000, guid: 0d09ea8f4157b3a46a5e3f1625ffa8c6, type: 2}
+    level: 1

@@ -14,11 +14,11 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   pokename: Treecko
   description: 
-  frontSprite: {fileID: 820973875083669711, guid: c707900f43854314c8d9e6b7bca1d3a8,
+  frontSprite: {fileID: -3071767504555388650, guid: c707900f43854314c8d9e6b7bca1d3a8,
     type: 3}
   backSprite: {fileID: 8634459873235054229, guid: 9eef06126d7d50f4fad53f98a6a371f8,
     type: 3}
-  type1: 2
+  type1: 5
   type2: 0
   maxHP: 40
   attack: 45
@@ -26,3 +26,4 @@ MonoBehaviour:
   specialAttack: 65
   specialDefense: 55
   speed: 70
+  learnableMoves: []

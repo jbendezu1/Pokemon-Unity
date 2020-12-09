@@ -7,41 +7,51 @@ public class Race : MonoBehaviour
 {
     public bool finished;
     public Vector2 restartLocation;
-    private Animator animator;
+
+    public GameObject trigger;
     public GameObject fadeObject;
     private GameObject player;
+    public GameObject timer;
 
+    private Animator playerAnimator;
     private Animator fade;
     private Player myPlayer;
-
-    [SerializeField] Timer myTimer;
+    private Timer raceTimer;
     
     private void Awake()
     {
         player = GameObject.Find("Player");
-        animator = player.GetComponent<Animator>();
+        playerAnimator = player.GetComponent<Animator>();
         fade = GameObject.Find("Fade").GetComponent<Animator>();
+        timer.SetActive(true);
     }
 
     private void Start()
     {
         finished = false;
         myPlayer = player.GetComponent<Player>();
-        myTimer.timerIsRunning = true;
+        raceTimer = timer.GetComponent<Timer>();
     }
 
     private void Update()
     {
-        // Check if timer is on
-        if (myTimer.timerIsRunning)
+        // The race starts when the trigger is not active
+        if (!trigger.activeSelf)
         {
-            // Check if we finished race
-            if (finished)
+            // Check if timer hasn't reach 0
+            if (raceTimer.timerIsRunning)
             {
-                myTimer.timerIsRunning = false;
+                // Check if we finished race in time
+                if (finished)
+                {
+                    raceTimer.timerIsRunning = false;
+                    StopRace();
+                }
             }
             else
+            {
                 StartCoroutine(MovePlayer(player.transform));
+            }
         }
     }
 
@@ -49,9 +59,19 @@ public class Race : MonoBehaviour
     IEnumerator MovePlayer(Transform playerTransform)
     {
         fade.SetTrigger("FadeOut");
+        playerAnimator.SetBool("isSurfing",false);
         myPlayer.hasTeleported = true;
         myPlayer.canMove = false;
         yield return new WaitForSeconds(0);
         playerTransform.position = restartLocation;
+        StopRace();
+    }
+
+    public void StopRace()
+    {
+        trigger.SetActive(true);
+        raceTimer.timeRemaining = 180;
+        timer.SetActive(false);
+        this.gameObject.SetActive(false);
     }
 }

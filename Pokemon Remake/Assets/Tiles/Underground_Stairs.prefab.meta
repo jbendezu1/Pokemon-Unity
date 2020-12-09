@@ -1,6 +1,11 @@
 fileFormatVersion: 2
+<<<<<<< HEAD:Pokemon Remake/Assets/Region 55.unity.meta
+guid: e744b7b7db340354cb0493abc6c0a46e
+DefaultImporter:
+=======
 guid: ea4dc5f73aa18f144aa6e856485bdca8
 PrefabImporter:
+>>>>>>> d5c4af8405d291a38cb414ce8ef58d1a0ab99c19:Pokemon Remake/Assets/Tiles/Underground_Stairs.prefab.meta
   externalObjects: {}
   userData: 
   assetBundleName: 

@@ -19,15 +19,16 @@ public class Intro : MonoBehaviour
     [SerializeField] Image BG2;
     [SerializeField] Image BG3;
     [SerializeField] Image BG4;
-    [SerializeField] GameObject StarterSelectionScreen;
+    [SerializeField] Image StarterSelectionScreen;
     [SerializeField] Text dialogText;
     [SerializeField] GameObject inputField;
     [SerializeField] InputField inputFieldText;
     [SerializeField] int lettersPerSecond;
     [SerializeField] Color highlightedColor;
-    [SerializeField] Text pokenameText;
+    [SerializeField] BattleDialogBox dialogBox;
     PartyMemberUI[] memberSlots;
     public List<Pokemon> pokemons;
+    [SerializeField] List<Text> actionTexts;
 
 
     Color DevIm;
@@ -47,6 +48,8 @@ public class Intro : MonoBehaviour
         BG.gameObject.SetActive(true);
         BG2.gameObject.SetActive(true);
         BG3.gameObject.SetActive(true);
+        BG4.gameObject.SetActive(true);
+        StarterSelectionScreen.gameObject.SetActive(true);
         IntroBackground.gameObject.SetActive(true);
         yield return StartCoroutine(BeforeIntro());
         yield return StartCoroutine(RunIntro());
@@ -89,10 +92,9 @@ public class Intro : MonoBehaviour
         yield return sequence.Append(IntroBackground.DOFade(0f, 2f));
         yield return sequence.Join(Professor.DOFade(0f,2f));
         yield return sequence.Join(DialogBox.DOFade(0f, 2f));
-        //StarterSelectionScreen.gameObject.SetActive(true);
         yield return (BG4.DOFade(0f, 5f)).SetDelay(1);
-        //yield return StartCoroutine(StarterSelection());
-        ConnectRegion();
+        StarterSelection();
+        
     }
     public IEnumerator TypeDialog(string dialog)
     {
@@ -105,73 +107,58 @@ public class Intro : MonoBehaviour
 
         yield return new WaitForSeconds(1f);
     }
-    public IEnumerator StarterSelection()
+    public void StarterSelection()
     {
-        SetPartyData(pokemons);
         HandlePartySelection();
-        yield return null;
+        ConnectRegion();
     }
     public string GetPlayerName()
     {
         playerName = inputFieldText.text;
         return playerName;
     }
-    public void SetData(Pokemon pokemon)
-    {
-        _pokemon = pokemon;
-        pokenameText.text = "<b>" + pokemon.Base.Name + "</b>";
-    }
-    public void SetSelected(bool selected)
-    {
-        if (selected)
-            pokenameText.color = highlightedColor;
-        else
-            pokenameText.color = Color.black;
-    }
-    public void SetPartyData(List<Pokemon> pokemons)
-    {
-        this.pokemons = pokemons;
-        for (int i = 0; i < memberSlots.Length; i++)
-        {
-            if (i < pokemons.Count)
-                memberSlots[i].SetData(pokemons[i]);
-            else
-                memberSlots[i].gameObject.SetActive(false);
-        }
-    }
-    public void UpdateMemberSelection(int selectedMember)
-    {
-        for (int i = 0; i < pokemons.Count; i++)
-        {
-            if (i == selectedMember)
-                memberSlots[i].SetSelected(true);
-            else
-                memberSlots[i].SetSelected(false);
-        }
-    }
+    
     void HandlePartySelection()
     {
         if (Input.GetKeyDown(KeyCode.RightArrow))
             ++currentMember;
-        else if (Input.GetKeyDown(KeyCode.LeftArrow))
+        if (Input.GetKeyDown(KeyCode.LeftArrow))
             --currentMember;
-        else if (Input.GetKeyDown(KeyCode.DownArrow))
-            currentMember += 2;
-        else if (Input.GetKeyDown(KeyCode.UpArrow))
-            currentMember -= 2;
+        currentMember = Mathf.Clamp(currentMember, 0, 2);
 
-        currentMember = Mathf.Clamp(currentMember, 0, pokemons.Count - 1);
-
-        UpdateMemberSelection(currentMember);
+        dialogBox.UpdateActionSelection(currentMember);
 
         if (Input.GetKeyDown(KeyCode.Return))
         {
-            
+            if (currentMember == 0)
+            {
+
+            }
+            if (currentMember == 1)
+            {
+
+            }
+            if (currentMember == 2)
+            {
+
+            }
+
+        }
+    }
+    public void UpdateActionSelection(int selectedAction)
+    {
+        for (int i = 0; i < actionTexts.Count; i++)
+        {
+            if (i == selectedAction)
+            {
+                actionTexts[i].color = highlightedColor;
+            }
+            else
+                actionTexts[i].color = Color.black;
         }
     }
     public void ConnectRegion()
     {
-        Debug.Log("I'M IN!!!!!!!!!!!");
         SceneManager.LoadScene("Region 1");
     }
 }

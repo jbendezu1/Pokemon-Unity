@@ -9,16 +9,25 @@ public class Timer : MonoBehaviour
     public bool timerIsRunning = false;
     public Text timeText;
 
+    private void Start()
+    {
+        timerIsRunning = true;
+    }
+
     private void Update()
     {
-        if (timeRemaining > 0)
+        if (timerIsRunning)
         {
-            timeRemaining -= Time.deltaTime;
-        }
-        else
-        {
-            timeRemaining = 0;
-            timerIsRunning = false;
+            if (timeRemaining > 0)
+            {
+                timeRemaining -= Time.deltaTime;
+                DisplayTime(timeRemaining);
+            }
+            else
+            {
+                timeRemaining = 0;
+                timerIsRunning = false;
+            }
         }
 
     }
