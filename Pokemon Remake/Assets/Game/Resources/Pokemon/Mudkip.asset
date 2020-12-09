@@ -14,11 +14,11 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   pokename: Mudkip
   description: 
-  frontSprite: {fileID: 453985570441103224, guid: c707900f43854314c8d9e6b7bca1d3a8,
+  frontSprite: {fileID: 2917967456762726543, guid: c707900f43854314c8d9e6b7bca1d3a8,
     type: 3}
-  backSprite: {fileID: -4064971659082492824, guid: 9eef06126d7d50f4fad53f98a6a371f8,
+  backSprite: {fileID: 5234127417908825073, guid: 9eef06126d7d50f4fad53f98a6a371f8,
     type: 3}
-  type1: 4
+  type1: 3
   type2: 0
   maxHP: 50
   attack: 70
@@ -26,3 +26,12 @@ MonoBehaviour:
   specialAttack: 50
   specialDefense: 50
   speed: 40
+  learnableMoves:
+  - moveBase: {fileID: 11400000, guid: 0e53131e0cf9e564a8a04fe76ef45910, type: 2}
+    level: 0
+  - moveBase: {fileID: 0}
+    level: 0
+  - moveBase: {fileID: 0}
+    level: 0
+  - moveBase: {fileID: 0}
+    level: 0
