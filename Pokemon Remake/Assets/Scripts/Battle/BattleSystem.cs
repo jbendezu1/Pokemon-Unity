@@ -4,7 +4,7 @@ using System.Collections.Generic;
 using UnityEngine;
 using UnityEngine.UI;
 
-public enum BattleState { Start, ActionSelection, MoveSelection, RunningTurn, Busy, PartyScreen, AboutToUse, BattleOver}
+public enum BattleState { Start, ActionSelection, MoveSelection, RunningTurn, Busy, PartyScreen, AboutToUse, BattleOver, Capture}
 public enum BattleAction { Move, SwitchPokemon, UseItem, Run }
 
 public class BattleSystem : MonoBehaviour
@@ -255,6 +255,10 @@ public class BattleSystem : MonoBehaviour
 
             if (targetUnit.pokemon.HP <= 0)
             {
+               // if(targetUnit == enemyUnit)
+                //{
+                  //  yield return dialogBox.TypeDialog($"Would you like to capture the wild {targetUnit.pokemon.Base.Name}?");
+                //}
                 yield return dialogBox.TypeDialog($"{targetUnit.pokemon.Base.Name} Fainted");
                 targetUnit.PlayFaintAnimation();
                 yield return new WaitForSeconds(2f);
@@ -652,5 +656,29 @@ public class BattleSystem : MonoBehaviour
 
         state = BattleState.RunningTurn;
 
+    }
+    void HandleCaptureSelection()
+    {
+        if (Input.GetKeyDown(KeyCode.DownArrow))
+            ++currentAction;
+        if (Input.GetKeyDown(KeyCode.UpArrow))
+            --currentAction;
+
+        currentAction = Mathf.Clamp(currentAction, 0, 1);
+
+        dialogBox.UpdateCaptureSelection(currentAction);
+
+        if (Input.GetKeyDown(KeyCode.Return))
+        {
+            if (currentAction == 0)
+            {
+                
+            }
+            if (currentAction == 1)
+            {
+
+            }
+            
+        }
     }
 }

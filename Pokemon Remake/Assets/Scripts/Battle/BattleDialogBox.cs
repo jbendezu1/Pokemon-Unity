@@ -13,14 +13,16 @@ public class BattleDialogBox : MonoBehaviour
     [SerializeField] GameObject moveSelector;
     [SerializeField] GameObject moveDetails;
     [SerializeField] GameObject choiceBox;
-
+    [SerializeField] GameObject CaptureSelection;
     [SerializeField] List<Text> actionTexts;
+    
     [SerializeField] List<Text> moveTexts;
 
     [SerializeField] Text ppText;
     [SerializeField] Text typeText;
     [SerializeField] Text yesText;
     [SerializeField] Text noText;
+    [SerializeField] List<Text> captureTexts;
 
 
     public void SetDialog(string dialog)
@@ -114,6 +116,18 @@ public class BattleDialogBox : MonoBehaviour
         {
             yesText.color = Color.black;
             noText.color = highlightedColor;
+        }
+    }
+    public void UpdateCaptureSelection(int selectedAction)
+    {
+        for (int i = 0; i < captureTexts.Count; i++)
+        {
+            if (i == selectedAction)
+            {
+                captureTexts[i].color = highlightedColor;
+            }
+            else
+                captureTexts[i].color = Color.black;
         }
     }
 }
