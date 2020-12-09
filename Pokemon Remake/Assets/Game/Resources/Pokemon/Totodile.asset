@@ -14,7 +14,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   pokename: Totodile
   description: 
-  frontSprite: {fileID: 7186437119079860819, guid: c707900f43854314c8d9e6b7bca1d3a8,
+  frontSprite: {fileID: -8646990956621860212, guid: c707900f43854314c8d9e6b7bca1d3a8,
     type: 3}
   backSprite: {fileID: -8662759814967254630, guid: 9eef06126d7d50f4fad53f98a6a371f8,
     type: 3}
