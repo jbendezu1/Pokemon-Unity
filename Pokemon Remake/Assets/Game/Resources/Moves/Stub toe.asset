@@ -10,9 +10,9 @@ MonoBehaviour:
   m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: e479809b80cfbea48b3bd91b9b01ccfb, type: 3}
-  m_Name: Stub toe
+  m_Name: Stub Toe
   m_EditorClassIdentifier: 
-  movename: Toe stub
+  movename: Stub Toe
   description: 
   type: 0
   power: 150
