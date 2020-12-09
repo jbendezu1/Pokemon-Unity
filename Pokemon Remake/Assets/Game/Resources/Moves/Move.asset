@@ -12,7 +12,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: e479809b80cfbea48b3bd91b9b01ccfb, type: 3}
   m_Name: Move
   m_EditorClassIdentifier: 
-  movename: 
+  movename: FireBlast
   description: 
   type: 0
   power: 0
