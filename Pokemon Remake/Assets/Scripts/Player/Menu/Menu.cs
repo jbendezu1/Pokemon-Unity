@@ -9,9 +9,22 @@ using UnityEngine;
 public class Menu : MonoBehaviour
 {
     [SerializeField] List<string> buttons;
+    [SerializeField] PartyScreen partyScreen;
+    PokemonParty playerParty;
 
     public List<string> Buttons
     {
         get { return buttons; }
+    }
+
+    private void Start()
+    {
+        playerParty = GameObject.Find("Player").GetComponent<PokemonParty>();
+    }
+
+    void OpenPartyScreen()
+    {
+        partyScreen.SetPartyData(playerParty.Pokemons);
+        partyScreen.gameObject.SetActive(true);
     }
 }
