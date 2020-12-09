@@ -11,6 +11,7 @@ public class Pokemon
 
     BattleUnit unit;
     Player badges;
+    //BaseLevel level;
 
     public PokemonBase Base {
         get
