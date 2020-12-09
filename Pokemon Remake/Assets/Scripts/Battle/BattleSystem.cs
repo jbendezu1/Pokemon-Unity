@@ -255,10 +255,10 @@ public class BattleSystem : MonoBehaviour
 
             if (targetUnit.pokemon.HP <= 0)
             {
-                if(targetUnit == enemyUnit)
-                {
-                    yield return dialogBox.TypeDialog($"Would you like to capture the wild {targetUnit.pokemon.Base.Name}?");
-                }
+               // if(targetUnit == enemyUnit)
+                //{
+                  //  yield return dialogBox.TypeDialog($"Would you like to capture the wild {targetUnit.pokemon.Base.Name}?");
+                //}
                 yield return dialogBox.TypeDialog($"{targetUnit.pokemon.Base.Name} Fainted");
                 targetUnit.PlayFaintAnimation();
                 yield return new WaitForSeconds(2f);
