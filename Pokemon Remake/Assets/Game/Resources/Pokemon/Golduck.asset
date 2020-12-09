@@ -28,8 +28,8 @@ MonoBehaviour:
   speed: 85
   learnableMoves:
   - moveBase: {fileID: 11400000, guid: fbe7f6800d2ce5f4497ed586b514e23d, type: 2}
-    level: 0
+    level: 1
   - moveBase: {fileID: 11400000, guid: 555fe01266972684087e97f42867b5c7, type: 2}
-    level: 0
+    level: 1
   - moveBase: {fileID: 11400000, guid: 0d09ea8f4157b3a46a5e3f1625ffa8c6, type: 2}
-    level: 0
+    level: 1

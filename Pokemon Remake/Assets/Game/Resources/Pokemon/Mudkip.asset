@@ -11,9 +11,9 @@ MonoBehaviour:
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: 7bbda3a8e8c7c084d9cf1108b80f9bfa, type: 3}
   m_Name: Mudkip
-  m_EditorClassIdentifier:
+  m_EditorClassIdentifier: 
   pokename: Mudkip
-  description:
+  description: 
   frontSprite: {fileID: 2917967456762726543, guid: c707900f43854314c8d9e6b7bca1d3a8,
     type: 3}
   backSprite: {fileID: 5234127417908825073, guid: 9eef06126d7d50f4fad53f98a6a371f8,
@@ -27,11 +27,11 @@ MonoBehaviour:
   specialDefense: 50
   speed: 40
   learnableMoves:
-  - moveBase: {fileID: 11400000, guid: 0e53131e0cf9e564a8a04fe76ef45910, type: 2}
-    level: 0
-  - moveBase: {fileID: 0}
-    level: 0
-  - moveBase: {fileID: 0}
-    level: 0
-  - moveBase: {fileID: 0}
-    level: 0
+  - moveBase: {fileID: 11400000, guid: 1df0a6efe623c634da033d6c02cdf919, type: 2}
+    level: 1
+  - moveBase: {fileID: 11400000, guid: 555fe01266972684087e97f42867b5c7, type: 2}
+    level: 1
+  - moveBase: {fileID: 11400000, guid: 4dcc6697c87ee5b41826400ef197c87b, type: 2}
+    level: 1
+  - moveBase: {fileID: 11400000, guid: fbe7f6800d2ce5f4497ed586b514e23d, type: 2}
+    level: 1
