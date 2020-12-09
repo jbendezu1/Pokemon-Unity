@@ -17,7 +17,7 @@ MonoBehaviour:
   type: 2
   power: 50
   accuracy: 100
-  alwaysHits: 1
+  alwaysHits: 0
   pp: 0
   priority: 0
   category: 1
