@@ -26,4 +26,19 @@ public class PokemonParty : MonoBehaviour
     {
         return pokemons.Where(x => x.HP > 0).FirstOrDefault();
     }
+
+    public void Update()
+    {
+        if (this.gameObject.CompareTag("Player"))
+        {
+            foreach (Pokemon x in pokemons)
+            {
+                if (x.HP <= 0)
+                {
+                    pokemons.Remove(x);
+                }
+            }
+        }
+        
+    }
 }

@@ -12,7 +12,7 @@ GameObject:
   - component: {fileID: 4428611351867626349}
   - component: {fileID: 5925812295941222276}
   - component: {fileID: 3150222880177238929}
-  - component: {fileID: -941413431711393701}
+  - component: {fileID: 3793874785270918302}
   m_Layer: 0
   m_Name: UnstableFloor
   m_TagString: Untagged
@@ -123,21 +123,27 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 5120c4aaadba18042b4df62561a9d6d6, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  tile: {fileID: 0}
-  speed: 0
-  amount: 0
---- !u!114 &-941413431711393701
-MonoBehaviour:
+  PlayerLayer:
+    serializedVersion: 2
+    m_Bits: 4096
+--- !u!50 &3793874785270918302
+Rigidbody2D:
+  serializedVersion: 4
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 7099713540135582671}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 5120c4aaadba18042b4df62561a9d6d6, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  tile: {fileID: 0}
-  speed: 1
-  amount: 1
+  m_BodyType: 0
+  m_Simulated: 1
+  m_UseFullKinematicContacts: 0
+  m_UseAutoMass: 0
+  m_Mass: 0.0001
+  m_LinearDrag: 0
+  m_AngularDrag: 0
+  m_GravityScale: 0
+  m_Material: {fileID: 0}
+  m_Interpolate: 0
+  m_SleepingMode: 1
+  m_CollisionDetection: 0
+  m_Constraints: 7
