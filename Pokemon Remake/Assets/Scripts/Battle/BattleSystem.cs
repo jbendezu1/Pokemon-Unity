@@ -511,7 +511,7 @@ public class BattleSystem : MonoBehaviour
         if (isTrainerBattle)
         {
             yield return dialogBox.TypeDialog("You can't run from a trainer battle!");
-            state = BattleState.ActionSelection;
+            //state = BattleState.ActionSelection;
         }
         else if (playerUnit.pokemon.Base.Speed > enemyUnit.pokemon.Base.Speed)
         {
