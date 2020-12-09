@@ -1,0 +1,35 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 7bbda3a8e8c7c084d9cf1108b80f9bfa, type: 3}
+  m_Name: Butter Dog
+  m_EditorClassIdentifier: 
+  pokename: Butter Dog
+  description: 
+  frontSprite: {fileID: 21300000, guid: ae443cc6e5793414ea62e82f42f7c39b, type: 3}
+  backSprite: {fileID: 21300000, guid: ae443cc6e5793414ea62e82f42f7c39b, type: 3}
+  type1: 5
+  type2: 1
+  maxHP: 100
+  attack: 80
+  defense: 100
+  specialAttack: 70
+  specialDefense: 80
+  speed: 130
+  learnableMoves:
+  - moveBase: {fileID: 11400000, guid: 5d286125f9b4ee248867836fda8a8789, type: 2}
+    level: 1
+  - moveBase: {fileID: 11400000, guid: 5477ea62cc4a1674a859c38cadbc4ba2, type: 2}
+    level: 1
+  - moveBase: {fileID: 11400000, guid: 314e86a789bc1c24ba1d2b164cf57ad1, type: 2}
+    level: 1
+  - moveBase: {fileID: 11400000, guid: 9102fd9d187b5764bb37ebdf01c19a38, type: 2}
+    level: 1

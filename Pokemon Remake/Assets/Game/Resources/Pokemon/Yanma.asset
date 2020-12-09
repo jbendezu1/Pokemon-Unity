@@ -1,0 +1,37 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 7bbda3a8e8c7c084d9cf1108b80f9bfa, type: 3}
+  m_Name: Yanma
+  m_EditorClassIdentifier: 
+  pokename: Yanma
+  description: 
+  frontSprite: {fileID: 5645049474764585948, guid: c707900f43854314c8d9e6b7bca1d3a8,
+    type: 3}
+  backSprite: {fileID: -5943241138904320581, guid: 9eef06126d7d50f4fad53f98a6a371f8,
+    type: 3}
+  type1: 12
+  type2: 7
+  maxHP: 65
+  attack: 65
+  defense: 45
+  specialAttack: 75
+  specialDefense: 45
+  speed: 95
+  learnableMoves:
+  - moveBase: {fileID: 11400000, guid: d8204a82db72d7f46845809e92f7a0ce, type: 2}
+    level: 0
+  - moveBase: {fileID: 11400000, guid: 7d58fee37838fbe4991e793e5de4d52a, type: 2}
+    level: 0
+  - moveBase: {fileID: 11400000, guid: 00858d2b07afb5c4ab07afa86a1bc2fe, type: 2}
+    level: 0
+  - moveBase: {fileID: 11400000, guid: b67a920bd5a06074792e4dc4f80e429e, type: 2}
+    level: 0

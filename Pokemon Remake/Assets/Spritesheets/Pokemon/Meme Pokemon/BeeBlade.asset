@@ -1,0 +1,35 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 7bbda3a8e8c7c084d9cf1108b80f9bfa, type: 3}
+  m_Name: BeeBlade
+  m_EditorClassIdentifier: 
+  pokename: BeeBlade
+  description: 
+  frontSprite: {fileID: 21300000, guid: 1d787ce06dee563499cc36d17b5c48c9, type: 3}
+  backSprite: {fileID: 21300000, guid: 1d787ce06dee563499cc36d17b5c48c9, type: 3}
+  type1: 12
+  type2: 10
+  maxHP: 80
+  attack: 120
+  defense: 60
+  specialAttack: 70
+  specialDefense: 30
+  speed: 110
+  learnableMoves:
+  - moveBase: {fileID: 11400000, guid: 153b50e76ba81184bac86e8bcfa464b9, type: 2}
+    level: 1
+  - moveBase: {fileID: 11400000, guid: 836a496fbe7e1b54fbe0188a04858c3f, type: 2}
+    level: 1
+  - moveBase: {fileID: 11400000, guid: f972d74947e692842ba3b83885c0d259, type: 2}
+    level: 1
+  - moveBase: {fileID: 11400000, guid: de4656314a1e53c4a812edb3bf301581, type: 2}
+    level: 1
