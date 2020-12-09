@@ -41,6 +41,9 @@ public class InstantiateFloor : MonoBehaviour
                 if (x <= 18 && x >= 17 && y <= 10 && y >= 8)
                     continue;
 
+                if (x <= 13 && x >= 11 && y == 6)
+                    continue;
+
                 Instantiate(floorPrefab, new Vector3(xoffest + x, yoffset + y,0), Quaternion.identity);
             }
         }
