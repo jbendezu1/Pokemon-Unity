@@ -33,11 +33,11 @@ public class Player : MonoBehaviour
     public LayerMask Foreground;
     public LayerMask Grass;
     public LayerMask interactableLayer;
+    public LayerMask Pitfall;
 
     public static int badges = 0;
 
     private bool isMoving;
-    private bool onMilotic;
     private Vector3 input;
 
     private Animator animator;
@@ -77,6 +77,11 @@ public class Player : MonoBehaviour
         else if (!fadeImage.IsActive())
             canMove = true;
 
+        if (Physics2D.OverlapCircle(this.transform.position, 0.1f, Pitfall))
+        {
+            InstantiateFloor.returnPlayer = true;
+        }
+
         if (!isMoving)
         {
             input.x = Input.GetAxisRaw("Horizontal");
@@ -94,6 +99,9 @@ public class Player : MonoBehaviour
                 var targetPosition = transform.position;
                 targetPosition.x += input.x;
                 targetPosition.y += input.y;
+
+
+
                 if (isWalkable(targetPosition))
                 {
                     StartCoroutine(MovePlayer(targetPosition));
@@ -110,6 +118,8 @@ public class Player : MonoBehaviour
 
         if (fadeAnimator.GetCurrentAnimatorStateInfo(0).IsName("Fade Out"))
             fadeAnimator.SetTrigger("FadeIn");
+
+
     }
 
     void Interact()

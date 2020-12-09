@@ -11,7 +11,6 @@ public class TriggerRace : MonoBehaviour
     public void Awake()
     {
         player = GameObject.Find("Player");
-
     }
 
     public void Update()
