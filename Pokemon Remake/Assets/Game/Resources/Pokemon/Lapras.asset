@@ -20,14 +20,14 @@ MonoBehaviour:
     type: 3}
   type1: 3
   type2: 6
-  maxHP: 0
-  attack: 0
-  defense: 0
-  specialAttack: 0
-  specialDefense: 0
-  speed: 0
+  maxHP: 130
+  attack: 85
+  defense: 80
+  specialAttack: 85
+  specialDefense: 95
+  speed: 60
   learnableMoves:
-  - moveBase: {fileID: 11400000, guid: 664e0a2ca08c8d646b7dabebb3d03434, type: 2}
+  - moveBase: {fileID: 11400000, guid: b8bd238cf5d79204ab742cea1fa57751, type: 2}
     level: 1
-  - moveBase: {fileID: 11400000, guid: 7080cedb71df7c5419e2c3bc73316c67, type: 2}
+  - moveBase: {fileID: 11400000, guid: 4d7fe466d4b37f744b73fec50d9a5cd8, type: 2}
     level: 1
