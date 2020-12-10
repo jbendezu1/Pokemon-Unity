@@ -1186,7 +1186,7 @@ MonoBehaviour:
   dialogText: {fileID: 1427281243}
   inputField: {fileID: 766413790}
   inputFieldText: {fileID: 477224889}
-  lettersPerSecond: 100
+  lettersPerSecond: 45
 --- !u!1 &1698323400
 GameObject:
   m_ObjectHideFlags: 0
